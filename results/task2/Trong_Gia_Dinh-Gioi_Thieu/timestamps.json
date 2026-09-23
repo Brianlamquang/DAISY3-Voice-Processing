@@ -1,0 +1,550 @@
+{
+  "metadata": {
+    "dtb:uid": "978-604-69-8175-6",
+    "dtb:generator": "DAISY 3 DTBook Python Pipeline (K35)",
+    "dc:Title": "Trong Gia Đình",
+    "dc:Creator": "Hector Malot",
+    "dc:Translator": "Huỳnh Lý & Mai Hương, Huỳnh Phan Thanh Yên",
+    "dc:Publisher": "NXB Văn Học",
+    "dc:Date": "2017",
+    "dc:Identifier": "978-604-69-8175-6",
+    "dc:Language": "vi-VN",
+    "dc:Subject": "Văn học & Tiểu thuyết",
+    "dc:Format": "ANSI/NISO Z39.86-2005",
+    "dc:Description": "Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình.",
+    "note": "Bản dịch của GS. Huỳnh Lý & Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"
+  },
+  "chapter_idx": 0,
+  "chapter_title": "Giới Thiệu",
+  "total_paragraphs": 16,
+  "total_sentences": 38,
+  "audio_file": "Gioi_Thieu.mp3",
+  "audio_duration": 209.14,
+  "tts": {
+    "engine": "vieneu",
+    "voice": "Minh Đức",
+    "resolved_voice": "Minh Đức",
+    "backend": "onnx",
+    "max_sentences_per_context_chunk": 12,
+    "max_chars_per_context_chunk": 900,
+    "context_chunk_join_pause_ms": 155,
+    "paragraph_pause_ms": 170,
+    "section_pause_ms": 250,
+    "internal_punctuation": "native",
+    "bitrate": "128k"
+  },
+  "chunks": [
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p1_chunk_01",
+      "p_id": "c0_p1",
+      "start": 0.0,
+      "speech_end": 18.68,
+      "end": 18.85,
+      "pause_after_ms": 170,
+      "source_text": "Hector Malot (Hécto Malo) sinh năm 1830 ở miền Bắc nước Pháp. Ông là nhà văn chuyên viết tiểu thuyết được bạn đọc Pháp yêu mến. Những tiểu thuyết của ông như KHÔNG GIA ĐÌNH, TRONG GIA ĐÌNH, PÔNG PERINÔNG, RÔ MANH CAM BƠ RI… v.v… đều lành mạnh và hấp dẫn.",
+      "tts_text": "Hector Malot (Hécto Malo) sinh năm 1830 ở miền Bắc nước Pháp. Ông là nhà văn chuyên viết tiểu thuyết được bạn đọc Pháp yêu mến. Những tiểu thuyết của ông như Không gia đình, Trong gia đình, Pông perinông, Rô manh cam bơ ri… vân vân… đều lành mạnh và hấp dẫn.",
+      "sentences": [
+        {
+          "sent_id": "id_4",
+          "smil_sid": "sid_4",
+          "p_id": "c0_p1",
+          "seq_id": "seq_1",
+          "source_text": "Hector Malot (Hécto Malo) sinh năm 1830 ở miền Bắc nước Pháp.",
+          "tts_text": "Hector Malot (Hécto Malo) sinh năm 1830 ở miền Bắc nước Pháp."
+        },
+        {
+          "sent_id": "id_5",
+          "smil_sid": "sid_5",
+          "p_id": "c0_p1",
+          "seq_id": "seq_1",
+          "source_text": "Ông là nhà văn chuyên viết tiểu thuyết được bạn đọc Pháp yêu mến.",
+          "tts_text": "Ông là nhà văn chuyên viết tiểu thuyết được bạn đọc Pháp yêu mến."
+        },
+        {
+          "sent_id": "id_6",
+          "smil_sid": "sid_6",
+          "p_id": "c0_p1",
+          "seq_id": "seq_1",
+          "source_text": "Những tiểu thuyết của ông như KHÔNG GIA ĐÌNH, TRONG GIA ĐÌNH, PÔNG PERINÔNG, RÔ MANH CAM BƠ RI… v.v… đều lành mạnh và hấp dẫn.",
+          "tts_text": "Những tiểu thuyết của ông như Không gia đình, Trong gia đình, Pông perinông, Rô manh cam bơ ri… vân vân… đều lành mạnh và hấp dẫn."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p2_chunk_01",
+      "p_id": "c0_p2",
+      "start": 18.85,
+      "speech_end": 21.01,
+      "end": 21.18,
+      "pause_after_ms": 170,
+      "source_text": "Ông mất năm 1907.",
+      "tts_text": "Ông mất năm 1907.",
+      "sentences": [
+        {
+          "sent_id": "id_7",
+          "smil_sid": "sid_7",
+          "p_id": "c0_p2",
+          "seq_id": "seq_2",
+          "source_text": "Ông mất năm 1907.",
+          "tts_text": "Ông mất năm 1907."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p3_chunk_01",
+      "p_id": "c0_p3",
+      "start": 21.18,
+      "speech_end": 34.78,
+      "end": 34.95,
+      "pause_after_ms": 170,
+      "source_text": "Trong các tác phẩm của Hector Malot: KHÔNG GIA ĐÌNH và TRONG GIA ĐÌNH là hai tác phẩm xuất sắc đã được giải thưởng của Viện Hàn lâm văn học Pháp. Nó vượt qua biên giới Pháp và được đón nhận nồng nhiệt ở khắp mọi nơi.",
+      "tts_text": "Trong các tác phẩm của Hector Malot: Không gia đình và Trong gia đình là hai tác phẩm xuất sắc đã được giải thưởng của Viện Hàn lâm văn học Pháp. Nó vượt qua biên giới Pháp và được đón nhận nồng nhiệt ở khắp mọi nơi.",
+      "sentences": [
+        {
+          "sent_id": "id_8",
+          "smil_sid": "sid_8",
+          "p_id": "c0_p3",
+          "seq_id": "seq_3",
+          "source_text": "Trong các tác phẩm của Hector Malot: KHÔNG GIA ĐÌNH và TRONG GIA ĐÌNH là hai tác phẩm xuất sắc đã được giải thưởng của Viện Hàn lâm văn học Pháp.",
+          "tts_text": "Trong các tác phẩm của Hector Malot: Không gia đình và Trong gia đình là hai tác phẩm xuất sắc đã được giải thưởng của Viện Hàn lâm văn học Pháp."
+        },
+        {
+          "sent_id": "id_9",
+          "smil_sid": "sid_9",
+          "p_id": "c0_p3",
+          "seq_id": "seq_3",
+          "source_text": "Nó vượt qua biên giới Pháp và được đón nhận nồng nhiệt ở khắp mọi nơi.",
+          "tts_text": "Nó vượt qua biên giới Pháp và được đón nhận nồng nhiệt ở khắp mọi nơi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p4_chunk_01",
+      "p_id": "c0_p4",
+      "start": 34.95,
+      "speech_end": 50.15,
+      "end": 50.32,
+      "pause_after_ms": 170,
+      "source_text": "Chúng tôi đã tái bản KHÔNG GIA ĐÌNH đầu xuân 1997. Được sự cổ vũ của đông đảo bạn đọc, chúng tôi khẩn trương để TRONG GIA ĐÌNH đến được các bạn trong dịp hè nhằm đáp ứng kịp thời và không phụ lòng mong đợi của các bạn.",
+      "tts_text": "Chúng tôi đã tái bản Không gia đình đầu xuân 1997. Được sự cổ vũ của đông đảo bạn đọc, chúng tôi khẩn trương để Trong gia đình đến được các bạn trong dịp hè nhằm đáp ứng kịp thời và không phụ lòng mong đợi của các bạn.",
+      "sentences": [
+        {
+          "sent_id": "id_10",
+          "smil_sid": "sid_10",
+          "p_id": "c0_p4",
+          "seq_id": "seq_4",
+          "source_text": "Chúng tôi đã tái bản KHÔNG GIA ĐÌNH đầu xuân 1997.",
+          "tts_text": "Chúng tôi đã tái bản Không gia đình đầu xuân 1997."
+        },
+        {
+          "sent_id": "id_11",
+          "smil_sid": "sid_11",
+          "p_id": "c0_p4",
+          "seq_id": "seq_4",
+          "source_text": "Được sự cổ vũ của đông đảo bạn đọc, chúng tôi khẩn trương để TRONG GIA ĐÌNH đến được các bạn trong dịp hè nhằm đáp ứng kịp thời và không phụ lòng mong đợi của các bạn.",
+          "tts_text": "Được sự cổ vũ của đông đảo bạn đọc, chúng tôi khẩn trương để Trong gia đình đến được các bạn trong dịp hè nhằm đáp ứng kịp thời và không phụ lòng mong đợi của các bạn."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p5_chunk_01",
+      "p_id": "c0_p5",
+      "start": 50.32,
+      "speech_end": 67.84,
+      "end": 68.01,
+      "pause_after_ms": 170,
+      "source_text": "Hector Malot viết TRONG GIA ĐÌNH gồm hai tập với bốn mươi chương. Để các bạn tiện theo dõi, người dịch đã xếp vào sáu phần với các tựa đề hợp với cốt truyện như: Theo dõi và bao vây, Rôbinxơn tí hon, Chờ mong…, Tuyệt vọng…, Chiếc đũa của nàng tiên….",
+      "tts_text": "Hector Malot viết Trong gia đình gồm hai tập với bốn mươi chương. Để các bạn tiện theo dõi, người dịch đã xếp vào sáu phần với các tựa đề hợp với cốt truyện như: Theo dõi và bao vây, Rôbinxơn tí hon, Chờ mong…, Tuyệt vọng…, Chiếc đũa của nàng tiên….",
+      "sentences": [
+        {
+          "sent_id": "id_12",
+          "smil_sid": "sid_12",
+          "p_id": "c0_p5",
+          "seq_id": "seq_5",
+          "source_text": "Hector Malot viết TRONG GIA ĐÌNH gồm hai tập với bốn mươi chương.",
+          "tts_text": "Hector Malot viết Trong gia đình gồm hai tập với bốn mươi chương."
+        },
+        {
+          "sent_id": "id_13",
+          "smil_sid": "sid_13",
+          "p_id": "c0_p5",
+          "seq_id": "seq_5",
+          "source_text": "Để các bạn tiện theo dõi, người dịch đã xếp vào sáu phần với các tựa đề hợp với cốt truyện như: Theo dõi và bao vây, Rôbinxơn tí hon, Chờ mong…, Tuyệt vọng…, Chiếc đũa của nàng tiên….",
+          "tts_text": "Để các bạn tiện theo dõi, người dịch đã xếp vào sáu phần với các tựa đề hợp với cốt truyện như: Theo dõi và bao vây, Rôbinxơn tí hon, Chờ mong…, Tuyệt vọng…, Chiếc đũa của nàng tiên…."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p6_chunk_01",
+      "p_id": "c0_p6",
+      "start": 68.01,
+      "speech_end": 80.65,
+      "end": 80.82,
+      "pause_after_ms": 170,
+      "source_text": "TRONG GIA ĐÌNH kể về cuộc đời của cô bé Perin, mới 12 tuổi đã mồ côi cha mẹ. Trơ trọi một mình giữa những người xa lạ với bao khó khăn, nguy hiểm phía trước, Perin sẽ đối phó ra sao?",
+      "tts_text": "Trong gia đình kể về cuộc đời của cô bé Perin, mới 12 tuổi đã mồ côi cha mẹ. Trơ trọi một mình giữa những người xa lạ với bao khó khăn, nguy hiểm phía trước, Perin sẽ đối phó ra sao?",
+      "sentences": [
+        {
+          "sent_id": "id_14",
+          "smil_sid": "sid_14",
+          "p_id": "c0_p6",
+          "seq_id": "seq_6",
+          "source_text": "TRONG GIA ĐÌNH kể về cuộc đời của cô bé Perin, mới 12 tuổi đã mồ côi cha mẹ.",
+          "tts_text": "Trong gia đình kể về cuộc đời của cô bé Perin, mới 12 tuổi đã mồ côi cha mẹ."
+        },
+        {
+          "sent_id": "id_15",
+          "smil_sid": "sid_15",
+          "p_id": "c0_p6",
+          "seq_id": "seq_6",
+          "source_text": "Trơ trọi một mình giữa những người xa lạ với bao khó khăn, nguy hiểm phía trước, Perin sẽ đối phó ra sao?",
+          "tts_text": "Trơ trọi một mình giữa những người xa lạ với bao khó khăn, nguy hiểm phía trước, Perin sẽ đối phó ra sao?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p7_chunk_01",
+      "p_id": "c0_p7",
+      "start": 80.82,
+      "speech_end": 94.1,
+      "end": 94.27,
+      "pause_after_ms": 170,
+      "source_text": "Perin đã từng ở một mình giữa rừng sâu trong đêm tối với bao nỗi kinh hoàng, khiếp hãi. Có khi mệt mỏi, đói khát đã làm em kiệt sức, mê man bất tỉnh. Một sự tình cờ kì diệu đã kéo em về với cuộc sống.",
+      "tts_text": "Perin đã từng ở một mình giữa rừng sâu trong đêm tối với bao nỗi kinh hoàng, khiếp hãi. Có khi mệt mỏi, đói khát đã làm em kiệt sức, mê man bất tỉnh. Một sự tình cờ kì diệu đã kéo em về với cuộc sống.",
+      "sentences": [
+        {
+          "sent_id": "id_16",
+          "smil_sid": "sid_16",
+          "p_id": "c0_p7",
+          "seq_id": "seq_7",
+          "source_text": "Perin đã từng ở một mình giữa rừng sâu trong đêm tối với bao nỗi kinh hoàng, khiếp hãi.",
+          "tts_text": "Perin đã từng ở một mình giữa rừng sâu trong đêm tối với bao nỗi kinh hoàng, khiếp hãi."
+        },
+        {
+          "sent_id": "id_17",
+          "smil_sid": "sid_17",
+          "p_id": "c0_p7",
+          "seq_id": "seq_7",
+          "source_text": "Có khi mệt mỏi, đói khát đã làm em kiệt sức, mê man bất tỉnh.",
+          "tts_text": "Có khi mệt mỏi, đói khát đã làm em kiệt sức, mê man bất tỉnh."
+        },
+        {
+          "sent_id": "id_18",
+          "smil_sid": "sid_18",
+          "p_id": "c0_p7",
+          "seq_id": "seq_7",
+          "source_text": "Một sự tình cờ kì diệu đã kéo em về với cuộc sống.",
+          "tts_text": "Một sự tình cờ kì diệu đã kéo em về với cuộc sống."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p8_chunk_01",
+      "p_id": "c0_p8",
+      "start": 94.27,
+      "speech_end": 114.08,
+      "end": 114.25,
+      "pause_after_ms": 170,
+      "source_text": "Perin là cô gái can đảm có ý thức tự lập, lòng tự trọng và niềm say mê sáng tạo. Không chịu đầu hàng số phận, bằng mọi cách cố gắng vươn lên. Dầu cực nhọc, đói khổ em vẫn luôn vui vẻ lạc quan với suy nghĩ: Người ta sẽ thành công khi có nghị lực, lòng quyết tâm và sáng tạo.",
+      "tts_text": "Perin là cô gái can đảm có ý thức tự lập, lòng tự trọng và niềm say mê sáng tạo. Không chịu đầu hàng số phận, bằng mọi cách cố gắng vươn lên. Dầu cực nhọc, đói khổ em vẫn luôn vui vẻ lạc quan với suy nghĩ: Người ta sẽ thành công khi có nghị lực, lòng quyết tâm và sáng tạo.",
+      "sentences": [
+        {
+          "sent_id": "id_19",
+          "smil_sid": "sid_19",
+          "p_id": "c0_p8",
+          "seq_id": "seq_8",
+          "source_text": "Perin là cô gái can đảm có ý thức tự lập, lòng tự trọng và niềm say mê sáng tạo.",
+          "tts_text": "Perin là cô gái can đảm có ý thức tự lập, lòng tự trọng và niềm say mê sáng tạo."
+        },
+        {
+          "sent_id": "id_20",
+          "smil_sid": "sid_20",
+          "p_id": "c0_p8",
+          "seq_id": "seq_8",
+          "source_text": "Không chịu đầu hàng số phận, bằng mọi cách cố gắng vươn lên.",
+          "tts_text": "Không chịu đầu hàng số phận, bằng mọi cách cố gắng vươn lên."
+        },
+        {
+          "sent_id": "id_21",
+          "smil_sid": "sid_21",
+          "p_id": "c0_p8",
+          "seq_id": "seq_8",
+          "source_text": "Dầu cực nhọc, đói khổ em vẫn luôn vui vẻ lạc quan với suy nghĩ: Người ta sẽ thành công khi có nghị lực, lòng quyết tâm và sáng tạo.",
+          "tts_text": "Dầu cực nhọc, đói khổ em vẫn luôn vui vẻ lạc quan với suy nghĩ: Người ta sẽ thành công khi có nghị lực, lòng quyết tâm và sáng tạo."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p9_chunk_01",
+      "p_id": "c0_p9",
+      "start": 114.25,
+      "speech_end": 126.89,
+      "end": 127.06,
+      "pause_after_ms": 170,
+      "source_text": "Nhờ chăm chỉ, tận tụy ham học hỏi. Perin giành được sự tin cậy của ông Vunphran và nhiều người. Em đau xót khi biết mối bất đồng giữa ông nội và cha em – người con trai duy nhất của ông.",
+      "tts_text": "Nhờ chăm chỉ, tận tụy ham học hỏi. Perin giành được sự tin cậy của ông Vunphran và nhiều người. Em đau xót khi biết mối bất đồng giữa ông nội và cha em – người con trai duy nhất của ông.",
+      "sentences": [
+        {
+          "sent_id": "id_22",
+          "smil_sid": "sid_22",
+          "p_id": "c0_p9",
+          "seq_id": "seq_9",
+          "source_text": "Nhờ chăm chỉ, tận tụy ham học hỏi.",
+          "tts_text": "Nhờ chăm chỉ, tận tụy ham học hỏi."
+        },
+        {
+          "sent_id": "id_23",
+          "smil_sid": "sid_23",
+          "p_id": "c0_p9",
+          "seq_id": "seq_9",
+          "source_text": "Perin giành được sự tin cậy của ông Vunphran và nhiều người.",
+          "tts_text": "Perin giành được sự tin cậy của ông Vunphran và nhiều người."
+        },
+        {
+          "sent_id": "id_24",
+          "smil_sid": "sid_24",
+          "p_id": "c0_p9",
+          "seq_id": "seq_9",
+          "source_text": "Em đau xót khi biết mối bất đồng giữa ông nội và cha em – người con trai duy nhất của ông.",
+          "tts_text": "Em đau xót khi biết mối bất đồng giữa ông nội và cha em – người con trai duy nhất của ông."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p10_chunk_01",
+      "p_id": "c0_p10",
+      "start": 127.06,
+      "speech_end": 140.98,
+      "end": 141.15,
+      "pause_after_ms": 170,
+      "source_text": "Ông Vunphran là nhà doanh nghiệp giàu có nhưng bất hạnh. Ông đã già và mù, con trai thì biệt tích. Những người bà con tìm mọi cách ngăn cản mối liên hệ giữa ông và con trai để dễ dàng chiếm đoạt tài sản của ông.",
+      "tts_text": "Ông Vunphran là nhà doanh nghiệp giàu có nhưng bất hạnh. Ông đã già và mù, con trai thì biệt tích. Những người bà con tìm mọi cách ngăn cản mối liên hệ giữa ông và con trai để dễ dàng chiếm đoạt tài sản của ông.",
+      "sentences": [
+        {
+          "sent_id": "id_25",
+          "smil_sid": "sid_25",
+          "p_id": "c0_p10",
+          "seq_id": "seq_10",
+          "source_text": "Ông Vunphran là nhà doanh nghiệp giàu có nhưng bất hạnh.",
+          "tts_text": "Ông Vunphran là nhà doanh nghiệp giàu có nhưng bất hạnh."
+        },
+        {
+          "sent_id": "id_26",
+          "smil_sid": "sid_26",
+          "p_id": "c0_p10",
+          "seq_id": "seq_10",
+          "source_text": "Ông đã già và mù, con trai thì biệt tích.",
+          "tts_text": "Ông đã già và mù, con trai thì biệt tích."
+        },
+        {
+          "sent_id": "id_27",
+          "smil_sid": "sid_27",
+          "p_id": "c0_p10",
+          "seq_id": "seq_10",
+          "source_text": "Những người bà con tìm mọi cách ngăn cản mối liên hệ giữa ông và con trai để dễ dàng chiếm đoạt tài sản của ông.",
+          "tts_text": "Những người bà con tìm mọi cách ngăn cản mối liên hệ giữa ông và con trai để dễ dàng chiếm đoạt tài sản của ông."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p11_chunk_01",
+      "p_id": "c0_p11",
+      "start": 141.15,
+      "speech_end": 151.31,
+      "end": 151.48,
+      "pause_after_ms": 170,
+      "source_text": "Liệu họ có thực hiện được ý đồ đó không? Và cô bé Perin ít tuổi, thiếu kinh nghiệm sẽ ra sao trước sự theo dõi, bao vây, đe dọa, dụ dỗ từ nhiều phía?",
+      "tts_text": "Liệu họ có thực hiện được ý đồ đó không? Và cô bé Perin ít tuổi, thiếu kinh nghiệm sẽ ra sao trước sự theo dõi, bao vây, đe dọa, dụ dỗ từ nhiều phía?",
+      "sentences": [
+        {
+          "sent_id": "id_28",
+          "smil_sid": "sid_28",
+          "p_id": "c0_p11",
+          "seq_id": "seq_11",
+          "source_text": "Liệu họ có thực hiện được ý đồ đó không?",
+          "tts_text": "Liệu họ có thực hiện được ý đồ đó không?"
+        },
+        {
+          "sent_id": "id_29",
+          "smil_sid": "sid_29",
+          "p_id": "c0_p11",
+          "seq_id": "seq_11",
+          "source_text": "Và cô bé Perin ít tuổi, thiếu kinh nghiệm sẽ ra sao trước sự theo dõi, bao vây, đe dọa, dụ dỗ từ nhiều phía?",
+          "tts_text": "Và cô bé Perin ít tuổi, thiếu kinh nghiệm sẽ ra sao trước sự theo dõi, bao vây, đe dọa, dụ dỗ từ nhiều phía?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p12_chunk_01",
+      "p_id": "c0_p12",
+      "start": 151.48,
+      "speech_end": 167.48,
+      "end": 167.65,
+      "pause_after_ms": 170,
+      "source_text": "Còn ông Vunphran khắc nghiệt từng tức tối lên án mẹ con Perin có còn khăng khăng… “Chẳng bao giờ coi nó là cháu… Bác căm ghét nó cũng như căm ghét con mẹ nó…”, có thể mở rộng vòng tay đón cô cháu nội Perin về TRONG GIA ĐÌNH chăng?",
+      "tts_text": "Còn ông Vunphran khắc nghiệt từng tức tối lên án mẹ con Perin có còn khăng khăng… Chẳng bao giờ coi nó là cháu… Bác căm ghét nó cũng như căm ghét con mẹ nó…, có thể mở rộng vòng tay đón cô cháu nội Perin về Trong gia đình chăng?",
+      "sentences": [
+        {
+          "sent_id": "id_30",
+          "smil_sid": "sid_30",
+          "p_id": "c0_p12",
+          "seq_id": "seq_12",
+          "source_text": "Còn ông Vunphran khắc nghiệt từng tức tối lên án mẹ con Perin có còn khăng khăng…",
+          "tts_text": "Còn ông Vunphran khắc nghiệt từng tức tối lên án mẹ con Perin có còn khăng khăng…"
+        },
+        {
+          "sent_id": "id_31",
+          "smil_sid": "sid_31",
+          "p_id": "c0_p12",
+          "seq_id": "seq_12",
+          "source_text": "“Chẳng bao giờ coi nó là cháu…",
+          "tts_text": "Chẳng bao giờ coi nó là cháu…"
+        },
+        {
+          "sent_id": "id_32",
+          "smil_sid": "sid_32",
+          "p_id": "c0_p12",
+          "seq_id": "seq_12",
+          "source_text": "Bác căm ghét nó cũng như căm ghét con mẹ nó…”, có thể mở rộng vòng tay đón cô cháu nội Perin về TRONG GIA ĐÌNH chăng?",
+          "tts_text": "Bác căm ghét nó cũng như căm ghét con mẹ nó…, có thể mở rộng vòng tay đón cô cháu nội Perin về Trong gia đình chăng?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p13_chunk_01",
+      "p_id": "c0_p13",
+      "start": 167.65,
+      "speech_end": 180.61,
+      "end": 180.78,
+      "pause_after_ms": 170,
+      "source_text": "Bằng lối hành văn trong sáng pha chút hóm hỉnh, bằng óc quan sát tinh tế, sự hiểu biết tâm lý tuổi nhỏ tường tận…, Hector Malot sẽ cuốn hút và làm say mê các bạn nhỏ khi đọc TRONG GIA ĐÌNH.",
+      "tts_text": "Bằng lối hành văn trong sáng pha chút hóm hỉnh, bằng óc quan sát tinh tế, sự hiểu biết tâm lý tuổi nhỏ tường tận…, Hector Malot sẽ cuốn hút và làm say mê các bạn nhỏ khi đọc Trong gia đình.",
+      "sentences": [
+        {
+          "sent_id": "id_33",
+          "smil_sid": "sid_33",
+          "p_id": "c0_p13",
+          "seq_id": "seq_13",
+          "source_text": "Bằng lối hành văn trong sáng pha chút hóm hỉnh, bằng óc quan sát tinh tế, sự hiểu biết tâm lý tuổi nhỏ tường tận…, Hector Malot sẽ cuốn hút và làm say mê các bạn nhỏ khi đọc TRONG GIA ĐÌNH.",
+          "tts_text": "Bằng lối hành văn trong sáng pha chút hóm hỉnh, bằng óc quan sát tinh tế, sự hiểu biết tâm lý tuổi nhỏ tường tận…, Hector Malot sẽ cuốn hút và làm say mê các bạn nhỏ khi đọc Trong gia đình."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p14_chunk_01",
+      "p_id": "c0_p14",
+      "start": 180.78,
+      "speech_end": 206.0,
+      "end": 206.17,
+      "pause_after_ms": 170,
+      "source_text": "Chúng tôi trân trọng giới thiệu TRONG GIA ĐÌNH với các bạn. Mong tập sách này vừa giả trí vừa bồi dưỡng phát huy với các bậc cha mẹ, các bạn nhỏ những tình cảm tốt đẹp của con người. Đó là ý chí, nghị lực để vượt mọi khó khăn. Đó là ý thức tự lập, tự tin không ỷ lại bất cứ điều gì. Đó là niềm say mê sáng tạo… Và hơn tất cả là lòng quan tâm sâu sắc và tình thương yêu con người.",
+      "tts_text": "Chúng tôi trân trọng giới thiệu Trong gia đình với các bạn. Mong tập sách này vừa giả trí vừa bồi dưỡng phát huy với các bậc cha mẹ, các bạn nhỏ những tình cảm tốt đẹp của con người. Đó là ý chí, nghị lực để vượt mọi khó khăn. Đó là ý thức tự lập, tự tin không ỷ lại bất cứ điều gì. Đó là niềm say mê sáng tạo… Và hơn tất cả là lòng quan tâm sâu sắc và tình thương yêu con người.",
+      "sentences": [
+        {
+          "sent_id": "id_34",
+          "smil_sid": "sid_34",
+          "p_id": "c0_p14",
+          "seq_id": "seq_14",
+          "source_text": "Chúng tôi trân trọng giới thiệu TRONG GIA ĐÌNH với các bạn.",
+          "tts_text": "Chúng tôi trân trọng giới thiệu Trong gia đình với các bạn."
+        },
+        {
+          "sent_id": "id_35",
+          "smil_sid": "sid_35",
+          "p_id": "c0_p14",
+          "seq_id": "seq_14",
+          "source_text": "Mong tập sách này vừa giả trí vừa bồi dưỡng phát huy với các bậc cha mẹ, các bạn nhỏ những tình cảm tốt đẹp của con người.",
+          "tts_text": "Mong tập sách này vừa giả trí vừa bồi dưỡng phát huy với các bậc cha mẹ, các bạn nhỏ những tình cảm tốt đẹp của con người."
+        },
+        {
+          "sent_id": "id_36",
+          "smil_sid": "sid_36",
+          "p_id": "c0_p14",
+          "seq_id": "seq_14",
+          "source_text": "Đó là ý chí, nghị lực để vượt mọi khó khăn.",
+          "tts_text": "Đó là ý chí, nghị lực để vượt mọi khó khăn."
+        },
+        {
+          "sent_id": "id_37",
+          "smil_sid": "sid_37",
+          "p_id": "c0_p14",
+          "seq_id": "seq_14",
+          "source_text": "Đó là ý thức tự lập, tự tin không ỷ lại bất cứ điều gì.",
+          "tts_text": "Đó là ý thức tự lập, tự tin không ỷ lại bất cứ điều gì."
+        },
+        {
+          "sent_id": "id_38",
+          "smil_sid": "sid_38",
+          "p_id": "c0_p14",
+          "seq_id": "seq_14",
+          "source_text": "Đó là niềm say mê sáng tạo…",
+          "tts_text": "Đó là niềm say mê sáng tạo…"
+        },
+        {
+          "sent_id": "id_39",
+          "smil_sid": "sid_39",
+          "p_id": "c0_p14",
+          "seq_id": "seq_14",
+          "source_text": "Và hơn tất cả là lòng quan tâm sâu sắc và tình thương yêu con người.",
+          "tts_text": "Và hơn tất cả là lòng quan tâm sâu sắc và tình thương yêu con người."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p15_chunk_01",
+      "p_id": "c0_p15",
+      "start": 206.17,
+      "speech_end": 207.77,
+      "end": 207.94,
+      "pause_after_ms": 170,
+      "source_text": "Kỷ niệm QUỐC TẾ PHỤ NỮ",
+      "tts_text": "Kỷ niệm Quốc tế phụ nữ",
+      "sentences": [
+        {
+          "sent_id": "id_40",
+          "smil_sid": "sid_40",
+          "p_id": "c0_p15",
+          "seq_id": "seq_15",
+          "source_text": "Kỷ niệm QUỐC TẾ PHỤ NỮ",
+          "tts_text": "Kỷ niệm Quốc tế phụ nữ"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c0_p16_chunk_01",
+      "p_id": "c0_p16",
+      "start": 207.94,
+      "speech_end": 209.14,
+      "end": 209.14,
+      "pause_after_ms": 0,
+      "source_text": "HUỲNH PHAN THANH YÊN",
+      "tts_text": "Huỳnh phan thanh yên",
+      "sentences": [
+        {
+          "sent_id": "id_41",
+          "smil_sid": "sid_41",
+          "p_id": "c0_p16",
+          "seq_id": "seq_16",
+          "source_text": "HUỲNH PHAN THANH YÊN",
+          "tts_text": "Huỳnh phan thanh yên"
+        }
+      ]
+    }
+  ]
+}

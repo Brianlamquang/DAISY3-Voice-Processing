@@ -13,16 +13,16 @@ Dự án gồm **4 nhiệm vụ chính liên kết tuần tự** theo đường 
 ```mermaid
 flowchart LR
     A["data/trong_gia_dinh.epub"] --> B["Task 1: Text & XML Lead\n(ĐÃ HOÀN THÀNH)"]
-    B -->|"dtbook.xml\nsegments.json"| C["Task 2: TTS & Audio Lead\n(TIẾP THEO)"]
+    B -->|"dtbook.xml\nsegments.json"| C["Task 2: TTS & Audio Lead\n(ĐANG THỰC HIỆN)"]
     B --> D["Task 3: Alignment & Pipeline Lead\n(TIẾP THEO)"]
-    C -->|"Hoi_XX.mp3\naudio clips"| D
+    C -->|"Chuong_XX.mp3\ntimestamps.json"| D
     D -->|"mo0.smil, book.opf,\nnavigation.ncx"| E["Task 4: QA, Packaging & Report\n(TIẾP THEO)"]
     E -->|"Trong_Gia_Dinh.zip\nSHA-256 sums"| F["Sách DAISY 3 hoàn chỉnh\n(Thorium / EasyReader)"]
 ```
 
 ### Bảng Trạng Thái Nhiệm Vụ:
 * **Task 1 (Text & XML):** `[COMPLETED]` - Đã trích xuất và chuẩn hóa 23 chương, tạo `dtbook.xml` chuẩn DTBook 2005-3 và `segments.json`.
-* **Task 2 (TTS & Giọng đọc):** `[PENDING / NEXT]` - Sinh giọng đọc MP3 từ `segments.json` bằng SSML và mô hình TTS tiếng Việt.
+* **Task 2 (TTS & Giọng đọc):** `[IN PROGRESS]` - Sinh audio theo chương bằng VieNeu (`Minh Đức`, ONNX), giữ context theo paragraph và tạo metadata thời gian phục vụ forced alignment ở Task 3. Chapter 00 đã validation thành công.
 * **Task 3 (Đồng bộ SMIL & Đóng gói DAISY):** `[PENDING / NEXT]` - Tạo `mo0.smil`, `book.opf`, `navigation.ncx`, `resources.res`.
 * **Task 4 (Kiểm thử & Báo cáo):** `[PENDING / NEXT]` - Kiểm thử hiển thị chữ chạy trên Thorium Reader, nén zip và tạo mã băm SHA-256.
 
@@ -40,17 +40,33 @@ Tất cả các Agent **bắt buộc tuân thủ** cấu trúc phân tách rõ r
 ├── data/                   # Chứa tài liệu nguồn nguyên bản (Read-only)
 │   └── trong_gia_dinh.epub
 ├── src/                    # Toàn bộ mã nguồn Python thực thi
-│   ├── config.py           # Khai báo biến toàn cục, metadata, đường dẫn chung
-│   ├── extract_clean.py    # (Task 1)
-│   ├── generate_dtbook.py  # (Task 1)
-│   ├── validate_dtbook.py  # (Task 1)
+│   ├── config.py           # Cấu hình, metadata và đường dẫn dùng chung
+│   ├── extract_clean.py    # (Task 1) Trích xuất EPUB, làm sạch và tách câu
+│   ├── generate_dtbook.py  # (Task 1) Sinh DTBook XML 2005-3
+│   ├── validate_dtbook.py  # (Task 1) Kiểm thử XML, ID và DTD
 │   ├── run_task1.py        # (Task 1) Runner
-│   ├── tts/                # (Dành cho Task 2) Module tổng hợp tiếng nói
-│   ├── alignment/          # (Dành cho Task 3) Module căn chỉnh thời gian & SMIL
-│   └── packaging/          # (Dành cho Task 4) Module đóng gói zip & sha256
-└── results/                # Kết quả đầu ra theo từng Task riêng biệt
-    ├── task1/              # Kết quả Task 1: 23 chương (dtbook.xml, segments.json)
-    ├── task2/              # Kết quả Task 2: Audio (.mp3) và timestamp chi tiết
+│   └── tts/                # (Task 2) Pipeline TTS & Audio
+│       ├── __init__.py
+│       ├── normalize.py    # Chuẩn hóa text riêng cho TTS
+│       ├── synthesize.py   # Context chunking và sinh audio bằng VieNeu
+│       ├── run_task2.py    # Runner Task 2
+│       ├── validate_task2.py # Kiểm tra audio, metadata và dữ liệu handoff
+│       ├── requirements.txt  # Dependencies của Task 2
+│       └── README.md       # Tài liệu implementation Task 2
+└── results/                # Kết quả đầu ra theo từng Task
+    ├── task1/              # Task 1: DTBook XML + segments.json
+    │   ├── Trong_Gia_Dinh-Gioi_Thieu/
+    │   │   ├── dtbook.xml
+    │   │   └── segments.json
+    │   ├── Trong_Gia_Dinh-Chuong_01/
+    │   │   ├── dtbook.xml
+    │   │   └── segments.json
+    │   └── ... (đến Chương 22)
+    ├── task2/              # Task 2: Audio MP3 + context-level metadata
+    │   ├── Trong_Gia_Dinh-Gioi_Thieu/
+    │   │   ├── Gioi_Thieu.mp3
+    │   │   └── timestamps.json
+    │   └── ... (các chương đã xử lý)
     ├── task3/              # Kết quả Task 3: Bộ file DAISY 3 (.smil, .opf, .ncx)
     └── task4/              # Kết quả Task 4: Gói nén nộp bài và checksums
 ```
@@ -66,6 +82,7 @@ Tất cả các Agent **bắt buộc tuân thủ** cấu trúc phân tách rõ r
 
 ### 3.1. Dành cho Agent thực hiện Task 2 (TTS & Audio Lead)
 * **Dữ liệu đầu vào:** Đọc trực tiếp từ `results/task1/Trong_Gia_Dinh-Chuong_XX/segments.json`.
+* **Task 1 là read-only:** Không chỉnh sửa `dtbook.xml`, `segments.json`, ID hoặc bất kỳ output nào trong `results/task1/`.
 * **Cấu trúc mỗi segment:**
   ```json
   {
@@ -77,15 +94,20 @@ Tất cả các Agent **bắt buộc tuân thủ** cấu trúc phân tách rõ r
   }
   ```
 * **Nhiệm vụ của Task 2:**
-  1. Sử dụng công cụ TTS tiếng Việt chất lượng cao (ưu tiên Edge-TTS: `vi-VN-HoaiMyNeural` hoặc `vi-VN-NamMinhNeural`).
-  2. Ứng dụng **SSML** để chỉnh sửa phát âm các từ phiên âm Pháp trong ngoặc đơn (ví dụ: `Hécto Malo`, `Bécxi`, `Pari`, `Palica`, `Marôcua`, `Vunphran`).
-  3. Xuất file âm thanh vào `results/task2/` hoặc phân đoạn câu khớp với `sent_id`.
+  * **TTS Engine:** VieNeu, voice `Minh Đức`, backend ONNX, MP3 `128 kbps`.
+  * **Xử lý context:** Gom các segment liên tiếp cùng `p_id`, không cross paragraph; mỗi context chunk tối đa **12 câu / 900 ký tự** và được synth trong một lần inference.
+  * **TTS-only preprocessing:** Tạo `tts_text` để chuẩn hóa phát âm nhưng không thay đổi `text` nguồn; dấu câu trong context do VieNeu xử lý tự nhiên.
+  * **Ngắt nghỉ cấu trúc:** Context chunk cùng paragraph `155 ms`, paragraph `170 ms`, scene break `250 ms`; scene break thay cho pause paragraph tại vị trí đó, không cộng dồn; xử lý khi ghép audio, **không sử dụng SSML**.
+  * **Đầu ra:** Mỗi chương sinh file MP3 và `timestamps.json` trong `results/task2/`.
+  * **Metadata:** `timestamps.json` lưu **context-level timing** và mapping về `sent_id`, `smil_sid`, `p_id`, `seq_id`, `source_text`, `tts_text`; timestamp chính xác từng câu được xác định ở Task 3 bằng forced alignment.
+  * **Validation:** Kiểm tra đủ câu, đúng thứ tự ID, không cross paragraph, timeline hợp lệ và MP3 đọc được trước khi bàn giao Task 3.
 
 ### 3.2. Dành cho Agent thực hiện Task 3 (Alignment & DAISY Pipeline)
 * **Dữ liệu đầu vào:** 
   * `results/task1/Trong_Gia_Dinh-Chuong_XX/dtbook.xml`
   * `results/task1/Trong_Gia_Dinh-Chuong_XX/segments.json`
-  * Các file âm thanh `.mp3` từ Task 2.
+  * File `.mp3` và `timestamps.json` từ Task 2.
+* **Forced alignment:** Sử dụng context timing và `tts_text` từ Task 2 để xác định `clipBegin` / `clipEnd` chính xác cho từng câu trước khi sinh SMIL.
 * **Quy chuẩn file sinh ra:**
   * `mo0.smil`: Khớp đúng `<par id="sid_X">` với `<text src="dtbook.xml#id_X"/>` và `<audio src="Chuong_XX.mp3" clipBegin="...s" clipEnd="...s"/>`.
   * `book.opf`: Đầy đủ khối `<dc-metadata>`, `<x-metadata>`, `<manifest>`, `<spine>`.
@@ -99,7 +121,7 @@ Mọi mã nguồn do AI Agent sinh ra phải tuân thủ nghiêm ngặt các ngu
 
 1. **Nguyên tắc Pilot-First (Thử nghiệm trước, Batch sau):**
    * Mọi kịch bản runner đều **bắt buộc** hỗ trợ cờ lệnh `--pilot` (chạy thử trên 1 đến 2 chương đầu: Chương 0 & Chương 1) trước khi chạy toàn bộ `--all`.
-   * Ví dụ: `python3 src/run_task2.py --pilot` và `python3 src/run_task2.py --all`.
+   * Ví dụ: `python src/tts/run_task2.py --pilot` và `python src/tts/run_task2.py --all`.
 2. **Luôn có script kiểm thử / validation tự động:**
    * Mỗi Task phải có module `validate_*.py` tương ứng để kiểm tra tính toàn vẹn (ví dụ: kiểm tra file âm thanh không rỗng, mốc SMIL `clipBegin < clipEnd`, mã băm SHA-256 khớp chuẩn).
 3. **Quản lý tài nguyên và lỗi:**
@@ -123,7 +145,7 @@ Bước 4: Cập nhật README.md chuyển trạng thái Task sang [COMPLETED], 
 
 ### Tiêu Chuẩn Commit Git:
 * Tuân thủ [Conventional Commits](https://www.conventionalcommits.org/):
-  * `feat(task2): add Edge-TTS engine with SSML pronunciation adjustments`
+  * `feat(task2): add VieNeu context-based TTS audio pipeline`
   * `feat(task3): generate SMIL alignment and NCX navigation for 23 chapters`
   * `docs: update task status and performance metrics in README.md`
   * `test(task4): verify Thorium Reader compatibility and packaging checksums`
@@ -142,6 +164,9 @@ python3 --version
 # Chạy kiểm thử Nhiệm vụ 1
 python3 src/run_task1.py --pilot
 
+# Chạy kiểm thử Nhiệm vụ 2
+python src/tts/run_task2.py --pilot
+python src/tts/validate_task2.py --pilot
+
 # Kiểm tra trạng thái Git
 git status
-```

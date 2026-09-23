@@ -1,0 +1,4 @@
+# Task 2 runtime dependencies
+vieneu
+pydub>=0.25,<0.26
+onnxruntime==1.23.2

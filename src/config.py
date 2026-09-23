@@ -10,6 +10,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 EPUB_PATH = os.path.join(DATA_DIR, "trong_gia_dinh.epub")
 OUTPUT_DIR = os.path.join(BASE_DIR, "results", "task1")
+TASK1_OUTPUT_DIR = OUTPUT_DIR
+TASK2_OUTPUT_DIR = os.path.join(BASE_DIR, "results", "task2")
 
 # Metadata compliant with DAISY 3 & Course Guidelines
 METADATA = {
@@ -34,3 +36,22 @@ METADATA = {
 
 # Total chapters in the epub: C0 (Intro) through C22
 TOTAL_CHAPTERS = 23
+
+# Task 2: TTS & Audio
+TTS_ENGINE = "vieneu"
+TTS_VOICE = "Minh Đức"
+TTS_BACKEND = "onnx"
+
+# Context chunking
+TTS_MAX_SENTENCES_PER_CONTEXT_CHUNK = 12
+TTS_MAX_CHARS_PER_CONTEXT_CHUNK = 900
+
+# Structural pauses
+# Punctuation inside a context is handled natively by VieNeu.
+TTS_CONTEXT_CHUNK_JOIN_PAUSE_MS = 155
+TTS_PARAGRAPH_PAUSE_MS = 170
+TTS_SECTION_PAUSE_MS = 250
+
+# Audio
+TTS_AUDIO_BITRATE = "128k"
+TTS_RETRIES = 4
