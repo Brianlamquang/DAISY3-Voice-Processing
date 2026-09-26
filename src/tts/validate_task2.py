@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Tuple
 
@@ -18,6 +19,7 @@ from src.config import (
     TOTAL_CHAPTERS,
     TTS_MAX_CHARS_PER_CONTEXT_CHUNK,
     TTS_MAX_SENTENCES_PER_CONTEXT_CHUNK,
+    TTS_PARAGRAPH_PAUSE_MS,
     TTS_SECTION_PAUSE_MS,
 )
 from src.tts.normalize import is_section_break, normalize_for_tts
@@ -37,6 +39,67 @@ REQUIRED_TOP_LEVEL = {
     "segments",
 }
 REQUIRED_SEGMENT_FIELDS = {"sent_id", "smil_sid", "p_id", "seq_id", "text"}
+
+
+DTBOOK_NAMESPACE = "http://www.daisy.org/z3986/2005/dtbook/"
+DTBOOK_NS = {"dt": DTBOOK_NAMESPACE}
+
+
+def load_dtbook_headings(dtbook_path: Path) -> List[Dict[str, Any]]:
+    """Read Task-1 id_1..id_3 heading metadata from DTBook in read-only mode."""
+    root = ET.parse(dtbook_path).getroot()
+    specs = (
+        ("book_title", "id_1", ".//dt:doctitle"),
+        ("author", "id_2", ".//dt:docauthor"),
+        ("chapter_title", "id_3", ".//dt:h1"),
+    )
+    headings: List[Dict[str, Any]] = []
+
+    for role, sent_id, container_xpath in specs:
+        container = root.find(container_xpath, DTBOOK_NS)
+        if container is None:
+            raise ValueError(f"DTBook missing container for {sent_id}: {container_xpath}")
+
+        sent = container.find(f"./dt:sent[@id='{sent_id}']", DTBOOK_NS)
+        if sent is None:
+            raise ValueError(f"DTBook missing required heading sentence {sent_id}")
+
+        source_text = " ".join("".join(sent.itertext()).split())
+        smilref = str(sent.get("smilref", ""))
+        smil_sid = smilref.rsplit("#", 1)[-1] if "#" in smilref else ""
+        if not source_text or not smil_sid:
+            raise ValueError(f"DTBook heading {sent_id} has invalid text/smilref")
+
+        headings.append(
+            {
+                "kind": "heading",
+                "role": role,
+                "sent_id": sent_id,
+                "smil_sid": smil_sid,
+                "container_id": str(container.get("id", "")),
+                "source_text": source_text,
+                "tts_text": normalize_for_tts(source_text).tts_text,
+            }
+        )
+
+    return headings
+
+
+def validate_task1_heading_consistency(
+    source: Dict[str, Any], expected_headings: List[Dict[str, Any]]
+) -> List[str]:
+    errors: List[str] = []
+    expected_text = (
+        " ".join(str(source.get("metadata", {}).get("dc:Title", "")).split()),
+        " ".join(str(source.get("metadata", {}).get("dc:Creator", "")).split()),
+        " ".join(str(source.get("chapter_title", "")).split()),
+    )
+    actual_text = tuple(str(item.get("source_text", "")) for item in expected_headings)
+    if actual_text != expected_text:
+        errors.append(
+            "Task-1 DTBook id_1..id_3 text differs from segments.json metadata/chapter_title"
+        )
+    return errors
 
 
 def chapter_folder_name(chapter_idx: int) -> str:
@@ -108,14 +171,24 @@ def _flatten_output_sentences(chunks: List[Dict[str, Any]]) -> List[Dict[str, An
 def validate_chapter(chapter_idx: int, task1_dir: Path, task2_dir: Path) -> Dict[str, Any]:
     folder = chapter_folder_name(chapter_idx)
     source_path = task1_dir / folder / "segments.json"
+    dtbook_path = task1_dir / folder / "dtbook.xml"
     timestamp_path = task2_dir / folder / "timestamps.json"
     errors: List[str] = []
 
     if not source_path.exists():
         return {"chapter_idx": chapter_idx, "valid": False, "errors": [f"Missing {source_path}"]}
+    if not dtbook_path.exists():
+        return {"chapter_idx": chapter_idx, "valid": False, "errors": [f"Missing {dtbook_path}"]}
 
     source = load_json(source_path)
     errors.extend(validate_task1_handoff(source))
+    try:
+        expected_headings = load_dtbook_headings(dtbook_path)
+    except Exception as exc:
+        expected_headings = []
+        errors.append(f"Invalid Task-1 DTBook headings: {exc}")
+    if expected_headings:
+        errors.extend(validate_task1_heading_consistency(source, expected_headings))
 
     if not timestamp_path.exists():
         errors.append(f"Missing {timestamp_path}")
@@ -134,6 +207,51 @@ def validate_chapter(chapter_idx: int, task1_dir: Path, task2_dir: Path) -> Dict
 
     if output.get("metadata") != source.get("metadata"):
         errors.append("metadata changed between Task 1 and Task 2")
+
+    headings = output.get("headings")
+    if not isinstance(headings, list) or len(headings) != 3:
+        errors.append("timestamps.json must contain exactly three headings for id_1, id_2, id_3")
+        headings = []
+
+    previous_end = 0.0
+    if headings and expected_headings:
+        heading_fields = ("kind", "role", "sent_id", "smil_sid", "container_id", "source_text")
+        for i, (expected_heading, output_heading) in enumerate(zip(expected_headings, headings)):
+            for field in heading_fields:
+                if output_heading.get(field) != expected_heading.get(field):
+                    errors.append(f"heading[{i}] {field} differs from Task-1 DTBook")
+
+            expected_tts = normalize_for_tts(expected_heading["source_text"]).tts_text
+            if str(output_heading.get("tts_text", "")) != expected_tts:
+                errors.append(f"heading[{i}] tts_text does not match normalization rules")
+
+            try:
+                start = float(output_heading["start"])
+                speech_end = float(output_heading["speech_end"])
+                end = float(output_heading["end"])
+                pause_after_ms = int(output_heading["pause_after_ms"])
+            except (KeyError, TypeError, ValueError) as exc:
+                errors.append(f"heading[{i}] invalid timestamp fields: {exc}")
+                continue
+
+            if start < -0.001:
+                errors.append(f"heading[{i}] start < 0")
+            if speech_end <= start:
+                errors.append(f"heading[{i}] speech_end <= start")
+            if end < speech_end:
+                errors.append(f"heading[{i}] end < speech_end")
+            if abs(start - previous_end) > 0.025:
+                errors.append(
+                    f"heading[{i}] timeline gap/overlap: start={start:.3f}, previous_end={previous_end:.3f}"
+                )
+            if pause_after_ms != TTS_PARAGRAPH_PAUSE_MS:
+                errors.append(
+                    f"heading[{i}] pause_after_ms must be {TTS_PARAGRAPH_PAUSE_MS} ms"
+                )
+            if abs((end - speech_end) - (pause_after_ms / 1000.0)) > 0.025:
+                errors.append(f"heading[{i}] end-speech_end does not match pause_after_ms")
+
+            previous_end = end
 
     chunks = output.get("chunks")
     if not isinstance(chunks, list) or not chunks:
@@ -159,7 +277,6 @@ def validate_chapter(chapter_idx: int, task1_dir: Path, task2_dir: Path) -> Dict
         if str(out.get("tts_text", "")) != expected.tts_text:
             errors.append(f"sentence[{i}] tts_text does not match normalization rules")
 
-    previous_end = 0.0
     seen_ids: List[str] = []
     for i, chunk in enumerate(chunks):
         kind = chunk.get("kind")
@@ -247,7 +364,7 @@ def validate_chapter(chapter_idx: int, task1_dir: Path, task2_dir: Path) -> Dict
                 errors.append(
                     f"audio_duration mismatch: JSON={declared_duration:.3f}s decoded={decoded_duration:.3f}s"
                 )
-            if chunks and abs(decoded_duration - previous_end) > 0.25:
+            if (chunks or headings) and abs(decoded_duration - previous_end) > 0.25:
                 errors.append(
                     f"final timestamp mismatch: end={previous_end:.3f}s decoded={decoded_duration:.3f}s"
                 )

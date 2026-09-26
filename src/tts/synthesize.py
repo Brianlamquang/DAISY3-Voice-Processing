@@ -5,6 +5,7 @@ from __future__ import annotations
 import os
 import shutil
 import tempfile
+import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Sequence
@@ -20,6 +21,74 @@ except ImportError:
     Vieneu = None
 
 from .normalize import clean_source_text, normalize_for_tts, prepare_tts_text
+
+
+DTBOOK_NAMESPACE = "http://www.daisy.org/z3986/2005/dtbook/"
+DTBOOK_NS = {"dt": DTBOOK_NAMESPACE}
+
+
+def load_dtbook_headings(dtbook_path: Path) -> List[Dict[str, Any]]:
+    """Read Task-1 title/author/chapter heading IDs from DTBook without modifying it."""
+    root = ET.parse(dtbook_path).getroot()
+    specs = (
+        ("book_title", "id_1", ".//dt:doctitle"),
+        ("author", "id_2", ".//dt:docauthor"),
+        ("chapter_title", "id_3", ".//dt:h1"),
+    )
+    headings: List[Dict[str, Any]] = []
+
+    for role, sent_id, container_xpath in specs:
+        container = root.find(container_xpath, DTBOOK_NS)
+        if container is None:
+            raise ValueError(f"DTBook missing container for {sent_id}: {container_xpath}")
+
+        sent = container.find(f"./dt:sent[@id='{sent_id}']", DTBOOK_NS)
+        if sent is None:
+            raise ValueError(f"DTBook missing required heading sentence {sent_id}")
+
+        source_text = clean_source_text("".join(sent.itertext()))
+        if not source_text:
+            raise ValueError(f"DTBook heading {sent_id} has empty text")
+
+        smilref = str(sent.get("smilref", ""))
+        smil_sid = smilref.rsplit("#", 1)[-1] if "#" in smilref else ""
+        if not smil_sid:
+            raise ValueError(f"DTBook heading {sent_id} has invalid smilref={smilref!r}")
+
+        normalized = normalize_for_tts(source_text)
+        if not normalized.tts_text:
+            raise ValueError(f"DTBook heading {sent_id} becomes empty after TTS normalization")
+
+        headings.append(
+            {
+                "kind": "heading",
+                "role": role,
+                "sent_id": sent_id,
+                "smil_sid": smil_sid,
+                "container_id": str(container.get("id", "")),
+                "source_text": source_text,
+                "tts_text": normalized.tts_text,
+            }
+        )
+
+    return headings
+
+
+def validate_heading_text_against_handoff(
+    headings: Sequence[Dict[str, Any]], handoff: Dict[str, Any]
+) -> None:
+    """Cross-check DTBook id_1..id_3 text against the Task-1 JSON metadata."""
+    expected = (
+        clean_source_text(str(handoff.get("metadata", {}).get("dc:Title", ""))),
+        clean_source_text(str(handoff.get("metadata", {}).get("dc:Creator", ""))),
+        clean_source_text(str(handoff.get("chapter_title", ""))),
+    )
+    actual = tuple(str(item.get("source_text", "")) for item in headings)
+    if actual != expected:
+        raise ValueError(
+            "Task-1 DTBook heading text does not match segments.json metadata/chapter_title: "
+            f"dtbook={actual!r}, json={expected!r}"
+        )
 
 
 @dataclass(frozen=True)
@@ -293,9 +362,13 @@ class VieNeuSynthesizer:
     def synthesize_chapter(
         self,
         handoff: Dict[str, Any],
+        dtbook_path: Path,
         chapter_output_dir: Path,
     ) -> Dict[str, Any]:
         chapter_output_dir.mkdir(parents=True, exist_ok=True)
+        headings = load_dtbook_headings(dtbook_path)
+        validate_heading_text_against_handoff(headings, handoff)
+
         segments: List[Dict[str, Any]] = handoff["segments"]
         units = build_timeline_units(segments, self.settings)
 
@@ -305,11 +378,39 @@ class VieNeuSynthesizer:
 
         timeline_ms = 0
         chapter_audio = AudioSegment.empty()
+        output_headings: List[Dict[str, Any]] = []
         output_chunks: List[Dict[str, Any]] = []
         p_chunk_counts: Dict[str, int] = {}
 
         with tempfile.TemporaryDirectory(prefix="task2_vieneu_") as temp_dir_name:
             temp_dir = Path(temp_dir_name)
+
+            # Task-1 DTBook frontmatter/chapter heading: id_1, id_2, id_3.
+            # Each heading is synthesized separately so its audio boundary is exact.
+            for heading in headings:
+                start_ms = timeline_ms
+                temp_wav = temp_dir / f"{heading['sent_id']}_heading.wav"
+                speech_audio = self._infer_chunk(str(heading["tts_text"]), temp_wav)
+                speech_end_ms = start_ms + len(speech_audio)
+
+                pause_ms = self.settings.paragraph_pause_ms
+                combined = speech_audio + _make_silence(
+                    speech_audio,
+                    pause_ms,
+                    self.settings.default_frame_rate,
+                )
+                chapter_audio += combined
+                timeline_ms += len(combined)
+
+                output_headings.append(
+                    {
+                        **heading,
+                        "start": round(start_ms / 1000.0, 3),
+                        "speech_end": round(speech_end_ms / 1000.0, 3),
+                        "end": round(timeline_ms / 1000.0, 3),
+                        "pause_after_ms": int(pause_ms),
+                    }
+                )
 
             for index, unit in enumerate(units):
                 start_ms = timeline_ms
@@ -385,6 +486,7 @@ class VieNeuSynthesizer:
             "total_sentences": handoff["total_sentences"],
             "audio_file": audio_name,
             "audio_duration": round(len(decoded_final) / 1000.0, 3),
+            "headings": output_headings,
             "tts": {
                 "engine": "vieneu",
                 "voice": self.settings.voice,

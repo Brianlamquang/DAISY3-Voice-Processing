@@ -1,4 +1,4 @@
-"""Task 2 runner: Task-1 segments.json -> VieNeu -> MP3 + timestamps.json."""
+"""Task 2 runner: Task-1 DTBook + segments.json -> VieNeu -> MP3 + timestamps.json."""
 
 from __future__ import annotations
 
@@ -83,27 +83,34 @@ def process_chapter(
 ) -> Dict[str, Any]:
     folder = chapter_folder_name(chapter_idx)
     source_path = Path(TASK1_OUTPUT_DIR) / folder / "segments.json"
+    dtbook_path = Path(TASK1_OUTPUT_DIR) / folder / "dtbook.xml"
     output_dir = Path(TASK2_OUTPUT_DIR) / folder
     timestamp_path = output_dir / "timestamps.json"
 
-    if not source_path.exists():
-        raise FileNotFoundError(f"Task-1 input not found: {source_path}")
+    for task1_path in (source_path, dtbook_path):
+        if not task1_path.exists():
+            raise FileNotFoundError(f"Task-1 input not found: {task1_path}")
 
-    before_hash = sha256_file(source_path)
+    before_hashes = {
+        source_path: sha256_file(source_path),
+        dtbook_path: sha256_file(dtbook_path),
+    }
+
     handoff = load_json(source_path)
     errors = validate_task1_handoff(handoff)
     if errors:
         joined = "\n  - ".join(errors)
         raise ValueError(f"Invalid Task-1 handoff {source_path}:\n  - {joined}")
 
-    generated = synthesizer.synthesize_chapter(handoff, output_dir)
+    generated = synthesizer.synthesize_chapter(handoff, dtbook_path, output_dir)
     save_json_atomic(generated, timestamp_path)
 
-    after_hash = sha256_file(source_path)
-    if before_hash != after_hash:
-        raise RuntimeError(
-            f"TASK 1 SAFETY FAILURE: {source_path} changed while Task 2 was running"
-        )
+    for task1_path, before_hash in before_hashes.items():
+        after_hash = sha256_file(task1_path)
+        if before_hash != after_hash:
+            raise RuntimeError(
+                f"TASK 1 SAFETY FAILURE: {task1_path} changed while Task 2 was running"
+            )
 
     validation = validate_chapter(
         chapter_idx,
@@ -166,7 +173,7 @@ def run_pipeline(targets: Iterable[int], settings: TTSSettings) -> bool:
 
 def make_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        description="Task 2: Task-1 segments.json -> VieNeu chapter MP3 + context timestamps"
+        description="Task 2: Task-1 DTBook + segments.json -> VieNeu chapter MP3 + context timestamps"
     )
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--pilot", action="store_true", help="Run Introduction + Chapter 1")
