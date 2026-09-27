@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package PUBLIC "-//NISO//DTD dtb 2005-1//EN" "http://www.daisy.org/z3986/2005/dtb-2005-1.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="uid" version="2005-1">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:Title>Trong Gia Đình - Phần I: Mất Mẹ - Chương 1</dc:Title>
+      <dc:Creator>Hector Malot</dc:Creator>
+      <dc:Subject>Văn học &amp; Tiểu thuyết</dc:Subject>
+      <dc:Description>Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình.</dc:Description>
+      <dc:Publisher>NXB Văn Học</dc:Publisher>
+      <dc:Date>2017</dc:Date>
+      <dc:Language>vi-VN</dc:Language>
+      <dc:Identifier id="uid">978-604-69-8175-6</dc:Identifier>
+      <dc:Source>978-604-69-8175-6</dc:Source>
+      <dc:Format>ANSI/NISO Z39.86-2005</dc:Format>
+    </dc-metadata>
+    <x-metadata>
+      <meta name="dtb:multimediaType" content="audioFullText"/>
+      <meta name="dtb:multimediaContent" content="text,audio"/>
+      <meta name="dtb:totalTime" content="0:15:53.040"/>
+      <meta name="dtb:uid" content="978-604-69-8175-6"/>
+      <meta name="dtb:generator" content="DAISY 3 DTBook Python Pipeline (K35)"/>
+      <meta name="dc:Translator" content="Huỳnh Lý &amp; Mai Hương, Huỳnh Phan Thanh Yên"/>
+      <meta name="note" content="Bản dịch của GS. Huỳnh Lý &amp; Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"/>
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="navigation.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="dtbook" href="dtbook.xml" media-type="application/x-dtbook+xml"/>
+    <item id="smil" href="mo0.smil" media-type="application/smil"/>
+    <item id="audio" href="Chuong_01.mp3" media-type="audio/mpeg"/>
+    <item id="resource" href="resources.res" media-type="application/x-dtbresource+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="smil"/>
+  </spine>
+</package>

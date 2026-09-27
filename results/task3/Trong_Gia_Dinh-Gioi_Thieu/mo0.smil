@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/" xml:lang="vi-VN">
+  <head>
+    <meta name="dtb:uid" content="978-604-69-8175-6"/>
+    <meta name="dtb:totalElapsedTime" content="0:03:32.952"/>
+    <meta name="dtb:generator" content="DAISY 3 DTBook Python Pipeline (K35)"/>
+    <layout>
+      <region id="text" top="0%" left="0%" right="0%" bottom="0%"/>
+    </layout>
+  </head>
+  <body>
+    <seq id="mseq" dur="212.952s">
+      <seq id="sforsmil-1">
+        <par id="sid_1" endsync="last">
+          <text src="dtbook.xml#id_1" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="0.000s" clipEnd="1.130s"/>
+        </par>
+      </seq>
+      <seq id="sforsmil-2">
+        <par id="sid_2" endsync="last">
+          <text src="dtbook.xml#id_2" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="1.130s" clipEnd="2.260s"/>
+        </par>
+      </seq>
+      <seq id="sfaux-heading">
+        <par id="sid_3" endsync="last">
+          <text src="dtbook.xml#id_3" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="2.260s" clipEnd="3.230s"/>
+        </par>
+      </seq>
+      <seq id="seq_1">
+        <par id="sid_4" endsync="last">
+          <text src="dtbook.xml#id_4" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="3.230s" clipEnd="9.116s"/>
+        </par>
+        <par id="sid_5" endsync="last">
+          <text src="dtbook.xml#id_5" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="9.116s" clipEnd="12.419s"/>
+        </par>
+        <par id="sid_6" endsync="last">
+          <text src="dtbook.xml#id_6" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="12.419s" clipEnd="22.140s"/>
+        </par>
+      </seq>
+      <seq id="seq_2">
+        <par id="sid_7" endsync="last">
+          <text src="dtbook.xml#id_7" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="22.140s" clipEnd="24.630s"/>
+        </par>
+      </seq>
+      <seq id="seq_3">
+        <par id="sid_8" endsync="last">
+          <text src="dtbook.xml#id_8" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="24.630s" clipEnd="34.523s"/>
+        </par>
+        <par id="sid_9" endsync="last">
+          <text src="dtbook.xml#id_9" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="34.523s" clipEnd="39.200s"/>
+        </par>
+      </seq>
+      <seq id="seq_4">
+        <par id="sid_10" endsync="last">
+          <text src="dtbook.xml#id_10" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="39.200s" clipEnd="43.285s"/>
+        </par>
+        <par id="sid_11" endsync="last">
+          <text src="dtbook.xml#id_11" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="43.285s" clipEnd="54.490s"/>
+        </par>
+      </seq>
+      <seq id="seq_5">
+        <par id="sid_12" endsync="last">
+          <text src="dtbook.xml#id_12" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="54.490s" clipEnd="59.295s"/>
+        </par>
+        <par id="sid_13" endsync="last">
+          <text src="dtbook.xml#id_13" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="59.295s" clipEnd="72.900s"/>
+        </par>
+      </seq>
+      <seq id="seq_6">
+        <par id="sid_14" endsync="last">
+          <text src="dtbook.xml#id_14" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="72.900s" clipEnd="78.749s"/>
+        </par>
+        <par id="sid_15" endsync="last">
+          <text src="dtbook.xml#id_15" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="78.749s" clipEnd="85.470s"/>
+        </par>
+      </seq>
+      <seq id="seq_7">
+        <par id="sid_16" endsync="last">
+          <text src="dtbook.xml#id_16" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="85.470s" clipEnd="91.818s"/>
+        </par>
+        <par id="sid_17" endsync="last">
+          <text src="dtbook.xml#id_17" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="91.818s" clipEnd="96.865s"/>
+        </par>
+        <par id="sid_18" endsync="last">
+          <text src="dtbook.xml#id_18" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="96.865s" clipEnd="100.360s"/>
+        </par>
+      </seq>
+      <seq id="seq_8">
+        <par id="sid_19" endsync="last">
+          <text src="dtbook.xml#id_19" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="100.360s" clipEnd="107.163s"/>
+        </par>
+        <par id="sid_20" endsync="last">
+          <text src="dtbook.xml#id_20" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="107.163s" clipEnd="111.085s"/>
+        </par>
+        <par id="sid_21" endsync="last">
+          <text src="dtbook.xml#id_21" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="111.085s" clipEnd="119.860s"/>
+        </par>
+      </seq>
+      <seq id="seq_9">
+        <par id="sid_22" endsync="last">
+          <text src="dtbook.xml#id_22" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="119.860s" clipEnd="122.644s"/>
+        </par>
+        <par id="sid_23" endsync="last">
+          <text src="dtbook.xml#id_23" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="122.644s" clipEnd="127.091s"/>
+        </par>
+        <par id="sid_24" endsync="last">
+          <text src="dtbook.xml#id_24" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="127.091s" clipEnd="132.750s"/>
+        </par>
+      </seq>
+      <seq id="seq_10">
+        <par id="sid_25" endsync="last">
+          <text src="dtbook.xml#id_25" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="132.750s" clipEnd="137.236s"/>
+        </par>
+        <par id="sid_26" endsync="last">
+          <text src="dtbook.xml#id_26" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="137.236s" clipEnd="140.340s"/>
+        </par>
+        <par id="sid_27" endsync="last">
+          <text src="dtbook.xml#id_27" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="140.340s" clipEnd="147.320s"/>
+        </par>
+      </seq>
+      <seq id="seq_11">
+        <par id="sid_28" endsync="last">
+          <text src="dtbook.xml#id_28" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="147.320s" clipEnd="150.125s"/>
+        </par>
+        <par id="sid_29" endsync="last">
+          <text src="dtbook.xml#id_29" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="150.125s" clipEnd="157.330s"/>
+        </par>
+      </seq>
+      <seq id="seq_12">
+        <par id="sid_30" endsync="last">
+          <text src="dtbook.xml#id_30" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="157.330s" clipEnd="162.737s"/>
+        </par>
+        <par id="sid_31" endsync="last">
+          <text src="dtbook.xml#id_31" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="162.737s" clipEnd="164.539s"/>
+        </par>
+        <par id="sid_32" endsync="last">
+          <text src="dtbook.xml#id_32" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="164.539s" clipEnd="172.220s"/>
+        </par>
+      </seq>
+      <seq id="seq_13">
+        <par id="sid_33" endsync="last">
+          <text src="dtbook.xml#id_33" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="172.220s" clipEnd="185.270s"/>
+        </par>
+      </seq>
+      <seq id="seq_14">
+        <par id="sid_34" endsync="last">
+          <text src="dtbook.xml#id_34" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="185.270s" clipEnd="188.432s"/>
+        </par>
+        <par id="sid_35" endsync="last">
+          <text src="dtbook.xml#id_35" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="188.432s" clipEnd="195.858s"/>
+        </par>
+        <par id="sid_36" endsync="last">
+          <text src="dtbook.xml#id_36" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="195.858s" clipEnd="199.281s"/>
+        </par>
+        <par id="sid_37" endsync="last">
+          <text src="dtbook.xml#id_37" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="199.281s" clipEnd="203.925s"/>
+        </par>
+        <par id="sid_38" endsync="last">
+          <text src="dtbook.xml#id_38" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="203.925s" clipEnd="205.926s"/>
+        </par>
+        <par id="sid_39" endsync="last">
+          <text src="dtbook.xml#id_39" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="205.926s" clipEnd="209.940s"/>
+        </par>
+      </seq>
+      <seq id="seq_15">
+        <par id="sid_40" endsync="last">
+          <text src="dtbook.xml#id_40" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="209.940s" clipEnd="211.710s"/>
+        </par>
+      </seq>
+      <seq id="seq_16">
+        <par id="sid_41" endsync="last">
+          <text src="dtbook.xml#id_41" region="text"/>
+          <audio src="Gioi_Thieu.mp3" clipBegin="211.710s" clipEnd="212.952s"/>
+        </par>
+      </seq>
+    </seq>
+  </body>
+</smil>

@@ -32,7 +32,7 @@ Dự án được phân chia theo 4 vai trò thành viên cốt lõi:
 |:---:|---|---|:---:|
 | **1** | **Thành viên 1: Xử lý Văn bản & Cấu trúc Dữ liệu** *(Text & XML Lead)* | • Tìm kiếm & đăng ký sách chuẩn ISBN.<br>• Làm sạch dữ liệu văn bản từ EPUB, chuẩn hóa chính tả và quy tắc tách câu tiếng Việt.<br>• Xây dựng cấu trúc DTBook XML 2005-3 phân cấp (`<frontmatter>`, `<bodymatter>`, `<level1>`, `<h1>`, `<p>`, `<sent>`).<br>• Đánh mã định danh duy nhất (`id`, `smilref`) cho từng câu/đoạn văn.<br>• Thiết lập siêu dữ liệu chuẩn (`<head>`, `<metadata>`). | **HOÀN THÀNH**<br>`(COMPLETED)` |
 | **2** | **Thành viên 2: Xử lý Giọng nói & Âm thanh** *(TTS / STT & Audio Lead)* | • Sử dụng **VieNeu TTS** với giọng `Minh Đức`, backend ONNX.<br>• Gom các câu liên tiếp cùng `p_id` thành context để giữ mạch đọc và prosody tự nhiên.<br>• Sinh audio `.mp3` theo chương và `timestamps.json` phục vụ bước đồng bộ.<br>• Kiểm duyệt phát âm, ngắt nghỉ, tính toàn vẹn câu và chất lượng audio. | **ĐANG THỰC HIỆN**<br>`(IN PROGRESS)` |
-| **3** | **Thành viên 3: Tự động hóa & Đồng bộ Đa phương tiện** *(Alignment & DAISY Pipeline)* | • Xác định mốc thời gian phát (`clipBegin`, `clipEnd`) cho từng câu văn bản.<br>• Tự động sinh tệp đồng bộ đa phương tiện `mo0.smil`.<br>• Tự động sinh tệp điều hướng phân cấp `navigation.ncx`.<br>• Khai báo toàn bộ tài nguyên vào gói manifest `book.opf` và `resources.res`.<br>• Xây dựng pipeline liên kết tự động toàn diện. | **TIẾP THEO**<br>`(PENDING)` |
+| **3** | **Thành viên 3: Tự động hóa & Đồng bộ Đa phương tiện** *(Alignment & DAISY Pipeline)* | • Xác định mốc thời gian phát (`clipBegin`, `clipEnd`) cho từng câu văn bản.<br>• Tự động sinh tệp đồng bộ đa phương tiện `mo0.smil`.<br>• Tự động sinh tệp điều hướng phân cấp `navigation.ncx`.<br>• Khai báo toàn bộ tài nguyên vào gói manifest `book.opf` và `resources.res`.<br>• Xây dựng pipeline liên kết tự động toàn diện. | **ĐANG THỰC HIỆN**<br>`(IN PROGRESS)` |
 | **4** | **Thành viên 4: Kiểm thử, Đóng gói & Báo cáo** *(QA, Packaging & Report Lead)* | • Kiểm thử thực tế trải nghiệm đọc trên Thorium Reader và Dolphin EasyReader.<br>• Đóng gói cấu trúc nén `Trong_Gia_Dinh.zip` theo từng chương.<br>• Sinh chuỗi mã băm SHA-256 (`Trong_Gia_Dinh_sha256sums.txt`).<br>• Sắp xếp cây thư mục nộp bài chuẩn quy định.<br>• Soạn thảo báo cáo đồ án tổng kết. | **TIẾP THEO**<br>`(PENDING)` |
 
 ---
@@ -57,10 +57,18 @@ Dự án được phân chia theo 4 vai trò thành viên cốt lõi:
 * **Ngắt nghỉ:** Dấu câu bên trong context do VieNeu xử lý tự nhiên; pipeline chỉ ghép pause cấu trúc giữa context chunk, paragraph và scene break.
 * **Tiền xử lý TTS:** Chuẩn hóa riêng `tts_text` cho phát âm (`v.v.`, cụm ALL CAPS, footnote marker, quote...), không thay đổi `text` gốc từ Task 1.
 * **Đầu ra:** Mỗi chương sinh một file MP3 và `timestamps.json` chứa context timing cùng mapping về `sent_id`, `smil_sid`, `p_id`, `seq_id`.
-* **Handoff Task 3:** Task 3 sử dụng audio và context timing để forced alignment, xác định `clipBegin` / `clipEnd` chính xác cho từng câu.
+* **Handoff Task 3:** `timestamps.json` có `headings` (`id_1`–`id_3`, mỗi câu một clip) và `chunks` cho câu thân. Task 3 đặt `clipBegin` / `clipEnd` từng câu; câu trong cùng chunk được forced alignment trên `tts_text`.
 * **Kiểm thử hiện tại:** Phần **Giới thiệu (Chapter 00)** đã validation thành công: **16 paragraphs / 38 sentences / PASSED**.
 
 > Task 2 vẫn ở trạng thái **IN PROGRESS** cho đến khi các chương cần thiết được sinh audio, QC và validation hoàn tất.
+
+## 4.1. Trạng Thái Nhiệm Vụ 3 (Task 3 – Alignment & DAISY)
+
+* **Pilot đã dựng gói:** Giới thiệu (41 câu, 34 câu CTC) và Chương 1 (250 câu, 184 câu CTC). `validate_task3.py --pilot` **PASSED**.
+* **Mỗi chương là một cuốn DAISY riêng** trong `results/task3/`, vì `id` và `mo0.smil` khởi tạo lại theo thư mục. Gói gồm `dtbook.xml`, file MP3, `mo0.smil`, `book.opf`, `navigation.ncx`, `resources.res`.
+* **Clip liền mạch:** khoảng nghỉ Task 2 đã trộn vào audio được giữ trong clip của câu cuối mỗi chunk, nên trình đọc không nhảy cóc qua khoảng lặng.
+* **Chương 2–22:** chưa có audio. `python src/daisy/run_task3.py --all` sẽ chạy được khi Task 2 giao đủ file.
+
 ## 5. Cấu Trúc Thư Mục Dự Án (Repository Structure)
 
 ```text
@@ -76,14 +84,22 @@ Dự án được phân chia theo 4 vai trò thành viên cốt lõi:
 │   ├── generate_dtbook.py  # (Task 1) Sinh tài liệu DTBook XML 2005-3 chuẩn NISO
 │   ├── validate_dtbook.py  # (Task 1) Kiểm thử cú pháp XML, tính duy nhất ID và DTD
 │   ├── run_task1.py        # (Task 1) Script thực thi pipeline chính
-│   └── tts/                # (Task 2) Pipeline TTS & Audio
-│       ├── __init__.py
-│       ├── normalize.py    # Chuẩn hóa text riêng cho TTS
-│       ├── synthesize.py   # Sinh audio bằng VieNeu theo context chunk
-│       ├── run_task2.py    # Script thực thi pipeline Task 2
-│       ├── validate_task2.py # Kiểm tra audio, metadata và tính toàn vẹn dữ liệu
-│       ├── requirements.txt  # Thư viện phụ thuộc của Task 2
-│       └── README.md       # Mô tả chi tiết pipeline Task 2
+│   ├── tts/                # (Task 2) Pipeline TTS & Audio
+│   │   ├── __init__.py
+│   │   ├── normalize.py    # Chuẩn hóa text riêng cho TTS
+│   │   ├── synthesize.py   # Sinh audio bằng VieNeu theo context chunk
+│   │   ├── run_task2.py    # Script thực thi pipeline Task 2
+│   │   ├── validate_task2.py # Kiểm tra audio, metadata và tính toàn vẹn dữ liệu
+│   │   ├── requirements.txt  # Thư viện phụ thuộc của Task 2
+│   │   └── README.md       # Mô tả chi tiết pipeline Task 2
+│   └── daisy/              # (Task 3) Căn chỉnh câu và đóng gói DAISY 3
+│       ├── align.py
+│       ├── clips.py
+│       ├── build.py
+│       ├── run_task3.py
+│       ├── validate_task3.py
+│       ├── requirements.txt
+│       └── README.md
 └── results/                # Thư mục chứa kết quả của các nhiệm vụ
     ├── task1/              # Kết quả Task 1: 23 chương sách DAISY 3
     │   ├── Trong_Gia_Dinh-Gioi_Thieu/
@@ -93,14 +109,18 @@ Dự án được phân chia theo 4 vai trò thành viên cốt lõi:
     │   │   ├── dtbook.xml
     │   │   └── segments.json
     │   └── ... (đến Chương 22)
-    └── task2/              # Kết quả Task 2: audio và metadata thời gian
+    ├── task2/              # Kết quả Task 2: audio và metadata thời gian
+    │   ├── Trong_Gia_Dinh-Gioi_Thieu/
+    │   │   ├── Gioi_Thieu.mp3
+    │   │   └── timestamps.json
+    │   ├── Trong_Gia_Dinh-Chuong_01/
+    │   │   ├── Chuong_01.mp3
+    │   │   └── timestamps.json
+    │   └── ... (các chương đã xử lý)
+    └── task3/              # Kết quả Task 3: gói DAISY 3 theo chương
         ├── Trong_Gia_Dinh-Gioi_Thieu/
-        │   ├── Gioi_Thieu.mp3
-        │   └── timestamps.json
         ├── Trong_Gia_Dinh-Chuong_01/
-        │   ├── Chuong_01.mp3
-        │   └── timestamps.json
-        └── ... (các chương đã xử lý)
+        └── ... (các chương đã có audio Task 2)
 ```
 ## 6. Hướng Dẫn Chạy Pipeline
 
@@ -139,3 +159,20 @@ python src/tts/validate_task2.py --pilot
 
 # 5. Kiểm tra một chương cụ thể
 python src/tts/validate_task2.py --chapter 5
+```
+
+### Task 3 – Alignment & DAISY package
+
+Cần ffmpeg trên `PATH`. Căn CTC dùng Python 3.12 vì wheel `torch` chưa có cho Python 3.14. Không có torch, pipeline vẫn tạo gói và chia thời lượng theo độ dài `tts_text` trong từng chunk.
+
+```bash
+py -3.12 -m venv .venv
+.venv\Scripts\python -m pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+.venv\Scripts\python -m pip install -r src/daisy/requirements.txt
+
+.venv\Scripts\python src/daisy/run_task3.py --pilot
+.venv\Scripts\python src/daisy/validate_task3.py --pilot
+
+.venv\Scripts\python src/daisy/run_task3.py --chapter 5
+.venv\Scripts\python src/daisy/run_task3.py --all
+```

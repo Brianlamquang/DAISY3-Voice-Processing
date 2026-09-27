@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="vi-VN" version="2005-3">
+  <head>
+    <meta name="dtb:uid" content="978-604-69-8175-6"/>
+    <meta name="dtb:generator" content="DAISY 3 DTBook Python Pipeline (K35)"/>
+    <meta name="dc:Title" content="Trong Gia Đình - Giới Thiệu"/>
+    <meta name="dc:Creator" content="Hector Malot"/>
+    <meta name="dc:Date" content="2017"/>
+    <meta name="dc:Publisher" content="NXB Văn Học"/>
+    <meta name="dc:Identifier" content="978-604-69-8175-6"/>
+    <meta name="dc:Language" content="vi-VN"/>
+    <meta name="dc:Subject" content="Văn học &amp; Tiểu thuyết"/>
+    <meta name="dc:Description" content="Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình."/>
+    <meta name="note" content="Bản dịch của GS. Huỳnh Lý &amp; Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"/>
+  </head>
+  <book showin="blp">
+    <frontmatter>
+      <doctitle id="forsmil-1" smilref="mo0.smil#sforsmil-1">
+        <sent id="id_1" smilref="mo0.smil#sid_1">Trong Gia Đình</sent>
+      </doctitle>
+      <docauthor id="forsmil-2" smilref="mo0.smil#sforsmil-2">
+        <sent id="id_2" smilref="mo0.smil#sid_2">Hector Malot</sent>
+      </docauthor>
+    </frontmatter>
+    <bodymatter id="bodymatter_0001">
+      <level1>
+        <h1 id="faux-heading" smilref="mo0.smil#sfaux-heading">
+          <sent id="id_3" smilref="mo0.smil#sid_3">Giới Thiệu</sent>
+        </h1>
+        <p id="c0_p1" smilref="mo0.smil#seq_1">
+          <sent id="id_4" smilref="mo0.smil#sid_4">Hector Malot (Hécto Malo) sinh năm 1830 ở miền Bắc nước Pháp.</sent>
+          <sent id="id_5" smilref="mo0.smil#sid_5">Ông là nhà văn chuyên viết tiểu thuyết được bạn đọc Pháp yêu mến.</sent>
+          <sent id="id_6" smilref="mo0.smil#sid_6">Những tiểu thuyết của ông như KHÔNG GIA ĐÌNH, TRONG GIA ĐÌNH, PÔNG PERINÔNG, RÔ MANH CAM BƠ RI… v.v… đều lành mạnh và hấp dẫn.</sent>
+        </p>
+        <p id="c0_p2" smilref="mo0.smil#seq_2">
+          <sent id="id_7" smilref="mo0.smil#sid_7">Ông mất năm 1907.</sent>
+        </p>
+        <p id="c0_p3" smilref="mo0.smil#seq_3">
+          <sent id="id_8" smilref="mo0.smil#sid_8">Trong các tác phẩm của Hector Malot: KHÔNG GIA ĐÌNH và TRONG GIA ĐÌNH là hai tác phẩm xuất sắc đã được giải thưởng của Viện Hàn lâm văn học Pháp.</sent>
+          <sent id="id_9" smilref="mo0.smil#sid_9">Nó vượt qua biên giới Pháp và được đón nhận nồng nhiệt ở khắp mọi nơi.</sent>
+        </p>
+        <p id="c0_p4" smilref="mo0.smil#seq_4">
+          <sent id="id_10" smilref="mo0.smil#sid_10">Chúng tôi đã tái bản KHÔNG GIA ĐÌNH đầu xuân 1997.</sent>
+          <sent id="id_11" smilref="mo0.smil#sid_11">Được sự cổ vũ của đông đảo bạn đọc, chúng tôi khẩn trương để TRONG GIA ĐÌNH đến được các bạn trong dịp hè nhằm đáp ứng kịp thời và không phụ lòng mong đợi của các bạn.</sent>
+        </p>
+        <p id="c0_p5" smilref="mo0.smil#seq_5">
+          <sent id="id_12" smilref="mo0.smil#sid_12">Hector Malot viết TRONG GIA ĐÌNH gồm hai tập với bốn mươi chương.</sent>
+          <sent id="id_13" smilref="mo0.smil#sid_13">Để các bạn tiện theo dõi, người dịch đã xếp vào sáu phần với các tựa đề hợp với cốt truyện như: Theo dõi và bao vây, Rôbinxơn tí hon, Chờ mong…, Tuyệt vọng…, Chiếc đũa của nàng tiên….</sent>
+        </p>
+        <p id="c0_p6" smilref="mo0.smil#seq_6">
+          <sent id="id_14" smilref="mo0.smil#sid_14">TRONG GIA ĐÌNH kể về cuộc đời của cô bé Perin, mới 12 tuổi đã mồ côi cha mẹ.</sent>
+          <sent id="id_15" smilref="mo0.smil#sid_15">Trơ trọi một mình giữa những người xa lạ với bao khó khăn, nguy hiểm phía trước, Perin sẽ đối phó ra sao?</sent>
+        </p>
+        <p id="c0_p7" smilref="mo0.smil#seq_7">
+          <sent id="id_16" smilref="mo0.smil#sid_16">Perin đã từng ở một mình giữa rừng sâu trong đêm tối với bao nỗi kinh hoàng, khiếp hãi.</sent>
+          <sent id="id_17" smilref="mo0.smil#sid_17">Có khi mệt mỏi, đói khát đã làm em kiệt sức, mê man bất tỉnh.</sent>
+          <sent id="id_18" smilref="mo0.smil#sid_18">Một sự tình cờ kì diệu đã kéo em về với cuộc sống.</sent>
+        </p>
+        <p id="c0_p8" smilref="mo0.smil#seq_8">
+          <sent id="id_19" smilref="mo0.smil#sid_19">Perin là cô gái can đảm có ý thức tự lập, lòng tự trọng và niềm say mê sáng tạo.</sent>
+          <sent id="id_20" smilref="mo0.smil#sid_20">Không chịu đầu hàng số phận, bằng mọi cách cố gắng vươn lên.</sent>
+          <sent id="id_21" smilref="mo0.smil#sid_21">Dầu cực nhọc, đói khổ em vẫn luôn vui vẻ lạc quan với suy nghĩ: Người ta sẽ thành công khi có nghị lực, lòng quyết tâm và sáng tạo.</sent>
+        </p>
+        <p id="c0_p9" smilref="mo0.smil#seq_9">
+          <sent id="id_22" smilref="mo0.smil#sid_22">Nhờ chăm chỉ, tận tụy ham học hỏi.</sent>
+          <sent id="id_23" smilref="mo0.smil#sid_23">Perin giành được sự tin cậy của ông Vunphran và nhiều người.</sent>
+          <sent id="id_24" smilref="mo0.smil#sid_24">Em đau xót khi biết mối bất đồng giữa ông nội và cha em – người con trai duy nhất của ông.</sent>
+        </p>
+        <p id="c0_p10" smilref="mo0.smil#seq_10">
+          <sent id="id_25" smilref="mo0.smil#sid_25">Ông Vunphran là nhà doanh nghiệp giàu có nhưng bất hạnh.</sent>
+          <sent id="id_26" smilref="mo0.smil#sid_26">Ông đã già và mù, con trai thì biệt tích.</sent>
+          <sent id="id_27" smilref="mo0.smil#sid_27">Những người bà con tìm mọi cách ngăn cản mối liên hệ giữa ông và con trai để dễ dàng chiếm đoạt tài sản của ông.</sent>
+        </p>
+        <p id="c0_p11" smilref="mo0.smil#seq_11">
+          <sent id="id_28" smilref="mo0.smil#sid_28">Liệu họ có thực hiện được ý đồ đó không?</sent>
+          <sent id="id_29" smilref="mo0.smil#sid_29">Và cô bé Perin ít tuổi, thiếu kinh nghiệm sẽ ra sao trước sự theo dõi, bao vây, đe dọa, dụ dỗ từ nhiều phía?</sent>
+        </p>
+        <p id="c0_p12" smilref="mo0.smil#seq_12">
+          <sent id="id_30" smilref="mo0.smil#sid_30">Còn ông Vunphran khắc nghiệt từng tức tối lên án mẹ con Perin có còn khăng khăng…</sent>
+          <sent id="id_31" smilref="mo0.smil#sid_31">“Chẳng bao giờ coi nó là cháu…</sent>
+          <sent id="id_32" smilref="mo0.smil#sid_32">Bác căm ghét nó cũng như căm ghét con mẹ nó…”, có thể mở rộng vòng tay đón cô cháu nội Perin về TRONG GIA ĐÌNH chăng?</sent>
+        </p>
+        <p id="c0_p13" smilref="mo0.smil#seq_13">
+          <sent id="id_33" smilref="mo0.smil#sid_33">Bằng lối hành văn trong sáng pha chút hóm hỉnh, bằng óc quan sát tinh tế, sự hiểu biết tâm lý tuổi nhỏ tường tận…, Hector Malot sẽ cuốn hút và làm say mê các bạn nhỏ khi đọc TRONG GIA ĐÌNH.</sent>
+        </p>
+        <p id="c0_p14" smilref="mo0.smil#seq_14">
+          <sent id="id_34" smilref="mo0.smil#sid_34">Chúng tôi trân trọng giới thiệu TRONG GIA ĐÌNH với các bạn.</sent>
+          <sent id="id_35" smilref="mo0.smil#sid_35">Mong tập sách này vừa giả trí vừa bồi dưỡng phát huy với các bậc cha mẹ, các bạn nhỏ những tình cảm tốt đẹp của con người.</sent>
+          <sent id="id_36" smilref="mo0.smil#sid_36">Đó là ý chí, nghị lực để vượt mọi khó khăn.</sent>
+          <sent id="id_37" smilref="mo0.smil#sid_37">Đó là ý thức tự lập, tự tin không ỷ lại bất cứ điều gì.</sent>
+          <sent id="id_38" smilref="mo0.smil#sid_38">Đó là niềm say mê sáng tạo…</sent>
+          <sent id="id_39" smilref="mo0.smil#sid_39">Và hơn tất cả là lòng quan tâm sâu sắc và tình thương yêu con người.</sent>
+        </p>
+        <p id="c0_p15" smilref="mo0.smil#seq_15">
+          <sent id="id_40" smilref="mo0.smil#sid_40">Kỷ niệm QUỐC TẾ PHỤ NỮ</sent>
+        </p>
+        <p id="c0_p16" smilref="mo0.smil#seq_16">
+          <sent id="id_41" smilref="mo0.smil#sid_41">HUỲNH PHAN THANH YÊN</sent>
+        </p>
+      </level1>
+    </bodymatter>
+  </book>
+</dtbook>
