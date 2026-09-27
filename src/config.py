@@ -12,6 +12,8 @@ EPUB_PATH = os.path.join(DATA_DIR, "trong_gia_dinh.epub")
 OUTPUT_DIR = os.path.join(BASE_DIR, "results", "task1")
 TASK1_OUTPUT_DIR = OUTPUT_DIR
 TASK2_OUTPUT_DIR = os.path.join(BASE_DIR, "results", "task2")
+TASK3_OUTPUT_DIR = os.path.join(BASE_DIR, "results", "task3")
+TASK3_ALIGN_MODEL = "nguyenvulebinh/wav2vec2-base-vietnamese-250h"
 
 # Metadata compliant with DAISY 3 & Course Guidelines
 METADATA = {

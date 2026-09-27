@@ -1,0 +1,5 @@
+# Task 3 alignment dependencies. Python 3.12 is required for the CPU wheels.
+# The package builder itself runs on the standard library plus ffmpeg.
+torch
+torchaudio
+transformers>=4.46

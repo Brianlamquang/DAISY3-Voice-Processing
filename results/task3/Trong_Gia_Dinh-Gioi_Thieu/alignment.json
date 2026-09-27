@@ -1,0 +1,386 @@
+{
+  "chapter_idx": 0,
+  "chapter_title": "Giới Thiệu",
+  "audio_file": "Gioi_Thieu.mp3",
+  "audio_duration": 212.952,
+  "aligner": {
+    "engine": "ctc",
+    "model": "nguyenvulebinh/wav2vec2-base-vietnamese-250h",
+    "error": null
+  },
+  "counts": {
+    "exact": 7,
+    "aligned": 34
+  },
+  "clips": [
+    {
+      "sent_id": "id_1",
+      "smil_sid": "sid_1",
+      "container_id": "sforsmil-1",
+      "clip_begin": 0.0,
+      "clip_end": 1.13,
+      "method": "exact",
+      "source_text": "Trong Gia Đình"
+    },
+    {
+      "sent_id": "id_2",
+      "smil_sid": "sid_2",
+      "container_id": "sforsmil-2",
+      "clip_begin": 1.13,
+      "clip_end": 2.26,
+      "method": "exact",
+      "source_text": "Hector Malot"
+    },
+    {
+      "sent_id": "id_3",
+      "smil_sid": "sid_3",
+      "container_id": "sfaux-heading",
+      "clip_begin": 2.26,
+      "clip_end": 3.23,
+      "method": "exact",
+      "source_text": "Giới Thiệu"
+    },
+    {
+      "sent_id": "id_4",
+      "smil_sid": "sid_4",
+      "container_id": "seq_1",
+      "clip_begin": 3.23,
+      "clip_end": 9.116,
+      "method": "aligned",
+      "source_text": "Hector Malot (Hécto Malo) sinh năm 1830 ở miền Bắc nước Pháp."
+    },
+    {
+      "sent_id": "id_5",
+      "smil_sid": "sid_5",
+      "container_id": "seq_1",
+      "clip_begin": 9.116,
+      "clip_end": 12.419,
+      "method": "aligned",
+      "source_text": "Ông là nhà văn chuyên viết tiểu thuyết được bạn đọc Pháp yêu mến."
+    },
+    {
+      "sent_id": "id_6",
+      "smil_sid": "sid_6",
+      "container_id": "seq_1",
+      "clip_begin": 12.419,
+      "clip_end": 22.14,
+      "method": "aligned",
+      "source_text": "Những tiểu thuyết của ông như KHÔNG GIA ĐÌNH, TRONG GIA ĐÌNH, PÔNG PERINÔNG, RÔ MANH CAM BƠ RI… v.v… đều lành mạnh và hấp dẫn."
+    },
+    {
+      "sent_id": "id_7",
+      "smil_sid": "sid_7",
+      "container_id": "seq_2",
+      "clip_begin": 22.14,
+      "clip_end": 24.63,
+      "method": "exact",
+      "source_text": "Ông mất năm 1907."
+    },
+    {
+      "sent_id": "id_8",
+      "smil_sid": "sid_8",
+      "container_id": "seq_3",
+      "clip_begin": 24.63,
+      "clip_end": 34.523,
+      "method": "aligned",
+      "source_text": "Trong các tác phẩm của Hector Malot: KHÔNG GIA ĐÌNH và TRONG GIA ĐÌNH là hai tác phẩm xuất sắc đã được giải thưởng của Viện Hàn lâm văn học Pháp."
+    },
+    {
+      "sent_id": "id_9",
+      "smil_sid": "sid_9",
+      "container_id": "seq_3",
+      "clip_begin": 34.523,
+      "clip_end": 39.2,
+      "method": "aligned",
+      "source_text": "Nó vượt qua biên giới Pháp và được đón nhận nồng nhiệt ở khắp mọi nơi."
+    },
+    {
+      "sent_id": "id_10",
+      "smil_sid": "sid_10",
+      "container_id": "seq_4",
+      "clip_begin": 39.2,
+      "clip_end": 43.285,
+      "method": "aligned",
+      "source_text": "Chúng tôi đã tái bản KHÔNG GIA ĐÌNH đầu xuân 1997."
+    },
+    {
+      "sent_id": "id_11",
+      "smil_sid": "sid_11",
+      "container_id": "seq_4",
+      "clip_begin": 43.285,
+      "clip_end": 54.49,
+      "method": "aligned",
+      "source_text": "Được sự cổ vũ của đông đảo bạn đọc, chúng tôi khẩn trương để TRONG GIA ĐÌNH đến được các bạn trong dịp hè nhằm đáp ứng kịp thời và không phụ lòng mong đợi của các bạn."
+    },
+    {
+      "sent_id": "id_12",
+      "smil_sid": "sid_12",
+      "container_id": "seq_5",
+      "clip_begin": 54.49,
+      "clip_end": 59.295,
+      "method": "aligned",
+      "source_text": "Hector Malot viết TRONG GIA ĐÌNH gồm hai tập với bốn mươi chương."
+    },
+    {
+      "sent_id": "id_13",
+      "smil_sid": "sid_13",
+      "container_id": "seq_5",
+      "clip_begin": 59.295,
+      "clip_end": 72.9,
+      "method": "aligned",
+      "source_text": "Để các bạn tiện theo dõi, người dịch đã xếp vào sáu phần với các tựa đề hợp với cốt truyện như: Theo dõi và bao vây, Rôbinxơn tí hon, Chờ mong…, Tuyệt vọng…, Chiếc đũa của nàng tiên…."
+    },
+    {
+      "sent_id": "id_14",
+      "smil_sid": "sid_14",
+      "container_id": "seq_6",
+      "clip_begin": 72.9,
+      "clip_end": 78.749,
+      "method": "aligned",
+      "source_text": "TRONG GIA ĐÌNH kể về cuộc đời của cô bé Perin, mới 12 tuổi đã mồ côi cha mẹ."
+    },
+    {
+      "sent_id": "id_15",
+      "smil_sid": "sid_15",
+      "container_id": "seq_6",
+      "clip_begin": 78.749,
+      "clip_end": 85.47,
+      "method": "aligned",
+      "source_text": "Trơ trọi một mình giữa những người xa lạ với bao khó khăn, nguy hiểm phía trước, Perin sẽ đối phó ra sao?"
+    },
+    {
+      "sent_id": "id_16",
+      "smil_sid": "sid_16",
+      "container_id": "seq_7",
+      "clip_begin": 85.47,
+      "clip_end": 91.818,
+      "method": "aligned",
+      "source_text": "Perin đã từng ở một mình giữa rừng sâu trong đêm tối với bao nỗi kinh hoàng, khiếp hãi."
+    },
+    {
+      "sent_id": "id_17",
+      "smil_sid": "sid_17",
+      "container_id": "seq_7",
+      "clip_begin": 91.818,
+      "clip_end": 96.865,
+      "method": "aligned",
+      "source_text": "Có khi mệt mỏi, đói khát đã làm em kiệt sức, mê man bất tỉnh."
+    },
+    {
+      "sent_id": "id_18",
+      "smil_sid": "sid_18",
+      "container_id": "seq_7",
+      "clip_begin": 96.865,
+      "clip_end": 100.36,
+      "method": "aligned",
+      "source_text": "Một sự tình cờ kì diệu đã kéo em về với cuộc sống."
+    },
+    {
+      "sent_id": "id_19",
+      "smil_sid": "sid_19",
+      "container_id": "seq_8",
+      "clip_begin": 100.36,
+      "clip_end": 107.163,
+      "method": "aligned",
+      "source_text": "Perin là cô gái can đảm có ý thức tự lập, lòng tự trọng và niềm say mê sáng tạo."
+    },
+    {
+      "sent_id": "id_20",
+      "smil_sid": "sid_20",
+      "container_id": "seq_8",
+      "clip_begin": 107.163,
+      "clip_end": 111.085,
+      "method": "aligned",
+      "source_text": "Không chịu đầu hàng số phận, bằng mọi cách cố gắng vươn lên."
+    },
+    {
+      "sent_id": "id_21",
+      "smil_sid": "sid_21",
+      "container_id": "seq_8",
+      "clip_begin": 111.085,
+      "clip_end": 119.86,
+      "method": "aligned",
+      "source_text": "Dầu cực nhọc, đói khổ em vẫn luôn vui vẻ lạc quan với suy nghĩ: Người ta sẽ thành công khi có nghị lực, lòng quyết tâm và sáng tạo."
+    },
+    {
+      "sent_id": "id_22",
+      "smil_sid": "sid_22",
+      "container_id": "seq_9",
+      "clip_begin": 119.86,
+      "clip_end": 122.644,
+      "method": "aligned",
+      "source_text": "Nhờ chăm chỉ, tận tụy ham học hỏi."
+    },
+    {
+      "sent_id": "id_23",
+      "smil_sid": "sid_23",
+      "container_id": "seq_9",
+      "clip_begin": 122.644,
+      "clip_end": 127.091,
+      "method": "aligned",
+      "source_text": "Perin giành được sự tin cậy của ông Vunphran và nhiều người."
+    },
+    {
+      "sent_id": "id_24",
+      "smil_sid": "sid_24",
+      "container_id": "seq_9",
+      "clip_begin": 127.091,
+      "clip_end": 132.75,
+      "method": "aligned",
+      "source_text": "Em đau xót khi biết mối bất đồng giữa ông nội và cha em – người con trai duy nhất của ông."
+    },
+    {
+      "sent_id": "id_25",
+      "smil_sid": "sid_25",
+      "container_id": "seq_10",
+      "clip_begin": 132.75,
+      "clip_end": 137.236,
+      "method": "aligned",
+      "source_text": "Ông Vunphran là nhà doanh nghiệp giàu có nhưng bất hạnh."
+    },
+    {
+      "sent_id": "id_26",
+      "smil_sid": "sid_26",
+      "container_id": "seq_10",
+      "clip_begin": 137.236,
+      "clip_end": 140.34,
+      "method": "aligned",
+      "source_text": "Ông đã già và mù, con trai thì biệt tích."
+    },
+    {
+      "sent_id": "id_27",
+      "smil_sid": "sid_27",
+      "container_id": "seq_10",
+      "clip_begin": 140.34,
+      "clip_end": 147.32,
+      "method": "aligned",
+      "source_text": "Những người bà con tìm mọi cách ngăn cản mối liên hệ giữa ông và con trai để dễ dàng chiếm đoạt tài sản của ông."
+    },
+    {
+      "sent_id": "id_28",
+      "smil_sid": "sid_28",
+      "container_id": "seq_11",
+      "clip_begin": 147.32,
+      "clip_end": 150.125,
+      "method": "aligned",
+      "source_text": "Liệu họ có thực hiện được ý đồ đó không?"
+    },
+    {
+      "sent_id": "id_29",
+      "smil_sid": "sid_29",
+      "container_id": "seq_11",
+      "clip_begin": 150.125,
+      "clip_end": 157.33,
+      "method": "aligned",
+      "source_text": "Và cô bé Perin ít tuổi, thiếu kinh nghiệm sẽ ra sao trước sự theo dõi, bao vây, đe dọa, dụ dỗ từ nhiều phía?"
+    },
+    {
+      "sent_id": "id_30",
+      "smil_sid": "sid_30",
+      "container_id": "seq_12",
+      "clip_begin": 157.33,
+      "clip_end": 162.737,
+      "method": "aligned",
+      "source_text": "Còn ông Vunphran khắc nghiệt từng tức tối lên án mẹ con Perin có còn khăng khăng…"
+    },
+    {
+      "sent_id": "id_31",
+      "smil_sid": "sid_31",
+      "container_id": "seq_12",
+      "clip_begin": 162.737,
+      "clip_end": 164.539,
+      "method": "aligned",
+      "source_text": "“Chẳng bao giờ coi nó là cháu…"
+    },
+    {
+      "sent_id": "id_32",
+      "smil_sid": "sid_32",
+      "container_id": "seq_12",
+      "clip_begin": 164.539,
+      "clip_end": 172.22,
+      "method": "aligned",
+      "source_text": "Bác căm ghét nó cũng như căm ghét con mẹ nó…”, có thể mở rộng vòng tay đón cô cháu nội Perin về TRONG GIA ĐÌNH chăng?"
+    },
+    {
+      "sent_id": "id_33",
+      "smil_sid": "sid_33",
+      "container_id": "seq_13",
+      "clip_begin": 172.22,
+      "clip_end": 185.27,
+      "method": "exact",
+      "source_text": "Bằng lối hành văn trong sáng pha chút hóm hỉnh, bằng óc quan sát tinh tế, sự hiểu biết tâm lý tuổi nhỏ tường tận…, Hector Malot sẽ cuốn hút và làm say mê các bạn nhỏ khi đọc TRONG GIA ĐÌNH."
+    },
+    {
+      "sent_id": "id_34",
+      "smil_sid": "sid_34",
+      "container_id": "seq_14",
+      "clip_begin": 185.27,
+      "clip_end": 188.432,
+      "method": "aligned",
+      "source_text": "Chúng tôi trân trọng giới thiệu TRONG GIA ĐÌNH với các bạn."
+    },
+    {
+      "sent_id": "id_35",
+      "smil_sid": "sid_35",
+      "container_id": "seq_14",
+      "clip_begin": 188.432,
+      "clip_end": 195.858,
+      "method": "aligned",
+      "source_text": "Mong tập sách này vừa giả trí vừa bồi dưỡng phát huy với các bậc cha mẹ, các bạn nhỏ những tình cảm tốt đẹp của con người."
+    },
+    {
+      "sent_id": "id_36",
+      "smil_sid": "sid_36",
+      "container_id": "seq_14",
+      "clip_begin": 195.858,
+      "clip_end": 199.281,
+      "method": "aligned",
+      "source_text": "Đó là ý chí, nghị lực để vượt mọi khó khăn."
+    },
+    {
+      "sent_id": "id_37",
+      "smil_sid": "sid_37",
+      "container_id": "seq_14",
+      "clip_begin": 199.281,
+      "clip_end": 203.925,
+      "method": "aligned",
+      "source_text": "Đó là ý thức tự lập, tự tin không ỷ lại bất cứ điều gì."
+    },
+    {
+      "sent_id": "id_38",
+      "smil_sid": "sid_38",
+      "container_id": "seq_14",
+      "clip_begin": 203.925,
+      "clip_end": 205.926,
+      "method": "aligned",
+      "source_text": "Đó là niềm say mê sáng tạo…"
+    },
+    {
+      "sent_id": "id_39",
+      "smil_sid": "sid_39",
+      "container_id": "seq_14",
+      "clip_begin": 205.926,
+      "clip_end": 209.94,
+      "method": "aligned",
+      "source_text": "Và hơn tất cả là lòng quan tâm sâu sắc và tình thương yêu con người."
+    },
+    {
+      "sent_id": "id_40",
+      "smil_sid": "sid_40",
+      "container_id": "seq_15",
+      "clip_begin": 209.94,
+      "clip_end": 211.71,
+      "method": "exact",
+      "source_text": "Kỷ niệm QUỐC TẾ PHỤ NỮ"
+    },
+    {
+      "sent_id": "id_41",
+      "smil_sid": "sid_41",
+      "container_id": "seq_16",
+      "clip_begin": 211.71,
+      "clip_end": 212.952,
+      "method": "exact",
+      "source_text": "HUỲNH PHAN THANH YÊN"
+    }
+  ]
+}

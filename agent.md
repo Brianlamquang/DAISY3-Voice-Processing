@@ -14,7 +14,7 @@ Dự án gồm **4 nhiệm vụ chính liên kết tuần tự** theo đường 
 flowchart LR
     A["data/trong_gia_dinh.epub"] --> B["Task 1: Text & XML Lead\n(ĐÃ HOÀN THÀNH)"]
     B -->|"dtbook.xml\nsegments.json"| C["Task 2: TTS & Audio Lead\n(ĐANG THỰC HIỆN)"]
-    B --> D["Task 3: Alignment & Pipeline Lead\n(TIẾP THEO)"]
+    B --> D["Task 3: Alignment & Pipeline Lead\n(ĐANG THỰC HIỆN)"]
     C -->|"Chuong_XX.mp3\ntimestamps.json"| D
     D -->|"mo0.smil, book.opf,\nnavigation.ncx"| E["Task 4: QA, Packaging & Report\n(TIẾP THEO)"]
     E -->|"Trong_Gia_Dinh.zip\nSHA-256 sums"| F["Sách DAISY 3 hoàn chỉnh\n(Thorium / EasyReader)"]
@@ -23,7 +23,7 @@ flowchart LR
 ### Bảng Trạng Thái Nhiệm Vụ:
 * **Task 1 (Text & XML):** `[COMPLETED]` - Đã trích xuất và chuẩn hóa 23 chương, tạo `dtbook.xml` chuẩn DTBook 2005-3 và `segments.json`.
 * **Task 2 (TTS & Giọng đọc):** `[IN PROGRESS]` - Sinh audio theo chương bằng VieNeu (`Minh Đức`, ONNX), giữ context theo paragraph và tạo metadata thời gian phục vụ forced alignment ở Task 3. Chapter 00 đã validation thành công.
-* **Task 3 (Đồng bộ SMIL & Đóng gói DAISY):** `[PENDING / NEXT]` - Tạo `mo0.smil`, `book.opf`, `navigation.ncx`, `resources.res`.
+* **Task 3 (Đồng bộ SMIL & Đóng gói DAISY):** `[IN PROGRESS]` - Pilot Giới thiệu và Chương 1 đã sinh `mo0.smil`, `book.opf`, `navigation.ncx`, `resources.res`. Các chương 2–22 chờ audio Task 2.
 * **Task 4 (Kiểm thử & Báo cáo):** `[PENDING / NEXT]` - Kiểm thử hiển thị chữ chạy trên Thorium Reader, nén zip và tạo mã băm SHA-256.
 
 ---
@@ -45,14 +45,22 @@ Tất cả các Agent **bắt buộc tuân thủ** cấu trúc phân tách rõ r
 │   ├── generate_dtbook.py  # (Task 1) Sinh DTBook XML 2005-3
 │   ├── validate_dtbook.py  # (Task 1) Kiểm thử XML, ID và DTD
 │   ├── run_task1.py        # (Task 1) Runner
-│   └── tts/                # (Task 2) Pipeline TTS & Audio
-│       ├── __init__.py
-│       ├── normalize.py    # Chuẩn hóa text riêng cho TTS
-│       ├── synthesize.py   # Context chunking và sinh audio bằng VieNeu
-│       ├── run_task2.py    # Runner Task 2
-│       ├── validate_task2.py # Kiểm tra audio, metadata và dữ liệu handoff
-│       ├── requirements.txt  # Dependencies của Task 2
-│       └── README.md       # Tài liệu implementation Task 2
+│   ├── tts/                # (Task 2) Pipeline TTS & Audio
+│   │   ├── __init__.py
+│   │   ├── normalize.py    # Chuẩn hóa text riêng cho TTS
+│   │   ├── synthesize.py   # Context chunking và sinh audio bằng VieNeu
+│   │   ├── run_task2.py    # Runner Task 2
+│   │   ├── validate_task2.py # Kiểm tra audio, metadata và dữ liệu handoff
+│   │   ├── requirements.txt  # Dependencies của Task 2
+│   │   └── README.md       # Tài liệu implementation Task 2
+│   └── daisy/              # (Task 3) Alignment + gói DAISY 3
+│       ├── align.py        # CTC trong cửa sổ chunk, fallback theo độ dài chữ
+│       ├── clips.py        # Ghép clip câu liền mạch từ DTBook và timestamps
+│       ├── build.py        # mo0.smil, book.opf, navigation.ncx, resources.res
+│       ├── run_task3.py
+│       ├── validate_task3.py
+│       ├── requirements.txt
+│       └── README.md
 └── results/                # Kết quả đầu ra theo từng Task
     ├── task1/              # Task 1: DTBook XML + segments.json
     │   ├── Trong_Gia_Dinh-Gioi_Thieu/
@@ -167,6 +175,10 @@ python3 src/run_task1.py --pilot
 # Chạy kiểm thử Nhiệm vụ 2
 python src/tts/run_task2.py --pilot
 python src/tts/validate_task2.py --pilot
+
+# Chạy kiểm thử Nhiệm vụ 3 (Python 3.12 + ffmpeg; xem src/daisy/README.md)
+python src/daisy/run_task3.py --pilot
+python src/daisy/validate_task3.py --pilot
 
 # Kiểm tra trạng thái Git
 git status
