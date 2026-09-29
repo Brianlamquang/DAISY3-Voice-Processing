@@ -1,0 +1,3996 @@
+{
+  "metadata": {
+    "dtb:uid": "978-604-69-8175-6",
+    "dtb:generator": "DAISY 3 DTBook Python Pipeline (K35)",
+    "dc:Title": "Trong Gia Đình",
+    "dc:Creator": "Hector Malot",
+    "dc:Translator": "Huỳnh Lý & Mai Hương, Huỳnh Phan Thanh Yên",
+    "dc:Publisher": "NXB Văn Học",
+    "dc:Date": "2017",
+    "dc:Identifier": "978-604-69-8175-6",
+    "dc:Language": "vi-VN",
+    "dc:Subject": "Văn học & Tiểu thuyết",
+    "dc:Format": "ANSI/NISO Z39.86-2005",
+    "dc:Description": "Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình.",
+    "note": "Bản dịch của GS. Huỳnh Lý & Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"
+  },
+  "chapter_idx": 11,
+  "chapter_title": "Chương 11",
+  "total_paragraphs": 96,
+  "total_sentences": 326,
+  "audio_file": "Chuong_11.mp3",
+  "audio_duration": 1349.645,
+  "headings": [
+    {
+      "kind": "heading",
+      "role": "book_title",
+      "sent_id": "id_1",
+      "smil_sid": "sid_1",
+      "container_id": "forsmil-1",
+      "source_text": "Trong Gia Đình",
+      "tts_text": "Trong Gia Đình",
+      "start": 0.0,
+      "speech_end": 0.88,
+      "end": 1.05,
+      "pause_after_ms": 170
+    },
+    {
+      "kind": "heading",
+      "role": "author",
+      "sent_id": "id_2",
+      "smil_sid": "sid_2",
+      "container_id": "forsmil-2",
+      "source_text": "Hector Malot",
+      "tts_text": "Hector Malot",
+      "start": 1.05,
+      "speech_end": 2.09,
+      "end": 2.26,
+      "pause_after_ms": 170
+    },
+    {
+      "kind": "heading",
+      "role": "chapter_title",
+      "sent_id": "id_3",
+      "smil_sid": "sid_3",
+      "container_id": "faux-heading",
+      "source_text": "Chương 11",
+      "tts_text": "Chương 11",
+      "start": 2.26,
+      "speech_end": 3.06,
+      "end": 3.23,
+      "pause_after_ms": 170
+    }
+  ],
+  "tts": {
+    "engine": "vieneu",
+    "voice": "Minh Đức",
+    "resolved_voice": "Minh Đức",
+    "backend": "onnx",
+    "max_sentences_per_context_chunk": 12,
+    "max_chars_per_context_chunk": 900,
+    "context_chunk_join_pause_ms": 155,
+    "paragraph_pause_ms": 170,
+    "section_pause_ms": 250,
+    "internal_punctuation": "native",
+    "bitrate": "128k"
+  },
+  "chunks": [
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p1_chunk_01",
+      "p_id": "c11_p1",
+      "start": 3.23,
+      "speech_end": 49.9,
+      "end": 49.9,
+      "pause_after_ms": 0,
+      "source_text": "Perin vừa phát hiện khi đã đến đầu hốc đất. Em nhận thấy cái hốc này dính với một hốc khác rộng và dài hơn, nhưng vì thế ít cây cối hơn. Sau khi đi trong đồng cỏ, dọc theo bờ ao, lát sau, em hiểu là chim chóc ở đây ít hơn. Chính cái ao hồ của em là nơi mà bầy vật có cánh đã chọn. Chim chóc tìm được thức ăn và sự yên tĩnh trong những lùm cây xum xuê. Những cây sậy to lớn, những giống thủy thảo che kín mặt nước thành một tấm thảm xanh di động. Một giờ sau, Perin quay trở về, em nhìn thấy ao hồ gần chìm trong bóng tối của chiều tà rất yên tĩnh, rất xanh và rất xinh. Perin tự nhủ em cũng rất thông minh. Em cũng đã chiếm nơi đây làm tổ ấm như những con vật ấy!",
+      "tts_text": "Perin vừa phát hiện khi đã đến đầu hốc đất. Em nhận thấy cái hốc này dính với một hốc khác rộng và dài hơn, nhưng vì thế ít cây cối hơn. Sau khi đi trong đồng cỏ, dọc theo bờ ao, lát sau, em hiểu là chim chóc ở đây ít hơn. Chính cái ao hồ của em là nơi mà bầy vật có cánh đã chọn. Chim chóc tìm được thức ăn và sự yên tĩnh trong những lùm cây xum xuê. Những cây sậy to lớn, những giống thủy thảo che kín mặt nước thành một tấm thảm xanh di động. Một giờ sau, Perin quay trở về, em nhìn thấy ao hồ gần chìm trong bóng tối của chiều tà rất yên tĩnh, rất xanh và rất xinh. Perin tự nhủ em cũng rất thông minh. Em cũng đã chiếm nơi đây làm tổ ấm như những con vật ấy!",
+      "sentences": [
+        {
+          "sent_id": "id_4",
+          "smil_sid": "sid_4",
+          "p_id": "c11_p1",
+          "seq_id": "seq_1",
+          "source_text": "Perin vừa phát hiện khi đã đến đầu hốc đất.",
+          "tts_text": "Perin vừa phát hiện khi đã đến đầu hốc đất."
+        },
+        {
+          "sent_id": "id_5",
+          "smil_sid": "sid_5",
+          "p_id": "c11_p1",
+          "seq_id": "seq_1",
+          "source_text": "Em nhận thấy cái hốc này dính với một hốc khác rộng và dài hơn, nhưng vì thế ít cây cối hơn.",
+          "tts_text": "Em nhận thấy cái hốc này dính với một hốc khác rộng và dài hơn, nhưng vì thế ít cây cối hơn."
+        },
+        {
+          "sent_id": "id_6",
+          "smil_sid": "sid_6",
+          "p_id": "c11_p1",
+          "seq_id": "seq_1",
+          "source_text": "Sau khi đi trong đồng cỏ, dọc theo bờ ao, lát sau, em hiểu là chim chóc ở đây ít hơn.",
+          "tts_text": "Sau khi đi trong đồng cỏ, dọc theo bờ ao, lát sau, em hiểu là chim chóc ở đây ít hơn."
+        },
+        {
+          "sent_id": "id_7",
+          "smil_sid": "sid_7",
+          "p_id": "c11_p1",
+          "seq_id": "seq_1",
+          "source_text": "Chính cái ao hồ của em là nơi mà bầy vật có cánh đã chọn.",
+          "tts_text": "Chính cái ao hồ của em là nơi mà bầy vật có cánh đã chọn."
+        },
+        {
+          "sent_id": "id_8",
+          "smil_sid": "sid_8",
+          "p_id": "c11_p1",
+          "seq_id": "seq_1",
+          "source_text": "Chim chóc tìm được thức ăn và sự yên tĩnh trong những lùm cây xum xuê.",
+          "tts_text": "Chim chóc tìm được thức ăn và sự yên tĩnh trong những lùm cây xum xuê."
+        },
+        {
+          "sent_id": "id_9",
+          "smil_sid": "sid_9",
+          "p_id": "c11_p1",
+          "seq_id": "seq_1",
+          "source_text": "Những cây sậy to lớn, những giống thủy thảo che kín mặt nước thành một tấm thảm xanh di động.",
+          "tts_text": "Những cây sậy to lớn, những giống thủy thảo che kín mặt nước thành một tấm thảm xanh di động."
+        },
+        {
+          "sent_id": "id_10",
+          "smil_sid": "sid_10",
+          "p_id": "c11_p1",
+          "seq_id": "seq_1",
+          "source_text": "Một giờ sau, Perin quay trở về, em nhìn thấy ao hồ gần chìm trong bóng tối của chiều tà rất yên tĩnh, rất xanh và rất xinh.",
+          "tts_text": "Một giờ sau, Perin quay trở về, em nhìn thấy ao hồ gần chìm trong bóng tối của chiều tà rất yên tĩnh, rất xanh và rất xinh."
+        },
+        {
+          "sent_id": "id_11",
+          "smil_sid": "sid_11",
+          "p_id": "c11_p1",
+          "seq_id": "seq_1",
+          "source_text": "Perin tự nhủ em cũng rất thông minh.",
+          "tts_text": "Perin tự nhủ em cũng rất thông minh."
+        },
+        {
+          "sent_id": "id_12",
+          "smil_sid": "sid_12",
+          "p_id": "c11_p1",
+          "seq_id": "seq_1",
+          "source_text": "Em cũng đã chiếm nơi đây làm tổ ấm như những con vật ấy!",
+          "tts_text": "Em cũng đã chiếm nơi đây làm tổ ấm như những con vật ấy!"
+        }
+      ]
+    },
+    {
+      "kind": "section_break",
+      "chunk_id": "c11_p2_section_break_02",
+      "p_id": "c11_p2",
+      "start": 49.9,
+      "speech_end": 49.9,
+      "end": 50.15,
+      "pause_after_ms": 250,
+      "sentences": [
+        {
+          "sent_id": "id_13",
+          "smil_sid": "sid_13",
+          "p_id": "c11_p2",
+          "seq_id": "seq_2",
+          "source_text": "oOo",
+          "tts_text": ""
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p3_chunk_01",
+      "p_id": "c11_p3",
+      "start": 50.15,
+      "speech_end": 84.21,
+      "end": 84.38,
+      "pause_after_ms": 170,
+      "source_text": "Khi Perin đi ngủ, những sự việc xảy ra trong ngày lại hiện lên trong giấc mộng. Những tháng cuối, cuộc đời của em đầy buồn phiền, thì giấc mộng cũng thế! Từ khi tai họa vùi dập, đã bao lần, em thức dậy ngột ngạt, người ướt như tắm. Trong giấc mơ, ác mộng kéo dài những nỗi gian khổ của thực tế. Thật ra, sau khi đến Marôcua, niềm tin đã trở lại với em. Nhờ ảnh hưởng của lao động, những cơn ác mộng cũng bớt đau khổ và thưa dần! Perin cảm thấy cơn ác mộng không quá nặng nề và không siết chặt cổ họng em như trước nữa.",
+      "tts_text": "Khi Perin đi ngủ, những sự việc xảy ra trong ngày lại hiện lên trong giấc mộng. Những tháng cuối, cuộc đời của em đầy buồn phiền, thì giấc mộng cũng thế! Từ khi tai họa vùi dập, đã bao lần, em thức dậy ngột ngạt, người ướt như tắm. Trong giấc mơ, ác mộng kéo dài những nỗi gian khổ của thực tế. Thật ra, sau khi đến Marôcua, niềm tin đã trở lại với em. Nhờ ảnh hưởng của lao động, những cơn ác mộng cũng bớt đau khổ và thưa dần! Perin cảm thấy cơn ác mộng không quá nặng nề và không siết chặt cổ họng em như trước nữa.",
+      "sentences": [
+        {
+          "sent_id": "id_14",
+          "smil_sid": "sid_14",
+          "p_id": "c11_p3",
+          "seq_id": "seq_3",
+          "source_text": "Khi Perin đi ngủ, những sự việc xảy ra trong ngày lại hiện lên trong giấc mộng.",
+          "tts_text": "Khi Perin đi ngủ, những sự việc xảy ra trong ngày lại hiện lên trong giấc mộng."
+        },
+        {
+          "sent_id": "id_15",
+          "smil_sid": "sid_15",
+          "p_id": "c11_p3",
+          "seq_id": "seq_3",
+          "source_text": "Những tháng cuối, cuộc đời của em đầy buồn phiền, thì giấc mộng cũng thế!",
+          "tts_text": "Những tháng cuối, cuộc đời của em đầy buồn phiền, thì giấc mộng cũng thế!"
+        },
+        {
+          "sent_id": "id_16",
+          "smil_sid": "sid_16",
+          "p_id": "c11_p3",
+          "seq_id": "seq_3",
+          "source_text": "Từ khi tai họa vùi dập, đã bao lần, em thức dậy ngột ngạt, người ướt như tắm.",
+          "tts_text": "Từ khi tai họa vùi dập, đã bao lần, em thức dậy ngột ngạt, người ướt như tắm."
+        },
+        {
+          "sent_id": "id_17",
+          "smil_sid": "sid_17",
+          "p_id": "c11_p3",
+          "seq_id": "seq_3",
+          "source_text": "Trong giấc mơ, ác mộng kéo dài những nỗi gian khổ của thực tế.",
+          "tts_text": "Trong giấc mơ, ác mộng kéo dài những nỗi gian khổ của thực tế."
+        },
+        {
+          "sent_id": "id_18",
+          "smil_sid": "sid_18",
+          "p_id": "c11_p3",
+          "seq_id": "seq_3",
+          "source_text": "Thật ra, sau khi đến Marôcua, niềm tin đã trở lại với em.",
+          "tts_text": "Thật ra, sau khi đến Marôcua, niềm tin đã trở lại với em."
+        },
+        {
+          "sent_id": "id_19",
+          "smil_sid": "sid_19",
+          "p_id": "c11_p3",
+          "seq_id": "seq_3",
+          "source_text": "Nhờ ảnh hưởng của lao động, những cơn ác mộng cũng bớt đau khổ và thưa dần!",
+          "tts_text": "Nhờ ảnh hưởng của lao động, những cơn ác mộng cũng bớt đau khổ và thưa dần!"
+        },
+        {
+          "sent_id": "id_20",
+          "smil_sid": "sid_20",
+          "p_id": "c11_p3",
+          "seq_id": "seq_3",
+          "source_text": "Perin cảm thấy cơn ác mộng không quá nặng nề và không siết chặt cổ họng em như trước nữa.",
+          "tts_text": "Perin cảm thấy cơn ác mộng không quá nặng nề và không siết chặt cổ họng em như trước nữa."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p4_chunk_01",
+      "p_id": "c11_p4",
+      "start": 84.38,
+      "speech_end": 148.5,
+      "end": 148.655,
+      "pause_after_ms": 155,
+      "source_text": "Bây giờ, khi đi ngủ, Perin nghĩ đến một ngày mai được bảo đảm. Em nghĩ đến xưởng máy hay hòn đảo của em; Perin còn nghĩ đến những gì em đã làm, sắp làm để cải thiện đời sống: đôi dép, chiếc áo sơ mi, chiếc áo chẽn, chiếc váy… trong giấc mơ, em thấy diễn lại cái đề tài em đã vắt óc suy nghĩ. Có khi là một xưởng máy trong đó có bà Tiên dùng chiếc đũa thần cho các cỗ máy hoạt động thay thế bố Chân Tháp khỏi phải nện chày! Tụi nhóc tì điều khiển các cỗ máy ấy chẳng phải mệt nhọc tí nào! Có khi Perin nghĩ đến một ngày mai tươi sáng niềm vui cho mọi người. Có khi trong giấc mơ, Perin thấy nổi lên một hòn đảo tuyệt đẹp. Phong cảnh và thú vật ở đấy hình dáng kỳ dị chỉ có ở trong mộng. Có khi, Perin thấy những ý thích tầm thường của em biến thành mộng. Em đang khâu đôi giày bốttin để thay đôi dép. Em còn khâu những chiếc áo kỳ lạ bằng kim cương và hồng ngọc do các vị thần trong các hang động dệt.",
+      "tts_text": "Bây giờ, khi đi ngủ, Perin nghĩ đến một ngày mai được bảo đảm. Em nghĩ đến xưởng máy hay hòn đảo của em; Perin còn nghĩ đến những gì em đã làm, sắp làm để cải thiện đời sống: đôi dép, chiếc áo sơ mi, chiếc áo chẽn, chiếc váy… trong giấc mơ, em thấy diễn lại cái đề tài em đã vắt óc suy nghĩ. Có khi là một xưởng máy trong đó có bà Tiên dùng chiếc đũa thần cho các cỗ máy hoạt động thay thế bố Chân Tháp khỏi phải nện chày! Tụi nhóc tì điều khiển các cỗ máy ấy chẳng phải mệt nhọc tí nào! Có khi Perin nghĩ đến một ngày mai tươi sáng niềm vui cho mọi người. Có khi trong giấc mơ, Perin thấy nổi lên một hòn đảo tuyệt đẹp. Phong cảnh và thú vật ở đấy hình dáng kỳ dị chỉ có ở trong mộng. Có khi, Perin thấy những ý thích tầm thường của em biến thành mộng. Em đang khâu đôi giày bốttin để thay đôi dép. Em còn khâu những chiếc áo kỳ lạ bằng kim cương và hồng ngọc do các vị thần trong các hang động dệt.",
+      "sentences": [
+        {
+          "sent_id": "id_21",
+          "smil_sid": "sid_21",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Bây giờ, khi đi ngủ, Perin nghĩ đến một ngày mai được bảo đảm.",
+          "tts_text": "Bây giờ, khi đi ngủ, Perin nghĩ đến một ngày mai được bảo đảm."
+        },
+        {
+          "sent_id": "id_22",
+          "smil_sid": "sid_22",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Em nghĩ đến xưởng máy hay hòn đảo của em; Perin còn nghĩ đến những gì em đã làm, sắp làm để cải thiện đời sống: đôi dép, chiếc áo sơ mi, chiếc áo chẽn, chiếc váy… trong giấc mơ, em thấy diễn lại cái đề tài em đã vắt óc suy nghĩ.",
+          "tts_text": "Em nghĩ đến xưởng máy hay hòn đảo của em; Perin còn nghĩ đến những gì em đã làm, sắp làm để cải thiện đời sống: đôi dép, chiếc áo sơ mi, chiếc áo chẽn, chiếc váy… trong giấc mơ, em thấy diễn lại cái đề tài em đã vắt óc suy nghĩ."
+        },
+        {
+          "sent_id": "id_23",
+          "smil_sid": "sid_23",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Có khi là một xưởng máy trong đó có bà Tiên dùng chiếc đũa thần cho các cỗ máy hoạt động thay thế bố Chân Tháp khỏi phải nện chày!",
+          "tts_text": "Có khi là một xưởng máy trong đó có bà Tiên dùng chiếc đũa thần cho các cỗ máy hoạt động thay thế bố Chân Tháp khỏi phải nện chày!"
+        },
+        {
+          "sent_id": "id_24",
+          "smil_sid": "sid_24",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Tụi nhóc tì điều khiển các cỗ máy ấy chẳng phải mệt nhọc tí nào!",
+          "tts_text": "Tụi nhóc tì điều khiển các cỗ máy ấy chẳng phải mệt nhọc tí nào!"
+        },
+        {
+          "sent_id": "id_25",
+          "smil_sid": "sid_25",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Có khi Perin nghĩ đến một ngày mai tươi sáng niềm vui cho mọi người.",
+          "tts_text": "Có khi Perin nghĩ đến một ngày mai tươi sáng niềm vui cho mọi người."
+        },
+        {
+          "sent_id": "id_26",
+          "smil_sid": "sid_26",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Có khi trong giấc mơ, Perin thấy nổi lên một hòn đảo tuyệt đẹp.",
+          "tts_text": "Có khi trong giấc mơ, Perin thấy nổi lên một hòn đảo tuyệt đẹp."
+        },
+        {
+          "sent_id": "id_27",
+          "smil_sid": "sid_27",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Phong cảnh và thú vật ở đấy hình dáng kỳ dị chỉ có ở trong mộng.",
+          "tts_text": "Phong cảnh và thú vật ở đấy hình dáng kỳ dị chỉ có ở trong mộng."
+        },
+        {
+          "sent_id": "id_28",
+          "smil_sid": "sid_28",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Có khi, Perin thấy những ý thích tầm thường của em biến thành mộng.",
+          "tts_text": "Có khi, Perin thấy những ý thích tầm thường của em biến thành mộng."
+        },
+        {
+          "sent_id": "id_29",
+          "smil_sid": "sid_29",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Em đang khâu đôi giày bốttin để thay đôi dép.",
+          "tts_text": "Em đang khâu đôi giày bốttin để thay đôi dép."
+        },
+        {
+          "sent_id": "id_30",
+          "smil_sid": "sid_30",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Em còn khâu những chiếc áo kỳ lạ bằng kim cương và hồng ngọc do các vị thần trong các hang động dệt.",
+          "tts_text": "Em còn khâu những chiếc áo kỳ lạ bằng kim cương và hồng ngọc do các vị thần trong các hang động dệt."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p4_chunk_02",
+      "p_id": "c11_p4",
+      "start": 148.655,
+      "speech_end": 154.575,
+      "end": 154.745,
+      "pause_after_ms": 170,
+      "source_text": "Những chiếc áo ấy sẽ thay thế chiếc áo chẽn và chiếc váy mà em tự hứa sẽ sắm cho mình.",
+      "tts_text": "Những chiếc áo ấy sẽ thay thế chiếc áo chẽn và chiếc váy mà em tự hứa sẽ sắm cho mình.",
+      "sentences": [
+        {
+          "sent_id": "id_31",
+          "smil_sid": "sid_31",
+          "p_id": "c11_p4",
+          "seq_id": "seq_4",
+          "source_text": "Những chiếc áo ấy sẽ thay thế chiếc áo chẽn và chiếc váy mà em tự hứa sẽ sắm cho mình.",
+          "tts_text": "Những chiếc áo ấy sẽ thay thế chiếc áo chẽn và chiếc váy mà em tự hứa sẽ sắm cho mình."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p5_chunk_01",
+      "p_id": "c11_p5",
+      "start": 154.745,
+      "speech_end": 181.415,
+      "end": 181.585,
+      "pause_after_ms": 170,
+      "source_text": "Thật ra, khó mà tránh được lầm lẫn trong cách suy tư bằng tưởng tượng. Trong giấc mộng, trí tưởng tượng nhiều khi không chiều theo ý nghĩ của Perin. Em cũng không tin khi em ngủ, những tư tưởng của ban đêm sẽ tiếp tục những ý nghĩ của ban ngày, hay chỉ nối tiếp những nghĩ ngợi khi đã buồn ngủ. Những ý nghĩ ấy lắm khi xâu chuỗi và những giấc ngủ ngon đem lại cho Perin niềm an ủi, nâng đỡ em đứng lên.",
+      "tts_text": "Thật ra, khó mà tránh được lầm lẫn trong cách suy tư bằng tưởng tượng. Trong giấc mộng, trí tưởng tượng nhiều khi không chiều theo ý nghĩ của Perin. Em cũng không tin khi em ngủ, những tư tưởng của ban đêm sẽ tiếp tục những ý nghĩ của ban ngày, hay chỉ nối tiếp những nghĩ ngợi khi đã buồn ngủ. Những ý nghĩ ấy lắm khi xâu chuỗi và những giấc ngủ ngon đem lại cho Perin niềm an ủi, nâng đỡ em đứng lên.",
+      "sentences": [
+        {
+          "sent_id": "id_32",
+          "smil_sid": "sid_32",
+          "p_id": "c11_p5",
+          "seq_id": "seq_5",
+          "source_text": "Thật ra, khó mà tránh được lầm lẫn trong cách suy tư bằng tưởng tượng.",
+          "tts_text": "Thật ra, khó mà tránh được lầm lẫn trong cách suy tư bằng tưởng tượng."
+        },
+        {
+          "sent_id": "id_33",
+          "smil_sid": "sid_33",
+          "p_id": "c11_p5",
+          "seq_id": "seq_5",
+          "source_text": "Trong giấc mộng, trí tưởng tượng nhiều khi không chiều theo ý nghĩ của Perin.",
+          "tts_text": "Trong giấc mộng, trí tưởng tượng nhiều khi không chiều theo ý nghĩ của Perin."
+        },
+        {
+          "sent_id": "id_34",
+          "smil_sid": "sid_34",
+          "p_id": "c11_p5",
+          "seq_id": "seq_5",
+          "source_text": "Em cũng không tin khi em ngủ, những tư tưởng của ban đêm sẽ tiếp tục những ý nghĩ của ban ngày, hay chỉ nối tiếp những nghĩ ngợi khi đã buồn ngủ.",
+          "tts_text": "Em cũng không tin khi em ngủ, những tư tưởng của ban đêm sẽ tiếp tục những ý nghĩ của ban ngày, hay chỉ nối tiếp những nghĩ ngợi khi đã buồn ngủ."
+        },
+        {
+          "sent_id": "id_35",
+          "smil_sid": "sid_35",
+          "p_id": "c11_p5",
+          "seq_id": "seq_5",
+          "source_text": "Những ý nghĩ ấy lắm khi xâu chuỗi và những giấc ngủ ngon đem lại cho Perin niềm an ủi, nâng đỡ em đứng lên.",
+          "tts_text": "Những ý nghĩ ấy lắm khi xâu chuỗi và những giấc ngủ ngon đem lại cho Perin niềm an ủi, nâng đỡ em đứng lên."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p6_chunk_01",
+      "p_id": "c11_p6",
+      "start": 181.585,
+      "speech_end": 239.145,
+      "end": 239.3,
+      "pause_after_ms": 155,
+      "source_text": "Tối hôm ấy, Perin nằm ngủ trong túp lều đóng cửa. Trước đôi mắt ngái ngủ, cái hình ảnh cuối cùng lướt qua, cũng như cái ý nghĩ đang trôi nổi trong trí óc mơ màng của em, vẫn tiếp tục cuộc thăm dò quanh hòn đảo. Thật ra, chưa chắc Perin đã mơ màng về cuộc du ngoạn mà có lẽ cả về những bữa tiệc. Trong một cái bếp cao, to như ngôi nhà thờ, có một đội phụ bếp bé nhỏ, mặc áo trắng, dáng điệu như bầy quỷ ranh. Chúng đang lăng xăng trên những cái bàn rộng mênh mông và một bếp than rực lửa của địa ngục. Người đập trứng, kẻ đánh trứng. Trứng dậy lên, nổi bọt trắng như tuyết. Các quả trứng ấy, có quả to bằng quả dưa, có quả nhỏ như hạt đậu. Mấy chú phụ bếp chế biến những món ăn kỳ lạ. Hình như bọn họ muốn nấu dọn trứng theo đủ mọi cách: trứng la cốc, trứng rán mỡ, trứng rán khoai tây, trứng phomát, trứng cà chua, trứng ráng dăm bông, trứng với các loại mứt, với rượu rum đang cháy như ánh chớp.",
+      "tts_text": "Tối hôm ấy, Perin nằm ngủ trong túp lều đóng cửa. Trước đôi mắt ngái ngủ, cái hình ảnh cuối cùng lướt qua, cũng như cái ý nghĩ đang trôi nổi trong trí óc mơ màng của em, vẫn tiếp tục cuộc thăm dò quanh hòn đảo. Thật ra, chưa chắc Perin đã mơ màng về cuộc du ngoạn mà có lẽ cả về những bữa tiệc. Trong một cái bếp cao, to như ngôi nhà thờ, có một đội phụ bếp bé nhỏ, mặc áo trắng, dáng điệu như bầy quỷ ranh. Chúng đang lăng xăng trên những cái bàn rộng mênh mông và một bếp than rực lửa của địa ngục. Người đập trứng, kẻ đánh trứng. Trứng dậy lên, nổi bọt trắng như tuyết. Các quả trứng ấy, có quả to bằng quả dưa, có quả nhỏ như hạt đậu. Mấy chú phụ bếp chế biến những món ăn kỳ lạ. Hình như bọn họ muốn nấu dọn trứng theo đủ mọi cách: trứng la cốc, trứng rán mỡ, trứng rán khoai tây, trứng phomát, trứng cà chua, trứng ráng dăm bông, trứng với các loại mứt, với rượu rum đang cháy như ánh chớp.",
+      "sentences": [
+        {
+          "sent_id": "id_36",
+          "smil_sid": "sid_36",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Tối hôm ấy, Perin nằm ngủ trong túp lều đóng cửa.",
+          "tts_text": "Tối hôm ấy, Perin nằm ngủ trong túp lều đóng cửa."
+        },
+        {
+          "sent_id": "id_37",
+          "smil_sid": "sid_37",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Trước đôi mắt ngái ngủ, cái hình ảnh cuối cùng lướt qua, cũng như cái ý nghĩ đang trôi nổi trong trí óc mơ màng của em, vẫn tiếp tục cuộc thăm dò quanh hòn đảo.",
+          "tts_text": "Trước đôi mắt ngái ngủ, cái hình ảnh cuối cùng lướt qua, cũng như cái ý nghĩ đang trôi nổi trong trí óc mơ màng của em, vẫn tiếp tục cuộc thăm dò quanh hòn đảo."
+        },
+        {
+          "sent_id": "id_38",
+          "smil_sid": "sid_38",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Thật ra, chưa chắc Perin đã mơ màng về cuộc du ngoạn mà có lẽ cả về những bữa tiệc.",
+          "tts_text": "Thật ra, chưa chắc Perin đã mơ màng về cuộc du ngoạn mà có lẽ cả về những bữa tiệc."
+        },
+        {
+          "sent_id": "id_39",
+          "smil_sid": "sid_39",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Trong một cái bếp cao, to như ngôi nhà thờ, có một đội phụ bếp bé nhỏ, mặc áo trắng, dáng điệu như bầy quỷ ranh.",
+          "tts_text": "Trong một cái bếp cao, to như ngôi nhà thờ, có một đội phụ bếp bé nhỏ, mặc áo trắng, dáng điệu như bầy quỷ ranh."
+        },
+        {
+          "sent_id": "id_40",
+          "smil_sid": "sid_40",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Chúng đang lăng xăng trên những cái bàn rộng mênh mông và một bếp than rực lửa của địa ngục.",
+          "tts_text": "Chúng đang lăng xăng trên những cái bàn rộng mênh mông và một bếp than rực lửa của địa ngục."
+        },
+        {
+          "sent_id": "id_41",
+          "smil_sid": "sid_41",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Người đập trứng, kẻ đánh trứng.",
+          "tts_text": "Người đập trứng, kẻ đánh trứng."
+        },
+        {
+          "sent_id": "id_42",
+          "smil_sid": "sid_42",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Trứng dậy lên, nổi bọt trắng như tuyết.",
+          "tts_text": "Trứng dậy lên, nổi bọt trắng như tuyết."
+        },
+        {
+          "sent_id": "id_43",
+          "smil_sid": "sid_43",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Các quả trứng ấy, có quả to bằng quả dưa, có quả nhỏ như hạt đậu.",
+          "tts_text": "Các quả trứng ấy, có quả to bằng quả dưa, có quả nhỏ như hạt đậu."
+        },
+        {
+          "sent_id": "id_44",
+          "smil_sid": "sid_44",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Mấy chú phụ bếp chế biến những món ăn kỳ lạ.",
+          "tts_text": "Mấy chú phụ bếp chế biến những món ăn kỳ lạ."
+        },
+        {
+          "sent_id": "id_45",
+          "smil_sid": "sid_45",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Hình như bọn họ muốn nấu dọn trứng theo đủ mọi cách: trứng la cốc, trứng rán mỡ, trứng rán khoai tây, trứng phomát, trứng cà chua, trứng ráng dăm bông, trứng với các loại mứt, với rượu rum đang cháy như ánh chớp.",
+          "tts_text": "Hình như bọn họ muốn nấu dọn trứng theo đủ mọi cách: trứng la cốc, trứng rán mỡ, trứng rán khoai tây, trứng phomát, trứng cà chua, trứng ráng dăm bông, trứng với các loại mứt, với rượu rum đang cháy như ánh chớp."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p6_chunk_02",
+      "p_id": "c11_p6",
+      "start": 239.3,
+      "speech_end": 268.93,
+      "end": 269.1,
+      "pause_after_ms": 170,
+      "source_text": "Bên cạnh các chú, có những người quan trọng, chắc là các bác đầu bếp. Họ đang nhào bột với trứng để làm các món bánh ngọt, bánh rán… Mỗi lần Perin tỉnh giấc, cố cựa quậy, để xua tan giấc mộng ngu ngốc, thì nó lại bám lấy em. Những chú phụ bếp cũng chẳng thả em ra, vẫn tiếp tục cái công việc kỳ dị ấy. Khi còi nhà máy đánh thức Perin, em đang theo dõi cách làm kem sôcôla. Em cảm thấy trên môi còn đượm mùi thơm và vị ngọt của món kem.",
+      "tts_text": "Bên cạnh các chú, có những người quan trọng, chắc là các bác đầu bếp. Họ đang nhào bột với trứng để làm các món bánh ngọt, bánh rán… Mỗi lần Perin tỉnh giấc, cố cựa quậy, để xua tan giấc mộng ngu ngốc, thì nó lại bám lấy em. Những chú phụ bếp cũng chẳng thả em ra, vẫn tiếp tục cái công việc kỳ dị ấy. Khi còi nhà máy đánh thức Perin, em đang theo dõi cách làm kem sôcôla. Em cảm thấy trên môi còn đượm mùi thơm và vị ngọt của món kem.",
+      "sentences": [
+        {
+          "sent_id": "id_46",
+          "smil_sid": "sid_46",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Bên cạnh các chú, có những người quan trọng, chắc là các bác đầu bếp.",
+          "tts_text": "Bên cạnh các chú, có những người quan trọng, chắc là các bác đầu bếp."
+        },
+        {
+          "sent_id": "id_47",
+          "smil_sid": "sid_47",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Họ đang nhào bột với trứng để làm các món bánh ngọt, bánh rán…",
+          "tts_text": "Họ đang nhào bột với trứng để làm các món bánh ngọt, bánh rán…"
+        },
+        {
+          "sent_id": "id_48",
+          "smil_sid": "sid_48",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Mỗi lần Perin tỉnh giấc, cố cựa quậy, để xua tan giấc mộng ngu ngốc, thì nó lại bám lấy em.",
+          "tts_text": "Mỗi lần Perin tỉnh giấc, cố cựa quậy, để xua tan giấc mộng ngu ngốc, thì nó lại bám lấy em."
+        },
+        {
+          "sent_id": "id_49",
+          "smil_sid": "sid_49",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Những chú phụ bếp cũng chẳng thả em ra, vẫn tiếp tục cái công việc kỳ dị ấy.",
+          "tts_text": "Những chú phụ bếp cũng chẳng thả em ra, vẫn tiếp tục cái công việc kỳ dị ấy."
+        },
+        {
+          "sent_id": "id_50",
+          "smil_sid": "sid_50",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Khi còi nhà máy đánh thức Perin, em đang theo dõi cách làm kem sôcôla.",
+          "tts_text": "Khi còi nhà máy đánh thức Perin, em đang theo dõi cách làm kem sôcôla."
+        },
+        {
+          "sent_id": "id_51",
+          "smil_sid": "sid_51",
+          "p_id": "c11_p6",
+          "seq_id": "seq_6",
+          "source_text": "Em cảm thấy trên môi còn đượm mùi thơm và vị ngọt của món kem.",
+          "tts_text": "Em cảm thấy trên môi còn đượm mùi thơm và vị ngọt của món kem."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p7_chunk_01",
+      "p_id": "c11_p7",
+      "start": 269.1,
+      "speech_end": 309.53,
+      "end": 309.7,
+      "pause_after_ms": 170,
+      "source_text": "Khi đầu óc Perin đã sáng suốt, em hiểu cái hấp dẫn của chuyến du ngoạn đối với em không phải là cái đẹp duyên dáng cũng chẳng phải là sự yên tĩnh của hòn đảo! Thật đơn giản! Đã gần nữa tháng nay, Perin chỉ được ăn bánh nhạt và uống nước lã! Những quả trứng vịt trời đã nói chuyện với cái dạ dày của em, dẫn giấc mộng, chỉ cho em thấy mấy chú phụ bếp và cách nấu nướng kì lạ! Cái dạ dày ấy thèm khát của ngon, đã nói với cách của nó, gợi những ảo ảnh mà trong thực tế, chỉ là những đòi hỏi của nó mà thôi! Tại sao Perin lại không lấy những quả trứng ấy hoặc chỉ lấy bớt vài quả! Em có lấy của ai đâu chứ?",
+      "tts_text": "Khi đầu óc Perin đã sáng suốt, em hiểu cái hấp dẫn của chuyến du ngoạn đối với em không phải là cái đẹp duyên dáng cũng chẳng phải là sự yên tĩnh của hòn đảo! Thật đơn giản! Đã gần nữa tháng nay, Perin chỉ được ăn bánh nhạt và uống nước lã! Những quả trứng vịt trời đã nói chuyện với cái dạ dày của em, dẫn giấc mộng, chỉ cho em thấy mấy chú phụ bếp và cách nấu nướng kì lạ! Cái dạ dày ấy thèm khát của ngon, đã nói với cách của nó, gợi những ảo ảnh mà trong thực tế, chỉ là những đòi hỏi của nó mà thôi! Tại sao Perin lại không lấy những quả trứng ấy hoặc chỉ lấy bớt vài quả! Em có lấy của ai đâu chứ?",
+      "sentences": [
+        {
+          "sent_id": "id_52",
+          "smil_sid": "sid_52",
+          "p_id": "c11_p7",
+          "seq_id": "seq_7",
+          "source_text": "Khi đầu óc Perin đã sáng suốt, em hiểu cái hấp dẫn của chuyến du ngoạn đối với em không phải là cái đẹp duyên dáng cũng chẳng phải là sự yên tĩnh của hòn đảo!",
+          "tts_text": "Khi đầu óc Perin đã sáng suốt, em hiểu cái hấp dẫn của chuyến du ngoạn đối với em không phải là cái đẹp duyên dáng cũng chẳng phải là sự yên tĩnh của hòn đảo!"
+        },
+        {
+          "sent_id": "id_53",
+          "smil_sid": "sid_53",
+          "p_id": "c11_p7",
+          "seq_id": "seq_7",
+          "source_text": "Thật đơn giản!",
+          "tts_text": "Thật đơn giản!"
+        },
+        {
+          "sent_id": "id_54",
+          "smil_sid": "sid_54",
+          "p_id": "c11_p7",
+          "seq_id": "seq_7",
+          "source_text": "Đã gần nữa tháng nay, Perin chỉ được ăn bánh nhạt và uống nước lã!",
+          "tts_text": "Đã gần nữa tháng nay, Perin chỉ được ăn bánh nhạt và uống nước lã!"
+        },
+        {
+          "sent_id": "id_55",
+          "smil_sid": "sid_55",
+          "p_id": "c11_p7",
+          "seq_id": "seq_7",
+          "source_text": "Những quả trứng vịt trời đã nói chuyện với cái dạ dày của em, dẫn giấc mộng, chỉ cho em thấy mấy chú phụ bếp và cách nấu nướng kì lạ!",
+          "tts_text": "Những quả trứng vịt trời đã nói chuyện với cái dạ dày của em, dẫn giấc mộng, chỉ cho em thấy mấy chú phụ bếp và cách nấu nướng kì lạ!"
+        },
+        {
+          "sent_id": "id_56",
+          "smil_sid": "sid_56",
+          "p_id": "c11_p7",
+          "seq_id": "seq_7",
+          "source_text": "Cái dạ dày ấy thèm khát của ngon, đã nói với cách của nó, gợi những ảo ảnh mà trong thực tế, chỉ là những đòi hỏi của nó mà thôi!",
+          "tts_text": "Cái dạ dày ấy thèm khát của ngon, đã nói với cách của nó, gợi những ảo ảnh mà trong thực tế, chỉ là những đòi hỏi của nó mà thôi!"
+        },
+        {
+          "sent_id": "id_57",
+          "smil_sid": "sid_57",
+          "p_id": "c11_p7",
+          "seq_id": "seq_7",
+          "source_text": "Tại sao Perin lại không lấy những quả trứng ấy hoặc chỉ lấy bớt vài quả!",
+          "tts_text": "Tại sao Perin lại không lấy những quả trứng ấy hoặc chỉ lấy bớt vài quả!"
+        },
+        {
+          "sent_id": "id_58",
+          "smil_sid": "sid_58",
+          "p_id": "c11_p7",
+          "seq_id": "seq_7",
+          "source_text": "Em có lấy của ai đâu chứ?",
+          "tts_text": "Em có lấy của ai đâu chứ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p8_chunk_01",
+      "p_id": "c11_p8",
+      "start": 309.7,
+      "speech_end": 365.78,
+      "end": 365.935,
+      "pause_after_ms": 155,
+      "source_text": "Con vịt trời là loại chim hoang. Perin chẳng có một dụng cụ nhà bếp, cũng chẳng có xoong chảo. Em không thể chế biến một món ăn nào vừa diễn ra trước mắt, tất cả đều quyến rũ! Món này lại còn ngon lành, tinh xảo hơn món nọ. Đó là giá trị của những quả trứng. Thật ra, chúng không đỏi hỏi những cách chế biến cầu kỳ. Một que diêm để nhóm lửa, một đống củi khô nhặt trong chồi cây, rồi đem quả trứng vùi trong tro nóng. Em dễ dàng làm chín quả trứng tùy theo ý muốn: trứng la cốc, hay trứng luộc trong lúc chờ đợi để mua sắm cái xoong, cái đĩa. Tuy khác xa bữa tiệc của giấc mơ, nó cũng là một bữa ăn tươi có giá trị. Trong lúc lao động, đã nhiều làn câu hỏi: “Tại sao không lấy trứng chim?” cứ lởn vởn trong đầu óc Perin. Tuy không ám ảnh như giấc mơ, nó cũng khá khẩn trương. Perin quyết định, khi ra về, mua một bao diêm, một xu muối.",
+      "tts_text": "Con vịt trời là loại chim hoang. Perin chẳng có một dụng cụ nhà bếp, cũng chẳng có xoong chảo. Em không thể chế biến một món ăn nào vừa diễn ra trước mắt, tất cả đều quyến rũ! Món này lại còn ngon lành, tinh xảo hơn món nọ. Đó là giá trị của những quả trứng. Thật ra, chúng không đỏi hỏi những cách chế biến cầu kỳ. Một que diêm để nhóm lửa, một đống củi khô nhặt trong chồi cây, rồi đem quả trứng vùi trong tro nóng. Em dễ dàng làm chín quả trứng tùy theo ý muốn: trứng la cốc, hay trứng luộc trong lúc chờ đợi để mua sắm cái xoong, cái đĩa. Tuy khác xa bữa tiệc của giấc mơ, nó cũng là một bữa ăn tươi có giá trị. Trong lúc lao động, đã nhiều làn câu hỏi: Tại sao không lấy trứng chim? cứ lởn vởn trong đầu óc Perin. Tuy không ám ảnh như giấc mơ, nó cũng khá khẩn trương. Perin quyết định, khi ra về, mua một bao diêm, một xu muối.",
+      "sentences": [
+        {
+          "sent_id": "id_59",
+          "smil_sid": "sid_59",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Con vịt trời là loại chim hoang.",
+          "tts_text": "Con vịt trời là loại chim hoang."
+        },
+        {
+          "sent_id": "id_60",
+          "smil_sid": "sid_60",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Perin chẳng có một dụng cụ nhà bếp, cũng chẳng có xoong chảo.",
+          "tts_text": "Perin chẳng có một dụng cụ nhà bếp, cũng chẳng có xoong chảo."
+        },
+        {
+          "sent_id": "id_61",
+          "smil_sid": "sid_61",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Em không thể chế biến một món ăn nào vừa diễn ra trước mắt, tất cả đều quyến rũ!",
+          "tts_text": "Em không thể chế biến một món ăn nào vừa diễn ra trước mắt, tất cả đều quyến rũ!"
+        },
+        {
+          "sent_id": "id_62",
+          "smil_sid": "sid_62",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Món này lại còn ngon lành, tinh xảo hơn món nọ.",
+          "tts_text": "Món này lại còn ngon lành, tinh xảo hơn món nọ."
+        },
+        {
+          "sent_id": "id_63",
+          "smil_sid": "sid_63",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Đó là giá trị của những quả trứng.",
+          "tts_text": "Đó là giá trị của những quả trứng."
+        },
+        {
+          "sent_id": "id_64",
+          "smil_sid": "sid_64",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Thật ra, chúng không đỏi hỏi những cách chế biến cầu kỳ.",
+          "tts_text": "Thật ra, chúng không đỏi hỏi những cách chế biến cầu kỳ."
+        },
+        {
+          "sent_id": "id_65",
+          "smil_sid": "sid_65",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Một que diêm để nhóm lửa, một đống củi khô nhặt trong chồi cây, rồi đem quả trứng vùi trong tro nóng.",
+          "tts_text": "Một que diêm để nhóm lửa, một đống củi khô nhặt trong chồi cây, rồi đem quả trứng vùi trong tro nóng."
+        },
+        {
+          "sent_id": "id_66",
+          "smil_sid": "sid_66",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Em dễ dàng làm chín quả trứng tùy theo ý muốn: trứng la cốc, hay trứng luộc trong lúc chờ đợi để mua sắm cái xoong, cái đĩa.",
+          "tts_text": "Em dễ dàng làm chín quả trứng tùy theo ý muốn: trứng la cốc, hay trứng luộc trong lúc chờ đợi để mua sắm cái xoong, cái đĩa."
+        },
+        {
+          "sent_id": "id_67",
+          "smil_sid": "sid_67",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Tuy khác xa bữa tiệc của giấc mơ, nó cũng là một bữa ăn tươi có giá trị.",
+          "tts_text": "Tuy khác xa bữa tiệc của giấc mơ, nó cũng là một bữa ăn tươi có giá trị."
+        },
+        {
+          "sent_id": "id_68",
+          "smil_sid": "sid_68",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Trong lúc lao động, đã nhiều làn câu hỏi: “Tại sao không lấy trứng chim?” cứ lởn vởn trong đầu óc Perin.",
+          "tts_text": "Trong lúc lao động, đã nhiều làn câu hỏi: Tại sao không lấy trứng chim? cứ lởn vởn trong đầu óc Perin."
+        },
+        {
+          "sent_id": "id_69",
+          "smil_sid": "sid_69",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Tuy không ám ảnh như giấc mơ, nó cũng khá khẩn trương.",
+          "tts_text": "Tuy không ám ảnh như giấc mơ, nó cũng khá khẩn trương."
+        },
+        {
+          "sent_id": "id_70",
+          "smil_sid": "sid_70",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Perin quyết định, khi ra về, mua một bao diêm, một xu muối.",
+          "tts_text": "Perin quyết định, khi ra về, mua một bao diêm, một xu muối."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p8_chunk_02",
+      "p_id": "c11_p8",
+      "start": 365.935,
+      "speech_end": 368.495,
+      "end": 368.665,
+      "pause_after_ms": 170,
+      "source_text": "Em mang các thứ, vừa đi vừa chạy về đảo.",
+      "tts_text": "Em mang các thứ, vừa đi vừa chạy về đảo.",
+      "sentences": [
+        {
+          "sent_id": "id_71",
+          "smil_sid": "sid_71",
+          "p_id": "c11_p8",
+          "seq_id": "seq_8",
+          "source_text": "Em mang các thứ, vừa đi vừa chạy về đảo.",
+          "tts_text": "Em mang các thứ, vừa đi vừa chạy về đảo."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p9_chunk_01",
+      "p_id": "c11_p9",
+      "start": 368.665,
+      "speech_end": 396.145,
+      "end": 396.315,
+      "pause_after_ms": 170,
+      "source_text": "Perin nhớ rất rõ nơi có tổ chim, nên không mất công tìm kiếm. Tối hôm ấy, chim mẹ không nằm trong ổ. Nó chỉ về một lúc nào đó trong ngày, bởi đáng lẽ có mười quả trứng thì lại có mười một quả. Điều ấy chứng tỏ vịt còn đẻ, chưa ấp. Perin thấy mình gặp may. Trước hết, như vậy là trứng còn tươi. Hơn nữa, nếu em chỉ lấy năm, sáu quả, con vịt trời không biết đếm, sẽ chẳng hay biết gì hết.",
+      "tts_text": "Perin nhớ rất rõ nơi có tổ chim, nên không mất công tìm kiếm. Tối hôm ấy, chim mẹ không nằm trong ổ. Nó chỉ về một lúc nào đó trong ngày, bởi đáng lẽ có mười quả trứng thì lại có mười một quả. Điều ấy chứng tỏ vịt còn đẻ, chưa ấp. Perin thấy mình gặp may. Trước hết, như vậy là trứng còn tươi. Hơn nữa, nếu em chỉ lấy năm, sáu quả, con vịt trời không biết đếm, sẽ chẳng hay biết gì hết.",
+      "sentences": [
+        {
+          "sent_id": "id_72",
+          "smil_sid": "sid_72",
+          "p_id": "c11_p9",
+          "seq_id": "seq_9",
+          "source_text": "Perin nhớ rất rõ nơi có tổ chim, nên không mất công tìm kiếm.",
+          "tts_text": "Perin nhớ rất rõ nơi có tổ chim, nên không mất công tìm kiếm."
+        },
+        {
+          "sent_id": "id_73",
+          "smil_sid": "sid_73",
+          "p_id": "c11_p9",
+          "seq_id": "seq_9",
+          "source_text": "Tối hôm ấy, chim mẹ không nằm trong ổ.",
+          "tts_text": "Tối hôm ấy, chim mẹ không nằm trong ổ."
+        },
+        {
+          "sent_id": "id_74",
+          "smil_sid": "sid_74",
+          "p_id": "c11_p9",
+          "seq_id": "seq_9",
+          "source_text": "Nó chỉ về một lúc nào đó trong ngày, bởi đáng lẽ có mười quả trứng thì lại có mười một quả.",
+          "tts_text": "Nó chỉ về một lúc nào đó trong ngày, bởi đáng lẽ có mười quả trứng thì lại có mười một quả."
+        },
+        {
+          "sent_id": "id_75",
+          "smil_sid": "sid_75",
+          "p_id": "c11_p9",
+          "seq_id": "seq_9",
+          "source_text": "Điều ấy chứng tỏ vịt còn đẻ, chưa ấp.",
+          "tts_text": "Điều ấy chứng tỏ vịt còn đẻ, chưa ấp."
+        },
+        {
+          "sent_id": "id_76",
+          "smil_sid": "sid_76",
+          "p_id": "c11_p9",
+          "seq_id": "seq_9",
+          "source_text": "Perin thấy mình gặp may.",
+          "tts_text": "Perin thấy mình gặp may."
+        },
+        {
+          "sent_id": "id_77",
+          "smil_sid": "sid_77",
+          "p_id": "c11_p9",
+          "seq_id": "seq_9",
+          "source_text": "Trước hết, như vậy là trứng còn tươi.",
+          "tts_text": "Trước hết, như vậy là trứng còn tươi."
+        },
+        {
+          "sent_id": "id_78",
+          "smil_sid": "sid_78",
+          "p_id": "c11_p9",
+          "seq_id": "seq_9",
+          "source_text": "Hơn nữa, nếu em chỉ lấy năm, sáu quả, con vịt trời không biết đếm, sẽ chẳng hay biết gì hết.",
+          "tts_text": "Hơn nữa, nếu em chỉ lấy năm, sáu quả, con vịt trời không biết đếm, sẽ chẳng hay biết gì hết."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p10_chunk_01",
+      "p_id": "c11_p10",
+      "start": 396.315,
+      "speech_end": 452.625,
+      "end": 452.78,
+      "pause_after_ms": 155,
+      "source_text": "Ngày trước, Perin không băn khoăn thế đâu! Em có thể trút cả ổ trứng mà không hề ngại. Nhưng em đã trải qua nhiều nỗi buồn phiền nên rất thông cảm với nỗi buồn phiền của kẻ khác! Lại nữa, vì Perin thương con Palica nên yêu mến tất cả những con vật với một tình cảm mà em chưa hề có trong tuổi ấu thơ. Con vịt trời không phải là bạn của em đó sao? Nó là một thần dân trong cái trò chơi Nữ hoàng! Nếu Vui, Chúa có quyền lợi dụng dân chúng để tồn tại thì ngược lại các Ngài cũng phải ít nhiều quan tâm đến họ chứ? Khi Perin quyết định đi lấy trứng, em cũng đã nghĩ đến việc nấu nướng. Tất nhiên, em không thể làm bếp ở lều cỏ. Một làn khói nhẹ từ đó lan ra cũng đủ cho mọi người chú ý! Em sẽ nấu ở lối đi, trong chồi cây nơi cắm trại của những người du mục, khi đi qua làng. Nếu có ngọn lửa, làn khói ở đấy thì cũng chẳng ai thèm để ý.",
+      "tts_text": "Ngày trước, Perin không băn khoăn thế đâu! Em có thể trút cả ổ trứng mà không hề ngại. Nhưng em đã trải qua nhiều nỗi buồn phiền nên rất thông cảm với nỗi buồn phiền của kẻ khác! Lại nữa, vì Perin thương con Palica nên yêu mến tất cả những con vật với một tình cảm mà em chưa hề có trong tuổi ấu thơ. Con vịt trời không phải là bạn của em đó sao? Nó là một thần dân trong cái trò chơi Nữ hoàng! Nếu Vui, Chúa có quyền lợi dụng dân chúng để tồn tại thì ngược lại các Ngài cũng phải ít nhiều quan tâm đến họ chứ? Khi Perin quyết định đi lấy trứng, em cũng đã nghĩ đến việc nấu nướng. Tất nhiên, em không thể làm bếp ở lều cỏ. Một làn khói nhẹ từ đó lan ra cũng đủ cho mọi người chú ý! Em sẽ nấu ở lối đi, trong chồi cây nơi cắm trại của những người du mục, khi đi qua làng. Nếu có ngọn lửa, làn khói ở đấy thì cũng chẳng ai thèm để ý.",
+      "sentences": [
+        {
+          "sent_id": "id_79",
+          "smil_sid": "sid_79",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Ngày trước, Perin không băn khoăn thế đâu!",
+          "tts_text": "Ngày trước, Perin không băn khoăn thế đâu!"
+        },
+        {
+          "sent_id": "id_80",
+          "smil_sid": "sid_80",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Em có thể trút cả ổ trứng mà không hề ngại.",
+          "tts_text": "Em có thể trút cả ổ trứng mà không hề ngại."
+        },
+        {
+          "sent_id": "id_81",
+          "smil_sid": "sid_81",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Nhưng em đã trải qua nhiều nỗi buồn phiền nên rất thông cảm với nỗi buồn phiền của kẻ khác!",
+          "tts_text": "Nhưng em đã trải qua nhiều nỗi buồn phiền nên rất thông cảm với nỗi buồn phiền của kẻ khác!"
+        },
+        {
+          "sent_id": "id_82",
+          "smil_sid": "sid_82",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Lại nữa, vì Perin thương con Palica nên yêu mến tất cả những con vật với một tình cảm mà em chưa hề có trong tuổi ấu thơ.",
+          "tts_text": "Lại nữa, vì Perin thương con Palica nên yêu mến tất cả những con vật với một tình cảm mà em chưa hề có trong tuổi ấu thơ."
+        },
+        {
+          "sent_id": "id_83",
+          "smil_sid": "sid_83",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Con vịt trời không phải là bạn của em đó sao?",
+          "tts_text": "Con vịt trời không phải là bạn của em đó sao?"
+        },
+        {
+          "sent_id": "id_84",
+          "smil_sid": "sid_84",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Nó là một thần dân trong cái trò chơi Nữ hoàng!",
+          "tts_text": "Nó là một thần dân trong cái trò chơi Nữ hoàng!"
+        },
+        {
+          "sent_id": "id_85",
+          "smil_sid": "sid_85",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Nếu Vui, Chúa có quyền lợi dụng dân chúng để tồn tại thì ngược lại các Ngài cũng phải ít nhiều quan tâm đến họ chứ?",
+          "tts_text": "Nếu Vui, Chúa có quyền lợi dụng dân chúng để tồn tại thì ngược lại các Ngài cũng phải ít nhiều quan tâm đến họ chứ?"
+        },
+        {
+          "sent_id": "id_86",
+          "smil_sid": "sid_86",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Khi Perin quyết định đi lấy trứng, em cũng đã nghĩ đến việc nấu nướng.",
+          "tts_text": "Khi Perin quyết định đi lấy trứng, em cũng đã nghĩ đến việc nấu nướng."
+        },
+        {
+          "sent_id": "id_87",
+          "smil_sid": "sid_87",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Tất nhiên, em không thể làm bếp ở lều cỏ.",
+          "tts_text": "Tất nhiên, em không thể làm bếp ở lều cỏ."
+        },
+        {
+          "sent_id": "id_88",
+          "smil_sid": "sid_88",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Một làn khói nhẹ từ đó lan ra cũng đủ cho mọi người chú ý!",
+          "tts_text": "Một làn khói nhẹ từ đó lan ra cũng đủ cho mọi người chú ý!"
+        },
+        {
+          "sent_id": "id_89",
+          "smil_sid": "sid_89",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Em sẽ nấu ở lối đi, trong chồi cây nơi cắm trại của những người du mục, khi đi qua làng.",
+          "tts_text": "Em sẽ nấu ở lối đi, trong chồi cây nơi cắm trại của những người du mục, khi đi qua làng."
+        },
+        {
+          "sent_id": "id_90",
+          "smil_sid": "sid_90",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Nếu có ngọn lửa, làn khói ở đấy thì cũng chẳng ai thèm để ý.",
+          "tts_text": "Nếu có ngọn lửa, làn khói ở đấy thì cũng chẳng ai thèm để ý."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p10_chunk_02",
+      "p_id": "c11_p10",
+      "start": 452.78,
+      "speech_end": 497.06,
+      "end": 497.23,
+      "pause_after_ms": 170,
+      "source_text": "Nhanh nhẹn, Perin đã nhặt được một bó củi khô và thế là em có một đám lửa. Em lấy hai miếng đã sạch sẽ, láng bóng, tán một nhúm muối thành bột cho dễ hòa tan. Thật ra, em thiếu cái đĩa đựng trứng la cốc. Nhưng đó là một dụng cụ chỉ cần thiết đối với những người dư dật. Một lỗ nhỏ trong miếng bánh cũng có thể thay thế. Chỉ một lát sau, em sung sướng được nhúng miếng bánh trong quả trứng la cốc vừa chín tới. Perin ăn một miếng và có cảm giác chưa bao giờ em được ăn ngon như thế! Em tự nhủ nếu ở trên đời này, các chú phụ bếp trong giấc mơ có thật, chắc các chú ấy cũng chẳng làm được món gì ngon bằng món trứng la cốc của con vịt trời vùi trong tro nóng!",
+      "tts_text": "Nhanh nhẹn, Perin đã nhặt được một bó củi khô và thế là em có một đám lửa. Em lấy hai miếng đã sạch sẽ, láng bóng, tán một nhúm muối thành bột cho dễ hòa tan. Thật ra, em thiếu cái đĩa đựng trứng la cốc. Nhưng đó là một dụng cụ chỉ cần thiết đối với những người dư dật. Một lỗ nhỏ trong miếng bánh cũng có thể thay thế. Chỉ một lát sau, em sung sướng được nhúng miếng bánh trong quả trứng la cốc vừa chín tới. Perin ăn một miếng và có cảm giác chưa bao giờ em được ăn ngon như thế! Em tự nhủ nếu ở trên đời này, các chú phụ bếp trong giấc mơ có thật, chắc các chú ấy cũng chẳng làm được món gì ngon bằng món trứng la cốc của con vịt trời vùi trong tro nóng!",
+      "sentences": [
+        {
+          "sent_id": "id_91",
+          "smil_sid": "sid_91",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Nhanh nhẹn, Perin đã nhặt được một bó củi khô và thế là em có một đám lửa.",
+          "tts_text": "Nhanh nhẹn, Perin đã nhặt được một bó củi khô và thế là em có một đám lửa."
+        },
+        {
+          "sent_id": "id_92",
+          "smil_sid": "sid_92",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Em lấy hai miếng đã sạch sẽ, láng bóng, tán một nhúm muối thành bột cho dễ hòa tan.",
+          "tts_text": "Em lấy hai miếng đã sạch sẽ, láng bóng, tán một nhúm muối thành bột cho dễ hòa tan."
+        },
+        {
+          "sent_id": "id_93",
+          "smil_sid": "sid_93",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Thật ra, em thiếu cái đĩa đựng trứng la cốc.",
+          "tts_text": "Thật ra, em thiếu cái đĩa đựng trứng la cốc."
+        },
+        {
+          "sent_id": "id_94",
+          "smil_sid": "sid_94",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Nhưng đó là một dụng cụ chỉ cần thiết đối với những người dư dật.",
+          "tts_text": "Nhưng đó là một dụng cụ chỉ cần thiết đối với những người dư dật."
+        },
+        {
+          "sent_id": "id_95",
+          "smil_sid": "sid_95",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Một lỗ nhỏ trong miếng bánh cũng có thể thay thế.",
+          "tts_text": "Một lỗ nhỏ trong miếng bánh cũng có thể thay thế."
+        },
+        {
+          "sent_id": "id_96",
+          "smil_sid": "sid_96",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Chỉ một lát sau, em sung sướng được nhúng miếng bánh trong quả trứng la cốc vừa chín tới.",
+          "tts_text": "Chỉ một lát sau, em sung sướng được nhúng miếng bánh trong quả trứng la cốc vừa chín tới."
+        },
+        {
+          "sent_id": "id_97",
+          "smil_sid": "sid_97",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Perin ăn một miếng và có cảm giác chưa bao giờ em được ăn ngon như thế!",
+          "tts_text": "Perin ăn một miếng và có cảm giác chưa bao giờ em được ăn ngon như thế!"
+        },
+        {
+          "sent_id": "id_98",
+          "smil_sid": "sid_98",
+          "p_id": "c11_p10",
+          "seq_id": "seq_10",
+          "source_text": "Em tự nhủ nếu ở trên đời này, các chú phụ bếp trong giấc mơ có thật, chắc các chú ấy cũng chẳng làm được món gì ngon bằng món trứng la cốc của con vịt trời vùi trong tro nóng!",
+          "tts_text": "Em tự nhủ nếu ở trên đời này, các chú phụ bếp trong giấc mơ có thật, chắc các chú ấy cũng chẳng làm được món gì ngon bằng món trứng la cốc của con vịt trời vùi trong tro nóng!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p11_chunk_01",
+      "p_id": "c11_p11",
+      "start": 497.23,
+      "speech_end": 560.97,
+      "end": 561.125,
+      "pause_after_ms": 155,
+      "source_text": "Tối hôm trước, Perin đã ăn bánh nhạt. Em cũng chẳng tưởng tượng nổi em có thể thêm được gì để ăn với miếng bánh trước nhiều tuần, nhiều tháng nữa? Bữa cơm tối hôm ấy, đáng lẽ phải thỏa mãn những đòi hỏi của dạ dày, tuy nhiên không phải thế! Khi ăn hết quả trứng, em tự hỏi có cách chế biến nào khác cho những quả trứng còn lại và những quả trứng em sẽ tìm được. Trứng la cốc ngon, rất ngon. Món xúp đổ vào một lòng đỏ trứng cũng ngon lắm chứ? Cái ý nghĩ về món xúp cứ nhảy nhót trong đầu em. Có lẽ việc khâu dép, áo sơ mi đã cho em tin tưởng và đã chỉ cho em thấy nhờ kiên trì, nhẫn nại người ta có thể thành công. Tuy thế, em không dám nghĩ có thể tự túc được một cái xoong bằng đất hay bằng thiếc để nấu xúp và cái muỗng để ăn xúp. Có những khó khăn mà em nát óc! Trong khi chờ đợi lãnh được số tiền cần thiết để mua sắm cái xoong và cái muỗng. Perin đành thay xúp bằng mùi xúp.",
+      "tts_text": "Tối hôm trước, Perin đã ăn bánh nhạt. Em cũng chẳng tưởng tượng nổi em có thể thêm được gì để ăn với miếng bánh trước nhiều tuần, nhiều tháng nữa? Bữa cơm tối hôm ấy, đáng lẽ phải thỏa mãn những đòi hỏi của dạ dày, tuy nhiên không phải thế! Khi ăn hết quả trứng, em tự hỏi có cách chế biến nào khác cho những quả trứng còn lại và những quả trứng em sẽ tìm được. Trứng la cốc ngon, rất ngon. Món xúp đổ vào một lòng đỏ trứng cũng ngon lắm chứ? Cái ý nghĩ về món xúp cứ nhảy nhót trong đầu em. Có lẽ việc khâu dép, áo sơ mi đã cho em tin tưởng và đã chỉ cho em thấy nhờ kiên trì, nhẫn nại người ta có thể thành công. Tuy thế, em không dám nghĩ có thể tự túc được một cái xoong bằng đất hay bằng thiếc để nấu xúp và cái muỗng để ăn xúp. Có những khó khăn mà em nát óc! Trong khi chờ đợi lãnh được số tiền cần thiết để mua sắm cái xoong và cái muỗng. Perin đành thay xúp bằng mùi xúp.",
+      "sentences": [
+        {
+          "sent_id": "id_99",
+          "smil_sid": "sid_99",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Tối hôm trước, Perin đã ăn bánh nhạt.",
+          "tts_text": "Tối hôm trước, Perin đã ăn bánh nhạt."
+        },
+        {
+          "sent_id": "id_100",
+          "smil_sid": "sid_100",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Em cũng chẳng tưởng tượng nổi em có thể thêm được gì để ăn với miếng bánh trước nhiều tuần, nhiều tháng nữa?",
+          "tts_text": "Em cũng chẳng tưởng tượng nổi em có thể thêm được gì để ăn với miếng bánh trước nhiều tuần, nhiều tháng nữa?"
+        },
+        {
+          "sent_id": "id_101",
+          "smil_sid": "sid_101",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Bữa cơm tối hôm ấy, đáng lẽ phải thỏa mãn những đòi hỏi của dạ dày, tuy nhiên không phải thế!",
+          "tts_text": "Bữa cơm tối hôm ấy, đáng lẽ phải thỏa mãn những đòi hỏi của dạ dày, tuy nhiên không phải thế!"
+        },
+        {
+          "sent_id": "id_102",
+          "smil_sid": "sid_102",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Khi ăn hết quả trứng, em tự hỏi có cách chế biến nào khác cho những quả trứng còn lại và những quả trứng em sẽ tìm được.",
+          "tts_text": "Khi ăn hết quả trứng, em tự hỏi có cách chế biến nào khác cho những quả trứng còn lại và những quả trứng em sẽ tìm được."
+        },
+        {
+          "sent_id": "id_103",
+          "smil_sid": "sid_103",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Trứng la cốc ngon, rất ngon.",
+          "tts_text": "Trứng la cốc ngon, rất ngon."
+        },
+        {
+          "sent_id": "id_104",
+          "smil_sid": "sid_104",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Món xúp đổ vào một lòng đỏ trứng cũng ngon lắm chứ?",
+          "tts_text": "Món xúp đổ vào một lòng đỏ trứng cũng ngon lắm chứ?"
+        },
+        {
+          "sent_id": "id_105",
+          "smil_sid": "sid_105",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Cái ý nghĩ về món xúp cứ nhảy nhót trong đầu em.",
+          "tts_text": "Cái ý nghĩ về món xúp cứ nhảy nhót trong đầu em."
+        },
+        {
+          "sent_id": "id_106",
+          "smil_sid": "sid_106",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Có lẽ việc khâu dép, áo sơ mi đã cho em tin tưởng và đã chỉ cho em thấy nhờ kiên trì, nhẫn nại người ta có thể thành công.",
+          "tts_text": "Có lẽ việc khâu dép, áo sơ mi đã cho em tin tưởng và đã chỉ cho em thấy nhờ kiên trì, nhẫn nại người ta có thể thành công."
+        },
+        {
+          "sent_id": "id_107",
+          "smil_sid": "sid_107",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Tuy thế, em không dám nghĩ có thể tự túc được một cái xoong bằng đất hay bằng thiếc để nấu xúp và cái muỗng để ăn xúp.",
+          "tts_text": "Tuy thế, em không dám nghĩ có thể tự túc được một cái xoong bằng đất hay bằng thiếc để nấu xúp và cái muỗng để ăn xúp."
+        },
+        {
+          "sent_id": "id_108",
+          "smil_sid": "sid_108",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Có những khó khăn mà em nát óc!",
+          "tts_text": "Có những khó khăn mà em nát óc!"
+        },
+        {
+          "sent_id": "id_109",
+          "smil_sid": "sid_109",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Trong khi chờ đợi lãnh được số tiền cần thiết để mua sắm cái xoong và cái muỗng.",
+          "tts_text": "Trong khi chờ đợi lãnh được số tiền cần thiết để mua sắm cái xoong và cái muỗng."
+        },
+        {
+          "sent_id": "id_110",
+          "smil_sid": "sid_110",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Perin đành thay xúp bằng mùi xúp.",
+          "tts_text": "Perin đành thay xúp bằng mùi xúp."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p11_chunk_02",
+      "p_id": "c11_p11",
+      "start": 561.125,
+      "speech_end": 566.405,
+      "end": 566.575,
+      "pause_after_ms": 170,
+      "source_text": "Em ngửi mùi ấy, mỗi khi đi ngang các ngôi nhà và nghe tiếng muỗng quấy xúp vọng lại.",
+      "tts_text": "Em ngửi mùi ấy, mỗi khi đi ngang các ngôi nhà và nghe tiếng muỗng quấy xúp vọng lại.",
+      "sentences": [
+        {
+          "sent_id": "id_111",
+          "smil_sid": "sid_111",
+          "p_id": "c11_p11",
+          "seq_id": "seq_11",
+          "source_text": "Em ngửi mùi ấy, mỗi khi đi ngang các ngôi nhà và nghe tiếng muỗng quấy xúp vọng lại.",
+          "tts_text": "Em ngửi mùi ấy, mỗi khi đi ngang các ngôi nhà và nghe tiếng muỗng quấy xúp vọng lại."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p12_chunk_01",
+      "p_id": "c11_p12",
+      "start": 566.575,
+      "speech_end": 621.365,
+      "end": 621.535,
+      "pause_after_ms": 170,
+      "source_text": "Mỗi buổi sáng, khi đi làm, Perin vẫn tự nhủ mình như thế. Một hôm, trước khi vào làng, em đi qua một ngôi nhà vừa mới dọn đi nơi khác. Em nhìn thấy một đống rơm cũ vất ở bên đường. Những mảnh vụn đủ loại, những chiếc hộp thiếc có hình dáng khác nhau: lớn, bé, cao, dẹp đựng các thức ăn thịt, cá, rau đã chế biến! Ánh sáng của những bề mặt trơn tru phản chiếu làm Perin dừng lại như cái máy. Em không do dự nữa! Những xoong, chảo, đĩa muỗng, nĩa mà em còn thiếu đập vào đôi mắt của em! Em chỉ việc dùng những lon, hộp này để có đầy đủ các dụng cụ nhà bếp như em hằng mong ước. Perin vượt qua đường, chọn lấy bốn cái hộp rồi em vừa đi, vừa chạy, mang cất dấu trong hàng rào. Buổi chiều, khi đi về, em sẽ tìm thấy chúng ở đó. Với một ít công phu, những thực đơn mà em nghĩ ra, sẽ được thực hiện.",
+      "tts_text": "Mỗi buổi sáng, khi đi làm, Perin vẫn tự nhủ mình như thế. Một hôm, trước khi vào làng, em đi qua một ngôi nhà vừa mới dọn đi nơi khác. Em nhìn thấy một đống rơm cũ vất ở bên đường. Những mảnh vụn đủ loại, những chiếc hộp thiếc có hình dáng khác nhau: lớn, bé, cao, dẹp đựng các thức ăn thịt, cá, rau đã chế biến! Ánh sáng của những bề mặt trơn tru phản chiếu làm Perin dừng lại như cái máy. Em không do dự nữa! Những xoong, chảo, đĩa muỗng, nĩa mà em còn thiếu đập vào đôi mắt của em! Em chỉ việc dùng những lon, hộp này để có đầy đủ các dụng cụ nhà bếp như em hằng mong ước. Perin vượt qua đường, chọn lấy bốn cái hộp rồi em vừa đi, vừa chạy, mang cất dấu trong hàng rào. Buổi chiều, khi đi về, em sẽ tìm thấy chúng ở đó. Với một ít công phu, những thực đơn mà em nghĩ ra, sẽ được thực hiện.",
+      "sentences": [
+        {
+          "sent_id": "id_112",
+          "smil_sid": "sid_112",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Mỗi buổi sáng, khi đi làm, Perin vẫn tự nhủ mình như thế.",
+          "tts_text": "Mỗi buổi sáng, khi đi làm, Perin vẫn tự nhủ mình như thế."
+        },
+        {
+          "sent_id": "id_113",
+          "smil_sid": "sid_113",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Một hôm, trước khi vào làng, em đi qua một ngôi nhà vừa mới dọn đi nơi khác.",
+          "tts_text": "Một hôm, trước khi vào làng, em đi qua một ngôi nhà vừa mới dọn đi nơi khác."
+        },
+        {
+          "sent_id": "id_114",
+          "smil_sid": "sid_114",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Em nhìn thấy một đống rơm cũ vất ở bên đường.",
+          "tts_text": "Em nhìn thấy một đống rơm cũ vất ở bên đường."
+        },
+        {
+          "sent_id": "id_115",
+          "smil_sid": "sid_115",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Những mảnh vụn đủ loại, những chiếc hộp thiếc có hình dáng khác nhau: lớn, bé, cao, dẹp đựng các thức ăn thịt, cá, rau đã chế biến!",
+          "tts_text": "Những mảnh vụn đủ loại, những chiếc hộp thiếc có hình dáng khác nhau: lớn, bé, cao, dẹp đựng các thức ăn thịt, cá, rau đã chế biến!"
+        },
+        {
+          "sent_id": "id_116",
+          "smil_sid": "sid_116",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Ánh sáng của những bề mặt trơn tru phản chiếu làm Perin dừng lại như cái máy.",
+          "tts_text": "Ánh sáng của những bề mặt trơn tru phản chiếu làm Perin dừng lại như cái máy."
+        },
+        {
+          "sent_id": "id_117",
+          "smil_sid": "sid_117",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Em không do dự nữa!",
+          "tts_text": "Em không do dự nữa!"
+        },
+        {
+          "sent_id": "id_118",
+          "smil_sid": "sid_118",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Những xoong, chảo, đĩa muỗng, nĩa mà em còn thiếu đập vào đôi mắt của em!",
+          "tts_text": "Những xoong, chảo, đĩa muỗng, nĩa mà em còn thiếu đập vào đôi mắt của em!"
+        },
+        {
+          "sent_id": "id_119",
+          "smil_sid": "sid_119",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Em chỉ việc dùng những lon, hộp này để có đầy đủ các dụng cụ nhà bếp như em hằng mong ước.",
+          "tts_text": "Em chỉ việc dùng những lon, hộp này để có đầy đủ các dụng cụ nhà bếp như em hằng mong ước."
+        },
+        {
+          "sent_id": "id_120",
+          "smil_sid": "sid_120",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Perin vượt qua đường, chọn lấy bốn cái hộp rồi em vừa đi, vừa chạy, mang cất dấu trong hàng rào.",
+          "tts_text": "Perin vượt qua đường, chọn lấy bốn cái hộp rồi em vừa đi, vừa chạy, mang cất dấu trong hàng rào."
+        },
+        {
+          "sent_id": "id_121",
+          "smil_sid": "sid_121",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Buổi chiều, khi đi về, em sẽ tìm thấy chúng ở đó.",
+          "tts_text": "Buổi chiều, khi đi về, em sẽ tìm thấy chúng ở đó."
+        },
+        {
+          "sent_id": "id_122",
+          "smil_sid": "sid_122",
+          "p_id": "c11_p12",
+          "seq_id": "seq_12",
+          "source_text": "Với một ít công phu, những thực đơn mà em nghĩ ra, sẽ được thực hiện.",
+          "tts_text": "Với một ít công phu, những thực đơn mà em nghĩ ra, sẽ được thực hiện."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p13_chunk_01",
+      "p_id": "c11_p13",
+      "start": 621.535,
+      "speech_end": 624.575,
+      "end": 624.745,
+      "pause_after_ms": 170,
+      "source_text": "Suốt cả ngày, Perin bận rộn với câu hỏi:",
+      "tts_text": "Suốt cả ngày, Perin bận rộn với câu hỏi:",
+      "sentences": [
+        {
+          "sent_id": "id_123",
+          "smil_sid": "sid_123",
+          "p_id": "c11_p13",
+          "seq_id": "seq_13",
+          "source_text": "Suốt cả ngày, Perin bận rộn với câu hỏi:",
+          "tts_text": "Suốt cả ngày, Perin bận rộn với câu hỏi:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p14_chunk_01",
+      "p_id": "c11_p14",
+      "start": 624.745,
+      "speech_end": 651.325,
+      "end": 651.495,
+      "pause_after_ms": 170,
+      "source_text": "Liệu em có tìm được bốn cái hộp ấy không? Nếu người ta lấy mất của em thì hóa ra những điều em dự định chỉ để thấy rồi biến mất, chính vừa lúc em ngỡ là có thể thực hiện được! May thay, không ai di ngang qua đấy lại có ý muốn lấy mấy cái hộp của Perin. Sau ngày lao động, em chờ thợ thuyền vượt qua con đường rồi trở lại bờ rào. Em đã tìm thấy bốn cái hộp ở ngay chỗ mà em đã cất giấu.",
+      "tts_text": "Liệu em có tìm được bốn cái hộp ấy không? Nếu người ta lấy mất của em thì hóa ra những điều em dự định chỉ để thấy rồi biến mất, chính vừa lúc em ngỡ là có thể thực hiện được! May thay, không ai di ngang qua đấy lại có ý muốn lấy mấy cái hộp của Perin. Sau ngày lao động, em chờ thợ thuyền vượt qua con đường rồi trở lại bờ rào. Em đã tìm thấy bốn cái hộp ở ngay chỗ mà em đã cất giấu.",
+      "sentences": [
+        {
+          "sent_id": "id_124",
+          "smil_sid": "sid_124",
+          "p_id": "c11_p14",
+          "seq_id": "seq_14",
+          "source_text": "Liệu em có tìm được bốn cái hộp ấy không?",
+          "tts_text": "Liệu em có tìm được bốn cái hộp ấy không?"
+        },
+        {
+          "sent_id": "id_125",
+          "smil_sid": "sid_125",
+          "p_id": "c11_p14",
+          "seq_id": "seq_14",
+          "source_text": "Nếu người ta lấy mất của em thì hóa ra những điều em dự định chỉ để thấy rồi biến mất, chính vừa lúc em ngỡ là có thể thực hiện được!",
+          "tts_text": "Nếu người ta lấy mất của em thì hóa ra những điều em dự định chỉ để thấy rồi biến mất, chính vừa lúc em ngỡ là có thể thực hiện được!"
+        },
+        {
+          "sent_id": "id_126",
+          "smil_sid": "sid_126",
+          "p_id": "c11_p14",
+          "seq_id": "seq_14",
+          "source_text": "May thay, không ai di ngang qua đấy lại có ý muốn lấy mấy cái hộp của Perin.",
+          "tts_text": "May thay, không ai di ngang qua đấy lại có ý muốn lấy mấy cái hộp của Perin."
+        },
+        {
+          "sent_id": "id_127",
+          "smil_sid": "sid_127",
+          "p_id": "c11_p14",
+          "seq_id": "seq_14",
+          "source_text": "Sau ngày lao động, em chờ thợ thuyền vượt qua con đường rồi trở lại bờ rào.",
+          "tts_text": "Sau ngày lao động, em chờ thợ thuyền vượt qua con đường rồi trở lại bờ rào."
+        },
+        {
+          "sent_id": "id_128",
+          "smil_sid": "sid_128",
+          "p_id": "c11_p14",
+          "seq_id": "seq_14",
+          "source_text": "Em đã tìm thấy bốn cái hộp ở ngay chỗ mà em đã cất giấu.",
+          "tts_text": "Em đã tìm thấy bốn cái hộp ở ngay chỗ mà em đã cất giấu."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p15_chunk_01",
+      "p_id": "c11_p15",
+      "start": 651.495,
+      "speech_end": 692.005,
+      "end": 692.175,
+      "pause_after_ms": 170,
+      "source_text": "Trong hòn đảo, Perin không thể để có tiếng động cũng như không thể để cho có khói. Em định ngồi ngoài đường đi, hy vọng tìm được những đồ dùng cần thiết ở đó. Perin sẽ có những hòn đá thay búa để đập thiếc. Có những hòn đá bẹp thay đe, hòn đá tròn thay dùi. Có những hòn đá để cắt sắt. Đây là một việc làm rất vất vả! Phải mất gần ba ngày, Perin mới làm xong cái muỗng. Nếu em đưa cho người ta xem thì họ chỉ đoán là cái muỗng. Nhưng vì em dự định sản xuất cái muỗng thì đó là một cái muỗng chứ còn gì nữa! Với lại, em ăn một mình, nên không phải lo ngại người ta nhận xét về bộ đồ ăn của em.",
+      "tts_text": "Trong hòn đảo, Perin không thể để có tiếng động cũng như không thể để cho có khói. Em định ngồi ngoài đường đi, hy vọng tìm được những đồ dùng cần thiết ở đó. Perin sẽ có những hòn đá thay búa để đập thiếc. Có những hòn đá bẹp thay đe, hòn đá tròn thay dùi. Có những hòn đá để cắt sắt. Đây là một việc làm rất vất vả! Phải mất gần ba ngày, Perin mới làm xong cái muỗng. Nếu em đưa cho người ta xem thì họ chỉ đoán là cái muỗng. Nhưng vì em dự định sản xuất cái muỗng thì đó là một cái muỗng chứ còn gì nữa! Với lại, em ăn một mình, nên không phải lo ngại người ta nhận xét về bộ đồ ăn của em.",
+      "sentences": [
+        {
+          "sent_id": "id_129",
+          "smil_sid": "sid_129",
+          "p_id": "c11_p15",
+          "seq_id": "seq_15",
+          "source_text": "Trong hòn đảo, Perin không thể để có tiếng động cũng như không thể để cho có khói.",
+          "tts_text": "Trong hòn đảo, Perin không thể để có tiếng động cũng như không thể để cho có khói."
+        },
+        {
+          "sent_id": "id_130",
+          "smil_sid": "sid_130",
+          "p_id": "c11_p15",
+          "seq_id": "seq_15",
+          "source_text": "Em định ngồi ngoài đường đi, hy vọng tìm được những đồ dùng cần thiết ở đó.",
+          "tts_text": "Em định ngồi ngoài đường đi, hy vọng tìm được những đồ dùng cần thiết ở đó."
+        },
+        {
+          "sent_id": "id_131",
+          "smil_sid": "sid_131",
+          "p_id": "c11_p15",
+          "seq_id": "seq_15",
+          "source_text": "Perin sẽ có những hòn đá thay búa để đập thiếc.",
+          "tts_text": "Perin sẽ có những hòn đá thay búa để đập thiếc."
+        },
+        {
+          "sent_id": "id_132",
+          "smil_sid": "sid_132",
+          "p_id": "c11_p15",
+          "seq_id": "seq_15",
+          "source_text": "Có những hòn đá bẹp thay đe, hòn đá tròn thay dùi.",
+          "tts_text": "Có những hòn đá bẹp thay đe, hòn đá tròn thay dùi."
+        },
+        {
+          "sent_id": "id_133",
+          "smil_sid": "sid_133",
+          "p_id": "c11_p15",
+          "seq_id": "seq_15",
+          "source_text": "Có những hòn đá để cắt sắt.",
+          "tts_text": "Có những hòn đá để cắt sắt."
+        },
+        {
+          "sent_id": "id_134",
+          "smil_sid": "sid_134",
+          "p_id": "c11_p15",
+          "seq_id": "seq_15",
+          "source_text": "Đây là một việc làm rất vất vả!",
+          "tts_text": "Đây là một việc làm rất vất vả!"
+        },
+        {
+          "sent_id": "id_135",
+          "smil_sid": "sid_135",
+          "p_id": "c11_p15",
+          "seq_id": "seq_15",
+          "source_text": "Phải mất gần ba ngày, Perin mới làm xong cái muỗng.",
+          "tts_text": "Phải mất gần ba ngày, Perin mới làm xong cái muỗng."
+        },
+        {
+          "sent_id": "id_136",
+          "smil_sid": "sid_136",
+          "p_id": "c11_p15",
+          "seq_id": "seq_15",
+          "source_text": "Nếu em đưa cho người ta xem thì họ chỉ đoán là cái muỗng.",
+          "tts_text": "Nếu em đưa cho người ta xem thì họ chỉ đoán là cái muỗng."
+        },
+        {
+          "sent_id": "id_137",
+          "smil_sid": "sid_137",
+          "p_id": "c11_p15",
+          "seq_id": "seq_15",
+          "source_text": "Nhưng vì em dự định sản xuất cái muỗng thì đó là một cái muỗng chứ còn gì nữa!",
+          "tts_text": "Nhưng vì em dự định sản xuất cái muỗng thì đó là một cái muỗng chứ còn gì nữa!"
+        },
+        {
+          "sent_id": "id_138",
+          "smil_sid": "sid_138",
+          "p_id": "c11_p15",
+          "seq_id": "seq_15",
+          "source_text": "Với lại, em ăn một mình, nên không phải lo ngại người ta nhận xét về bộ đồ ăn của em.",
+          "tts_text": "Với lại, em ăn một mình, nên không phải lo ngại người ta nhận xét về bộ đồ ăn của em."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p16_chunk_01",
+      "p_id": "c11_p16",
+      "start": 692.175,
+      "speech_end": 716.565,
+      "end": 716.735,
+      "pause_after_ms": 170,
+      "source_text": "Bây giờ, để nấu xúp Perin chỉ còn thiếu bơ và rau me. Cũng như bánh và muối, về khoản bơ em không thể làm ra được với đôi bàn tay trắng. Em đành phải đi mua vậy! Perin có thể tiết kiệm mua rau me. Em đi tìm kiếm trong cánh đồng cỏ chắc sẽ thấy rau me dại, mà có lẽ cả củ cà rốt nữa. Những thứ rau này tuy chẳng bằng rau vườn, cũng rất quý đối với em.",
+      "tts_text": "Bây giờ, để nấu xúp Perin chỉ còn thiếu bơ và rau me. Cũng như bánh và muối, về khoản bơ em không thể làm ra được với đôi bàn tay trắng. Em đành phải đi mua vậy! Perin có thể tiết kiệm mua rau me. Em đi tìm kiếm trong cánh đồng cỏ chắc sẽ thấy rau me dại, mà có lẽ cả củ cà rốt nữa. Những thứ rau này tuy chẳng bằng rau vườn, cũng rất quý đối với em.",
+      "sentences": [
+        {
+          "sent_id": "id_139",
+          "smil_sid": "sid_139",
+          "p_id": "c11_p16",
+          "seq_id": "seq_16",
+          "source_text": "Bây giờ, để nấu xúp Perin chỉ còn thiếu bơ và rau me.",
+          "tts_text": "Bây giờ, để nấu xúp Perin chỉ còn thiếu bơ và rau me."
+        },
+        {
+          "sent_id": "id_140",
+          "smil_sid": "sid_140",
+          "p_id": "c11_p16",
+          "seq_id": "seq_16",
+          "source_text": "Cũng như bánh và muối, về khoản bơ em không thể làm ra được với đôi bàn tay trắng.",
+          "tts_text": "Cũng như bánh và muối, về khoản bơ em không thể làm ra được với đôi bàn tay trắng."
+        },
+        {
+          "sent_id": "id_141",
+          "smil_sid": "sid_141",
+          "p_id": "c11_p16",
+          "seq_id": "seq_16",
+          "source_text": "Em đành phải đi mua vậy!",
+          "tts_text": "Em đành phải đi mua vậy!"
+        },
+        {
+          "sent_id": "id_142",
+          "smil_sid": "sid_142",
+          "p_id": "c11_p16",
+          "seq_id": "seq_16",
+          "source_text": "Perin có thể tiết kiệm mua rau me.",
+          "tts_text": "Perin có thể tiết kiệm mua rau me."
+        },
+        {
+          "sent_id": "id_143",
+          "smil_sid": "sid_143",
+          "p_id": "c11_p16",
+          "seq_id": "seq_16",
+          "source_text": "Em đi tìm kiếm trong cánh đồng cỏ chắc sẽ thấy rau me dại, mà có lẽ cả củ cà rốt nữa.",
+          "tts_text": "Em đi tìm kiếm trong cánh đồng cỏ chắc sẽ thấy rau me dại, mà có lẽ cả củ cà rốt nữa."
+        },
+        {
+          "sent_id": "id_144",
+          "smil_sid": "sid_144",
+          "p_id": "c11_p16",
+          "seq_id": "seq_16",
+          "source_text": "Những thứ rau này tuy chẳng bằng rau vườn, cũng rất quý đối với em.",
+          "tts_text": "Những thứ rau này tuy chẳng bằng rau vườn, cũng rất quý đối với em."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p17_chunk_01",
+      "p_id": "c11_p17",
+      "start": 716.735,
+      "speech_end": 766.295,
+      "end": 766.295,
+      "pause_after_ms": 0,
+      "source_text": "Perin có thể sắp xếp thực đơn bữa trưa không phải chỉ có món trứng và món rau. Bây giờ, em có những dụng cụ để nấu, cái muỗng thiếc, cái nĩa gỗ để ăn. Còn có những con cá của hồ ao nếu Perin đủ nhanh nhẹn để bắt chúng? Phải làm gì đây? Phải có cần câu và mồi. Phải kiếm, bắt những còn trùng trong bùn. Em còn chỉ khâu giày đủ dùng. Em chỉ cần một xu để mua lưỡi câu rồi lượm lông ngựa trong lò rèn. Với những cần câu ấy, em có thể bắt được nhều loại cá. Những con cá lớn nhất của hồ ao, bơi lội dưới nước trong xanh, khinh khỉnh bên cánh những thứ mồi quá đơn giản! Em không bắt được chúng thì ít nhất em cũng tìm được một vài con cá bé nhỏ dễ tính hơn. Đối với Perin, những con cá ấy cũng khá to và vừa đủ dùng rồi!",
+      "tts_text": "Perin có thể sắp xếp thực đơn bữa trưa không phải chỉ có món trứng và món rau. Bây giờ, em có những dụng cụ để nấu, cái muỗng thiếc, cái nĩa gỗ để ăn. Còn có những con cá của hồ ao nếu Perin đủ nhanh nhẹn để bắt chúng? Phải làm gì đây? Phải có cần câu và mồi. Phải kiếm, bắt những còn trùng trong bùn. Em còn chỉ khâu giày đủ dùng. Em chỉ cần một xu để mua lưỡi câu rồi lượm lông ngựa trong lò rèn. Với những cần câu ấy, em có thể bắt được nhều loại cá. Những con cá lớn nhất của hồ ao, bơi lội dưới nước trong xanh, khinh khỉnh bên cánh những thứ mồi quá đơn giản! Em không bắt được chúng thì ít nhất em cũng tìm được một vài con cá bé nhỏ dễ tính hơn. Đối với Perin, những con cá ấy cũng khá to và vừa đủ dùng rồi!",
+      "sentences": [
+        {
+          "sent_id": "id_145",
+          "smil_sid": "sid_145",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Perin có thể sắp xếp thực đơn bữa trưa không phải chỉ có món trứng và món rau.",
+          "tts_text": "Perin có thể sắp xếp thực đơn bữa trưa không phải chỉ có món trứng và món rau."
+        },
+        {
+          "sent_id": "id_146",
+          "smil_sid": "sid_146",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Bây giờ, em có những dụng cụ để nấu, cái muỗng thiếc, cái nĩa gỗ để ăn.",
+          "tts_text": "Bây giờ, em có những dụng cụ để nấu, cái muỗng thiếc, cái nĩa gỗ để ăn."
+        },
+        {
+          "sent_id": "id_147",
+          "smil_sid": "sid_147",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Còn có những con cá của hồ ao nếu Perin đủ nhanh nhẹn để bắt chúng?",
+          "tts_text": "Còn có những con cá của hồ ao nếu Perin đủ nhanh nhẹn để bắt chúng?"
+        },
+        {
+          "sent_id": "id_148",
+          "smil_sid": "sid_148",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Phải làm gì đây?",
+          "tts_text": "Phải làm gì đây?"
+        },
+        {
+          "sent_id": "id_149",
+          "smil_sid": "sid_149",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Phải có cần câu và mồi.",
+          "tts_text": "Phải có cần câu và mồi."
+        },
+        {
+          "sent_id": "id_150",
+          "smil_sid": "sid_150",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Phải kiếm, bắt những còn trùng trong bùn.",
+          "tts_text": "Phải kiếm, bắt những còn trùng trong bùn."
+        },
+        {
+          "sent_id": "id_151",
+          "smil_sid": "sid_151",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Em còn chỉ khâu giày đủ dùng.",
+          "tts_text": "Em còn chỉ khâu giày đủ dùng."
+        },
+        {
+          "sent_id": "id_152",
+          "smil_sid": "sid_152",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Em chỉ cần một xu để mua lưỡi câu rồi lượm lông ngựa trong lò rèn.",
+          "tts_text": "Em chỉ cần một xu để mua lưỡi câu rồi lượm lông ngựa trong lò rèn."
+        },
+        {
+          "sent_id": "id_153",
+          "smil_sid": "sid_153",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Với những cần câu ấy, em có thể bắt được nhều loại cá.",
+          "tts_text": "Với những cần câu ấy, em có thể bắt được nhều loại cá."
+        },
+        {
+          "sent_id": "id_154",
+          "smil_sid": "sid_154",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Những con cá lớn nhất của hồ ao, bơi lội dưới nước trong xanh, khinh khỉnh bên cánh những thứ mồi quá đơn giản!",
+          "tts_text": "Những con cá lớn nhất của hồ ao, bơi lội dưới nước trong xanh, khinh khỉnh bên cánh những thứ mồi quá đơn giản!"
+        },
+        {
+          "sent_id": "id_155",
+          "smil_sid": "sid_155",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Em không bắt được chúng thì ít nhất em cũng tìm được một vài con cá bé nhỏ dễ tính hơn.",
+          "tts_text": "Em không bắt được chúng thì ít nhất em cũng tìm được một vài con cá bé nhỏ dễ tính hơn."
+        },
+        {
+          "sent_id": "id_156",
+          "smil_sid": "sid_156",
+          "p_id": "c11_p17",
+          "seq_id": "seq_17",
+          "source_text": "Đối với Perin, những con cá ấy cũng khá to và vừa đủ dùng rồi!",
+          "tts_text": "Đối với Perin, những con cá ấy cũng khá to và vừa đủ dùng rồi!"
+        }
+      ]
+    },
+    {
+      "kind": "section_break",
+      "chunk_id": "c11_p18_section_break_23",
+      "p_id": "c11_p18",
+      "start": 766.295,
+      "speech_end": 766.295,
+      "end": 766.545,
+      "pause_after_ms": 250,
+      "sentences": [
+        {
+          "sent_id": "id_157",
+          "smil_sid": "sid_157",
+          "p_id": "c11_p18",
+          "seq_id": "seq_18",
+          "source_text": "oOo",
+          "tts_text": ""
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p19_chunk_01",
+      "p_id": "c11_p19",
+      "start": 766.545,
+      "speech_end": 795.645,
+      "end": 795.815,
+      "pause_after_ms": 170,
+      "source_text": "Perin bận rộn với những công việc lặt vặt hết các buổi chiều tối. Đã hơn tuần nay, em không đến thăm Rôdali được. Một chị bạn cùng phân xưởng trọ trong nhà mẹ Prăngxoadơ, cho em biết tin tức của Rôdali. Perin còn sợ gặp dì Đênôbi dữ tợn nên lùi việc đi thăm bạn hết ngày này, qua ngày khác. Nhưng rồi một buổi chiều Perin quyết định không về nhà ngay. Hôm trước, em bắt được một con cá nấu chín để dành nên hôm nay không phải nấu nướng.",
+      "tts_text": "Perin bận rộn với những công việc lặt vặt hết các buổi chiều tối. Đã hơn tuần nay, em không đến thăm Rôdali được. Một chị bạn cùng phân xưởng trọ trong nhà mẹ Prăngxoadơ, cho em biết tin tức của Rôdali. Perin còn sợ gặp dì Đênôbi dữ tợn nên lùi việc đi thăm bạn hết ngày này, qua ngày khác. Nhưng rồi một buổi chiều Perin quyết định không về nhà ngay. Hôm trước, em bắt được một con cá nấu chín để dành nên hôm nay không phải nấu nướng.",
+      "sentences": [
+        {
+          "sent_id": "id_158",
+          "smil_sid": "sid_158",
+          "p_id": "c11_p19",
+          "seq_id": "seq_19",
+          "source_text": "Perin bận rộn với những công việc lặt vặt hết các buổi chiều tối.",
+          "tts_text": "Perin bận rộn với những công việc lặt vặt hết các buổi chiều tối."
+        },
+        {
+          "sent_id": "id_159",
+          "smil_sid": "sid_159",
+          "p_id": "c11_p19",
+          "seq_id": "seq_19",
+          "source_text": "Đã hơn tuần nay, em không đến thăm Rôdali được.",
+          "tts_text": "Đã hơn tuần nay, em không đến thăm Rôdali được."
+        },
+        {
+          "sent_id": "id_160",
+          "smil_sid": "sid_160",
+          "p_id": "c11_p19",
+          "seq_id": "seq_19",
+          "source_text": "Một chị bạn cùng phân xưởng trọ trong nhà mẹ Prăngxoadơ, cho em biết tin tức của Rôdali.",
+          "tts_text": "Một chị bạn cùng phân xưởng trọ trong nhà mẹ Prăngxoadơ, cho em biết tin tức của Rôdali."
+        },
+        {
+          "sent_id": "id_161",
+          "smil_sid": "sid_161",
+          "p_id": "c11_p19",
+          "seq_id": "seq_19",
+          "source_text": "Perin còn sợ gặp dì Đênôbi dữ tợn nên lùi việc đi thăm bạn hết ngày này, qua ngày khác.",
+          "tts_text": "Perin còn sợ gặp dì Đênôbi dữ tợn nên lùi việc đi thăm bạn hết ngày này, qua ngày khác."
+        },
+        {
+          "sent_id": "id_162",
+          "smil_sid": "sid_162",
+          "p_id": "c11_p19",
+          "seq_id": "seq_19",
+          "source_text": "Nhưng rồi một buổi chiều Perin quyết định không về nhà ngay.",
+          "tts_text": "Nhưng rồi một buổi chiều Perin quyết định không về nhà ngay."
+        },
+        {
+          "sent_id": "id_163",
+          "smil_sid": "sid_163",
+          "p_id": "c11_p19",
+          "seq_id": "seq_19",
+          "source_text": "Hôm trước, em bắt được một con cá nấu chín để dành nên hôm nay không phải nấu nướng.",
+          "tts_text": "Hôm trước, em bắt được một con cá nấu chín để dành nên hôm nay không phải nấu nướng."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p20_chunk_01",
+      "p_id": "c11_p20",
+      "start": 795.815,
+      "speech_end": 804.695,
+      "end": 804.865,
+      "pause_after_ms": 170,
+      "source_text": "Trong sân, lúc ấy không có người. Rôdali đang ngồi dưới gốc táo. Thấy Perin, cô bé đi ra cổng đón bạn, nửa giận, nửa mừng:",
+      "tts_text": "Trong sân, lúc ấy không có người. Rôdali đang ngồi dưới gốc táo. Thấy Perin, cô bé đi ra cổng đón bạn, nửa giận, nửa mừng:",
+      "sentences": [
+        {
+          "sent_id": "id_164",
+          "smil_sid": "sid_164",
+          "p_id": "c11_p20",
+          "seq_id": "seq_20",
+          "source_text": "Trong sân, lúc ấy không có người.",
+          "tts_text": "Trong sân, lúc ấy không có người."
+        },
+        {
+          "sent_id": "id_165",
+          "smil_sid": "sid_165",
+          "p_id": "c11_p20",
+          "seq_id": "seq_20",
+          "source_text": "Rôdali đang ngồi dưới gốc táo.",
+          "tts_text": "Rôdali đang ngồi dưới gốc táo."
+        },
+        {
+          "sent_id": "id_166",
+          "smil_sid": "sid_166",
+          "p_id": "c11_p20",
+          "seq_id": "seq_20",
+          "source_text": "Thấy Perin, cô bé đi ra cổng đón bạn, nửa giận, nửa mừng:",
+          "tts_text": "Thấy Perin, cô bé đi ra cổng đón bạn, nửa giận, nửa mừng:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p21_chunk_01",
+      "p_id": "c11_p21",
+      "start": 804.865,
+      "speech_end": 806.705,
+      "end": 806.875,
+      "pause_after_ms": 170,
+      "source_text": "- Mình cứ nghĩ cậu không đến nữa!",
+      "tts_text": "- Mình cứ nghĩ cậu không đến nữa!",
+      "sentences": [
+        {
+          "sent_id": "id_167",
+          "smil_sid": "sid_167",
+          "p_id": "c11_p21",
+          "seq_id": "seq_21",
+          "source_text": "- Mình cứ nghĩ cậu không đến nữa!",
+          "tts_text": "- Mình cứ nghĩ cậu không đến nữa!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p22_chunk_01",
+      "p_id": "c11_p22",
+      "start": 806.875,
+      "speech_end": 807.915,
+      "end": 808.085,
+      "pause_after_ms": 170,
+      "source_text": "- Mình rất bận!",
+      "tts_text": "- Mình rất bận!",
+      "sentences": [
+        {
+          "sent_id": "id_168",
+          "smil_sid": "sid_168",
+          "p_id": "c11_p22",
+          "seq_id": "seq_22",
+          "source_text": "- Mình rất bận!",
+          "tts_text": "- Mình rất bận!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p23_chunk_01",
+      "p_id": "c11_p23",
+      "start": 808.085,
+      "speech_end": 814.805,
+      "end": 814.975,
+      "pause_after_ms": 170,
+      "source_text": "Perin buộc phải trả lời. Em chỉ đôi dép đang mang dưới chân, rồi kể lại chuyện em khâu áo sơ mi.",
+      "tts_text": "Perin buộc phải trả lời. Em chỉ đôi dép đang mang dưới chân, rồi kể lại chuyện em khâu áo sơ mi.",
+      "sentences": [
+        {
+          "sent_id": "id_169",
+          "smil_sid": "sid_169",
+          "p_id": "c11_p23",
+          "seq_id": "seq_23",
+          "source_text": "Perin buộc phải trả lời.",
+          "tts_text": "Perin buộc phải trả lời."
+        },
+        {
+          "sent_id": "id_170",
+          "smil_sid": "sid_170",
+          "p_id": "c11_p23",
+          "seq_id": "seq_23",
+          "source_text": "Em chỉ đôi dép đang mang dưới chân, rồi kể lại chuyện em khâu áo sơ mi.",
+          "tts_text": "Em chỉ đôi dép đang mang dưới chân, rồi kể lại chuyện em khâu áo sơ mi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p24_chunk_01",
+      "p_id": "c11_p24",
+      "start": 814.975,
+      "speech_end": 820.495,
+      "end": 820.665,
+      "pause_after_ms": 170,
+      "source_text": "- Cậu không mượn được kéo của những người ở cùng nhà sao? Rôdali ngạc nhiên hỏi.",
+      "tts_text": "- Cậu không mượn được kéo của những người ở cùng nhà sao? Rôdali ngạc nhiên hỏi.",
+      "sentences": [
+        {
+          "sent_id": "id_171",
+          "smil_sid": "sid_171",
+          "p_id": "c11_p24",
+          "seq_id": "seq_24",
+          "source_text": "- Cậu không mượn được kéo của những người ở cùng nhà sao?",
+          "tts_text": "- Cậu không mượn được kéo của những người ở cùng nhà sao?"
+        },
+        {
+          "sent_id": "id_172",
+          "smil_sid": "sid_172",
+          "p_id": "c11_p24",
+          "seq_id": "seq_24",
+          "source_text": "Rôdali ngạc nhiên hỏi.",
+          "tts_text": "Rôdali ngạc nhiên hỏi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p25_chunk_01",
+      "p_id": "c11_p25",
+      "start": 820.665,
+      "speech_end": 823.305,
+      "end": 823.475,
+      "pause_after_ms": 170,
+      "source_text": "- Trong nhà, không ai cho mình mượn kéo cả.",
+      "tts_text": "- Trong nhà, không ai cho mình mượn kéo cả.",
+      "sentences": [
+        {
+          "sent_id": "id_173",
+          "smil_sid": "sid_173",
+          "p_id": "c11_p25",
+          "seq_id": "seq_25",
+          "source_text": "- Trong nhà, không ai cho mình mượn kéo cả.",
+          "tts_text": "- Trong nhà, không ai cho mình mượn kéo cả."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p26_chunk_01",
+      "p_id": "c11_p26",
+      "start": 823.475,
+      "speech_end": 824.835,
+      "end": 825.005,
+      "pause_after_ms": 170,
+      "source_text": "- Ai cũng có kéo mà!",
+      "tts_text": "- Ai cũng có kéo mà!",
+      "sentences": [
+        {
+          "sent_id": "id_174",
+          "smil_sid": "sid_174",
+          "p_id": "c11_p26",
+          "seq_id": "seq_26",
+          "source_text": "- Ai cũng có kéo mà!",
+          "tts_text": "- Ai cũng có kéo mà!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p27_chunk_01",
+      "p_id": "c11_p27",
+      "start": 825.005,
+      "speech_end": 831.805,
+      "end": 831.975,
+      "pause_after_ms": 170,
+      "source_text": "Perin tự hỏi có cần giữ bí mật về chỗ ở của em không; Nhưng nếu không nói rõ Rôdali sẽ giận.",
+      "tts_text": "Perin tự hỏi có cần giữ bí mật về chỗ ở của em không; Nhưng nếu không nói rõ Rôdali sẽ giận.",
+      "sentences": [
+        {
+          "sent_id": "id_175",
+          "smil_sid": "sid_175",
+          "p_id": "c11_p27",
+          "seq_id": "seq_27",
+          "source_text": "Perin tự hỏi có cần giữ bí mật về chỗ ở của em không; Nhưng nếu không nói rõ Rôdali sẽ giận.",
+          "tts_text": "Perin tự hỏi có cần giữ bí mật về chỗ ở của em không; Nhưng nếu không nói rõ Rôdali sẽ giận."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p28_chunk_01",
+      "p_id": "c11_p28",
+      "start": 831.975,
+      "speech_end": 835.335,
+      "end": 835.505,
+      "pause_after_ms": 170,
+      "source_text": "- Không có ai ở trong nhà mình, Perin vừa nói vừa cười.",
+      "tts_text": "- Không có ai ở trong nhà mình, Perin vừa nói vừa cười.",
+      "sentences": [
+        {
+          "sent_id": "id_176",
+          "smil_sid": "sid_176",
+          "p_id": "c11_p28",
+          "seq_id": "seq_28",
+          "source_text": "- Không có ai ở trong nhà mình, Perin vừa nói vừa cười.",
+          "tts_text": "- Không có ai ở trong nhà mình, Perin vừa nói vừa cười."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p29_chunk_01",
+      "p_id": "c11_p29",
+      "start": 835.505,
+      "speech_end": 836.545,
+      "end": 836.715,
+      "pause_after_ms": 170,
+      "source_text": "- Không thể thế được!",
+      "tts_text": "- Không thể thế được!",
+      "sentences": [
+        {
+          "sent_id": "id_177",
+          "smil_sid": "sid_177",
+          "p_id": "c11_p29",
+          "seq_id": "seq_29",
+          "source_text": "- Không thể thế được!",
+          "tts_text": "- Không thể thế được!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p30_chunk_01",
+      "p_id": "c11_p30",
+      "start": 836.715,
+      "speech_end": 847.275,
+      "end": 847.445,
+      "pause_after_ms": 170,
+      "source_text": "- Ấy thế mà thật đấy! Mình muốn có cái xoong để nấu xúp, cái muỗng để ăn xúp thì mình phải tự làm. Cậu biết không, làm cái muỗng khó hơn là khâu đôi dép!",
+      "tts_text": "- Ấy thế mà thật đấy! Mình muốn có cái xoong để nấu xúp, cái muỗng để ăn xúp thì mình phải tự làm. Cậu biết không, làm cái muỗng khó hơn là khâu đôi dép!",
+      "sentences": [
+        {
+          "sent_id": "id_178",
+          "smil_sid": "sid_178",
+          "p_id": "c11_p30",
+          "seq_id": "seq_30",
+          "source_text": "- Ấy thế mà thật đấy!",
+          "tts_text": "- Ấy thế mà thật đấy!"
+        },
+        {
+          "sent_id": "id_179",
+          "smil_sid": "sid_179",
+          "p_id": "c11_p30",
+          "seq_id": "seq_30",
+          "source_text": "Mình muốn có cái xoong để nấu xúp, cái muỗng để ăn xúp thì mình phải tự làm.",
+          "tts_text": "Mình muốn có cái xoong để nấu xúp, cái muỗng để ăn xúp thì mình phải tự làm."
+        },
+        {
+          "sent_id": "id_180",
+          "smil_sid": "sid_180",
+          "p_id": "c11_p30",
+          "seq_id": "seq_30",
+          "source_text": "Cậu biết không, làm cái muỗng khó hơn là khâu đôi dép!",
+          "tts_text": "Cậu biết không, làm cái muỗng khó hơn là khâu đôi dép!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p31_chunk_01",
+      "p_id": "c11_p31",
+      "start": 847.445,
+      "speech_end": 869.385,
+      "end": 869.555,
+      "pause_after_ms": 170,
+      "source_text": "Không giấu diếm, Perin kể lại việc em dọn ra túp lều. Em thuật lại những công việc đã làm để chế tạo các dụng cụ, những cuộc săn lùng trứng chim, những buổi câu cá, những lần làm bếp. Chốc chốc Rôdali reo lên vui sướng như được nghe một câu chuyện kỳ lạ. khi Perin nói cách nấu xúp rau me, cô bé lại reo lên:",
+      "tts_text": "Không giấu diếm, Perin kể lại việc em dọn ra túp lều. Em thuật lại những công việc đã làm để chế tạo các dụng cụ, những cuộc săn lùng trứng chim, những buổi câu cá, những lần làm bếp. Chốc chốc Rôdali reo lên vui sướng như được nghe một câu chuyện kỳ lạ. khi Perin nói cách nấu xúp rau me, cô bé lại reo lên:",
+      "sentences": [
+        {
+          "sent_id": "id_181",
+          "smil_sid": "sid_181",
+          "p_id": "c11_p31",
+          "seq_id": "seq_31",
+          "source_text": "Không giấu diếm, Perin kể lại việc em dọn ra túp lều.",
+          "tts_text": "Không giấu diếm, Perin kể lại việc em dọn ra túp lều."
+        },
+        {
+          "sent_id": "id_182",
+          "smil_sid": "sid_182",
+          "p_id": "c11_p31",
+          "seq_id": "seq_31",
+          "source_text": "Em thuật lại những công việc đã làm để chế tạo các dụng cụ, những cuộc săn lùng trứng chim, những buổi câu cá, những lần làm bếp.",
+          "tts_text": "Em thuật lại những công việc đã làm để chế tạo các dụng cụ, những cuộc săn lùng trứng chim, những buổi câu cá, những lần làm bếp."
+        },
+        {
+          "sent_id": "id_183",
+          "smil_sid": "sid_183",
+          "p_id": "c11_p31",
+          "seq_id": "seq_31",
+          "source_text": "Chốc chốc Rôdali reo lên vui sướng như được nghe một câu chuyện kỳ lạ. khi Perin nói cách nấu xúp rau me, cô bé lại reo lên:",
+          "tts_text": "Chốc chốc Rôdali reo lên vui sướng như được nghe một câu chuyện kỳ lạ. khi Perin nói cách nấu xúp rau me, cô bé lại reo lên:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p32_chunk_01",
+      "p_id": "c11_p32",
+      "start": 869.555,
+      "speech_end": 870.915,
+      "end": 871.085,
+      "pause_after_ms": 170,
+      "source_text": "- Chắc cậu khoái lắm nhỉ?",
+      "tts_text": "- Chắc cậu khoái lắm nhỉ?",
+      "sentences": [
+        {
+          "sent_id": "id_184",
+          "smil_sid": "sid_184",
+          "p_id": "c11_p32",
+          "seq_id": "seq_32",
+          "source_text": "- Chắc cậu khoái lắm nhỉ?",
+          "tts_text": "- Chắc cậu khoái lắm nhỉ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p33_chunk_01",
+      "p_id": "c11_p33",
+      "start": 871.085,
+      "speech_end": 872.765,
+      "end": 872.935,
+      "pause_after_ms": 170,
+      "source_text": "- Khi thành công, thì khoái thật!",
+      "tts_text": "- Khi thành công, thì khoái thật!",
+      "sentences": [
+        {
+          "sent_id": "id_185",
+          "smil_sid": "sid_185",
+          "p_id": "c11_p33",
+          "seq_id": "seq_33",
+          "source_text": "- Khi thành công, thì khoái thật!",
+          "tts_text": "- Khi thành công, thì khoái thật!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p34_chunk_01",
+      "p_id": "c11_p34",
+      "start": 872.935,
+      "speech_end": 887.335,
+      "end": 887.505,
+      "pause_after_ms": 170,
+      "source_text": "- Nhưng cũng có khi không được. Mình mất hết ba ngày để làm cái muỗng, mình không biết làm cách nào cho nó sâu xuống! Mình làm hỏng mất hai miếng thiếc chỉ còn một miếng độc nhất. Bạn hãy tưởng nhiều lần mình đập đá nhầm vào ngón tay!",
+      "tts_text": "- Nhưng cũng có khi không được. Mình mất hết ba ngày để làm cái muỗng, mình không biết làm cách nào cho nó sâu xuống! Mình làm hỏng mất hai miếng thiếc chỉ còn một miếng độc nhất. Bạn hãy tưởng nhiều lần mình đập đá nhầm vào ngón tay!",
+      "sentences": [
+        {
+          "sent_id": "id_186",
+          "smil_sid": "sid_186",
+          "p_id": "c11_p34",
+          "seq_id": "seq_34",
+          "source_text": "- Nhưng cũng có khi không được.",
+          "tts_text": "- Nhưng cũng có khi không được."
+        },
+        {
+          "sent_id": "id_187",
+          "smil_sid": "sid_187",
+          "p_id": "c11_p34",
+          "seq_id": "seq_34",
+          "source_text": "Mình mất hết ba ngày để làm cái muỗng, mình không biết làm cách nào cho nó sâu xuống!",
+          "tts_text": "Mình mất hết ba ngày để làm cái muỗng, mình không biết làm cách nào cho nó sâu xuống!"
+        },
+        {
+          "sent_id": "id_188",
+          "smil_sid": "sid_188",
+          "p_id": "c11_p34",
+          "seq_id": "seq_34",
+          "source_text": "Mình làm hỏng mất hai miếng thiếc chỉ còn một miếng độc nhất.",
+          "tts_text": "Mình làm hỏng mất hai miếng thiếc chỉ còn một miếng độc nhất."
+        },
+        {
+          "sent_id": "id_189",
+          "smil_sid": "sid_189",
+          "p_id": "c11_p34",
+          "seq_id": "seq_34",
+          "source_text": "Bạn hãy tưởng nhiều lần mình đập đá nhầm vào ngón tay!",
+          "tts_text": "Bạn hãy tưởng nhiều lần mình đập đá nhầm vào ngón tay!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p35_chunk_01",
+      "p_id": "c11_p35",
+      "start": 887.505,
+      "speech_end": 889.505,
+      "end": 889.675,
+      "pause_after_ms": 170,
+      "source_text": "- Mình đang nghĩ đến món xúp của cậu!",
+      "tts_text": "- Mình đang nghĩ đến món xúp của cậu!",
+      "sentences": [
+        {
+          "sent_id": "id_190",
+          "smil_sid": "sid_190",
+          "p_id": "c11_p35",
+          "seq_id": "seq_35",
+          "source_text": "- Mình đang nghĩ đến món xúp của cậu!",
+          "tts_text": "- Mình đang nghĩ đến món xúp của cậu!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p36_chunk_01",
+      "p_id": "c11_p36",
+      "start": 889.675,
+      "speech_end": 890.635,
+      "end": 890.805,
+      "pause_after_ms": 170,
+      "source_text": "- Xúp ngon thật!",
+      "tts_text": "- Xúp ngon thật!",
+      "sentences": [
+        {
+          "sent_id": "id_191",
+          "smil_sid": "sid_191",
+          "p_id": "c11_p36",
+          "seq_id": "seq_36",
+          "source_text": "- Xúp ngon thật!",
+          "tts_text": "- Xúp ngon thật!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p37_chunk_01",
+      "p_id": "c11_p37",
+      "start": 890.805,
+      "speech_end": 891.925,
+      "end": 892.095,
+      "pause_after_ms": 170,
+      "source_text": "- Mình tin lời cậu!",
+      "tts_text": "- Mình tin lời cậu!",
+      "sentences": [
+        {
+          "sent_id": "id_192",
+          "smil_sid": "sid_192",
+          "p_id": "c11_p37",
+          "seq_id": "seq_37",
+          "source_text": "- Mình tin lời cậu!",
+          "tts_text": "- Mình tin lời cậu!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p38_chunk_01",
+      "p_id": "c11_p38",
+      "start": 892.095,
+      "speech_end": 897.055,
+      "end": 897.225,
+      "pause_after_ms": 170,
+      "source_text": "- Với mình, ngon là vì chưa được ăn xúp bao giờ và chưa được ăn món gì nóng cả!",
+      "tts_text": "- Với mình, ngon là vì chưa được ăn xúp bao giờ và chưa được ăn món gì nóng cả!",
+      "sentences": [
+        {
+          "sent_id": "id_193",
+          "smil_sid": "sid_193",
+          "p_id": "c11_p38",
+          "seq_id": "seq_38",
+          "source_text": "- Với mình, ngon là vì chưa được ăn xúp bao giờ và chưa được ăn món gì nóng cả!",
+          "tts_text": "- Với mình, ngon là vì chưa được ăn xúp bao giờ và chưa được ăn món gì nóng cả!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p39_chunk_01",
+      "p_id": "c11_p39",
+      "start": 897.225,
+      "speech_end": 905.545,
+      "end": 905.715,
+      "pause_after_ms": 170,
+      "source_text": "- Mình thì ngày nào cũng được ăn nhưng không phải giống nhau đâu! Này! Ở ngoài đồng mà cũng có rau me, cà rốt thì lạ thật!",
+      "tts_text": "- Mình thì ngày nào cũng được ăn nhưng không phải giống nhau đâu! Này! Ở ngoài đồng mà cũng có rau me, cà rốt thì lạ thật!",
+      "sentences": [
+        {
+          "sent_id": "id_194",
+          "smil_sid": "sid_194",
+          "p_id": "c11_p39",
+          "seq_id": "seq_39",
+          "source_text": "- Mình thì ngày nào cũng được ăn nhưng không phải giống nhau đâu!",
+          "tts_text": "- Mình thì ngày nào cũng được ăn nhưng không phải giống nhau đâu!"
+        },
+        {
+          "sent_id": "id_195",
+          "smil_sid": "sid_195",
+          "p_id": "c11_p39",
+          "seq_id": "seq_39",
+          "source_text": "Này!",
+          "tts_text": "Này!"
+        },
+        {
+          "sent_id": "id_196",
+          "smil_sid": "sid_196",
+          "p_id": "c11_p39",
+          "seq_id": "seq_39",
+          "source_text": "Ở ngoài đồng mà cũng có rau me, cà rốt thì lạ thật!",
+          "tts_text": "Ở ngoài đồng mà cũng có rau me, cà rốt thì lạ thật!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p40_chunk_01",
+      "p_id": "c11_p40",
+      "start": 905.715,
+      "speech_end": 910.995,
+      "end": 911.165,
+      "pause_after_ms": 170,
+      "source_text": "- Còn có cả xà lách xoong, củ cải, cây phòng phong… và nhiều loại cây khác rất ngon.",
+      "tts_text": "- Còn có cả xà lách xoong, củ cải, cây phòng phong… và nhiều loại cây khác rất ngon.",
+      "sentences": [
+        {
+          "sent_id": "id_197",
+          "smil_sid": "sid_197",
+          "p_id": "c11_p40",
+          "seq_id": "seq_40",
+          "source_text": "- Còn có cả xà lách xoong, củ cải, cây phòng phong… và nhiều loại cây khác rất ngon.",
+          "tts_text": "- Còn có cả xà lách xoong, củ cải, cây phòng phong… và nhiều loại cây khác rất ngon."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p41_chunk_01",
+      "p_id": "c11_p41",
+      "start": 911.165,
+      "speech_end": 913.885,
+      "end": 914.055,
+      "pause_after_ms": 170,
+      "source_text": "- Nhưng trước hết, phải biết cách nhận ra chúng!",
+      "tts_text": "- Nhưng trước hết, phải biết cách nhận ra chúng!",
+      "sentences": [
+        {
+          "sent_id": "id_198",
+          "smil_sid": "sid_198",
+          "p_id": "c11_p41",
+          "seq_id": "seq_41",
+          "source_text": "- Nhưng trước hết, phải biết cách nhận ra chúng!",
+          "tts_text": "- Nhưng trước hết, phải biết cách nhận ra chúng!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p42_chunk_01",
+      "p_id": "c11_p42",
+      "start": 914.055,
+      "speech_end": 916.535,
+      "end": 916.705,
+      "pause_after_ms": 170,
+      "source_text": "- Bố mình đã dạy mình nhận ra chúng!",
+      "tts_text": "- Bố mình đã dạy mình nhận ra chúng!",
+      "sentences": [
+        {
+          "sent_id": "id_199",
+          "smil_sid": "sid_199",
+          "p_id": "c11_p42",
+          "seq_id": "seq_42",
+          "source_text": "- Bố mình đã dạy mình nhận ra chúng!",
+          "tts_text": "- Bố mình đã dạy mình nhận ra chúng!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p43_chunk_01",
+      "p_id": "c11_p43",
+      "start": 916.705,
+      "speech_end": 919.985,
+      "end": 920.155,
+      "pause_after_ms": 170,
+      "source_text": "Rôdali im lặng, suy nghĩ một lát, rồi quyết định:",
+      "tts_text": "Rôdali im lặng, suy nghĩ một lát, rồi quyết định:",
+      "sentences": [
+        {
+          "sent_id": "id_200",
+          "smil_sid": "sid_200",
+          "p_id": "c11_p43",
+          "seq_id": "seq_43",
+          "source_text": "Rôdali im lặng, suy nghĩ một lát, rồi quyết định:",
+          "tts_text": "Rôdali im lặng, suy nghĩ một lát, rồi quyết định:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p44_chunk_01",
+      "p_id": "c11_p44",
+      "start": 920.155,
+      "speech_end": 922.155,
+      "end": 922.325,
+      "pause_after_ms": 170,
+      "source_text": "- Cậu có muốn mình đến thăm cậu không?",
+      "tts_text": "- Cậu có muốn mình đến thăm cậu không?",
+      "sentences": [
+        {
+          "sent_id": "id_201",
+          "smil_sid": "sid_201",
+          "p_id": "c11_p44",
+          "seq_id": "seq_44",
+          "source_text": "- Cậu có muốn mình đến thăm cậu không?",
+          "tts_text": "- Cậu có muốn mình đến thăm cậu không?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p45_chunk_01",
+      "p_id": "c11_p45",
+      "start": 922.325,
+      "speech_end": 926.645,
+      "end": 926.815,
+      "pause_after_ms": 170,
+      "source_text": "- Ồ, rất vui lòng! Nhưng bạn phải hứa đứng nói với ai về chỗ ở của mình!",
+      "tts_text": "- Ồ, rất vui lòng! Nhưng bạn phải hứa đứng nói với ai về chỗ ở của mình!",
+      "sentences": [
+        {
+          "sent_id": "id_202",
+          "smil_sid": "sid_202",
+          "p_id": "c11_p45",
+          "seq_id": "seq_45",
+          "source_text": "- Ồ, rất vui lòng!",
+          "tts_text": "- Ồ, rất vui lòng!"
+        },
+        {
+          "sent_id": "id_203",
+          "smil_sid": "sid_203",
+          "p_id": "c11_p45",
+          "seq_id": "seq_45",
+          "source_text": "Nhưng bạn phải hứa đứng nói với ai về chỗ ở của mình!",
+          "tts_text": "Nhưng bạn phải hứa đứng nói với ai về chỗ ở của mình!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p46_chunk_01",
+      "p_id": "c11_p46",
+      "start": 926.815,
+      "speech_end": 927.855,
+      "end": 928.025,
+      "pause_after_ms": 170,
+      "source_text": "- Mình xin hứa!",
+      "tts_text": "- Mình xin hứa!",
+      "sentences": [
+        {
+          "sent_id": "id_204",
+          "smil_sid": "sid_204",
+          "p_id": "c11_p46",
+          "seq_id": "seq_46",
+          "source_text": "- Mình xin hứa!",
+          "tts_text": "- Mình xin hứa!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p47_chunk_01",
+      "p_id": "c11_p47",
+      "start": 928.025,
+      "speech_end": 929.545,
+      "end": 929.715,
+      "pause_after_ms": 170,
+      "source_text": "- Thế thì khi nào bạn đến?",
+      "tts_text": "- Thế thì khi nào bạn đến?",
+      "sentences": [
+        {
+          "sent_id": "id_205",
+          "smil_sid": "sid_205",
+          "p_id": "c11_p47",
+          "seq_id": "seq_47",
+          "source_text": "- Thế thì khi nào bạn đến?",
+          "tts_text": "- Thế thì khi nào bạn đến?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p48_chunk_01",
+      "p_id": "c11_p48",
+      "start": 929.715,
+      "speech_end": 937.075,
+      "end": 937.245,
+      "pause_after_ms": 170,
+      "source_text": "- Chủ nhật, mình sẽ đến nhà một bà dì ở Xanh Pipô. Đến chiều, khi trở về, mình có thể ghé lại chỗ cậu!",
+      "tts_text": "- Chủ nhật, mình sẽ đến nhà một bà dì ở Xanh Pipô. Đến chiều, khi trở về, mình có thể ghé lại chỗ cậu!",
+      "sentences": [
+        {
+          "sent_id": "id_206",
+          "smil_sid": "sid_206",
+          "p_id": "c11_p48",
+          "seq_id": "seq_48",
+          "source_text": "- Chủ nhật, mình sẽ đến nhà một bà dì ở Xanh Pipô.",
+          "tts_text": "- Chủ nhật, mình sẽ đến nhà một bà dì ở Xanh Pipô."
+        },
+        {
+          "sent_id": "id_207",
+          "smil_sid": "sid_207",
+          "p_id": "c11_p48",
+          "seq_id": "seq_48",
+          "source_text": "Đến chiều, khi trở về, mình có thể ghé lại chỗ cậu!",
+          "tts_text": "Đến chiều, khi trở về, mình có thể ghé lại chỗ cậu!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p49_chunk_01",
+      "p_id": "c11_p49",
+      "start": 937.245,
+      "speech_end": 941.165,
+      "end": 941.335,
+      "pause_after_ms": 170,
+      "source_text": "Đến lượt Perin ngần ngừ một lát, rồi rất dễ thương, nói:",
+      "tts_text": "Đến lượt Perin ngần ngừ một lát, rồi rất dễ thương, nói:",
+      "sentences": [
+        {
+          "sent_id": "id_208",
+          "smil_sid": "sid_208",
+          "p_id": "c11_p49",
+          "seq_id": "seq_49",
+          "source_text": "Đến lượt Perin ngần ngừ một lát, rồi rất dễ thương, nói:",
+          "tts_text": "Đến lượt Perin ngần ngừ một lát, rồi rất dễ thương, nói:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p50_chunk_01",
+      "p_id": "c11_p50",
+      "start": 941.335,
+      "speech_end": 945.415,
+      "end": 945.585,
+      "pause_after_ms": 170,
+      "source_text": "- Mình còn muốn bạn làm hơn thế! Bạn sẽ ở lại ăn cơm với mình!",
+      "tts_text": "- Mình còn muốn bạn làm hơn thế! Bạn sẽ ở lại ăn cơm với mình!",
+      "sentences": [
+        {
+          "sent_id": "id_209",
+          "smil_sid": "sid_209",
+          "p_id": "c11_p50",
+          "seq_id": "seq_50",
+          "source_text": "- Mình còn muốn bạn làm hơn thế!",
+          "tts_text": "- Mình còn muốn bạn làm hơn thế!"
+        },
+        {
+          "sent_id": "id_210",
+          "smil_sid": "sid_210",
+          "p_id": "c11_p50",
+          "seq_id": "seq_50",
+          "source_text": "Bạn sẽ ở lại ăn cơm với mình!",
+          "tts_text": "Bạn sẽ ở lại ăn cơm với mình!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p51_chunk_01",
+      "p_id": "c11_p51",
+      "start": 945.585,
+      "speech_end": 959.265,
+      "end": 959.435,
+      "pause_after_ms": 170,
+      "source_text": "Rôdali là nông dân chính cống nên loay hoay với những câu trả lời lễ phép. Cô bé không nhận lời và cũng không từ chối ngay. Người ta dễ dàng nhận thấy Rôdali rất muốn nhận lời, Perin khẩn khoản.",
+      "tts_text": "Rôdali là nông dân chính cống nên loay hoay với những câu trả lời lễ phép. Cô bé không nhận lời và cũng không từ chối ngay. Người ta dễ dàng nhận thấy Rôdali rất muốn nhận lời, Perin khẩn khoản.",
+      "sentences": [
+        {
+          "sent_id": "id_211",
+          "smil_sid": "sid_211",
+          "p_id": "c11_p51",
+          "seq_id": "seq_51",
+          "source_text": "Rôdali là nông dân chính cống nên loay hoay với những câu trả lời lễ phép.",
+          "tts_text": "Rôdali là nông dân chính cống nên loay hoay với những câu trả lời lễ phép."
+        },
+        {
+          "sent_id": "id_212",
+          "smil_sid": "sid_212",
+          "p_id": "c11_p51",
+          "seq_id": "seq_51",
+          "source_text": "Cô bé không nhận lời và cũng không từ chối ngay.",
+          "tts_text": "Cô bé không nhận lời và cũng không từ chối ngay."
+        },
+        {
+          "sent_id": "id_213",
+          "smil_sid": "sid_213",
+          "p_id": "c11_p51",
+          "seq_id": "seq_51",
+          "source_text": "Người ta dễ dàng nhận thấy Rôdali rất muốn nhận lời, Perin khẩn khoản.",
+          "tts_text": "Người ta dễ dàng nhận thấy Rôdali rất muốn nhận lời, Perin khẩn khoản."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p52_chunk_01",
+      "p_id": "c11_p52",
+      "start": 959.435,
+      "speech_end": 964.075,
+      "end": 964.245,
+      "pause_after_ms": 170,
+      "source_text": "- Bạn hãy tin là bạn sẽ làm cho mình sung sướng. Mình rất cô đơn mà!",
+      "tts_text": "- Bạn hãy tin là bạn sẽ làm cho mình sung sướng. Mình rất cô đơn mà!",
+      "sentences": [
+        {
+          "sent_id": "id_214",
+          "smil_sid": "sid_214",
+          "p_id": "c11_p52",
+          "seq_id": "seq_52",
+          "source_text": "- Bạn hãy tin là bạn sẽ làm cho mình sung sướng.",
+          "tts_text": "- Bạn hãy tin là bạn sẽ làm cho mình sung sướng."
+        },
+        {
+          "sent_id": "id_215",
+          "smil_sid": "sid_215",
+          "p_id": "c11_p52",
+          "seq_id": "seq_52",
+          "source_text": "Mình rất cô đơn mà!",
+          "tts_text": "Mình rất cô đơn mà!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p53_chunk_01",
+      "p_id": "c11_p53",
+      "start": 964.245,
+      "speech_end": 965.125,
+      "end": 965.295,
+      "pause_after_ms": 170,
+      "source_text": "- Quả thế thật!",
+      "tts_text": "- Quả thế thật!",
+      "sentences": [
+        {
+          "sent_id": "id_216",
+          "smil_sid": "sid_216",
+          "p_id": "c11_p53",
+          "seq_id": "seq_53",
+          "source_text": "- Quả thế thật!",
+          "tts_text": "- Quả thế thật!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p54_chunk_01",
+      "p_id": "c11_p54",
+      "start": 965.295,
+      "speech_end": 972.975,
+      "end": 973.145,
+      "pause_after_ms": 170,
+      "source_text": "- Thế thì đồng ý nghe! Nhưng bạn nhớ mang muỗng. Mình không có thời gian và cũng không còn thiếc để làm một chiếc nữa!",
+      "tts_text": "- Thế thì đồng ý nghe! Nhưng bạn nhớ mang muỗng. Mình không có thời gian và cũng không còn thiếc để làm một chiếc nữa!",
+      "sentences": [
+        {
+          "sent_id": "id_217",
+          "smil_sid": "sid_217",
+          "p_id": "c11_p54",
+          "seq_id": "seq_54",
+          "source_text": "- Thế thì đồng ý nghe!",
+          "tts_text": "- Thế thì đồng ý nghe!"
+        },
+        {
+          "sent_id": "id_218",
+          "smil_sid": "sid_218",
+          "p_id": "c11_p54",
+          "seq_id": "seq_54",
+          "source_text": "Nhưng bạn nhớ mang muỗng.",
+          "tts_text": "Nhưng bạn nhớ mang muỗng."
+        },
+        {
+          "sent_id": "id_219",
+          "smil_sid": "sid_219",
+          "p_id": "c11_p54",
+          "seq_id": "seq_54",
+          "source_text": "Mình không có thời gian và cũng không còn thiếc để làm một chiếc nữa!",
+          "tts_text": "Mình không có thời gian và cũng không còn thiếc để làm một chiếc nữa!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p55_chunk_01",
+      "p_id": "c11_p55",
+      "start": 973.145,
+      "speech_end": 975.385,
+      "end": 975.555,
+      "pause_after_ms": 170,
+      "source_text": "- Mình sẽ mang suất bánh của mình được chứ?",
+      "tts_text": "- Mình sẽ mang suất bánh của mình được chứ?",
+      "sentences": [
+        {
+          "sent_id": "id_220",
+          "smil_sid": "sid_220",
+          "p_id": "c11_p55",
+          "seq_id": "seq_55",
+          "source_text": "- Mình sẽ mang suất bánh của mình được chứ?",
+          "tts_text": "- Mình sẽ mang suất bánh của mình được chứ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p56_chunk_01",
+      "p_id": "c11_p56",
+      "start": 975.555,
+      "speech_end": 980.355,
+      "end": 980.525,
+      "pause_after_ms": 170,
+      "source_text": "- Tốt thôi! Mình sẽ đợi bạn ở lối đi rồi bạn sẽ thấy mình làm bếp!",
+      "tts_text": "- Tốt thôi! Mình sẽ đợi bạn ở lối đi rồi bạn sẽ thấy mình làm bếp!",
+      "sentences": [
+        {
+          "sent_id": "id_221",
+          "smil_sid": "sid_221",
+          "p_id": "c11_p56",
+          "seq_id": "seq_56",
+          "source_text": "- Tốt thôi!",
+          "tts_text": "- Tốt thôi!"
+        },
+        {
+          "sent_id": "id_222",
+          "smil_sid": "sid_222",
+          "p_id": "c11_p56",
+          "seq_id": "seq_56",
+          "source_text": "Mình sẽ đợi bạn ở lối đi rồi bạn sẽ thấy mình làm bếp!",
+          "tts_text": "Mình sẽ đợi bạn ở lối đi rồi bạn sẽ thấy mình làm bếp!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p57_chunk_01",
+      "p_id": "c11_p57",
+      "start": 980.525,
+      "speech_end": 1002.185,
+      "end": 1002.355,
+      "pause_after_ms": 170,
+      "source_text": "Perin rất thành thực khi nói em sẽ vui sướng được tiếp Rôdali. Ngay từ bây giờ, em đã thấy sướng rơn. Thết đãi bạn, kê thực đơn, tìm thức ăn, việc quan trọng đấy chứ? Sự quan trọng ấy đã trở thành một cái gì mà chính Perin tự cảm thấy. Ai có thể nói trước đây mấy hôm, em có thể mới một người bạn ăn cơm!",
+      "tts_text": "Perin rất thành thực khi nói em sẽ vui sướng được tiếp Rôdali. Ngay từ bây giờ, em đã thấy sướng rơn. Thết đãi bạn, kê thực đơn, tìm thức ăn, việc quan trọng đấy chứ? Sự quan trọng ấy đã trở thành một cái gì mà chính Perin tự cảm thấy. Ai có thể nói trước đây mấy hôm, em có thể mới một người bạn ăn cơm!",
+      "sentences": [
+        {
+          "sent_id": "id_223",
+          "smil_sid": "sid_223",
+          "p_id": "c11_p57",
+          "seq_id": "seq_57",
+          "source_text": "Perin rất thành thực khi nói em sẽ vui sướng được tiếp Rôdali.",
+          "tts_text": "Perin rất thành thực khi nói em sẽ vui sướng được tiếp Rôdali."
+        },
+        {
+          "sent_id": "id_224",
+          "smil_sid": "sid_224",
+          "p_id": "c11_p57",
+          "seq_id": "seq_57",
+          "source_text": "Ngay từ bây giờ, em đã thấy sướng rơn.",
+          "tts_text": "Ngay từ bây giờ, em đã thấy sướng rơn."
+        },
+        {
+          "sent_id": "id_225",
+          "smil_sid": "sid_225",
+          "p_id": "c11_p57",
+          "seq_id": "seq_57",
+          "source_text": "Thết đãi bạn, kê thực đơn, tìm thức ăn, việc quan trọng đấy chứ?",
+          "tts_text": "Thết đãi bạn, kê thực đơn, tìm thức ăn, việc quan trọng đấy chứ?"
+        },
+        {
+          "sent_id": "id_226",
+          "smil_sid": "sid_226",
+          "p_id": "c11_p57",
+          "seq_id": "seq_57",
+          "source_text": "Sự quan trọng ấy đã trở thành một cái gì mà chính Perin tự cảm thấy.",
+          "tts_text": "Sự quan trọng ấy đã trở thành một cái gì mà chính Perin tự cảm thấy."
+        },
+        {
+          "sent_id": "id_227",
+          "smil_sid": "sid_227",
+          "p_id": "c11_p57",
+          "seq_id": "seq_57",
+          "source_text": "Ai có thể nói trước đây mấy hôm, em có thể mới một người bạn ăn cơm!",
+          "tts_text": "Ai có thể nói trước đây mấy hôm, em có thể mới một người bạn ăn cơm!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p58_chunk_01",
+      "p_id": "c11_p58",
+      "start": 1002.355,
+      "speech_end": 1047.385,
+      "end": 1047.555,
+      "pause_after_ms": 170,
+      "source_text": "Chuyện đi lùng trứng chim và câu cá rất quan trọng. Nếu Perin không tìm được trứng và bắt được cá thì bữa ăn quá thanh đạm, chỉ còn món xúp rau me! Ngày thứ sáu, Perin để cả buổi chiều đi lùng khắp các hang động quanh vùng. May thay, em thấy một ổ trứng đỗ quyên. Thật ra, trứng đỗ quyên bé hơn trứng vịt trời nhưng em không có quyền kén chọn. Em đã khôn khéo dùng một con sâu đỏ làm mồi nên buổi câu cá hôm ấy khá lắm. Em bắt được một con cá vền khá to, đủ cho khách và chủ ăn thoải mái. Em còn muốn dọn món tráng miệng. Cây nhót mọc ở giữa đám liễu, có những quả gần chín, giúp em thết khách. Thứ quả này không cần chín, các cô gái ăn vẫn ngon miệng.",
+      "tts_text": "Chuyện đi lùng trứng chim và câu cá rất quan trọng. Nếu Perin không tìm được trứng và bắt được cá thì bữa ăn quá thanh đạm, chỉ còn món xúp rau me! Ngày thứ sáu, Perin để cả buổi chiều đi lùng khắp các hang động quanh vùng. May thay, em thấy một ổ trứng đỗ quyên. Thật ra, trứng đỗ quyên bé hơn trứng vịt trời nhưng em không có quyền kén chọn. Em đã khôn khéo dùng một con sâu đỏ làm mồi nên buổi câu cá hôm ấy khá lắm. Em bắt được một con cá vền khá to, đủ cho khách và chủ ăn thoải mái. Em còn muốn dọn món tráng miệng. Cây nhót mọc ở giữa đám liễu, có những quả gần chín, giúp em thết khách. Thứ quả này không cần chín, các cô gái ăn vẫn ngon miệng.",
+      "sentences": [
+        {
+          "sent_id": "id_228",
+          "smil_sid": "sid_228",
+          "p_id": "c11_p58",
+          "seq_id": "seq_58",
+          "source_text": "Chuyện đi lùng trứng chim và câu cá rất quan trọng.",
+          "tts_text": "Chuyện đi lùng trứng chim và câu cá rất quan trọng."
+        },
+        {
+          "sent_id": "id_229",
+          "smil_sid": "sid_229",
+          "p_id": "c11_p58",
+          "seq_id": "seq_58",
+          "source_text": "Nếu Perin không tìm được trứng và bắt được cá thì bữa ăn quá thanh đạm, chỉ còn món xúp rau me!",
+          "tts_text": "Nếu Perin không tìm được trứng và bắt được cá thì bữa ăn quá thanh đạm, chỉ còn món xúp rau me!"
+        },
+        {
+          "sent_id": "id_230",
+          "smil_sid": "sid_230",
+          "p_id": "c11_p58",
+          "seq_id": "seq_58",
+          "source_text": "Ngày thứ sáu, Perin để cả buổi chiều đi lùng khắp các hang động quanh vùng.",
+          "tts_text": "Ngày thứ sáu, Perin để cả buổi chiều đi lùng khắp các hang động quanh vùng."
+        },
+        {
+          "sent_id": "id_231",
+          "smil_sid": "sid_231",
+          "p_id": "c11_p58",
+          "seq_id": "seq_58",
+          "source_text": "May thay, em thấy một ổ trứng đỗ quyên.",
+          "tts_text": "May thay, em thấy một ổ trứng đỗ quyên."
+        },
+        {
+          "sent_id": "id_232",
+          "smil_sid": "sid_232",
+          "p_id": "c11_p58",
+          "seq_id": "seq_58",
+          "source_text": "Thật ra, trứng đỗ quyên bé hơn trứng vịt trời nhưng em không có quyền kén chọn.",
+          "tts_text": "Thật ra, trứng đỗ quyên bé hơn trứng vịt trời nhưng em không có quyền kén chọn."
+        },
+        {
+          "sent_id": "id_233",
+          "smil_sid": "sid_233",
+          "p_id": "c11_p58",
+          "seq_id": "seq_58",
+          "source_text": "Em đã khôn khéo dùng một con sâu đỏ làm mồi nên buổi câu cá hôm ấy khá lắm.",
+          "tts_text": "Em đã khôn khéo dùng một con sâu đỏ làm mồi nên buổi câu cá hôm ấy khá lắm."
+        },
+        {
+          "sent_id": "id_234",
+          "smil_sid": "sid_234",
+          "p_id": "c11_p58",
+          "seq_id": "seq_58",
+          "source_text": "Em bắt được một con cá vền khá to, đủ cho khách và chủ ăn thoải mái.",
+          "tts_text": "Em bắt được một con cá vền khá to, đủ cho khách và chủ ăn thoải mái."
+        },
+        {
+          "sent_id": "id_235",
+          "smil_sid": "sid_235",
+          "p_id": "c11_p58",
+          "seq_id": "seq_58",
+          "source_text": "Em còn muốn dọn món tráng miệng.",
+          "tts_text": "Em còn muốn dọn món tráng miệng."
+        },
+        {
+          "sent_id": "id_236",
+          "smil_sid": "sid_236",
+          "p_id": "c11_p58",
+          "seq_id": "seq_58",
+          "source_text": "Cây nhót mọc ở giữa đám liễu, có những quả gần chín, giúp em thết khách.",
+          "tts_text": "Cây nhót mọc ở giữa đám liễu, có những quả gần chín, giúp em thết khách."
+        },
+        {
+          "sent_id": "id_237",
+          "smil_sid": "sid_237",
+          "p_id": "c11_p58",
+          "seq_id": "seq_58",
+          "source_text": "Thứ quả này không cần chín, các cô gái ăn vẫn ngon miệng.",
+          "tts_text": "Thứ quả này không cần chín, các cô gái ăn vẫn ngon miệng."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p59_chunk_01",
+      "p_id": "c11_p59",
+      "start": 1047.555,
+      "speech_end": 1053.395,
+      "end": 1053.565,
+      "pause_after_ms": 170,
+      "source_text": "Chiều chủ nhật; Rôdali đến, gặp Perin đang ngồi trước bếp lửa bên nồi xúp đang sôi.",
+      "tts_text": "Chiều chủ nhật; Rôdali đến, gặp Perin đang ngồi trước bếp lửa bên nồi xúp đang sôi.",
+      "sentences": [
+        {
+          "sent_id": "id_238",
+          "smil_sid": "sid_238",
+          "p_id": "c11_p59",
+          "seq_id": "seq_59",
+          "source_text": "Chiều chủ nhật; Rôdali đến, gặp Perin đang ngồi trước bếp lửa bên nồi xúp đang sôi.",
+          "tts_text": "Chiều chủ nhật; Rôdali đến, gặp Perin đang ngồi trước bếp lửa bên nồi xúp đang sôi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p60_chunk_01",
+      "p_id": "c11_p60",
+      "start": 1053.565,
+      "speech_end": 1062.525,
+      "end": 1062.695,
+      "pause_after_ms": 170,
+      "source_text": "- Mình đợi bạn để cho lòng đỏ trứng vào xúp. Perin nói. Bạn cầm muỗng khuấy đều trong lúc mình từ từ rót xúp. Mình đã cắt bánh rồi.",
+      "tts_text": "- Mình đợi bạn để cho lòng đỏ trứng vào xúp. Perin nói. Bạn cầm muỗng khuấy đều trong lúc mình từ từ rót xúp. Mình đã cắt bánh rồi.",
+      "sentences": [
+        {
+          "sent_id": "id_239",
+          "smil_sid": "sid_239",
+          "p_id": "c11_p60",
+          "seq_id": "seq_60",
+          "source_text": "- Mình đợi bạn để cho lòng đỏ trứng vào xúp.",
+          "tts_text": "- Mình đợi bạn để cho lòng đỏ trứng vào xúp."
+        },
+        {
+          "sent_id": "id_240",
+          "smil_sid": "sid_240",
+          "p_id": "c11_p60",
+          "seq_id": "seq_60",
+          "source_text": "Perin nói.",
+          "tts_text": "Perin nói."
+        },
+        {
+          "sent_id": "id_241",
+          "smil_sid": "sid_241",
+          "p_id": "c11_p60",
+          "seq_id": "seq_60",
+          "source_text": "Bạn cầm muỗng khuấy đều trong lúc mình từ từ rót xúp.",
+          "tts_text": "Bạn cầm muỗng khuấy đều trong lúc mình từ từ rót xúp."
+        },
+        {
+          "sent_id": "id_242",
+          "smil_sid": "sid_242",
+          "p_id": "c11_p60",
+          "seq_id": "seq_60",
+          "source_text": "Mình đã cắt bánh rồi.",
+          "tts_text": "Mình đã cắt bánh rồi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p61_chunk_01",
+      "p_id": "c11_p61",
+      "start": 1062.695,
+      "speech_end": 1087.015,
+      "end": 1087.185,
+      "pause_after_ms": 170,
+      "source_text": "Tuy Rôdali ăn mặc lịch sự, để đến dự bữa cơm, em cũng không ngại làm cái việc ấy! Chỉ là một trò chơi, lại còn là một trò chơi rất thú vị đối với em nữa chứ! Xúp đã chín. Bây giờ, chỉ còn bưng nồi xúp vào hòn đảo. Perin làm việc ấy! Em đã bắt tấm ván làm cầu đón bạn. Thấy Rôdali tay còn mang băng chéo, Perin nói:",
+      "tts_text": "Tuy Rôdali ăn mặc lịch sự, để đến dự bữa cơm, em cũng không ngại làm cái việc ấy! Chỉ là một trò chơi, lại còn là một trò chơi rất thú vị đối với em nữa chứ! Xúp đã chín. Bây giờ, chỉ còn bưng nồi xúp vào hòn đảo. Perin làm việc ấy! Em đã bắt tấm ván làm cầu đón bạn. Thấy Rôdali tay còn mang băng chéo, Perin nói:",
+      "sentences": [
+        {
+          "sent_id": "id_243",
+          "smil_sid": "sid_243",
+          "p_id": "c11_p61",
+          "seq_id": "seq_61",
+          "source_text": "Tuy Rôdali ăn mặc lịch sự, để đến dự bữa cơm, em cũng không ngại làm cái việc ấy!",
+          "tts_text": "Tuy Rôdali ăn mặc lịch sự, để đến dự bữa cơm, em cũng không ngại làm cái việc ấy!"
+        },
+        {
+          "sent_id": "id_244",
+          "smil_sid": "sid_244",
+          "p_id": "c11_p61",
+          "seq_id": "seq_61",
+          "source_text": "Chỉ là một trò chơi, lại còn là một trò chơi rất thú vị đối với em nữa chứ!",
+          "tts_text": "Chỉ là một trò chơi, lại còn là một trò chơi rất thú vị đối với em nữa chứ!"
+        },
+        {
+          "sent_id": "id_245",
+          "smil_sid": "sid_245",
+          "p_id": "c11_p61",
+          "seq_id": "seq_61",
+          "source_text": "Xúp đã chín.",
+          "tts_text": "Xúp đã chín."
+        },
+        {
+          "sent_id": "id_246",
+          "smil_sid": "sid_246",
+          "p_id": "c11_p61",
+          "seq_id": "seq_61",
+          "source_text": "Bây giờ, chỉ còn bưng nồi xúp vào hòn đảo.",
+          "tts_text": "Bây giờ, chỉ còn bưng nồi xúp vào hòn đảo."
+        },
+        {
+          "sent_id": "id_247",
+          "smil_sid": "sid_247",
+          "p_id": "c11_p61",
+          "seq_id": "seq_61",
+          "source_text": "Perin làm việc ấy!",
+          "tts_text": "Perin làm việc ấy!"
+        },
+        {
+          "sent_id": "id_248",
+          "smil_sid": "sid_248",
+          "p_id": "c11_p61",
+          "seq_id": "seq_61",
+          "source_text": "Em đã bắt tấm ván làm cầu đón bạn.",
+          "tts_text": "Em đã bắt tấm ván làm cầu đón bạn."
+        },
+        {
+          "sent_id": "id_249",
+          "smil_sid": "sid_249",
+          "p_id": "c11_p61",
+          "seq_id": "seq_61",
+          "source_text": "Thấy Rôdali tay còn mang băng chéo, Perin nói:",
+          "tts_text": "Thấy Rôdali tay còn mang băng chéo, Perin nói:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p62_chunk_01",
+      "p_id": "c11_p62",
+      "start": 1087.185,
+      "speech_end": 1091.825,
+      "end": 1091.995,
+      "pause_after_ms": 170,
+      "source_text": "- Mình thường dùng cây sào để ra vào. Tay bạn còn đau, nên không tiện.",
+      "tts_text": "- Mình thường dùng cây sào để ra vào. Tay bạn còn đau, nên không tiện.",
+      "sentences": [
+        {
+          "sent_id": "id_250",
+          "smil_sid": "sid_250",
+          "p_id": "c11_p62",
+          "seq_id": "seq_62",
+          "source_text": "- Mình thường dùng cây sào để ra vào.",
+          "tts_text": "- Mình thường dùng cây sào để ra vào."
+        },
+        {
+          "sent_id": "id_251",
+          "smil_sid": "sid_251",
+          "p_id": "c11_p62",
+          "seq_id": "seq_62",
+          "source_text": "Tay bạn còn đau, nên không tiện.",
+          "tts_text": "Tay bạn còn đau, nên không tiện."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p63_chunk_01",
+      "p_id": "c11_p63",
+      "start": 1091.995,
+      "speech_end": 1106.635,
+      "end": 1106.805,
+      "pause_after_ms": 170,
+      "source_text": "Cửa túp lều vừa mở, Rôdali đã nhìn thấy những bó hoa đủ màu sắc ở bốn phía. Có màu hồng của hoa lan, màu vàng của hoa cẩm chướng, màu xanh da trời của mấy cái chuông nhỏ hoa lục lạc. Trên nền đất, bữa ăn đã dọn.",
+      "tts_text": "Cửa túp lều vừa mở, Rôdali đã nhìn thấy những bó hoa đủ màu sắc ở bốn phía. Có màu hồng của hoa lan, màu vàng của hoa cẩm chướng, màu xanh da trời của mấy cái chuông nhỏ hoa lục lạc. Trên nền đất, bữa ăn đã dọn.",
+      "sentences": [
+        {
+          "sent_id": "id_252",
+          "smil_sid": "sid_252",
+          "p_id": "c11_p63",
+          "seq_id": "seq_63",
+          "source_text": "Cửa túp lều vừa mở, Rôdali đã nhìn thấy những bó hoa đủ màu sắc ở bốn phía.",
+          "tts_text": "Cửa túp lều vừa mở, Rôdali đã nhìn thấy những bó hoa đủ màu sắc ở bốn phía."
+        },
+        {
+          "sent_id": "id_253",
+          "smil_sid": "sid_253",
+          "p_id": "c11_p63",
+          "seq_id": "seq_63",
+          "source_text": "Có màu hồng của hoa lan, màu vàng của hoa cẩm chướng, màu xanh da trời của mấy cái chuông nhỏ hoa lục lạc.",
+          "tts_text": "Có màu hồng của hoa lan, màu vàng của hoa cẩm chướng, màu xanh da trời của mấy cái chuông nhỏ hoa lục lạc."
+        },
+        {
+          "sent_id": "id_254",
+          "smil_sid": "sid_254",
+          "p_id": "c11_p63",
+          "seq_id": "seq_63",
+          "source_text": "Trên nền đất, bữa ăn đã dọn.",
+          "tts_text": "Trên nền đất, bữa ăn đã dọn."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p64_chunk_01",
+      "p_id": "c11_p64",
+      "start": 1106.805,
+      "speech_end": 1108.325,
+      "end": 1108.495,
+      "pause_after_ms": 170,
+      "source_text": "- Chao ôi. Đẹp quá!",
+      "tts_text": "- Chao ôi. Đẹp quá!",
+      "sentences": [
+        {
+          "sent_id": "id_255",
+          "smil_sid": "sid_255",
+          "p_id": "c11_p64",
+          "seq_id": "seq_64",
+          "source_text": "- Chao ôi.",
+          "tts_text": "- Chao ôi."
+        },
+        {
+          "sent_id": "id_256",
+          "smil_sid": "sid_256",
+          "p_id": "c11_p64",
+          "seq_id": "seq_64",
+          "source_text": "Đẹp quá!",
+          "tts_text": "Đẹp quá!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p65_chunk_01",
+      "p_id": "c11_p65",
+      "start": 1108.495,
+      "speech_end": 1138.175,
+      "end": 1138.345,
+      "pause_after_ms": 170,
+      "source_text": "Nghe Rôdali sung sướng reo lên, Perin quên hết mệt nhọc. Trên chiếc nệm bằng dương xỉ còn tươi, hai ngọn lá dong riềng thay đĩa đã bày sẵn. Con cá vền nằm giữa, trên ngọn một ngọn lá to hơn, có xà lách xoong bày chung quanh được dọn lên. Một ngọn lá nhỏ đựng muối. Một ngọn lá khác thay đĩa trái cây đựng mấy quả nhót. Ở khoảng cách giữa các đĩa có găm những hoa súng, gieo ánh sáng người giữa màu xanh tươi mát. Perin đưa tay đón khách:",
+      "tts_text": "Nghe Rôdali sung sướng reo lên, Perin quên hết mệt nhọc. Trên chiếc nệm bằng dương xỉ còn tươi, hai ngọn lá dong riềng thay đĩa đã bày sẵn. Con cá vền nằm giữa, trên ngọn một ngọn lá to hơn, có xà lách xoong bày chung quanh được dọn lên. Một ngọn lá nhỏ đựng muối. Một ngọn lá khác thay đĩa trái cây đựng mấy quả nhót. Ở khoảng cách giữa các đĩa có găm những hoa súng, gieo ánh sáng người giữa màu xanh tươi mát. Perin đưa tay đón khách:",
+      "sentences": [
+        {
+          "sent_id": "id_257",
+          "smil_sid": "sid_257",
+          "p_id": "c11_p65",
+          "seq_id": "seq_65",
+          "source_text": "Nghe Rôdali sung sướng reo lên, Perin quên hết mệt nhọc.",
+          "tts_text": "Nghe Rôdali sung sướng reo lên, Perin quên hết mệt nhọc."
+        },
+        {
+          "sent_id": "id_258",
+          "smil_sid": "sid_258",
+          "p_id": "c11_p65",
+          "seq_id": "seq_65",
+          "source_text": "Trên chiếc nệm bằng dương xỉ còn tươi, hai ngọn lá dong riềng thay đĩa đã bày sẵn.",
+          "tts_text": "Trên chiếc nệm bằng dương xỉ còn tươi, hai ngọn lá dong riềng thay đĩa đã bày sẵn."
+        },
+        {
+          "sent_id": "id_259",
+          "smil_sid": "sid_259",
+          "p_id": "c11_p65",
+          "seq_id": "seq_65",
+          "source_text": "Con cá vền nằm giữa, trên ngọn một ngọn lá to hơn, có xà lách xoong bày chung quanh được dọn lên.",
+          "tts_text": "Con cá vền nằm giữa, trên ngọn một ngọn lá to hơn, có xà lách xoong bày chung quanh được dọn lên."
+        },
+        {
+          "sent_id": "id_260",
+          "smil_sid": "sid_260",
+          "p_id": "c11_p65",
+          "seq_id": "seq_65",
+          "source_text": "Một ngọn lá nhỏ đựng muối.",
+          "tts_text": "Một ngọn lá nhỏ đựng muối."
+        },
+        {
+          "sent_id": "id_261",
+          "smil_sid": "sid_261",
+          "p_id": "c11_p65",
+          "seq_id": "seq_65",
+          "source_text": "Một ngọn lá khác thay đĩa trái cây đựng mấy quả nhót.",
+          "tts_text": "Một ngọn lá khác thay đĩa trái cây đựng mấy quả nhót."
+        },
+        {
+          "sent_id": "id_262",
+          "smil_sid": "sid_262",
+          "p_id": "c11_p65",
+          "seq_id": "seq_65",
+          "source_text": "Ở khoảng cách giữa các đĩa có găm những hoa súng, gieo ánh sáng người giữa màu xanh tươi mát.",
+          "tts_text": "Ở khoảng cách giữa các đĩa có găm những hoa súng, gieo ánh sáng người giữa màu xanh tươi mát."
+        },
+        {
+          "sent_id": "id_263",
+          "smil_sid": "sid_263",
+          "p_id": "c11_p65",
+          "seq_id": "seq_65",
+          "source_text": "Perin đưa tay đón khách:",
+          "tts_text": "Perin đưa tay đón khách:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p66_chunk_01",
+      "p_id": "c11_p66",
+      "start": 1138.345,
+      "speech_end": 1139.865,
+      "end": 1140.035,
+      "pause_after_ms": 170,
+      "source_text": "- Xin mời bạn ngồi xuống.",
+      "tts_text": "- Xin mời bạn ngồi xuống.",
+      "sentences": [
+        {
+          "sent_id": "id_264",
+          "smil_sid": "sid_264",
+          "p_id": "c11_p66",
+          "seq_id": "seq_66",
+          "source_text": "- Xin mời bạn ngồi xuống.",
+          "tts_text": "- Xin mời bạn ngồi xuống."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p67_chunk_01",
+      "p_id": "c11_p67",
+      "start": 1140.035,
+      "speech_end": 1143.315,
+      "end": 1143.485,
+      "pause_after_ms": 170,
+      "source_text": "Hai cô gái ngồi đối diện nhau và bữa ăn bắt đầu.",
+      "tts_text": "Hai cô gái ngồi đối diện nhau và bữa ăn bắt đầu.",
+      "sentences": [
+        {
+          "sent_id": "id_265",
+          "smil_sid": "sid_265",
+          "p_id": "c11_p67",
+          "seq_id": "seq_67",
+          "source_text": "Hai cô gái ngồi đối diện nhau và bữa ăn bắt đầu.",
+          "tts_text": "Hai cô gái ngồi đối diện nhau và bữa ăn bắt đầu."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p68_chunk_01",
+      "p_id": "c11_p68",
+      "start": 1143.485,
+      "speech_end": 1145.885,
+      "end": 1146.055,
+      "pause_after_ms": 170,
+      "source_text": "- Mình sẽ tiếc biết bao, nếu không đến.",
+      "tts_text": "- Mình sẽ tiếc biết bao, nếu không đến.",
+      "sentences": [
+        {
+          "sent_id": "id_266",
+          "smil_sid": "sid_266",
+          "p_id": "c11_p68",
+          "seq_id": "seq_68",
+          "source_text": "- Mình sẽ tiếc biết bao, nếu không đến.",
+          "tts_text": "- Mình sẽ tiếc biết bao, nếu không đến."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p69_chunk_01",
+      "p_id": "c11_p69",
+      "start": 1146.055,
+      "speech_end": 1149.575,
+      "end": 1149.745,
+      "pause_after_ms": 170,
+      "source_text": "- Đẹp quá và ngon quá! – Rôdali miệng đầy thức ăn nói.",
+      "tts_text": "- Đẹp quá và ngon quá! – Rôdali miệng đầy thức ăn nói.",
+      "sentences": [
+        {
+          "sent_id": "id_267",
+          "smil_sid": "sid_267",
+          "p_id": "c11_p69",
+          "seq_id": "seq_69",
+          "source_text": "- Đẹp quá và ngon quá!",
+          "tts_text": "- Đẹp quá và ngon quá!"
+        },
+        {
+          "sent_id": "id_268",
+          "smil_sid": "sid_268",
+          "p_id": "c11_p69",
+          "seq_id": "seq_69",
+          "source_text": "– Rôdali miệng đầy thức ăn nói.",
+          "tts_text": "– Rôdali miệng đầy thức ăn nói."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p70_chunk_01",
+      "p_id": "c11_p70",
+      "start": 1149.745,
+      "speech_end": 1152.785,
+      "end": 1152.955,
+      "pause_after_ms": 170,
+      "source_text": "- Có gì trở ngại mà bạn nói có thể không đến?",
+      "tts_text": "- Có gì trở ngại mà bạn nói có thể không đến?",
+      "sentences": [
+        {
+          "sent_id": "id_269",
+          "smil_sid": "sid_269",
+          "p_id": "c11_p70",
+          "seq_id": "seq_70",
+          "source_text": "- Có gì trở ngại mà bạn nói có thể không đến?",
+          "tts_text": "- Có gì trở ngại mà bạn nói có thể không đến?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p71_chunk_01",
+      "p_id": "c11_p71",
+      "start": 1152.955,
+      "speech_end": 1156.795,
+      "end": 1156.965,
+      "pause_after_ms": 170,
+      "source_text": "- Người ta muốn mình phải đi Píchkynhi thăm ông Benđi ốm nặng!",
+      "tts_text": "- Người ta muốn mình phải đi Píchkynhi thăm ông Benđi ốm nặng!",
+      "sentences": [
+        {
+          "sent_id": "id_270",
+          "smil_sid": "sid_270",
+          "p_id": "c11_p71",
+          "seq_id": "seq_71",
+          "source_text": "- Người ta muốn mình phải đi Píchkynhi thăm ông Benđi ốm nặng!",
+          "tts_text": "- Người ta muốn mình phải đi Píchkynhi thăm ông Benđi ốm nặng!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p72_chunk_01",
+      "p_id": "c11_p72",
+      "start": 1156.965,
+      "speech_end": 1158.325,
+      "end": 1158.495,
+      "pause_after_ms": 170,
+      "source_text": "- Ông ấy mắc bệnh gì?",
+      "tts_text": "- Ông ấy mắc bệnh gì?",
+      "sentences": [
+        {
+          "sent_id": "id_271",
+          "smil_sid": "sid_271",
+          "p_id": "c11_p72",
+          "seq_id": "seq_72",
+          "source_text": "- Ông ấy mắc bệnh gì?",
+          "tts_text": "- Ông ấy mắc bệnh gì?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p73_chunk_01",
+      "p_id": "c11_p73",
+      "start": 1158.495,
+      "speech_end": 1165.935,
+      "end": 1166.105,
+      "pause_after_ms": 170,
+      "source_text": "- Thương hàn. Từ hôm qua, ông đã nói lảm nhảm không nhận ra người đến thăm; Cũng vì thế hôm qua mình định đến tìm cậu.",
+      "tts_text": "- Thương hàn. Từ hôm qua, ông đã nói lảm nhảm không nhận ra người đến thăm; Cũng vì thế hôm qua mình định đến tìm cậu.",
+      "sentences": [
+        {
+          "sent_id": "id_272",
+          "smil_sid": "sid_272",
+          "p_id": "c11_p73",
+          "seq_id": "seq_73",
+          "source_text": "- Thương hàn.",
+          "tts_text": "- Thương hàn."
+        },
+        {
+          "sent_id": "id_273",
+          "smil_sid": "sid_273",
+          "p_id": "c11_p73",
+          "seq_id": "seq_73",
+          "source_text": "Từ hôm qua, ông đã nói lảm nhảm không nhận ra người đến thăm; Cũng vì thế hôm qua mình định đến tìm cậu.",
+          "tts_text": "Từ hôm qua, ông đã nói lảm nhảm không nhận ra người đến thăm; Cũng vì thế hôm qua mình định đến tìm cậu."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p74_chunk_01",
+      "p_id": "c11_p74",
+      "start": 1166.105,
+      "speech_end": 1167.705,
+      "end": 1167.875,
+      "pause_after_ms": 170,
+      "source_text": "- Tìm mình, để làm gì?",
+      "tts_text": "- Tìm mình, để làm gì?",
+      "sentences": [
+        {
+          "sent_id": "id_274",
+          "smil_sid": "sid_274",
+          "p_id": "c11_p74",
+          "seq_id": "seq_74",
+          "source_text": "- Tìm mình, để làm gì?",
+          "tts_text": "- Tìm mình, để làm gì?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p75_chunk_01",
+      "p_id": "c11_p75",
+      "start": 1167.875,
+      "speech_end": 1170.195,
+      "end": 1170.365,
+      "pause_after_ms": 170,
+      "source_text": "- Ồ, đấy là một ý kiến của mình!",
+      "tts_text": "- Ồ, đấy là một ý kiến của mình!",
+      "sentences": [
+        {
+          "sent_id": "id_275",
+          "smil_sid": "sid_275",
+          "p_id": "c11_p75",
+          "seq_id": "seq_75",
+          "source_text": "- Ồ, đấy là một ý kiến của mình!",
+          "tts_text": "- Ồ, đấy là một ý kiến của mình!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p76_chunk_01",
+      "p_id": "c11_p76",
+      "start": 1170.365,
+      "speech_end": 1180.765,
+      "end": 1180.935,
+      "pause_after_ms": 170,
+      "source_text": "- Nếu mình có thể làm gì giúp ông Benđi thì mình sẵn sàng! Ông ấy tốt với mình! Nhưng một cô gái nghèo khổ thì làm được gì kia chứ! Mình chẳng hiểu gì cả!",
+      "tts_text": "- Nếu mình có thể làm gì giúp ông Benđi thì mình sẵn sàng! Ông ấy tốt với mình! Nhưng một cô gái nghèo khổ thì làm được gì kia chứ! Mình chẳng hiểu gì cả!",
+      "sentences": [
+        {
+          "sent_id": "id_276",
+          "smil_sid": "sid_276",
+          "p_id": "c11_p76",
+          "seq_id": "seq_76",
+          "source_text": "- Nếu mình có thể làm gì giúp ông Benđi thì mình sẵn sàng!",
+          "tts_text": "- Nếu mình có thể làm gì giúp ông Benđi thì mình sẵn sàng!"
+        },
+        {
+          "sent_id": "id_277",
+          "smil_sid": "sid_277",
+          "p_id": "c11_p76",
+          "seq_id": "seq_76",
+          "source_text": "Ông ấy tốt với mình!",
+          "tts_text": "Ông ấy tốt với mình!"
+        },
+        {
+          "sent_id": "id_278",
+          "smil_sid": "sid_278",
+          "p_id": "c11_p76",
+          "seq_id": "seq_76",
+          "source_text": "Nhưng một cô gái nghèo khổ thì làm được gì kia chứ!",
+          "tts_text": "Nhưng một cô gái nghèo khổ thì làm được gì kia chứ!"
+        },
+        {
+          "sent_id": "id_279",
+          "smil_sid": "sid_279",
+          "p_id": "c11_p76",
+          "seq_id": "seq_76",
+          "source_text": "Mình chẳng hiểu gì cả!",
+          "tts_text": "Mình chẳng hiểu gì cả!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p77_chunk_01",
+      "p_id": "c11_p77",
+      "start": 1180.935,
+      "speech_end": 1239.075,
+      "end": 1239.245,
+      "pause_after_ms": 170,
+      "source_text": "- Cho mình một ít cá với xà lách xoong rồi mình nói cho mà nghe. Cậu biết đấy, ông Benđi là người chịu trách nhiệm giao thiệp với nước ngoài. Chính ông ấy dịch những thư tín tiếng Anh, tiếng Đức. Bây giờ, đâu óc ông không còn tỉnh táo! Ông không thể dịch được! Người ta muốn gọi người khác thay ông, nhưng người kia có thể cứ giữ chổ ấy khi ông Benđi lành bệnh. Ông Pharbry và ông Môngblơ đã đề nghị nhận thêm phần việc của ông Benđi, để khi ông ấy khỏe mạnh, sẽ trở về xí nghiệp. Nhưng ông Phabry được phái đi Ecôtx nên ông Mônngblơ lúng túng. Ông ta đọc tiếng Đức thạo, và có thể dịch tiếng Anh với ông Phabry, nhưng vì có một mình, chuyện ấy không ổn nữa, nhất là khi có những lá thư tiếng Anh viết khó đọc. Lúc mình dọn cơm, ông ấy cho mình hay ông ấy đang lo không thay thế nổi ông Benđi! Mình có ý kiến giới thiệu cậu với ông ấy. Cậu nói được tiếng Anh cũng như tiếng Pháp.",
+      "tts_text": "- Cho mình một ít cá với xà lách xoong rồi mình nói cho mà nghe. Cậu biết đấy, ông Benđi là người chịu trách nhiệm giao thiệp với nước ngoài. Chính ông ấy dịch những thư tín tiếng Anh, tiếng Đức. Bây giờ, đâu óc ông không còn tỉnh táo! Ông không thể dịch được! Người ta muốn gọi người khác thay ông, nhưng người kia có thể cứ giữ chổ ấy khi ông Benđi lành bệnh. Ông Pharbry và ông Môngblơ đã đề nghị nhận thêm phần việc của ông Benđi, để khi ông ấy khỏe mạnh, sẽ trở về xí nghiệp. Nhưng ông Phabry được phái đi Ecôtx nên ông Mônngblơ lúng túng. Ông ta đọc tiếng Đức thạo, và có thể dịch tiếng Anh với ông Phabry, nhưng vì có một mình, chuyện ấy không ổn nữa, nhất là khi có những lá thư tiếng Anh viết khó đọc. Lúc mình dọn cơm, ông ấy cho mình hay ông ấy đang lo không thay thế nổi ông Benđi! Mình có ý kiến giới thiệu cậu với ông ấy. Cậu nói được tiếng Anh cũng như tiếng Pháp.",
+      "sentences": [
+        {
+          "sent_id": "id_280",
+          "smil_sid": "sid_280",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "- Cho mình một ít cá với xà lách xoong rồi mình nói cho mà nghe.",
+          "tts_text": "- Cho mình một ít cá với xà lách xoong rồi mình nói cho mà nghe."
+        },
+        {
+          "sent_id": "id_281",
+          "smil_sid": "sid_281",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Cậu biết đấy, ông Benđi là người chịu trách nhiệm giao thiệp với nước ngoài.",
+          "tts_text": "Cậu biết đấy, ông Benđi là người chịu trách nhiệm giao thiệp với nước ngoài."
+        },
+        {
+          "sent_id": "id_282",
+          "smil_sid": "sid_282",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Chính ông ấy dịch những thư tín tiếng Anh, tiếng Đức.",
+          "tts_text": "Chính ông ấy dịch những thư tín tiếng Anh, tiếng Đức."
+        },
+        {
+          "sent_id": "id_283",
+          "smil_sid": "sid_283",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Bây giờ, đâu óc ông không còn tỉnh táo!",
+          "tts_text": "Bây giờ, đâu óc ông không còn tỉnh táo!"
+        },
+        {
+          "sent_id": "id_284",
+          "smil_sid": "sid_284",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Ông không thể dịch được!",
+          "tts_text": "Ông không thể dịch được!"
+        },
+        {
+          "sent_id": "id_285",
+          "smil_sid": "sid_285",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Người ta muốn gọi người khác thay ông, nhưng người kia có thể cứ giữ chổ ấy khi ông Benđi lành bệnh.",
+          "tts_text": "Người ta muốn gọi người khác thay ông, nhưng người kia có thể cứ giữ chổ ấy khi ông Benđi lành bệnh."
+        },
+        {
+          "sent_id": "id_286",
+          "smil_sid": "sid_286",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Ông Pharbry và ông Môngblơ đã đề nghị nhận thêm phần việc của ông Benđi, để khi ông ấy khỏe mạnh, sẽ trở về xí nghiệp.",
+          "tts_text": "Ông Pharbry và ông Môngblơ đã đề nghị nhận thêm phần việc của ông Benđi, để khi ông ấy khỏe mạnh, sẽ trở về xí nghiệp."
+        },
+        {
+          "sent_id": "id_287",
+          "smil_sid": "sid_287",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Nhưng ông Phabry được phái đi Ecôtx nên ông Mônngblơ lúng túng.",
+          "tts_text": "Nhưng ông Phabry được phái đi Ecôtx nên ông Mônngblơ lúng túng."
+        },
+        {
+          "sent_id": "id_288",
+          "smil_sid": "sid_288",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Ông ta đọc tiếng Đức thạo, và có thể dịch tiếng Anh với ông Phabry, nhưng vì có một mình, chuyện ấy không ổn nữa, nhất là khi có những lá thư tiếng Anh viết khó đọc.",
+          "tts_text": "Ông ta đọc tiếng Đức thạo, và có thể dịch tiếng Anh với ông Phabry, nhưng vì có một mình, chuyện ấy không ổn nữa, nhất là khi có những lá thư tiếng Anh viết khó đọc."
+        },
+        {
+          "sent_id": "id_289",
+          "smil_sid": "sid_289",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Lúc mình dọn cơm, ông ấy cho mình hay ông ấy đang lo không thay thế nổi ông Benđi!",
+          "tts_text": "Lúc mình dọn cơm, ông ấy cho mình hay ông ấy đang lo không thay thế nổi ông Benđi!"
+        },
+        {
+          "sent_id": "id_290",
+          "smil_sid": "sid_290",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Mình có ý kiến giới thiệu cậu với ông ấy.",
+          "tts_text": "Mình có ý kiến giới thiệu cậu với ông ấy."
+        },
+        {
+          "sent_id": "id_291",
+          "smil_sid": "sid_291",
+          "p_id": "c11_p77",
+          "seq_id": "seq_77",
+          "source_text": "Cậu nói được tiếng Anh cũng như tiếng Pháp.",
+          "tts_text": "Cậu nói được tiếng Anh cũng như tiếng Pháp."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p78_chunk_01",
+      "p_id": "c11_p78",
+      "start": 1239.245,
+      "speech_end": 1246.525,
+      "end": 1246.695,
+      "pause_after_ms": 170,
+      "source_text": "- Mình nói tiếng Pháp với bố, tiếng Anh với mẹ. Khi cả ba người nói chuyện, khi dùng tiếng Anh khi thì tiếng Pháp.",
+      "tts_text": "- Mình nói tiếng Pháp với bố, tiếng Anh với mẹ. Khi cả ba người nói chuyện, khi dùng tiếng Anh khi thì tiếng Pháp.",
+      "sentences": [
+        {
+          "sent_id": "id_292",
+          "smil_sid": "sid_292",
+          "p_id": "c11_p78",
+          "seq_id": "seq_78",
+          "source_text": "- Mình nói tiếng Pháp với bố, tiếng Anh với mẹ.",
+          "tts_text": "- Mình nói tiếng Pháp với bố, tiếng Anh với mẹ."
+        },
+        {
+          "sent_id": "id_293",
+          "smil_sid": "sid_293",
+          "p_id": "c11_p78",
+          "seq_id": "seq_78",
+          "source_text": "Khi cả ba người nói chuyện, khi dùng tiếng Anh khi thì tiếng Pháp.",
+          "tts_text": "Khi cả ba người nói chuyện, khi dùng tiếng Anh khi thì tiếng Pháp."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p79_chunk_01",
+      "p_id": "c11_p79",
+      "start": 1246.695,
+      "speech_end": 1251.575,
+      "end": 1251.745,
+      "pause_after_ms": 170,
+      "source_text": "- Thế nhưng mình chưa dám nói. Bây giờ mình có thể nói với ông ấy điều đó chứ?",
+      "tts_text": "- Thế nhưng mình chưa dám nói. Bây giờ mình có thể nói với ông ấy điều đó chứ?",
+      "sentences": [
+        {
+          "sent_id": "id_294",
+          "smil_sid": "sid_294",
+          "p_id": "c11_p79",
+          "seq_id": "seq_79",
+          "source_text": "- Thế nhưng mình chưa dám nói.",
+          "tts_text": "- Thế nhưng mình chưa dám nói."
+        },
+        {
+          "sent_id": "id_295",
+          "smil_sid": "sid_295",
+          "p_id": "c11_p79",
+          "seq_id": "seq_79",
+          "source_text": "Bây giờ mình có thể nói với ông ấy điều đó chứ?",
+          "tts_text": "Bây giờ mình có thể nói với ông ấy điều đó chứ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p80_chunk_01",
+      "p_id": "c11_p80",
+      "start": 1251.745,
+      "speech_end": 1256.145,
+      "end": 1256.315,
+      "pause_after_ms": 170,
+      "source_text": "- Được thôi! Nếu bạn thấy người ta cần đến một cô gái nghèo khổ như mình.",
+      "tts_text": "- Được thôi! Nếu bạn thấy người ta cần đến một cô gái nghèo khổ như mình.",
+      "sentences": [
+        {
+          "sent_id": "id_296",
+          "smil_sid": "sid_296",
+          "p_id": "c11_p80",
+          "seq_id": "seq_80",
+          "source_text": "- Được thôi!",
+          "tts_text": "- Được thôi!"
+        },
+        {
+          "sent_id": "id_297",
+          "smil_sid": "sid_297",
+          "p_id": "c11_p80",
+          "seq_id": "seq_80",
+          "source_text": "Nếu bạn thấy người ta cần đến một cô gái nghèo khổ như mình.",
+          "tts_text": "Nếu bạn thấy người ta cần đến một cô gái nghèo khổ như mình."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p81_chunk_01",
+      "p_id": "c11_p81",
+      "start": 1256.315,
+      "speech_end": 1264.875,
+      "end": 1265.045,
+      "pause_after_ms": 170,
+      "source_text": "- Vấn đề ở đây không phải là cô gái nghèo khổ hay cô tiểu thư! Điều cần thiết là phải biết rõ câu có nói được tiếng Anh không?",
+      "tts_text": "- Vấn đề ở đây không phải là cô gái nghèo khổ hay cô tiểu thư! Điều cần thiết là phải biết rõ câu có nói được tiếng Anh không?",
+      "sentences": [
+        {
+          "sent_id": "id_298",
+          "smil_sid": "sid_298",
+          "p_id": "c11_p81",
+          "seq_id": "seq_81",
+          "source_text": "- Vấn đề ở đây không phải là cô gái nghèo khổ hay cô tiểu thư!",
+          "tts_text": "- Vấn đề ở đây không phải là cô gái nghèo khổ hay cô tiểu thư!"
+        },
+        {
+          "sent_id": "id_299",
+          "smil_sid": "sid_299",
+          "p_id": "c11_p81",
+          "seq_id": "seq_81",
+          "source_text": "Điều cần thiết là phải biết rõ câu có nói được tiếng Anh không?",
+          "tts_text": "Điều cần thiết là phải biết rõ câu có nói được tiếng Anh không?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p82_chunk_01",
+      "p_id": "c11_p82",
+      "start": 1265.045,
+      "speech_end": 1269.525,
+      "end": 1269.695,
+      "pause_after_ms": 170,
+      "source_text": "- Mình nói được! Nhưng dịch những lá thư giao dịch thì lại là chuyện khác!",
+      "tts_text": "- Mình nói được! Nhưng dịch những lá thư giao dịch thì lại là chuyện khác!",
+      "sentences": [
+        {
+          "sent_id": "id_300",
+          "smil_sid": "sid_300",
+          "p_id": "c11_p82",
+          "seq_id": "seq_82",
+          "source_text": "- Mình nói được!",
+          "tts_text": "- Mình nói được!"
+        },
+        {
+          "sent_id": "id_301",
+          "smil_sid": "sid_301",
+          "p_id": "c11_p82",
+          "seq_id": "seq_82",
+          "source_text": "Nhưng dịch những lá thư giao dịch thì lại là chuyện khác!",
+          "tts_text": "Nhưng dịch những lá thư giao dịch thì lại là chuyện khác!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p83_chunk_01",
+      "p_id": "c11_p83",
+      "start": 1269.695,
+      "speech_end": 1276.015,
+      "end": 1276.185,
+      "pause_after_ms": 170,
+      "source_text": "- Đó là với người khác, chứ còn ông Môngblơ thì không hẳn thế! Ông rất thạo cái công việc ấy mà!",
+      "tts_text": "- Đó là với người khác, chứ còn ông Môngblơ thì không hẳn thế! Ông rất thạo cái công việc ấy mà!",
+      "sentences": [
+        {
+          "sent_id": "id_302",
+          "smil_sid": "sid_302",
+          "p_id": "c11_p83",
+          "seq_id": "seq_83",
+          "source_text": "- Đó là với người khác, chứ còn ông Môngblơ thì không hẳn thế!",
+          "tts_text": "- Đó là với người khác, chứ còn ông Môngblơ thì không hẳn thế!"
+        },
+        {
+          "sent_id": "id_303",
+          "smil_sid": "sid_303",
+          "p_id": "c11_p83",
+          "seq_id": "seq_83",
+          "source_text": "Ông rất thạo cái công việc ấy mà!",
+          "tts_text": "Ông rất thạo cái công việc ấy mà!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p84_chunk_01",
+      "p_id": "c11_p84",
+      "start": 1276.185,
+      "speech_end": 1283.945,
+      "end": 1284.115,
+      "pause_after_ms": 170,
+      "source_text": "- Có thể thế. Vậy thì bạn hãy nói với ông ấy là mình sẽ rất sung sướng được làm một việc gì đó giúp ông Benđi.",
+      "tts_text": "- Có thể thế. Vậy thì bạn hãy nói với ông ấy là mình sẽ rất sung sướng được làm một việc gì đó giúp ông Benđi.",
+      "sentences": [
+        {
+          "sent_id": "id_304",
+          "smil_sid": "sid_304",
+          "p_id": "c11_p84",
+          "seq_id": "seq_84",
+          "source_text": "- Có thể thế.",
+          "tts_text": "- Có thể thế."
+        },
+        {
+          "sent_id": "id_305",
+          "smil_sid": "sid_305",
+          "p_id": "c11_p84",
+          "seq_id": "seq_84",
+          "source_text": "Vậy thì bạn hãy nói với ông ấy là mình sẽ rất sung sướng được làm một việc gì đó giúp ông Benđi.",
+          "tts_text": "Vậy thì bạn hãy nói với ông ấy là mình sẽ rất sung sướng được làm một việc gì đó giúp ông Benđi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p85_chunk_01",
+      "p_id": "c11_p85",
+      "start": 1284.115,
+      "speech_end": 1285.715,
+      "end": 1285.885,
+      "pause_after_ms": 170,
+      "source_text": "- Mình sẽ nói với ông ấy!",
+      "tts_text": "- Mình sẽ nói với ông ấy!",
+      "sentences": [
+        {
+          "sent_id": "id_306",
+          "smil_sid": "sid_306",
+          "p_id": "c11_p85",
+          "seq_id": "seq_85",
+          "source_text": "- Mình sẽ nói với ông ấy!",
+          "tts_text": "- Mình sẽ nói với ông ấy!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p86_chunk_01",
+      "p_id": "c11_p86",
+      "start": 1285.885,
+      "speech_end": 1303.865,
+      "end": 1304.035,
+      "pause_after_ms": 170,
+      "source_text": "Con cá tuy to, nhưng hai cô đã ăn hết nhẵn. Mớ xá lách xoong cũng không còn ngọn nào. Đến ăn tráng miệng, Perin đứng lên. Em thay ngọn là đựng cá bằng ngọn lá sung có hình dáng chiếc ly sâmbanh có vân và được tráng nước men rất đẹp. Perin đem quả nhót ra mời bạn:",
+      "tts_text": "Con cá tuy to, nhưng hai cô đã ăn hết nhẵn. Mớ xá lách xoong cũng không còn ngọn nào. Đến ăn tráng miệng, Perin đứng lên. Em thay ngọn là đựng cá bằng ngọn lá sung có hình dáng chiếc ly sâmbanh có vân và được tráng nước men rất đẹp. Perin đem quả nhót ra mời bạn:",
+      "sentences": [
+        {
+          "sent_id": "id_307",
+          "smil_sid": "sid_307",
+          "p_id": "c11_p86",
+          "seq_id": "seq_86",
+          "source_text": "Con cá tuy to, nhưng hai cô đã ăn hết nhẵn.",
+          "tts_text": "Con cá tuy to, nhưng hai cô đã ăn hết nhẵn."
+        },
+        {
+          "sent_id": "id_308",
+          "smil_sid": "sid_308",
+          "p_id": "c11_p86",
+          "seq_id": "seq_86",
+          "source_text": "Mớ xá lách xoong cũng không còn ngọn nào.",
+          "tts_text": "Mớ xá lách xoong cũng không còn ngọn nào."
+        },
+        {
+          "sent_id": "id_309",
+          "smil_sid": "sid_309",
+          "p_id": "c11_p86",
+          "seq_id": "seq_86",
+          "source_text": "Đến ăn tráng miệng, Perin đứng lên.",
+          "tts_text": "Đến ăn tráng miệng, Perin đứng lên."
+        },
+        {
+          "sent_id": "id_310",
+          "smil_sid": "sid_310",
+          "p_id": "c11_p86",
+          "seq_id": "seq_86",
+          "source_text": "Em thay ngọn là đựng cá bằng ngọn lá sung có hình dáng chiếc ly sâmbanh có vân và được tráng nước men rất đẹp.",
+          "tts_text": "Em thay ngọn là đựng cá bằng ngọn lá sung có hình dáng chiếc ly sâmbanh có vân và được tráng nước men rất đẹp."
+        },
+        {
+          "sent_id": "id_311",
+          "smil_sid": "sid_311",
+          "p_id": "c11_p86",
+          "seq_id": "seq_86",
+          "source_text": "Perin đem quả nhót ra mời bạn:",
+          "tts_text": "Perin đem quả nhót ra mời bạn:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p87_chunk_01",
+      "p_id": "c11_p87",
+      "start": 1304.035,
+      "speech_end": 1309.635,
+      "end": 1309.805,
+      "pause_after_ms": 170,
+      "source_text": "- Hãy nếm thử quả cây trong vườn! Perin vừa nói, vừa cười như em đang chơi với búp bê.",
+      "tts_text": "- Hãy nếm thử quả cây trong vườn! Perin vừa nói, vừa cười như em đang chơi với búp bê.",
+      "sentences": [
+        {
+          "sent_id": "id_312",
+          "smil_sid": "sid_312",
+          "p_id": "c11_p87",
+          "seq_id": "seq_87",
+          "source_text": "- Hãy nếm thử quả cây trong vườn!",
+          "tts_text": "- Hãy nếm thử quả cây trong vườn!"
+        },
+        {
+          "sent_id": "id_313",
+          "smil_sid": "sid_313",
+          "p_id": "c11_p87",
+          "seq_id": "seq_87",
+          "source_text": "Perin vừa nói, vừa cười như em đang chơi với búp bê.",
+          "tts_text": "Perin vừa nói, vừa cười như em đang chơi với búp bê."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p88_chunk_01",
+      "p_id": "c11_p88",
+      "start": 1309.805,
+      "speech_end": 1311.725,
+      "end": 1311.895,
+      "pause_after_ms": 170,
+      "source_text": "- Vườn của bạn? Ở đâu kia?",
+      "tts_text": "- Vườn của bạn? Ở đâu kia?",
+      "sentences": [
+        {
+          "sent_id": "id_314",
+          "smil_sid": "sid_314",
+          "p_id": "c11_p88",
+          "seq_id": "seq_88",
+          "source_text": "- Vườn của bạn?",
+          "tts_text": "- Vườn của bạn?"
+        },
+        {
+          "sent_id": "id_315",
+          "smil_sid": "sid_315",
+          "p_id": "c11_p88",
+          "seq_id": "seq_88",
+          "source_text": "Ở đâu kia?",
+          "tts_text": "Ở đâu kia?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p89_chunk_01",
+      "p_id": "c11_p89",
+      "start": 1311.895,
+      "speech_end": 1317.255,
+      "end": 1317.425,
+      "pause_after_ms": 170,
+      "source_text": "- Trên đầu chúng ta ấy mà! Cây nhót mọc trên cành một cây liễu làm cột cho túp lều!",
+      "tts_text": "- Trên đầu chúng ta ấy mà! Cây nhót mọc trên cành một cây liễu làm cột cho túp lều!",
+      "sentences": [
+        {
+          "sent_id": "id_316",
+          "smil_sid": "sid_316",
+          "p_id": "c11_p89",
+          "seq_id": "seq_89",
+          "source_text": "- Trên đầu chúng ta ấy mà!",
+          "tts_text": "- Trên đầu chúng ta ấy mà!"
+        },
+        {
+          "sent_id": "id_317",
+          "smil_sid": "sid_317",
+          "p_id": "c11_p89",
+          "seq_id": "seq_89",
+          "source_text": "Cây nhót mọc trên cành một cây liễu làm cột cho túp lều!",
+          "tts_text": "Cây nhót mọc trên cành một cây liễu làm cột cho túp lều!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p90_chunk_01",
+      "p_id": "c11_p90",
+      "start": 1317.425,
+      "speech_end": 1321.905,
+      "end": 1322.075,
+      "pause_after_ms": 170,
+      "source_text": "- Cậu biết không? Cậu không còn được ở lâu trong nhà của cậu nữa đâu?",
+      "tts_text": "- Cậu biết không? Cậu không còn được ở lâu trong nhà của cậu nữa đâu?",
+      "sentences": [
+        {
+          "sent_id": "id_318",
+          "smil_sid": "sid_318",
+          "p_id": "c11_p90",
+          "seq_id": "seq_90",
+          "source_text": "- Cậu biết không?",
+          "tts_text": "- Cậu biết không?"
+        },
+        {
+          "sent_id": "id_319",
+          "smil_sid": "sid_319",
+          "p_id": "c11_p90",
+          "seq_id": "seq_90",
+          "source_text": "Cậu không còn được ở lâu trong nhà của cậu nữa đâu?",
+          "tts_text": "Cậu không còn được ở lâu trong nhà của cậu nữa đâu?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p91_chunk_01",
+      "p_id": "c11_p91",
+      "start": 1322.075,
+      "speech_end": 1324.155,
+      "end": 1324.325,
+      "pause_after_ms": 170,
+      "source_text": "- Cho đến mùa đông, mình nghĩ thế!",
+      "tts_text": "- Cho đến mùa đông, mình nghĩ thế!",
+      "sentences": [
+        {
+          "sent_id": "id_320",
+          "smil_sid": "sid_320",
+          "p_id": "c11_p91",
+          "seq_id": "seq_91",
+          "source_text": "- Cho đến mùa đông, mình nghĩ thế!",
+          "tts_text": "- Cho đến mùa đông, mình nghĩ thế!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p92_chunk_01",
+      "p_id": "c11_p92",
+      "start": 1324.325,
+      "speech_end": 1330.565,
+      "end": 1330.735,
+      "pause_after_ms": 170,
+      "source_text": "- Đến mùa đông ư? Mùa săn bắn trên đầm lấy sắp bắt đầu rồi mà! Chắc là người ta sẽ cần túp lều!",
+      "tts_text": "- Đến mùa đông ư? Mùa săn bắn trên đầm lấy sắp bắt đầu rồi mà! Chắc là người ta sẽ cần túp lều!",
+      "sentences": [
+        {
+          "sent_id": "id_321",
+          "smil_sid": "sid_321",
+          "p_id": "c11_p92",
+          "seq_id": "seq_92",
+          "source_text": "- Đến mùa đông ư?",
+          "tts_text": "- Đến mùa đông ư?"
+        },
+        {
+          "sent_id": "id_322",
+          "smil_sid": "sid_322",
+          "p_id": "c11_p92",
+          "seq_id": "seq_92",
+          "source_text": "Mùa săn bắn trên đầm lấy sắp bắt đầu rồi mà!",
+          "tts_text": "Mùa săn bắn trên đầm lấy sắp bắt đầu rồi mà!"
+        },
+        {
+          "sent_id": "id_323",
+          "smil_sid": "sid_323",
+          "p_id": "c11_p92",
+          "seq_id": "seq_92",
+          "source_text": "Chắc là người ta sẽ cần túp lều!",
+          "tts_text": "Chắc là người ta sẽ cần túp lều!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p93_chunk_01",
+      "p_id": "c11_p93",
+      "start": 1330.735,
+      "speech_end": 1332.255,
+      "end": 1332.425,
+      "pause_after_ms": 170,
+      "source_text": "- Thế ư! Trời ơi!",
+      "tts_text": "- Thế ư! Trời ơi!",
+      "sentences": [
+        {
+          "sent_id": "id_324",
+          "smil_sid": "sid_324",
+          "p_id": "c11_p93",
+          "seq_id": "seq_93",
+          "source_text": "- Thế ư!",
+          "tts_text": "- Thế ư!"
+        },
+        {
+          "sent_id": "id_325",
+          "smil_sid": "sid_325",
+          "p_id": "c11_p93",
+          "seq_id": "seq_93",
+          "source_text": "Trời ơi!",
+          "tts_text": "Trời ơi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p94_chunk_01",
+      "p_id": "c11_p94",
+      "start": 1332.425,
+      "speech_end": 1341.705,
+      "end": 1341.875,
+      "pause_after_ms": 170,
+      "source_text": "Bữa cơm đang vui, bỗng kết thúc bằng mối đe dọa ghê sợ! Đêm hôm ấy, hẳn là cái đêm buồn nhất của Perin từ dạo em ở trên hòn đảo của em!",
+      "tts_text": "Bữa cơm đang vui, bỗng kết thúc bằng mối đe dọa ghê sợ! Đêm hôm ấy, hẳn là cái đêm buồn nhất của Perin từ dạo em ở trên hòn đảo của em!",
+      "sentences": [
+        {
+          "sent_id": "id_326",
+          "smil_sid": "sid_326",
+          "p_id": "c11_p94",
+          "seq_id": "seq_94",
+          "source_text": "Bữa cơm đang vui, bỗng kết thúc bằng mối đe dọa ghê sợ!",
+          "tts_text": "Bữa cơm đang vui, bỗng kết thúc bằng mối đe dọa ghê sợ!"
+        },
+        {
+          "sent_id": "id_327",
+          "smil_sid": "sid_327",
+          "p_id": "c11_p94",
+          "seq_id": "seq_94",
+          "source_text": "Đêm hôm ấy, hẳn là cái đêm buồn nhất của Perin từ dạo em ở trên hòn đảo của em!",
+          "tts_text": "Đêm hôm ấy, hẳn là cái đêm buồn nhất của Perin từ dạo em ở trên hòn đảo của em!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p95_chunk_01",
+      "p_id": "c11_p95",
+      "start": 1341.875,
+      "speech_end": 1343.475,
+      "end": 1343.645,
+      "pause_after_ms": 170,
+      "source_text": "- Rồi mình sẽ đi đâu đây?",
+      "tts_text": "- Rồi mình sẽ đi đâu đây?",
+      "sentences": [
+        {
+          "sent_id": "id_328",
+          "smil_sid": "sid_328",
+          "p_id": "c11_p95",
+          "seq_id": "seq_95",
+          "source_text": "- Rồi mình sẽ đi đâu đây?",
+          "tts_text": "- Rồi mình sẽ đi đâu đây?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c11_p96_chunk_01",
+      "p_id": "c11_p96",
+      "start": 1343.645,
+      "speech_end": 1349.645,
+      "end": 1349.645,
+      "pause_after_ms": 0,
+      "source_text": "Và tất cả những dụng cụ Perin đã bỏ bao nhiêu công sức để góp nhặt, sẽ xử trí như thế nào?",
+      "tts_text": "Và tất cả những dụng cụ Perin đã bỏ bao nhiêu công sức để góp nhặt, sẽ xử trí như thế nào?",
+      "sentences": [
+        {
+          "sent_id": "id_329",
+          "smil_sid": "sid_329",
+          "p_id": "c11_p96",
+          "seq_id": "seq_96",
+          "source_text": "Và tất cả những dụng cụ Perin đã bỏ bao nhiêu công sức để góp nhặt, sẽ xử trí như thế nào?",
+          "tts_text": "Và tất cả những dụng cụ Perin đã bỏ bao nhiêu công sức để góp nhặt, sẽ xử trí như thế nào?"
+        }
+      ]
+    }
+  ]
+}

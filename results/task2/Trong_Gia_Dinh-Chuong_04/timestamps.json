@@ -1,0 +1,2458 @@
+{
+  "metadata": {
+    "dtb:uid": "978-604-69-8175-6",
+    "dtb:generator": "DAISY 3 DTBook Python Pipeline (K35)",
+    "dc:Title": "Trong Gia Đình",
+    "dc:Creator": "Hector Malot",
+    "dc:Translator": "Huỳnh Lý & Mai Hương, Huỳnh Phan Thanh Yên",
+    "dc:Publisher": "NXB Văn Học",
+    "dc:Date": "2017",
+    "dc:Identifier": "978-604-69-8175-6",
+    "dc:Language": "vi-VN",
+    "dc:Subject": "Văn học & Tiểu thuyết",
+    "dc:Format": "ANSI/NISO Z39.86-2005",
+    "dc:Description": "Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình.",
+    "note": "Bản dịch của GS. Huỳnh Lý & Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"
+  },
+  "chapter_idx": 4,
+  "chapter_title": "Chương 4",
+  "total_paragraphs": 63,
+  "total_sentences": 195,
+  "audio_file": "Chuong_04.mp3",
+  "audio_duration": 715.39,
+  "headings": [
+    {
+      "kind": "heading",
+      "role": "book_title",
+      "sent_id": "id_1",
+      "smil_sid": "sid_1",
+      "container_id": "forsmil-1",
+      "source_text": "Trong Gia Đình",
+      "tts_text": "Trong Gia Đình",
+      "start": 0.0,
+      "speech_end": 0.96,
+      "end": 1.13,
+      "pause_after_ms": 170
+    },
+    {
+      "kind": "heading",
+      "role": "author",
+      "sent_id": "id_2",
+      "smil_sid": "sid_2",
+      "container_id": "forsmil-2",
+      "source_text": "Hector Malot",
+      "tts_text": "Hector Malot",
+      "start": 1.13,
+      "speech_end": 2.25,
+      "end": 2.42,
+      "pause_after_ms": 170
+    },
+    {
+      "kind": "heading",
+      "role": "chapter_title",
+      "sent_id": "id_3",
+      "smil_sid": "sid_3",
+      "container_id": "faux-heading",
+      "source_text": "Chương 4",
+      "tts_text": "Chương 4",
+      "start": 2.42,
+      "speech_end": 3.14,
+      "end": 3.31,
+      "pause_after_ms": 170
+    }
+  ],
+  "tts": {
+    "engine": "vieneu",
+    "voice": "Minh Đức",
+    "resolved_voice": "Minh Đức",
+    "backend": "onnx",
+    "max_sentences_per_context_chunk": 12,
+    "max_chars_per_context_chunk": 900,
+    "context_chunk_join_pause_ms": 155,
+    "paragraph_pause_ms": 170,
+    "section_pause_ms": 250,
+    "internal_punctuation": "native",
+    "bitrate": "128k"
+  },
+  "chunks": [
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p1_chunk_01",
+      "p_id": "c4_p1",
+      "start": 3.31,
+      "speech_end": 11.07,
+      "end": 11.24,
+      "pause_after_ms": 170,
+      "source_text": "Rồi đây, hai mẹ con em sẽ xoay xở thế nào với ba mươi phờrăng, trong khi dự chi đến một trăm phờrăng.",
+      "tts_text": "Rồi đây, hai mẹ con em sẽ xoay xở thế nào với ba mươi phờrăng, trong khi dự chi đến một trăm phờrăng.",
+      "sentences": [
+        {
+          "sent_id": "id_4",
+          "smil_sid": "sid_4",
+          "p_id": "c4_p1",
+          "seq_id": "seq_1",
+          "source_text": "Rồi đây, hai mẹ con em sẽ xoay xở thế nào với ba mươi phờrăng, trong khi dự chi đến một trăm phờrăng.",
+          "tts_text": "Rồi đây, hai mẹ con em sẽ xoay xở thế nào với ba mươi phờrăng, trong khi dự chi đến một trăm phờrăng."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p2_chunk_01",
+      "p_id": "c4_p2",
+      "start": 11.24,
+      "speech_end": 12.28,
+      "end": 12.45,
+      "pause_after_ms": 170,
+      "source_text": "Bà mẹ quyết định:",
+      "tts_text": "Bà mẹ quyết định:",
+      "sentences": [
+        {
+          "sent_id": "id_5",
+          "smil_sid": "sid_5",
+          "p_id": "c4_p2",
+          "seq_id": "seq_2",
+          "source_text": "Bà mẹ quyết định:",
+          "tts_text": "Bà mẹ quyết định:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p3_chunk_01",
+      "p_id": "c4_p3",
+      "start": 12.45,
+      "speech_end": 15.89,
+      "end": 16.06,
+      "pause_after_ms": 170,
+      "source_text": "- Phải đi thôi! Phải đi ngay tức khắc đến Marôcua.",
+      "tts_text": "- Phải đi thôi! Phải đi ngay tức khắc đến Marôcua.",
+      "sentences": [
+        {
+          "sent_id": "id_6",
+          "smil_sid": "sid_6",
+          "p_id": "c4_p3",
+          "seq_id": "seq_3",
+          "source_text": "- Phải đi thôi!",
+          "tts_text": "- Phải đi thôi!"
+        },
+        {
+          "sent_id": "id_7",
+          "smil_sid": "sid_7",
+          "p_id": "c4_p3",
+          "seq_id": "seq_3",
+          "source_text": "Phải đi ngay tức khắc đến Marôcua.",
+          "tts_text": "Phải đi ngay tức khắc đến Marôcua."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p4_chunk_01",
+      "p_id": "c4_p4",
+      "start": 16.06,
+      "speech_end": 17.42,
+      "end": 17.59,
+      "pause_after_ms": 170,
+      "source_text": "- Mẹ đã khỏe chưa?",
+      "tts_text": "- Mẹ đã khỏe chưa?",
+      "sentences": [
+        {
+          "sent_id": "id_8",
+          "smil_sid": "sid_8",
+          "p_id": "c4_p4",
+          "seq_id": "seq_4",
+          "source_text": "- Mẹ đã khỏe chưa?",
+          "tts_text": "- Mẹ đã khỏe chưa?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p5_chunk_01",
+      "p_id": "c4_p5",
+      "start": 17.59,
+      "speech_end": 43.94,
+      "end": 44.11,
+      "pause_after_ms": 170,
+      "source_text": "- Mẹ phải cố gắng chứ! Chúng ta đã chờ đợi quá lâu vì hy vọng mẹ sẽ bình phục: nhưng sự bình phục ấy sẽ không đến ở nơi này đâu! Trong lúc ấy thì túi tiền của chúng ta đã cạn cũng như số tiền bán con Palica tội nghiệp rồi sẽ mòn dần. Mẹ cũng muốn chúng ta không đến đó trong tình trạng nghèo khổ này. Nhưng biết đâu cái nghèo khổ càng thảm hại càng làm cho người ta thương cảm. Cần phải đi thôi!",
+      "tts_text": "- Mẹ phải cố gắng chứ! Chúng ta đã chờ đợi quá lâu vì hy vọng mẹ sẽ bình phục: nhưng sự bình phục ấy sẽ không đến ở nơi này đâu! Trong lúc ấy thì túi tiền của chúng ta đã cạn cũng như số tiền bán con Palica tội nghiệp rồi sẽ mòn dần. Mẹ cũng muốn chúng ta không đến đó trong tình trạng nghèo khổ này. Nhưng biết đâu cái nghèo khổ càng thảm hại càng làm cho người ta thương cảm. Cần phải đi thôi!",
+      "sentences": [
+        {
+          "sent_id": "id_9",
+          "smil_sid": "sid_9",
+          "p_id": "c4_p5",
+          "seq_id": "seq_5",
+          "source_text": "- Mẹ phải cố gắng chứ!",
+          "tts_text": "- Mẹ phải cố gắng chứ!"
+        },
+        {
+          "sent_id": "id_10",
+          "smil_sid": "sid_10",
+          "p_id": "c4_p5",
+          "seq_id": "seq_5",
+          "source_text": "Chúng ta đã chờ đợi quá lâu vì hy vọng mẹ sẽ bình phục: nhưng sự bình phục ấy sẽ không đến ở nơi này đâu!",
+          "tts_text": "Chúng ta đã chờ đợi quá lâu vì hy vọng mẹ sẽ bình phục: nhưng sự bình phục ấy sẽ không đến ở nơi này đâu!"
+        },
+        {
+          "sent_id": "id_11",
+          "smil_sid": "sid_11",
+          "p_id": "c4_p5",
+          "seq_id": "seq_5",
+          "source_text": "Trong lúc ấy thì túi tiền của chúng ta đã cạn cũng như số tiền bán con Palica tội nghiệp rồi sẽ mòn dần.",
+          "tts_text": "Trong lúc ấy thì túi tiền của chúng ta đã cạn cũng như số tiền bán con Palica tội nghiệp rồi sẽ mòn dần."
+        },
+        {
+          "sent_id": "id_12",
+          "smil_sid": "sid_12",
+          "p_id": "c4_p5",
+          "seq_id": "seq_5",
+          "source_text": "Mẹ cũng muốn chúng ta không đến đó trong tình trạng nghèo khổ này.",
+          "tts_text": "Mẹ cũng muốn chúng ta không đến đó trong tình trạng nghèo khổ này."
+        },
+        {
+          "sent_id": "id_13",
+          "smil_sid": "sid_13",
+          "p_id": "c4_p5",
+          "seq_id": "seq_5",
+          "source_text": "Nhưng biết đâu cái nghèo khổ càng thảm hại càng làm cho người ta thương cảm.",
+          "tts_text": "Nhưng biết đâu cái nghèo khổ càng thảm hại càng làm cho người ta thương cảm."
+        },
+        {
+          "sent_id": "id_14",
+          "smil_sid": "sid_14",
+          "p_id": "c4_p5",
+          "seq_id": "seq_5",
+          "source_text": "Cần phải đi thôi!",
+          "tts_text": "Cần phải đi thôi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p6_chunk_01",
+      "p_id": "c4_p6",
+      "start": 44.11,
+      "speech_end": 45.55,
+      "end": 45.72,
+      "pause_after_ms": 170,
+      "source_text": "- Ngay hôm nay sao?",
+      "tts_text": "- Ngay hôm nay sao?",
+      "sentences": [
+        {
+          "sent_id": "id_15",
+          "smil_sid": "sid_15",
+          "p_id": "c4_p6",
+          "seq_id": "seq_6",
+          "source_text": "- Ngay hôm nay sao?",
+          "tts_text": "- Ngay hôm nay sao?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p7_chunk_01",
+      "p_id": "c4_p7",
+      "start": 45.72,
+      "speech_end": 58.6,
+      "end": 58.77,
+      "pause_after_ms": 170,
+      "source_text": "- Hôm nay thì muộn rồi! Chúng ta sẽ đến đó trong đêm tối thì biết về đâu kia chứ? Sáng mai vậy! Chiều nay, con đi hỏi giờ tàu chạy tuyến đường sắt khu Bắc và giá vé đi đến ga Pichkynhi.",
+      "tts_text": "- Hôm nay thì muộn rồi! Chúng ta sẽ đến đó trong đêm tối thì biết về đâu kia chứ? Sáng mai vậy! Chiều nay, con đi hỏi giờ tàu chạy tuyến đường sắt khu Bắc và giá vé đi đến ga Pichkynhi.",
+      "sentences": [
+        {
+          "sent_id": "id_16",
+          "smil_sid": "sid_16",
+          "p_id": "c4_p7",
+          "seq_id": "seq_7",
+          "source_text": "- Hôm nay thì muộn rồi!",
+          "tts_text": "- Hôm nay thì muộn rồi!"
+        },
+        {
+          "sent_id": "id_17",
+          "smil_sid": "sid_17",
+          "p_id": "c4_p7",
+          "seq_id": "seq_7",
+          "source_text": "Chúng ta sẽ đến đó trong đêm tối thì biết về đâu kia chứ?",
+          "tts_text": "Chúng ta sẽ đến đó trong đêm tối thì biết về đâu kia chứ?"
+        },
+        {
+          "sent_id": "id_18",
+          "smil_sid": "sid_18",
+          "p_id": "c4_p7",
+          "seq_id": "seq_7",
+          "source_text": "Sáng mai vậy!",
+          "tts_text": "Sáng mai vậy!"
+        },
+        {
+          "sent_id": "id_19",
+          "smil_sid": "sid_19",
+          "p_id": "c4_p7",
+          "seq_id": "seq_7",
+          "source_text": "Chiều nay, con đi hỏi giờ tàu chạy tuyến đường sắt khu Bắc và giá vé đi đến ga Pichkynhi.",
+          "tts_text": "Chiều nay, con đi hỏi giờ tàu chạy tuyến đường sắt khu Bắc và giá vé đi đến ga Pichkynhi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p8_chunk_01",
+      "p_id": "c4_p8",
+      "start": 58.77,
+      "speech_end": 75.89,
+      "end": 76.06,
+      "pause_after_ms": 170,
+      "source_text": "Perin bối rối hỏi Hạt Muối. Ông ta bảo em phải tìm trong đống giấy chắc sẽ thấy bản hướng dẫn của đướng sắt. Theo giấy hướng dẫn, buổi sáng có hai chuyến: lúc sáu giờ và mười giờ. Giá vé hạng ba đến ga Pichkynhi là chín phờrăng hai lăm, một chỗ ngồi.",
+      "tts_text": "Perin bối rối hỏi Hạt Muối. Ông ta bảo em phải tìm trong đống giấy chắc sẽ thấy bản hướng dẫn của đướng sắt. Theo giấy hướng dẫn, buổi sáng có hai chuyến: lúc sáu giờ và mười giờ. Giá vé hạng ba đến ga Pichkynhi là chín phờrăng hai lăm, một chỗ ngồi.",
+      "sentences": [
+        {
+          "sent_id": "id_20",
+          "smil_sid": "sid_20",
+          "p_id": "c4_p8",
+          "seq_id": "seq_8",
+          "source_text": "Perin bối rối hỏi Hạt Muối.",
+          "tts_text": "Perin bối rối hỏi Hạt Muối."
+        },
+        {
+          "sent_id": "id_21",
+          "smil_sid": "sid_21",
+          "p_id": "c4_p8",
+          "seq_id": "seq_8",
+          "source_text": "Ông ta bảo em phải tìm trong đống giấy chắc sẽ thấy bản hướng dẫn của đướng sắt.",
+          "tts_text": "Ông ta bảo em phải tìm trong đống giấy chắc sẽ thấy bản hướng dẫn của đướng sắt."
+        },
+        {
+          "sent_id": "id_22",
+          "smil_sid": "sid_22",
+          "p_id": "c4_p8",
+          "seq_id": "seq_8",
+          "source_text": "Theo giấy hướng dẫn, buổi sáng có hai chuyến: lúc sáu giờ và mười giờ.",
+          "tts_text": "Theo giấy hướng dẫn, buổi sáng có hai chuyến: lúc sáu giờ và mười giờ."
+        },
+        {
+          "sent_id": "id_23",
+          "smil_sid": "sid_23",
+          "p_id": "c4_p8",
+          "seq_id": "seq_8",
+          "source_text": "Giá vé hạng ba đến ga Pichkynhi là chín phờrăng hai lăm, một chỗ ngồi.",
+          "tts_text": "Giá vé hạng ba đến ga Pichkynhi là chín phờrăng hai lăm, một chỗ ngồi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p9_chunk_01",
+      "p_id": "c4_p9",
+      "start": 76.06,
+      "speech_end": 86.14,
+      "end": 86.31,
+      "pause_after_ms": 170,
+      "source_text": "- Chúng ta sẽ đi chuyến mười giờ, - Bà mẹ nói – Chúng ta thuê xe ngựa. Mẹ không thể đi bộ đến ga được vì quá xa! Mẹ chỉ đủ sức đi đến bến xe ngựa.",
+      "tts_text": "- Chúng ta sẽ đi chuyến mười giờ, - Bà mẹ nói – Chúng ta thuê xe ngựa. Mẹ không thể đi bộ đến ga được vì quá xa! Mẹ chỉ đủ sức đi đến bến xe ngựa.",
+      "sentences": [
+        {
+          "sent_id": "id_24",
+          "smil_sid": "sid_24",
+          "p_id": "c4_p9",
+          "seq_id": "seq_9",
+          "source_text": "- Chúng ta sẽ đi chuyến mười giờ, - Bà mẹ nói – Chúng ta thuê xe ngựa.",
+          "tts_text": "- Chúng ta sẽ đi chuyến mười giờ, - Bà mẹ nói – Chúng ta thuê xe ngựa."
+        },
+        {
+          "sent_id": "id_25",
+          "smil_sid": "sid_25",
+          "p_id": "c4_p9",
+          "seq_id": "seq_9",
+          "source_text": "Mẹ không thể đi bộ đến ga được vì quá xa!",
+          "tts_text": "Mẹ không thể đi bộ đến ga được vì quá xa!"
+        },
+        {
+          "sent_id": "id_26",
+          "smil_sid": "sid_26",
+          "p_id": "c4_p9",
+          "seq_id": "seq_9",
+          "source_text": "Mẹ chỉ đủ sức đi đến bến xe ngựa.",
+          "tts_text": "Mẹ chỉ đủ sức đi đến bến xe ngựa."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p10_chunk_01",
+      "p_id": "c4_p10",
+      "start": 86.31,
+      "speech_end": 88.31,
+      "end": 88.48,
+      "pause_after_ms": 170,
+      "source_text": "Thế nhưng bà không đi đến đó được!",
+      "tts_text": "Thế nhưng bà không đi đến đó được!",
+      "sentences": [
+        {
+          "sent_id": "id_27",
+          "smil_sid": "sid_27",
+          "p_id": "c4_p10",
+          "seq_id": "seq_10",
+          "source_text": "Thế nhưng bà không đi đến đó được!",
+          "tts_text": "Thế nhưng bà không đi đến đó được!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p11_chunk_01",
+      "p_id": "c4_p11",
+      "start": 88.48,
+      "speech_end": 102.16,
+      "end": 102.33,
+      "pause_after_ms": 170,
+      "source_text": "Lúc chín giờ, bà muốn tựa vào con gái đi đón xe vì Perin đã đi gọi và xe sắp đến. Từ buồng mẹ con bà ra đường cái không phải là xa nhưng tim bà yếu quá! Nếu Perin không đỡ kịp, thì bà đã ngã rồi!",
+      "tts_text": "Lúc chín giờ, bà muốn tựa vào con gái đi đón xe vì Perin đã đi gọi và xe sắp đến. Từ buồng mẹ con bà ra đường cái không phải là xa nhưng tim bà yếu quá! Nếu Perin không đỡ kịp, thì bà đã ngã rồi!",
+      "sentences": [
+        {
+          "sent_id": "id_28",
+          "smil_sid": "sid_28",
+          "p_id": "c4_p11",
+          "seq_id": "seq_11",
+          "source_text": "Lúc chín giờ, bà muốn tựa vào con gái đi đón xe vì Perin đã đi gọi và xe sắp đến.",
+          "tts_text": "Lúc chín giờ, bà muốn tựa vào con gái đi đón xe vì Perin đã đi gọi và xe sắp đến."
+        },
+        {
+          "sent_id": "id_29",
+          "smil_sid": "sid_29",
+          "p_id": "c4_p11",
+          "seq_id": "seq_11",
+          "source_text": "Từ buồng mẹ con bà ra đường cái không phải là xa nhưng tim bà yếu quá!",
+          "tts_text": "Từ buồng mẹ con bà ra đường cái không phải là xa nhưng tim bà yếu quá!"
+        },
+        {
+          "sent_id": "id_30",
+          "smil_sid": "sid_30",
+          "p_id": "c4_p11",
+          "seq_id": "seq_11",
+          "source_text": "Nếu Perin không đỡ kịp, thì bà đã ngã rồi!",
+          "tts_text": "Nếu Perin không đỡ kịp, thì bà đã ngã rồi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p12_chunk_01",
+      "p_id": "c4_p12",
+      "start": 102.33,
+      "speech_end": 107.37,
+      "end": 107.54,
+      "pause_after_ms": 170,
+      "source_text": "- Rồi mẹ sẽ khỏi thôi! – Bà nói thầm thì – Con đừng lo! Rồi sẽ tốt thôi!",
+      "tts_text": "- Rồi mẹ sẽ khỏi thôi! – Bà nói thầm thì – Con đừng lo! Rồi sẽ tốt thôi!",
+      "sentences": [
+        {
+          "sent_id": "id_31",
+          "smil_sid": "sid_31",
+          "p_id": "c4_p12",
+          "seq_id": "seq_12",
+          "source_text": "- Rồi mẹ sẽ khỏi thôi!",
+          "tts_text": "- Rồi mẹ sẽ khỏi thôi!"
+        },
+        {
+          "sent_id": "id_32",
+          "smil_sid": "sid_32",
+          "p_id": "c4_p12",
+          "seq_id": "seq_12",
+          "source_text": "– Bà nói thầm thì – Con đừng lo!",
+          "tts_text": "– Bà nói thầm thì – Con đừng lo!"
+        },
+        {
+          "sent_id": "id_33",
+          "smil_sid": "sid_33",
+          "p_id": "c4_p12",
+          "seq_id": "seq_12",
+          "source_text": "Rồi sẽ tốt thôi!",
+          "tts_text": "Rồi sẽ tốt thôi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p13_chunk_01",
+      "p_id": "c4_p13",
+      "start": 107.54,
+      "speech_end": 123.62,
+      "end": 123.79,
+      "pause_after_ms": 170,
+      "source_text": "Tuy nhiên, thật chẳng tốt tí nào! Bà Hầu tước trông thấy hai mẹ con ra đi như thế, đã mang đến một cái ghế. Một cố gắng tuyệt vọng đã nâng đỡ bà mẹ của Perin cho tới đây. Bởi thế, khi bà ngồi xuống ghế thì bị choáng! Bà ngạt thở, không nói được nữa!",
+      "tts_text": "Tuy nhiên, thật chẳng tốt tí nào! Bà Hầu tước trông thấy hai mẹ con ra đi như thế, đã mang đến một cái ghế. Một cố gắng tuyệt vọng đã nâng đỡ bà mẹ của Perin cho tới đây. Bởi thế, khi bà ngồi xuống ghế thì bị choáng! Bà ngạt thở, không nói được nữa!",
+      "sentences": [
+        {
+          "sent_id": "id_34",
+          "smil_sid": "sid_34",
+          "p_id": "c4_p13",
+          "seq_id": "seq_13",
+          "source_text": "Tuy nhiên, thật chẳng tốt tí nào!",
+          "tts_text": "Tuy nhiên, thật chẳng tốt tí nào!"
+        },
+        {
+          "sent_id": "id_35",
+          "smil_sid": "sid_35",
+          "p_id": "c4_p13",
+          "seq_id": "seq_13",
+          "source_text": "Bà Hầu tước trông thấy hai mẹ con ra đi như thế, đã mang đến một cái ghế.",
+          "tts_text": "Bà Hầu tước trông thấy hai mẹ con ra đi như thế, đã mang đến một cái ghế."
+        },
+        {
+          "sent_id": "id_36",
+          "smil_sid": "sid_36",
+          "p_id": "c4_p13",
+          "seq_id": "seq_13",
+          "source_text": "Một cố gắng tuyệt vọng đã nâng đỡ bà mẹ của Perin cho tới đây.",
+          "tts_text": "Một cố gắng tuyệt vọng đã nâng đỡ bà mẹ của Perin cho tới đây."
+        },
+        {
+          "sent_id": "id_37",
+          "smil_sid": "sid_37",
+          "p_id": "c4_p13",
+          "seq_id": "seq_13",
+          "source_text": "Bởi thế, khi bà ngồi xuống ghế thì bị choáng!",
+          "tts_text": "Bởi thế, khi bà ngồi xuống ghế thì bị choáng!"
+        },
+        {
+          "sent_id": "id_38",
+          "smil_sid": "sid_38",
+          "p_id": "c4_p13",
+          "seq_id": "seq_13",
+          "source_text": "Bà ngạt thở, không nói được nữa!",
+          "tts_text": "Bà ngạt thở, không nói được nữa!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p14_chunk_01",
+      "p_id": "c4_p14",
+      "start": 123.79,
+      "speech_end": 138.51,
+      "end": 138.68,
+      "pause_after_ms": 170,
+      "source_text": "- Phải để mẹ cháu nằm dài, bà Hầu tước nói, phải xoa bóp cho mẹ cháu! Không hề gì đâu, cháu đừng sợ! Cháu đi gọi Bố Cá Chép. Có hai người, bác sẽ đưa mẹ cháu về buồng! Mẹ con cháu không thể ra đi… ngay bây giờ được.",
+      "tts_text": "- Phải để mẹ cháu nằm dài, bà Hầu tước nói, phải xoa bóp cho mẹ cháu! Không hề gì đâu, cháu đừng sợ! Cháu đi gọi Bố Cá Chép. Có hai người, bác sẽ đưa mẹ cháu về buồng! Mẹ con cháu không thể ra đi… ngay bây giờ được.",
+      "sentences": [
+        {
+          "sent_id": "id_39",
+          "smil_sid": "sid_39",
+          "p_id": "c4_p14",
+          "seq_id": "seq_14",
+          "source_text": "- Phải để mẹ cháu nằm dài, bà Hầu tước nói, phải xoa bóp cho mẹ cháu!",
+          "tts_text": "- Phải để mẹ cháu nằm dài, bà Hầu tước nói, phải xoa bóp cho mẹ cháu!"
+        },
+        {
+          "sent_id": "id_40",
+          "smil_sid": "sid_40",
+          "p_id": "c4_p14",
+          "seq_id": "seq_14",
+          "source_text": "Không hề gì đâu, cháu đừng sợ!",
+          "tts_text": "Không hề gì đâu, cháu đừng sợ!"
+        },
+        {
+          "sent_id": "id_41",
+          "smil_sid": "sid_41",
+          "p_id": "c4_p14",
+          "seq_id": "seq_14",
+          "source_text": "Cháu đi gọi Bố Cá Chép.",
+          "tts_text": "Cháu đi gọi Bố Cá Chép."
+        },
+        {
+          "sent_id": "id_42",
+          "smil_sid": "sid_42",
+          "p_id": "c4_p14",
+          "seq_id": "seq_14",
+          "source_text": "Có hai người, bác sẽ đưa mẹ cháu về buồng!",
+          "tts_text": "Có hai người, bác sẽ đưa mẹ cháu về buồng!"
+        },
+        {
+          "sent_id": "id_43",
+          "smil_sid": "sid_43",
+          "p_id": "c4_p14",
+          "seq_id": "seq_14",
+          "source_text": "Mẹ con cháu không thể ra đi… ngay bây giờ được.",
+          "tts_text": "Mẹ con cháu không thể ra đi… ngay bây giờ được."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p15_chunk_01",
+      "p_id": "c4_p15",
+      "start": 138.68,
+      "speech_end": 149.56,
+      "end": 149.73,
+      "pause_after_ms": 170,
+      "source_text": "Bà Hầu tước là một phụ nữ giàu kinh nghiệm. Khi người bệnh nằm dài, tim lại đập, hơi thở trở lại bình thường. Một lát sau, bà mẹ Perin muốn ngồi dậy, vì thế bà lại ngất.",
+      "tts_text": "Bà Hầu tước là một phụ nữ giàu kinh nghiệm. Khi người bệnh nằm dài, tim lại đập, hơi thở trở lại bình thường. Một lát sau, bà mẹ Perin muốn ngồi dậy, vì thế bà lại ngất.",
+      "sentences": [
+        {
+          "sent_id": "id_44",
+          "smil_sid": "sid_44",
+          "p_id": "c4_p15",
+          "seq_id": "seq_15",
+          "source_text": "Bà Hầu tước là một phụ nữ giàu kinh nghiệm.",
+          "tts_text": "Bà Hầu tước là một phụ nữ giàu kinh nghiệm."
+        },
+        {
+          "sent_id": "id_45",
+          "smil_sid": "sid_45",
+          "p_id": "c4_p15",
+          "seq_id": "seq_15",
+          "source_text": "Khi người bệnh nằm dài, tim lại đập, hơi thở trở lại bình thường.",
+          "tts_text": "Khi người bệnh nằm dài, tim lại đập, hơi thở trở lại bình thường."
+        },
+        {
+          "sent_id": "id_46",
+          "smil_sid": "sid_46",
+          "p_id": "c4_p15",
+          "seq_id": "seq_15",
+          "source_text": "Một lát sau, bà mẹ Perin muốn ngồi dậy, vì thế bà lại ngất.",
+          "tts_text": "Một lát sau, bà mẹ Perin muốn ngồi dậy, vì thế bà lại ngất."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p16_chunk_01",
+      "p_id": "c4_p16",
+      "start": 149.73,
+      "speech_end": 160.53,
+      "end": 160.7,
+      "pause_after_ms": 170,
+      "source_text": "Bà thấy đó, bà phải nằm yên! – Bà Hầu tước nói như ra lệnh. Ngày mai, bà sẽ lên đường! Bây giờ, bà dùng một tách nước hầm. Tôi sẽ hỏi xin Bố Cá Chép cho bà.",
+      "tts_text": "Bà thấy đó, bà phải nằm yên! – Bà Hầu tước nói như ra lệnh. Ngày mai, bà sẽ lên đường! Bây giờ, bà dùng một tách nước hầm. Tôi sẽ hỏi xin Bố Cá Chép cho bà.",
+      "sentences": [
+        {
+          "sent_id": "id_47",
+          "smil_sid": "sid_47",
+          "p_id": "c4_p16",
+          "seq_id": "seq_16",
+          "source_text": "Bà thấy đó, bà phải nằm yên!",
+          "tts_text": "Bà thấy đó, bà phải nằm yên!"
+        },
+        {
+          "sent_id": "id_48",
+          "smil_sid": "sid_48",
+          "p_id": "c4_p16",
+          "seq_id": "seq_16",
+          "source_text": "– Bà Hầu tước nói như ra lệnh.",
+          "tts_text": "– Bà Hầu tước nói như ra lệnh."
+        },
+        {
+          "sent_id": "id_49",
+          "smil_sid": "sid_49",
+          "p_id": "c4_p16",
+          "seq_id": "seq_16",
+          "source_text": "Ngày mai, bà sẽ lên đường!",
+          "tts_text": "Ngày mai, bà sẽ lên đường!"
+        },
+        {
+          "sent_id": "id_50",
+          "smil_sid": "sid_50",
+          "p_id": "c4_p16",
+          "seq_id": "seq_16",
+          "source_text": "Bây giờ, bà dùng một tách nước hầm.",
+          "tts_text": "Bây giờ, bà dùng một tách nước hầm."
+        },
+        {
+          "sent_id": "id_51",
+          "smil_sid": "sid_51",
+          "p_id": "c4_p16",
+          "seq_id": "seq_16",
+          "source_text": "Tôi sẽ hỏi xin Bố Cá Chép cho bà.",
+          "tts_text": "Tôi sẽ hỏi xin Bố Cá Chép cho bà."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p17_chunk_01",
+      "p_id": "c4_p17",
+      "start": 160.7,
+      "speech_end": 165.34,
+      "end": 165.51,
+      "pause_after_ms": 170,
+      "source_text": "Không đợi trả lời, bà vào buồng ông láng giếng ngồi làm việc và nói:",
+      "tts_text": "Không đợi trả lời, bà vào buồng ông láng giếng ngồi làm việc và nói:",
+      "sentences": [
+        {
+          "sent_id": "id_52",
+          "smil_sid": "sid_52",
+          "p_id": "c4_p17",
+          "seq_id": "seq_17",
+          "source_text": "Không đợi trả lời, bà vào buồng ông láng giếng ngồi làm việc và nói:",
+          "tts_text": "Không đợi trả lời, bà vào buồng ông láng giếng ngồi làm việc và nói:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p18_chunk_01",
+      "p_id": "c4_p18",
+      "start": 165.51,
+      "speech_end": 168.47,
+      "end": 168.64,
+      "pause_after_ms": 170,
+      "source_text": "- Ông cho tôi xin một tách nước hầm cho người bệnh!",
+      "tts_text": "- Ông cho tôi xin một tách nước hầm cho người bệnh!",
+      "sentences": [
+        {
+          "sent_id": "id_53",
+          "smil_sid": "sid_53",
+          "p_id": "c4_p18",
+          "seq_id": "seq_18",
+          "source_text": "- Ông cho tôi xin một tách nước hầm cho người bệnh!",
+          "tts_text": "- Ông cho tôi xin một tách nước hầm cho người bệnh!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p19_chunk_01",
+      "p_id": "c4_p19",
+      "start": 168.64,
+      "speech_end": 179.04,
+      "end": 179.21,
+      "pause_after_ms": 170,
+      "source_text": "Một nụ cười thay câu trả lời của Bố Cá Chép. Ngay tức khắc, ông ta mở vung cái nồi đất đang sôi trên bếp. Mùi thơm của nồi hầm tỏa ra trong gian buồng.",
+      "tts_text": "Một nụ cười thay câu trả lời của Bố Cá Chép. Ngay tức khắc, ông ta mở vung cái nồi đất đang sôi trên bếp. Mùi thơm của nồi hầm tỏa ra trong gian buồng.",
+      "sentences": [
+        {
+          "sent_id": "id_54",
+          "smil_sid": "sid_54",
+          "p_id": "c4_p19",
+          "seq_id": "seq_19",
+          "source_text": "Một nụ cười thay câu trả lời của Bố Cá Chép.",
+          "tts_text": "Một nụ cười thay câu trả lời của Bố Cá Chép."
+        },
+        {
+          "sent_id": "id_55",
+          "smil_sid": "sid_55",
+          "p_id": "c4_p19",
+          "seq_id": "seq_19",
+          "source_text": "Ngay tức khắc, ông ta mở vung cái nồi đất đang sôi trên bếp.",
+          "tts_text": "Ngay tức khắc, ông ta mở vung cái nồi đất đang sôi trên bếp."
+        },
+        {
+          "sent_id": "id_56",
+          "smil_sid": "sid_56",
+          "p_id": "c4_p19",
+          "seq_id": "seq_19",
+          "source_text": "Mùi thơm của nồi hầm tỏa ra trong gian buồng.",
+          "tts_text": "Mùi thơm của nồi hầm tỏa ra trong gian buồng."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p20_chunk_01",
+      "p_id": "c4_p20",
+      "start": 179.21,
+      "speech_end": 183.53,
+      "end": 183.7,
+      "pause_after_ms": 170,
+      "source_text": "Ông ta tự hào và sung sướng, trợ mắt, phồng mũi nhìn bà Hầu tước.",
+      "tts_text": "Ông ta tự hào và sung sướng, trợ mắt, phồng mũi nhìn bà Hầu tước.",
+      "sentences": [
+        {
+          "sent_id": "id_57",
+          "smil_sid": "sid_57",
+          "p_id": "c4_p20",
+          "seq_id": "seq_20",
+          "source_text": "Ông ta tự hào và sung sướng, trợ mắt, phồng mũi nhìn bà Hầu tước.",
+          "tts_text": "Ông ta tự hào và sung sướng, trợ mắt, phồng mũi nhìn bà Hầu tước."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p21_chunk_01",
+      "p_id": "c4_p21",
+      "start": 183.7,
+      "speech_end": 197.62,
+      "end": 197.79,
+      "pause_after_ms": 170,
+      "source_text": "- Ừ, mi hầm ngon quá! Bà Hầu tước nói. Nếu bát nước hầm này cứu được người phụ nữ khốn khổ thì bà ta sẽ được cứu sống! Nhưng bà Hầu tước hạ thấp giọng, ông biết đấy, bà ấy mệt nặng, chắc không thể sống được!",
+      "tts_text": "- Ừ, mi hầm ngon quá! Bà Hầu tước nói. Nếu bát nước hầm này cứu được người phụ nữ khốn khổ thì bà ta sẽ được cứu sống! Nhưng bà Hầu tước hạ thấp giọng, ông biết đấy, bà ấy mệt nặng, chắc không thể sống được!",
+      "sentences": [
+        {
+          "sent_id": "id_58",
+          "smil_sid": "sid_58",
+          "p_id": "c4_p21",
+          "seq_id": "seq_21",
+          "source_text": "- Ừ, mi hầm ngon quá!",
+          "tts_text": "- Ừ, mi hầm ngon quá!"
+        },
+        {
+          "sent_id": "id_59",
+          "smil_sid": "sid_59",
+          "p_id": "c4_p21",
+          "seq_id": "seq_21",
+          "source_text": "Bà Hầu tước nói.",
+          "tts_text": "Bà Hầu tước nói."
+        },
+        {
+          "sent_id": "id_60",
+          "smil_sid": "sid_60",
+          "p_id": "c4_p21",
+          "seq_id": "seq_21",
+          "source_text": "Nếu bát nước hầm này cứu được người phụ nữ khốn khổ thì bà ta sẽ được cứu sống!",
+          "tts_text": "Nếu bát nước hầm này cứu được người phụ nữ khốn khổ thì bà ta sẽ được cứu sống!"
+        },
+        {
+          "sent_id": "id_61",
+          "smil_sid": "sid_61",
+          "p_id": "c4_p21",
+          "seq_id": "seq_21",
+          "source_text": "Nhưng bà Hầu tước hạ thấp giọng, ông biết đấy, bà ấy mệt nặng, chắc không thể sống được!",
+          "tts_text": "Nhưng bà Hầu tước hạ thấp giọng, ông biết đấy, bà ấy mệt nặng, chắc không thể sống được!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p22_chunk_01",
+      "p_id": "c4_p22",
+      "start": 197.79,
+      "speech_end": 203.87,
+      "end": 204.04,
+      "pause_after_ms": 170,
+      "source_text": "Bố Cá Chép đưa tay ra. Với động tác ấy, ông muốn nói: “Chúng ta còn biết làm thế nào được chứ?”.",
+      "tts_text": "Bố Cá Chép đưa tay ra. Với động tác ấy, ông muốn nói: Chúng ta còn biết làm thế nào được chứ?.",
+      "sentences": [
+        {
+          "sent_id": "id_62",
+          "smil_sid": "sid_62",
+          "p_id": "c4_p22",
+          "seq_id": "seq_22",
+          "source_text": "Bố Cá Chép đưa tay ra.",
+          "tts_text": "Bố Cá Chép đưa tay ra."
+        },
+        {
+          "sent_id": "id_63",
+          "smil_sid": "sid_63",
+          "p_id": "c4_p22",
+          "seq_id": "seq_22",
+          "source_text": "Với động tác ấy, ông muốn nói: “Chúng ta còn biết làm thế nào được chứ?”.",
+          "tts_text": "Với động tác ấy, ông muốn nói: Chúng ta còn biết làm thế nào được chứ?."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p23_chunk_01",
+      "p_id": "c4_p23",
+      "start": 204.04,
+      "speech_end": 230.98,
+      "end": 231.15,
+      "pause_after_ms": 170,
+      "source_text": "Họ làm gì ư? Thì mỗi người một cách, họ cũng đã làm nhưng tai họa là một việc thường xảy ra với những người nghèo khổ, làm cho họ không còn thấy ngạc nhiên và cũng không phản ứng nữa! Ở trên đời này, ai trách được tai họa kia chứ? Bạn hôm nay, tôi ngày mai, thế thôi! Bố Cá Chép đã múc bát nước hầm cho bà Hầu tước. Bà cẩn thận mang về, không để rơi vãi một giọt. Bà quỳ gần bên nệm, nói với người bệnh.",
+      "tts_text": "Họ làm gì ư? Thì mỗi người một cách, họ cũng đã làm nhưng tai họa là một việc thường xảy ra với những người nghèo khổ, làm cho họ không còn thấy ngạc nhiên và cũng không phản ứng nữa! Ở trên đời này, ai trách được tai họa kia chứ? Bạn hôm nay, tôi ngày mai, thế thôi! Bố Cá Chép đã múc bát nước hầm cho bà Hầu tước. Bà cẩn thận mang về, không để rơi vãi một giọt. Bà quỳ gần bên nệm, nói với người bệnh.",
+      "sentences": [
+        {
+          "sent_id": "id_64",
+          "smil_sid": "sid_64",
+          "p_id": "c4_p23",
+          "seq_id": "seq_23",
+          "source_text": "Họ làm gì ư?",
+          "tts_text": "Họ làm gì ư?"
+        },
+        {
+          "sent_id": "id_65",
+          "smil_sid": "sid_65",
+          "p_id": "c4_p23",
+          "seq_id": "seq_23",
+          "source_text": "Thì mỗi người một cách, họ cũng đã làm nhưng tai họa là một việc thường xảy ra với những người nghèo khổ, làm cho họ không còn thấy ngạc nhiên và cũng không phản ứng nữa!",
+          "tts_text": "Thì mỗi người một cách, họ cũng đã làm nhưng tai họa là một việc thường xảy ra với những người nghèo khổ, làm cho họ không còn thấy ngạc nhiên và cũng không phản ứng nữa!"
+        },
+        {
+          "sent_id": "id_66",
+          "smil_sid": "sid_66",
+          "p_id": "c4_p23",
+          "seq_id": "seq_23",
+          "source_text": "Ở trên đời này, ai trách được tai họa kia chứ?",
+          "tts_text": "Ở trên đời này, ai trách được tai họa kia chứ?"
+        },
+        {
+          "sent_id": "id_67",
+          "smil_sid": "sid_67",
+          "p_id": "c4_p23",
+          "seq_id": "seq_23",
+          "source_text": "Bạn hôm nay, tôi ngày mai, thế thôi!",
+          "tts_text": "Bạn hôm nay, tôi ngày mai, thế thôi!"
+        },
+        {
+          "sent_id": "id_68",
+          "smil_sid": "sid_68",
+          "p_id": "c4_p23",
+          "seq_id": "seq_23",
+          "source_text": "Bố Cá Chép đã múc bát nước hầm cho bà Hầu tước.",
+          "tts_text": "Bố Cá Chép đã múc bát nước hầm cho bà Hầu tước."
+        },
+        {
+          "sent_id": "id_69",
+          "smil_sid": "sid_69",
+          "p_id": "c4_p23",
+          "seq_id": "seq_23",
+          "source_text": "Bà cẩn thận mang về, không để rơi vãi một giọt.",
+          "tts_text": "Bà cẩn thận mang về, không để rơi vãi một giọt."
+        },
+        {
+          "sent_id": "id_70",
+          "smil_sid": "sid_70",
+          "p_id": "c4_p23",
+          "seq_id": "seq_23",
+          "source_text": "Bà quỳ gần bên nệm, nói với người bệnh.",
+          "tts_text": "Bà quỳ gần bên nệm, nói với người bệnh."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p24_chunk_01",
+      "p_id": "c4_p24",
+      "start": 231.15,
+      "speech_end": 234.19,
+      "end": 234.36,
+      "pause_after_ms": 170,
+      "source_text": "- Bà húp một miếng! Đừng cử động, hãy há miệng!",
+      "tts_text": "- Bà húp một miếng! Đừng cử động, hãy há miệng!",
+      "sentences": [
+        {
+          "sent_id": "id_71",
+          "smil_sid": "sid_71",
+          "p_id": "c4_p24",
+          "seq_id": "seq_24",
+          "source_text": "- Bà húp một miếng!",
+          "tts_text": "- Bà húp một miếng!"
+        },
+        {
+          "sent_id": "id_72",
+          "smil_sid": "sid_72",
+          "p_id": "c4_p24",
+          "seq_id": "seq_24",
+          "source_text": "Đừng cử động, hãy há miệng!",
+          "tts_text": "Đừng cử động, hãy há miệng!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p25_chunk_01",
+      "p_id": "c4_p25",
+      "start": 234.36,
+      "speech_end": 244.28,
+      "end": 244.45,
+      "pause_after_ms": 170,
+      "source_text": "Rất cẩn thận bà đổ một thìa nước hầm vào trong miệng người bệnh. Người bệnh không nuốt được, lại nôn ra và một cơn choáng kéo dài hơn lần trước, lại đến!",
+      "tts_text": "Rất cẩn thận bà đổ một thìa nước hầm vào trong miệng người bệnh. Người bệnh không nuốt được, lại nôn ra và một cơn choáng kéo dài hơn lần trước, lại đến!",
+      "sentences": [
+        {
+          "sent_id": "id_73",
+          "smil_sid": "sid_73",
+          "p_id": "c4_p25",
+          "seq_id": "seq_25",
+          "source_text": "Rất cẩn thận bà đổ một thìa nước hầm vào trong miệng người bệnh.",
+          "tts_text": "Rất cẩn thận bà đổ một thìa nước hầm vào trong miệng người bệnh."
+        },
+        {
+          "sent_id": "id_74",
+          "smil_sid": "sid_74",
+          "p_id": "c4_p25",
+          "seq_id": "seq_25",
+          "source_text": "Người bệnh không nuốt được, lại nôn ra và một cơn choáng kéo dài hơn lần trước, lại đến!",
+          "tts_text": "Người bệnh không nuốt được, lại nôn ra và một cơn choáng kéo dài hơn lần trước, lại đến!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p26_chunk_01",
+      "p_id": "c4_p26",
+      "start": 244.45,
+      "speech_end": 252.61,
+      "end": 252.78,
+      "pause_after_ms": 170,
+      "source_text": "Đúng thế, nước hầm không hợp với người bệnh! Bà Hầu tước nhận thấy vậy. Để khỏi lãng phí, bà bắt Perin uống bát nước hầm.",
+      "tts_text": "Đúng thế, nước hầm không hợp với người bệnh! Bà Hầu tước nhận thấy vậy. Để khỏi lãng phí, bà bắt Perin uống bát nước hầm.",
+      "sentences": [
+        {
+          "sent_id": "id_75",
+          "smil_sid": "sid_75",
+          "p_id": "c4_p26",
+          "seq_id": "seq_26",
+          "source_text": "Đúng thế, nước hầm không hợp với người bệnh!",
+          "tts_text": "Đúng thế, nước hầm không hợp với người bệnh!"
+        },
+        {
+          "sent_id": "id_76",
+          "smil_sid": "sid_76",
+          "p_id": "c4_p26",
+          "seq_id": "seq_26",
+          "source_text": "Bà Hầu tước nhận thấy vậy.",
+          "tts_text": "Bà Hầu tước nhận thấy vậy."
+        },
+        {
+          "sent_id": "id_77",
+          "smil_sid": "sid_77",
+          "p_id": "c4_p26",
+          "seq_id": "seq_26",
+          "source_text": "Để khỏi lãng phí, bà bắt Perin uống bát nước hầm.",
+          "tts_text": "Để khỏi lãng phí, bà bắt Perin uống bát nước hầm."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p27_chunk_01",
+      "p_id": "c4_p27",
+      "start": 252.78,
+      "speech_end": 256.06,
+      "end": 256.23,
+      "pause_after_ms": 170,
+      "source_text": "- Cháu cần phải có sức! Phải cố gắng! Cháu ạ!",
+      "tts_text": "- Cháu cần phải có sức! Phải cố gắng! Cháu ạ!",
+      "sentences": [
+        {
+          "sent_id": "id_78",
+          "smil_sid": "sid_78",
+          "p_id": "c4_p27",
+          "seq_id": "seq_27",
+          "source_text": "- Cháu cần phải có sức!",
+          "tts_text": "- Cháu cần phải có sức!"
+        },
+        {
+          "sent_id": "id_79",
+          "smil_sid": "sid_79",
+          "p_id": "c4_p27",
+          "seq_id": "seq_27",
+          "source_text": "Phải cố gắng!",
+          "tts_text": "Phải cố gắng!"
+        },
+        {
+          "sent_id": "id_80",
+          "smil_sid": "sid_80",
+          "p_id": "c4_p27",
+          "seq_id": "seq_27",
+          "source_text": "Cháu ạ!",
+          "tts_text": "Cháu ạ!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p28_chunk_01",
+      "p_id": "c4_p28",
+      "start": 256.23,
+      "speech_end": 278.53,
+      "end": 278.7,
+      "pause_after_ms": 170,
+      "source_text": "Với bà Hầu tước bát nước hầm là phương thuốc chữa bách bệnh. Bây giờ, bà không còn thấy hiệu nghiệm nữa thì bà cũng bó tay! Bà không còn nghĩ được cách gì hay hơn là đi gọi ông thầy thuốc. Có thể ông ấy sẽ làm được việc gì chăng! Tuy ông thầy thuốc vẫn kê đơn, nhưng khi ra về, ông đã nói thẳng với bà Hầu tước rằng ông không thể cứu được người bệnh:",
+      "tts_text": "Với bà Hầu tước bát nước hầm là phương thuốc chữa bách bệnh. Bây giờ, bà không còn thấy hiệu nghiệm nữa thì bà cũng bó tay! Bà không còn nghĩ được cách gì hay hơn là đi gọi ông thầy thuốc. Có thể ông ấy sẽ làm được việc gì chăng! Tuy ông thầy thuốc vẫn kê đơn, nhưng khi ra về, ông đã nói thẳng với bà Hầu tước rằng ông không thể cứu được người bệnh:",
+      "sentences": [
+        {
+          "sent_id": "id_81",
+          "smil_sid": "sid_81",
+          "p_id": "c4_p28",
+          "seq_id": "seq_28",
+          "source_text": "Với bà Hầu tước bát nước hầm là phương thuốc chữa bách bệnh.",
+          "tts_text": "Với bà Hầu tước bát nước hầm là phương thuốc chữa bách bệnh."
+        },
+        {
+          "sent_id": "id_82",
+          "smil_sid": "sid_82",
+          "p_id": "c4_p28",
+          "seq_id": "seq_28",
+          "source_text": "Bây giờ, bà không còn thấy hiệu nghiệm nữa thì bà cũng bó tay!",
+          "tts_text": "Bây giờ, bà không còn thấy hiệu nghiệm nữa thì bà cũng bó tay!"
+        },
+        {
+          "sent_id": "id_83",
+          "smil_sid": "sid_83",
+          "p_id": "c4_p28",
+          "seq_id": "seq_28",
+          "source_text": "Bà không còn nghĩ được cách gì hay hơn là đi gọi ông thầy thuốc.",
+          "tts_text": "Bà không còn nghĩ được cách gì hay hơn là đi gọi ông thầy thuốc."
+        },
+        {
+          "sent_id": "id_84",
+          "smil_sid": "sid_84",
+          "p_id": "c4_p28",
+          "seq_id": "seq_28",
+          "source_text": "Có thể ông ấy sẽ làm được việc gì chăng!",
+          "tts_text": "Có thể ông ấy sẽ làm được việc gì chăng!"
+        },
+        {
+          "sent_id": "id_85",
+          "smil_sid": "sid_85",
+          "p_id": "c4_p28",
+          "seq_id": "seq_28",
+          "source_text": "Tuy ông thầy thuốc vẫn kê đơn, nhưng khi ra về, ông đã nói thẳng với bà Hầu tước rằng ông không thể cứu được người bệnh:",
+          "tts_text": "Tuy ông thầy thuốc vẫn kê đơn, nhưng khi ra về, ông đã nói thẳng với bà Hầu tước rằng ông không thể cứu được người bệnh:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p29_chunk_01",
+      "p_id": "c4_p29",
+      "start": 278.7,
+      "speech_end": 291.66,
+      "end": 291.83,
+      "pause_after_ms": 170,
+      "source_text": "- Đây là một phụ nữ kiệt sức vì đau khổ, đói rét, phiền muộn và mệt nhọc. Nếu đi tàu, bà ấy sẽ chết trên tàu. Bây giờ chỉ còn tính giờ thôi! Có lẽ một cơn choáng sẽ đón bà ấy đi!",
+      "tts_text": "- Đây là một phụ nữ kiệt sức vì đau khổ, đói rét, phiền muộn và mệt nhọc. Nếu đi tàu, bà ấy sẽ chết trên tàu. Bây giờ chỉ còn tính giờ thôi! Có lẽ một cơn choáng sẽ đón bà ấy đi!",
+      "sentences": [
+        {
+          "sent_id": "id_86",
+          "smil_sid": "sid_86",
+          "p_id": "c4_p29",
+          "seq_id": "seq_29",
+          "source_text": "- Đây là một phụ nữ kiệt sức vì đau khổ, đói rét, phiền muộn và mệt nhọc.",
+          "tts_text": "- Đây là một phụ nữ kiệt sức vì đau khổ, đói rét, phiền muộn và mệt nhọc."
+        },
+        {
+          "sent_id": "id_87",
+          "smil_sid": "sid_87",
+          "p_id": "c4_p29",
+          "seq_id": "seq_29",
+          "source_text": "Nếu đi tàu, bà ấy sẽ chết trên tàu.",
+          "tts_text": "Nếu đi tàu, bà ấy sẽ chết trên tàu."
+        },
+        {
+          "sent_id": "id_88",
+          "smil_sid": "sid_88",
+          "p_id": "c4_p29",
+          "seq_id": "seq_29",
+          "source_text": "Bây giờ chỉ còn tính giờ thôi!",
+          "tts_text": "Bây giờ chỉ còn tính giờ thôi!"
+        },
+        {
+          "sent_id": "id_89",
+          "smil_sid": "sid_89",
+          "p_id": "c4_p29",
+          "seq_id": "seq_29",
+          "source_text": "Có lẽ một cơn choáng sẽ đón bà ấy đi!",
+          "tts_text": "Có lẽ một cơn choáng sẽ đón bà ấy đi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p30_chunk_01",
+      "p_id": "c4_p30",
+      "start": 291.83,
+      "speech_end": 313.57,
+      "end": 313.74,
+      "pause_after_ms": 170,
+      "source_text": "Tuy thầy thuốc nói chỉ tình giờ nhưng không phải thế! Sự sống với tuổi già dễ tắt ngấm thì sức chịu đựng của tuổi trẻ dai hơn! Người bệnh không nuốt được cả nước hầm lẫn thuốc men, tuy tình trạng sức khỏe không khá hơn, cũng chẳng xấu đi! Bà ta nằm dài, vẫn thoi thóp trên nệm, không cử động, gần như không thở, trong trạng thái nửa tỉnh nửa mê.",
+      "tts_text": "Tuy thầy thuốc nói chỉ tình giờ nhưng không phải thế! Sự sống với tuổi già dễ tắt ngấm thì sức chịu đựng của tuổi trẻ dai hơn! Người bệnh không nuốt được cả nước hầm lẫn thuốc men, tuy tình trạng sức khỏe không khá hơn, cũng chẳng xấu đi! Bà ta nằm dài, vẫn thoi thóp trên nệm, không cử động, gần như không thở, trong trạng thái nửa tỉnh nửa mê.",
+      "sentences": [
+        {
+          "sent_id": "id_90",
+          "smil_sid": "sid_90",
+          "p_id": "c4_p30",
+          "seq_id": "seq_30",
+          "source_text": "Tuy thầy thuốc nói chỉ tình giờ nhưng không phải thế!",
+          "tts_text": "Tuy thầy thuốc nói chỉ tình giờ nhưng không phải thế!"
+        },
+        {
+          "sent_id": "id_91",
+          "smil_sid": "sid_91",
+          "p_id": "c4_p30",
+          "seq_id": "seq_30",
+          "source_text": "Sự sống với tuổi già dễ tắt ngấm thì sức chịu đựng của tuổi trẻ dai hơn!",
+          "tts_text": "Sự sống với tuổi già dễ tắt ngấm thì sức chịu đựng của tuổi trẻ dai hơn!"
+        },
+        {
+          "sent_id": "id_92",
+          "smil_sid": "sid_92",
+          "p_id": "c4_p30",
+          "seq_id": "seq_30",
+          "source_text": "Người bệnh không nuốt được cả nước hầm lẫn thuốc men, tuy tình trạng sức khỏe không khá hơn, cũng chẳng xấu đi!",
+          "tts_text": "Người bệnh không nuốt được cả nước hầm lẫn thuốc men, tuy tình trạng sức khỏe không khá hơn, cũng chẳng xấu đi!"
+        },
+        {
+          "sent_id": "id_93",
+          "smil_sid": "sid_93",
+          "p_id": "c4_p30",
+          "seq_id": "seq_30",
+          "source_text": "Bà ta nằm dài, vẫn thoi thóp trên nệm, không cử động, gần như không thở, trong trạng thái nửa tỉnh nửa mê.",
+          "tts_text": "Bà ta nằm dài, vẫn thoi thóp trên nệm, không cử động, gần như không thở, trong trạng thái nửa tỉnh nửa mê."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p31_chunk_01",
+      "p_id": "c4_p31",
+      "start": 313.74,
+      "speech_end": 346.42,
+      "end": 346.59,
+      "pause_after_ms": 170,
+      "source_text": "Vì thế, Perin vẫn hy vọng. Ý nghĩ về cái chết ám ảnh những người lớn tuổi. Họ gặp cái chế ở khắp nơi, rất gần tuy nó đang còn ở xa. Tuổi trẻ thì không thể chịu nổi, từ chối không muốn nhìn nó, dù lúc ấy, nó đe dọa ngay trước mắt! Tại sao mẹ không lành bệnh? Tại sao mẹ phải chết? Đến năm sáu chục tuổi người ta mới chết mà mẹ chưa đến ba mươi! Mẹ làm gì nên tội mà phải chết yểu kia chứa? Mẹ là người phụ nữ dịu hiền nhất, người mẹ rất mực thương con, suốt đời tốt với chồng, con và mọi người!",
+      "tts_text": "Vì thế, Perin vẫn hy vọng. Ý nghĩ về cái chết ám ảnh những người lớn tuổi. Họ gặp cái chế ở khắp nơi, rất gần tuy nó đang còn ở xa. Tuổi trẻ thì không thể chịu nổi, từ chối không muốn nhìn nó, dù lúc ấy, nó đe dọa ngay trước mắt! Tại sao mẹ không lành bệnh? Tại sao mẹ phải chết? Đến năm sáu chục tuổi người ta mới chết mà mẹ chưa đến ba mươi! Mẹ làm gì nên tội mà phải chết yểu kia chứa? Mẹ là người phụ nữ dịu hiền nhất, người mẹ rất mực thương con, suốt đời tốt với chồng, con và mọi người!",
+      "sentences": [
+        {
+          "sent_id": "id_94",
+          "smil_sid": "sid_94",
+          "p_id": "c4_p31",
+          "seq_id": "seq_31",
+          "source_text": "Vì thế, Perin vẫn hy vọng.",
+          "tts_text": "Vì thế, Perin vẫn hy vọng."
+        },
+        {
+          "sent_id": "id_95",
+          "smil_sid": "sid_95",
+          "p_id": "c4_p31",
+          "seq_id": "seq_31",
+          "source_text": "Ý nghĩ về cái chết ám ảnh những người lớn tuổi.",
+          "tts_text": "Ý nghĩ về cái chết ám ảnh những người lớn tuổi."
+        },
+        {
+          "sent_id": "id_96",
+          "smil_sid": "sid_96",
+          "p_id": "c4_p31",
+          "seq_id": "seq_31",
+          "source_text": "Họ gặp cái chế ở khắp nơi, rất gần tuy nó đang còn ở xa.",
+          "tts_text": "Họ gặp cái chế ở khắp nơi, rất gần tuy nó đang còn ở xa."
+        },
+        {
+          "sent_id": "id_97",
+          "smil_sid": "sid_97",
+          "p_id": "c4_p31",
+          "seq_id": "seq_31",
+          "source_text": "Tuổi trẻ thì không thể chịu nổi, từ chối không muốn nhìn nó, dù lúc ấy, nó đe dọa ngay trước mắt!",
+          "tts_text": "Tuổi trẻ thì không thể chịu nổi, từ chối không muốn nhìn nó, dù lúc ấy, nó đe dọa ngay trước mắt!"
+        },
+        {
+          "sent_id": "id_98",
+          "smil_sid": "sid_98",
+          "p_id": "c4_p31",
+          "seq_id": "seq_31",
+          "source_text": "Tại sao mẹ không lành bệnh?",
+          "tts_text": "Tại sao mẹ không lành bệnh?"
+        },
+        {
+          "sent_id": "id_99",
+          "smil_sid": "sid_99",
+          "p_id": "c4_p31",
+          "seq_id": "seq_31",
+          "source_text": "Tại sao mẹ phải chết?",
+          "tts_text": "Tại sao mẹ phải chết?"
+        },
+        {
+          "sent_id": "id_100",
+          "smil_sid": "sid_100",
+          "p_id": "c4_p31",
+          "seq_id": "seq_31",
+          "source_text": "Đến năm sáu chục tuổi người ta mới chết mà mẹ chưa đến ba mươi!",
+          "tts_text": "Đến năm sáu chục tuổi người ta mới chết mà mẹ chưa đến ba mươi!"
+        },
+        {
+          "sent_id": "id_101",
+          "smil_sid": "sid_101",
+          "p_id": "c4_p31",
+          "seq_id": "seq_31",
+          "source_text": "Mẹ làm gì nên tội mà phải chết yểu kia chứa?",
+          "tts_text": "Mẹ làm gì nên tội mà phải chết yểu kia chứa?"
+        },
+        {
+          "sent_id": "id_102",
+          "smil_sid": "sid_102",
+          "p_id": "c4_p31",
+          "seq_id": "seq_31",
+          "source_text": "Mẹ là người phụ nữ dịu hiền nhất, người mẹ rất mực thương con, suốt đời tốt với chồng, con và mọi người!",
+          "tts_text": "Mẹ là người phụ nữ dịu hiền nhất, người mẹ rất mực thương con, suốt đời tốt với chồng, con và mọi người!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p32_chunk_01",
+      "p_id": "c4_p32",
+      "start": 346.59,
+      "speech_end": 370.17,
+      "end": 370.34,
+      "pause_after_ms": 170,
+      "source_text": "Không thể như thế được. Trái lại, mẹ sẽ lành bệnh! Perin tìm ra được những lý lẽ tốt nhất để chứng minh. Ngay trong trạng thái nửa tỉnh, nửa mê của bà mẹ, em cũng cho đó là cách nghỉ ngơi rất tự nhiên sau những ngày mệt nhọc và thiếu thốn. Mặc dù vậy, khi quá xốn xang vì lo ngại, em vẫn hỏi ý kiến bà Hầu tước. Bà này trấn an em, vì bà cũng đang hy vọng:",
+      "tts_text": "Không thể như thế được. Trái lại, mẹ sẽ lành bệnh! Perin tìm ra được những lý lẽ tốt nhất để chứng minh. Ngay trong trạng thái nửa tỉnh, nửa mê của bà mẹ, em cũng cho đó là cách nghỉ ngơi rất tự nhiên sau những ngày mệt nhọc và thiếu thốn. Mặc dù vậy, khi quá xốn xang vì lo ngại, em vẫn hỏi ý kiến bà Hầu tước. Bà này trấn an em, vì bà cũng đang hy vọng:",
+      "sentences": [
+        {
+          "sent_id": "id_103",
+          "smil_sid": "sid_103",
+          "p_id": "c4_p32",
+          "seq_id": "seq_32",
+          "source_text": "Không thể như thế được.",
+          "tts_text": "Không thể như thế được."
+        },
+        {
+          "sent_id": "id_104",
+          "smil_sid": "sid_104",
+          "p_id": "c4_p32",
+          "seq_id": "seq_32",
+          "source_text": "Trái lại, mẹ sẽ lành bệnh!",
+          "tts_text": "Trái lại, mẹ sẽ lành bệnh!"
+        },
+        {
+          "sent_id": "id_105",
+          "smil_sid": "sid_105",
+          "p_id": "c4_p32",
+          "seq_id": "seq_32",
+          "source_text": "Perin tìm ra được những lý lẽ tốt nhất để chứng minh.",
+          "tts_text": "Perin tìm ra được những lý lẽ tốt nhất để chứng minh."
+        },
+        {
+          "sent_id": "id_106",
+          "smil_sid": "sid_106",
+          "p_id": "c4_p32",
+          "seq_id": "seq_32",
+          "source_text": "Ngay trong trạng thái nửa tỉnh, nửa mê của bà mẹ, em cũng cho đó là cách nghỉ ngơi rất tự nhiên sau những ngày mệt nhọc và thiếu thốn.",
+          "tts_text": "Ngay trong trạng thái nửa tỉnh, nửa mê của bà mẹ, em cũng cho đó là cách nghỉ ngơi rất tự nhiên sau những ngày mệt nhọc và thiếu thốn."
+        },
+        {
+          "sent_id": "id_107",
+          "smil_sid": "sid_107",
+          "p_id": "c4_p32",
+          "seq_id": "seq_32",
+          "source_text": "Mặc dù vậy, khi quá xốn xang vì lo ngại, em vẫn hỏi ý kiến bà Hầu tước.",
+          "tts_text": "Mặc dù vậy, khi quá xốn xang vì lo ngại, em vẫn hỏi ý kiến bà Hầu tước."
+        },
+        {
+          "sent_id": "id_108",
+          "smil_sid": "sid_108",
+          "p_id": "c4_p32",
+          "seq_id": "seq_32",
+          "source_text": "Bà này trấn an em, vì bà cũng đang hy vọng:",
+          "tts_text": "Bà này trấn an em, vì bà cũng đang hy vọng:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p33_chunk_01",
+      "p_id": "c4_p33",
+      "start": 370.34,
+      "speech_end": 374.82,
+      "end": 374.99,
+      "pause_after_ms": 170,
+      "source_text": "- Mẹ cháu không thể chết được. Bà đã thoát được cơn choáng đầu tiên rồi mà!",
+      "tts_text": "- Mẹ cháu không thể chết được. Bà đã thoát được cơn choáng đầu tiên rồi mà!",
+      "sentences": [
+        {
+          "sent_id": "id_109",
+          "smil_sid": "sid_109",
+          "p_id": "c4_p33",
+          "seq_id": "seq_33",
+          "source_text": "- Mẹ cháu không thể chết được.",
+          "tts_text": "- Mẹ cháu không thể chết được."
+        },
+        {
+          "sent_id": "id_110",
+          "smil_sid": "sid_110",
+          "p_id": "c4_p33",
+          "seq_id": "seq_33",
+          "source_text": "Bà đã thoát được cơn choáng đầu tiên rồi mà!",
+          "tts_text": "Bà đã thoát được cơn choáng đầu tiên rồi mà!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p34_chunk_01",
+      "p_id": "c4_p34",
+      "start": 374.99,
+      "speech_end": 376.27,
+      "end": 376.44,
+      "pause_after_ms": 170,
+      "source_text": "- Có đúng thế không ạ?",
+      "tts_text": "- Có đúng thế không ạ?",
+      "sentences": [
+        {
+          "sent_id": "id_111",
+          "smil_sid": "sid_111",
+          "p_id": "c4_p34",
+          "seq_id": "seq_34",
+          "source_text": "- Có đúng thế không ạ?",
+          "tts_text": "- Có đúng thế không ạ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p35_chunk_01",
+      "p_id": "c4_p35",
+      "start": 376.44,
+      "speech_end": 379.08,
+      "end": 379.25,
+      "pause_after_ms": 170,
+      "source_text": "- Hạt Muối và Bố Cá Chép cũng nghĩ như vậy!",
+      "tts_text": "- Hạt Muối và Bố Cá Chép cũng nghĩ như vậy!",
+      "sentences": [
+        {
+          "sent_id": "id_112",
+          "smil_sid": "sid_112",
+          "p_id": "c4_p35",
+          "seq_id": "seq_35",
+          "source_text": "- Hạt Muối và Bố Cá Chép cũng nghĩ như vậy!",
+          "tts_text": "- Hạt Muối và Bố Cá Chép cũng nghĩ như vậy!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p36_chunk_01",
+      "p_id": "c4_p36",
+      "start": 379.25,
+      "speech_end": 425.37,
+      "end": 425.54,
+      "pause_after_ms": 170,
+      "source_text": "Bây giờ, được người ta động viên và cũng tự trấn an mình nên Perin có thể yên tâm về tình trạng bà mẹ. Nỗi lo lắng lớn nhất của em là tự hỏi số tiền ba mươi phờrăng của La Rucơri đến hôm nào thì hết? Những chi tiêu của mẹ con em, dù cố dè xẻn mấy đi nữa, vẫn khi thì khoản này, khi thì khoản nọ và còn những chi tiêu bất thường nữa, cứ làm mòn nhanh chóng số tiền kia! “Tiền vào nhà khó, như gió vào nhà trống” bay đi rất nhanh! Khi tiêu hết đồng xu cuối cùng, thì hai mẹ con em sẽ đi đâu? Tìm đâu ra chút ít tiền vì mẹ con em có còn gì nữa đâu! Thật vậy, chẳng còn chút gì, ngoài mấy cái quần rách tơi tả. Làm sao hai mẹ con em đến Marôcua được chứ?",
+      "tts_text": "Bây giờ, được người ta động viên và cũng tự trấn an mình nên Perin có thể yên tâm về tình trạng bà mẹ. Nỗi lo lắng lớn nhất của em là tự hỏi số tiền ba mươi phờrăng của La Rucơri đến hôm nào thì hết? Những chi tiêu của mẹ con em, dù cố dè xẻn mấy đi nữa, vẫn khi thì khoản này, khi thì khoản nọ và còn những chi tiêu bất thường nữa, cứ làm mòn nhanh chóng số tiền kia! Tiền vào nhà khó, như gió vào nhà trống bay đi rất nhanh! Khi tiêu hết đồng xu cuối cùng, thì hai mẹ con em sẽ đi đâu? Tìm đâu ra chút ít tiền vì mẹ con em có còn gì nữa đâu! Thật vậy, chẳng còn chút gì, ngoài mấy cái quần rách tơi tả. Làm sao hai mẹ con em đến Marôcua được chứ?",
+      "sentences": [
+        {
+          "sent_id": "id_113",
+          "smil_sid": "sid_113",
+          "p_id": "c4_p36",
+          "seq_id": "seq_36",
+          "source_text": "Bây giờ, được người ta động viên và cũng tự trấn an mình nên Perin có thể yên tâm về tình trạng bà mẹ.",
+          "tts_text": "Bây giờ, được người ta động viên và cũng tự trấn an mình nên Perin có thể yên tâm về tình trạng bà mẹ."
+        },
+        {
+          "sent_id": "id_114",
+          "smil_sid": "sid_114",
+          "p_id": "c4_p36",
+          "seq_id": "seq_36",
+          "source_text": "Nỗi lo lắng lớn nhất của em là tự hỏi số tiền ba mươi phờrăng của La Rucơri đến hôm nào thì hết?",
+          "tts_text": "Nỗi lo lắng lớn nhất của em là tự hỏi số tiền ba mươi phờrăng của La Rucơri đến hôm nào thì hết?"
+        },
+        {
+          "sent_id": "id_115",
+          "smil_sid": "sid_115",
+          "p_id": "c4_p36",
+          "seq_id": "seq_36",
+          "source_text": "Những chi tiêu của mẹ con em, dù cố dè xẻn mấy đi nữa, vẫn khi thì khoản này, khi thì khoản nọ và còn những chi tiêu bất thường nữa, cứ làm mòn nhanh chóng số tiền kia!",
+          "tts_text": "Những chi tiêu của mẹ con em, dù cố dè xẻn mấy đi nữa, vẫn khi thì khoản này, khi thì khoản nọ và còn những chi tiêu bất thường nữa, cứ làm mòn nhanh chóng số tiền kia!"
+        },
+        {
+          "sent_id": "id_116",
+          "smil_sid": "sid_116",
+          "p_id": "c4_p36",
+          "seq_id": "seq_36",
+          "source_text": "“Tiền vào nhà khó, như gió vào nhà trống” bay đi rất nhanh!",
+          "tts_text": "Tiền vào nhà khó, như gió vào nhà trống bay đi rất nhanh!"
+        },
+        {
+          "sent_id": "id_117",
+          "smil_sid": "sid_117",
+          "p_id": "c4_p36",
+          "seq_id": "seq_36",
+          "source_text": "Khi tiêu hết đồng xu cuối cùng, thì hai mẹ con em sẽ đi đâu?",
+          "tts_text": "Khi tiêu hết đồng xu cuối cùng, thì hai mẹ con em sẽ đi đâu?"
+        },
+        {
+          "sent_id": "id_118",
+          "smil_sid": "sid_118",
+          "p_id": "c4_p36",
+          "seq_id": "seq_36",
+          "source_text": "Tìm đâu ra chút ít tiền vì mẹ con em có còn gì nữa đâu!",
+          "tts_text": "Tìm đâu ra chút ít tiền vì mẹ con em có còn gì nữa đâu!"
+        },
+        {
+          "sent_id": "id_119",
+          "smil_sid": "sid_119",
+          "p_id": "c4_p36",
+          "seq_id": "seq_36",
+          "source_text": "Thật vậy, chẳng còn chút gì, ngoài mấy cái quần rách tơi tả.",
+          "tts_text": "Thật vậy, chẳng còn chút gì, ngoài mấy cái quần rách tơi tả."
+        },
+        {
+          "sent_id": "id_120",
+          "smil_sid": "sid_120",
+          "p_id": "c4_p36",
+          "seq_id": "seq_36",
+          "source_text": "Làm sao hai mẹ con em đến Marôcua được chứ?",
+          "tts_text": "Làm sao hai mẹ con em đến Marôcua được chứ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p37_chunk_01",
+      "p_id": "c4_p37",
+      "start": 425.54,
+      "speech_end": 433.62,
+      "end": 433.79,
+      "pause_after_ms": 170,
+      "source_text": "Một buổi chiều, Perin đang ở trong trạng thái lo ngại, bàng hoàng thì cảm thấy bàn tay bà mẹ mà em đang nắm bổng siết chặt tay em.",
+      "tts_text": "Một buổi chiều, Perin đang ở trong trạng thái lo ngại, bàng hoàng thì cảm thấy bàn tay bà mẹ mà em đang nắm bổng siết chặt tay em.",
+      "sentences": [
+        {
+          "sent_id": "id_121",
+          "smil_sid": "sid_121",
+          "p_id": "c4_p37",
+          "seq_id": "seq_37",
+          "source_text": "Một buổi chiều, Perin đang ở trong trạng thái lo ngại, bàng hoàng thì cảm thấy bàn tay bà mẹ mà em đang nắm bổng siết chặt tay em.",
+          "tts_text": "Một buổi chiều, Perin đang ở trong trạng thái lo ngại, bàng hoàng thì cảm thấy bàn tay bà mẹ mà em đang nắm bổng siết chặt tay em."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p38_chunk_01",
+      "p_id": "c4_p38",
+      "start": 433.79,
+      "speech_end": 437.63,
+      "end": 437.8,
+      "pause_after_ms": 170,
+      "source_text": "- Mẹ cần gì? Trở về với thực tại, em vội vàng hỏi.",
+      "tts_text": "- Mẹ cần gì? Trở về với thực tại, em vội vàng hỏi.",
+      "sentences": [
+        {
+          "sent_id": "id_122",
+          "smil_sid": "sid_122",
+          "p_id": "c4_p38",
+          "seq_id": "seq_38",
+          "source_text": "- Mẹ cần gì?",
+          "tts_text": "- Mẹ cần gì?"
+        },
+        {
+          "sent_id": "id_123",
+          "smil_sid": "sid_123",
+          "p_id": "c4_p38",
+          "seq_id": "seq_38",
+          "source_text": "Trở về với thực tại, em vội vàng hỏi.",
+          "tts_text": "Trở về với thực tại, em vội vàng hỏi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p39_chunk_01",
+      "p_id": "c4_p39",
+      "start": 437.8,
+      "speech_end": 441.64,
+      "end": 441.81,
+      "pause_after_ms": 170,
+      "source_text": "- Nói chuyện với con! Vì đã đến lúc mẹ phải trối trăn rồi!",
+      "tts_text": "- Nói chuyện với con! Vì đã đến lúc mẹ phải trối trăn rồi!",
+      "sentences": [
+        {
+          "sent_id": "id_124",
+          "smil_sid": "sid_124",
+          "p_id": "c4_p39",
+          "seq_id": "seq_39",
+          "source_text": "- Nói chuyện với con!",
+          "tts_text": "- Nói chuyện với con!"
+        },
+        {
+          "sent_id": "id_125",
+          "smil_sid": "sid_125",
+          "p_id": "c4_p39",
+          "seq_id": "seq_39",
+          "source_text": "Vì đã đến lúc mẹ phải trối trăn rồi!",
+          "tts_text": "Vì đã đến lúc mẹ phải trối trăn rồi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p40_chunk_01",
+      "p_id": "c4_p40",
+      "start": 441.81,
+      "speech_end": 443.01,
+      "end": 443.18,
+      "pause_after_ms": 170,
+      "source_text": "- Ối! Mẹ ơi!",
+      "tts_text": "- Ối! Mẹ ơi!",
+      "sentences": [
+        {
+          "sent_id": "id_126",
+          "smil_sid": "sid_126",
+          "p_id": "c4_p40",
+          "seq_id": "seq_40",
+          "source_text": "- Ối!",
+          "tts_text": "- Ối!"
+        },
+        {
+          "sent_id": "id_127",
+          "smil_sid": "sid_127",
+          "p_id": "c4_p40",
+          "seq_id": "seq_40",
+          "source_text": "Mẹ ơi!",
+          "tts_text": "Mẹ ơi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p41_chunk_01",
+      "p_id": "c4_p41",
+      "start": 443.18,
+      "speech_end": 473.68,
+      "end": 473.85,
+      "pause_after_ms": 170,
+      "source_text": "- Đừng ngắt lời mẹ, con thân yêu, hãy cố gắng đừng xúc động quá mạnh, cũng như mẹ, không để cho nỗi thất vọng lấn át. Mẹ cũng muốn làm cho con đừng lo sợ, vì thế hôm nay, mẹ vẫn im lặng. Mẹ không muốn con đau khổ, nhưng mẹ phải nói, dầu là chuyện ấy rất đau lòng cho hai mẹ con ta! Mẹ sẽ là một bà mẹ tồi, yếu đuối và hèn nhát. Ít nhất là dại dột nếu còn chần chừ! Bà mẹ nghỉ một lát, vừa để thở vừa để cho những ý nghĩ chập chờn được sáng tỏ:",
+      "tts_text": "- Đừng ngắt lời mẹ, con thân yêu, hãy cố gắng đừng xúc động quá mạnh, cũng như mẹ, không để cho nỗi thất vọng lấn át. Mẹ cũng muốn làm cho con đừng lo sợ, vì thế hôm nay, mẹ vẫn im lặng. Mẹ không muốn con đau khổ, nhưng mẹ phải nói, dầu là chuyện ấy rất đau lòng cho hai mẹ con ta! Mẹ sẽ là một bà mẹ tồi, yếu đuối và hèn nhát. Ít nhất là dại dột nếu còn chần chừ! Bà mẹ nghỉ một lát, vừa để thở vừa để cho những ý nghĩ chập chờn được sáng tỏ:",
+      "sentences": [
+        {
+          "sent_id": "id_128",
+          "smil_sid": "sid_128",
+          "p_id": "c4_p41",
+          "seq_id": "seq_41",
+          "source_text": "- Đừng ngắt lời mẹ, con thân yêu, hãy cố gắng đừng xúc động quá mạnh, cũng như mẹ, không để cho nỗi thất vọng lấn át.",
+          "tts_text": "- Đừng ngắt lời mẹ, con thân yêu, hãy cố gắng đừng xúc động quá mạnh, cũng như mẹ, không để cho nỗi thất vọng lấn át."
+        },
+        {
+          "sent_id": "id_129",
+          "smil_sid": "sid_129",
+          "p_id": "c4_p41",
+          "seq_id": "seq_41",
+          "source_text": "Mẹ cũng muốn làm cho con đừng lo sợ, vì thế hôm nay, mẹ vẫn im lặng.",
+          "tts_text": "Mẹ cũng muốn làm cho con đừng lo sợ, vì thế hôm nay, mẹ vẫn im lặng."
+        },
+        {
+          "sent_id": "id_130",
+          "smil_sid": "sid_130",
+          "p_id": "c4_p41",
+          "seq_id": "seq_41",
+          "source_text": "Mẹ không muốn con đau khổ, nhưng mẹ phải nói, dầu là chuyện ấy rất đau lòng cho hai mẹ con ta!",
+          "tts_text": "Mẹ không muốn con đau khổ, nhưng mẹ phải nói, dầu là chuyện ấy rất đau lòng cho hai mẹ con ta!"
+        },
+        {
+          "sent_id": "id_131",
+          "smil_sid": "sid_131",
+          "p_id": "c4_p41",
+          "seq_id": "seq_41",
+          "source_text": "Mẹ sẽ là một bà mẹ tồi, yếu đuối và hèn nhát.",
+          "tts_text": "Mẹ sẽ là một bà mẹ tồi, yếu đuối và hèn nhát."
+        },
+        {
+          "sent_id": "id_132",
+          "smil_sid": "sid_132",
+          "p_id": "c4_p41",
+          "seq_id": "seq_41",
+          "source_text": "Ít nhất là dại dột nếu còn chần chừ!",
+          "tts_text": "Ít nhất là dại dột nếu còn chần chừ!"
+        },
+        {
+          "sent_id": "id_133",
+          "smil_sid": "sid_133",
+          "p_id": "c4_p41",
+          "seq_id": "seq_41",
+          "source_text": "Bà mẹ nghỉ một lát, vừa để thở vừa để cho những ý nghĩ chập chờn được sáng tỏ:",
+          "tts_text": "Bà mẹ nghỉ một lát, vừa để thở vừa để cho những ý nghĩ chập chờn được sáng tỏ:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p42_chunk_01",
+      "p_id": "c4_p42",
+      "start": 473.85,
+      "speech_end": 475.37,
+      "end": 475.54,
+      "pause_after_ms": 170,
+      "source_text": "- Chúng ta phải xa nhau!",
+      "tts_text": "- Chúng ta phải xa nhau!",
+      "sentences": [
+        {
+          "sent_id": "id_134",
+          "smil_sid": "sid_134",
+          "p_id": "c4_p42",
+          "seq_id": "seq_42",
+          "source_text": "- Chúng ta phải xa nhau!",
+          "tts_text": "- Chúng ta phải xa nhau!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p43_chunk_01",
+      "p_id": "c4_p43",
+      "start": 475.54,
+      "speech_end": 478.58,
+      "end": 478.75,
+      "pause_after_ms": 170,
+      "source_text": "Perin nức nở, vì không thể chịu đựng nổi nữa!",
+      "tts_text": "Perin nức nở, vì không thể chịu đựng nổi nữa!",
+      "sentences": [
+        {
+          "sent_id": "id_135",
+          "smil_sid": "sid_135",
+          "p_id": "c4_p43",
+          "seq_id": "seq_43",
+          "source_text": "Perin nức nở, vì không thể chịu đựng nổi nữa!",
+          "tts_text": "Perin nức nở, vì không thể chịu đựng nổi nữa!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p44_chunk_01",
+      "p_id": "c4_p44",
+      "start": 478.75,
+      "speech_end": 498.93,
+      "end": 499.1,
+      "pause_after_ms": 170,
+      "source_text": "- Ừ, thật là dễ sợ, con thân yêu, tuy nhiên mẹ tự hỏi có phải như thế là tốt cho con không? Con sẽ được giới thiệu là một cô bé mồ côi chứ không phải có một bà mẹ mà người ta xua đuổi! Dẫu sao trời đã muốn thế, con sẽ ở lại một mình trên đời. Trong vài phút nữa, hoặc là ngày mai…",
+      "tts_text": "- Ừ, thật là dễ sợ, con thân yêu, tuy nhiên mẹ tự hỏi có phải như thế là tốt cho con không? Con sẽ được giới thiệu là một cô bé mồ côi chứ không phải có một bà mẹ mà người ta xua đuổi! Dẫu sao trời đã muốn thế, con sẽ ở lại một mình trên đời. Trong vài phút nữa, hoặc là ngày mai…",
+      "sentences": [
+        {
+          "sent_id": "id_136",
+          "smil_sid": "sid_136",
+          "p_id": "c4_p44",
+          "seq_id": "seq_44",
+          "source_text": "- Ừ, thật là dễ sợ, con thân yêu, tuy nhiên mẹ tự hỏi có phải như thế là tốt cho con không?",
+          "tts_text": "- Ừ, thật là dễ sợ, con thân yêu, tuy nhiên mẹ tự hỏi có phải như thế là tốt cho con không?"
+        },
+        {
+          "sent_id": "id_137",
+          "smil_sid": "sid_137",
+          "p_id": "c4_p44",
+          "seq_id": "seq_44",
+          "source_text": "Con sẽ được giới thiệu là một cô bé mồ côi chứ không phải có một bà mẹ mà người ta xua đuổi!",
+          "tts_text": "Con sẽ được giới thiệu là một cô bé mồ côi chứ không phải có một bà mẹ mà người ta xua đuổi!"
+        },
+        {
+          "sent_id": "id_138",
+          "smil_sid": "sid_138",
+          "p_id": "c4_p44",
+          "seq_id": "seq_44",
+          "source_text": "Dẫu sao trời đã muốn thế, con sẽ ở lại một mình trên đời.",
+          "tts_text": "Dẫu sao trời đã muốn thế, con sẽ ở lại một mình trên đời."
+        },
+        {
+          "sent_id": "id_139",
+          "smil_sid": "sid_139",
+          "p_id": "c4_p44",
+          "seq_id": "seq_44",
+          "source_text": "Trong vài phút nữa, hoặc là ngày mai…",
+          "tts_text": "Trong vài phút nữa, hoặc là ngày mai…"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p45_chunk_01",
+      "p_id": "c4_p45",
+      "start": 499.1,
+      "speech_end": 503.02,
+      "end": 503.19,
+      "pause_after_ms": 170,
+      "source_text": "Sự xúc động ngắt lời bà mẹ. Một lát sau, bà lại nói:",
+      "tts_text": "Sự xúc động ngắt lời bà mẹ. Một lát sau, bà lại nói:",
+      "sentences": [
+        {
+          "sent_id": "id_140",
+          "smil_sid": "sid_140",
+          "p_id": "c4_p45",
+          "seq_id": "seq_45",
+          "source_text": "Sự xúc động ngắt lời bà mẹ.",
+          "tts_text": "Sự xúc động ngắt lời bà mẹ."
+        },
+        {
+          "sent_id": "id_141",
+          "smil_sid": "sid_141",
+          "p_id": "c4_p45",
+          "seq_id": "seq_45",
+          "source_text": "Một lát sau, bà lại nói:",
+          "tts_text": "Một lát sau, bà lại nói:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p46_chunk_01",
+      "p_id": "c4_p46",
+      "start": 503.19,
+      "speech_end": 540.33,
+      "end": 540.5,
+      "pause_after_ms": 170,
+      "source_text": "- Khi mẹ không còn nữa, có những thủ tục phải làm. Con hãy lấy trong túi áo mẹ tờ giấy bọc trong hai lớp lụa và con đưa cho những ai hỏi con: Đó là giấy hôn thú trong đó có tên mẹ và tên cha con! Con xin người ta trả lại cho con vì nó rất cần thiết để sau này xác nhận việc khai sinh của con. Con phải giữ thật cẩn thận. Tuy nhiên, con cũng có thể làm mất, con phải học thuộc lòng, để đừng bao giờ quên! Cái ngày mà con đưa trình tờ giấy ấy, con xin một bản sao. Con nghe rõ mẹ nói chứ? Con có nhớ hết những gì mẹ nói với con không?",
+      "tts_text": "- Khi mẹ không còn nữa, có những thủ tục phải làm. Con hãy lấy trong túi áo mẹ tờ giấy bọc trong hai lớp lụa và con đưa cho những ai hỏi con: Đó là giấy hôn thú trong đó có tên mẹ và tên cha con! Con xin người ta trả lại cho con vì nó rất cần thiết để sau này xác nhận việc khai sinh của con. Con phải giữ thật cẩn thận. Tuy nhiên, con cũng có thể làm mất, con phải học thuộc lòng, để đừng bao giờ quên! Cái ngày mà con đưa trình tờ giấy ấy, con xin một bản sao. Con nghe rõ mẹ nói chứ? Con có nhớ hết những gì mẹ nói với con không?",
+      "sentences": [
+        {
+          "sent_id": "id_142",
+          "smil_sid": "sid_142",
+          "p_id": "c4_p46",
+          "seq_id": "seq_46",
+          "source_text": "- Khi mẹ không còn nữa, có những thủ tục phải làm.",
+          "tts_text": "- Khi mẹ không còn nữa, có những thủ tục phải làm."
+        },
+        {
+          "sent_id": "id_143",
+          "smil_sid": "sid_143",
+          "p_id": "c4_p46",
+          "seq_id": "seq_46",
+          "source_text": "Con hãy lấy trong túi áo mẹ tờ giấy bọc trong hai lớp lụa và con đưa cho những ai hỏi con: Đó là giấy hôn thú trong đó có tên mẹ và tên cha con!",
+          "tts_text": "Con hãy lấy trong túi áo mẹ tờ giấy bọc trong hai lớp lụa và con đưa cho những ai hỏi con: Đó là giấy hôn thú trong đó có tên mẹ và tên cha con!"
+        },
+        {
+          "sent_id": "id_144",
+          "smil_sid": "sid_144",
+          "p_id": "c4_p46",
+          "seq_id": "seq_46",
+          "source_text": "Con xin người ta trả lại cho con vì nó rất cần thiết để sau này xác nhận việc khai sinh của con.",
+          "tts_text": "Con xin người ta trả lại cho con vì nó rất cần thiết để sau này xác nhận việc khai sinh của con."
+        },
+        {
+          "sent_id": "id_145",
+          "smil_sid": "sid_145",
+          "p_id": "c4_p46",
+          "seq_id": "seq_46",
+          "source_text": "Con phải giữ thật cẩn thận.",
+          "tts_text": "Con phải giữ thật cẩn thận."
+        },
+        {
+          "sent_id": "id_146",
+          "smil_sid": "sid_146",
+          "p_id": "c4_p46",
+          "seq_id": "seq_46",
+          "source_text": "Tuy nhiên, con cũng có thể làm mất, con phải học thuộc lòng, để đừng bao giờ quên!",
+          "tts_text": "Tuy nhiên, con cũng có thể làm mất, con phải học thuộc lòng, để đừng bao giờ quên!"
+        },
+        {
+          "sent_id": "id_147",
+          "smil_sid": "sid_147",
+          "p_id": "c4_p46",
+          "seq_id": "seq_46",
+          "source_text": "Cái ngày mà con đưa trình tờ giấy ấy, con xin một bản sao.",
+          "tts_text": "Cái ngày mà con đưa trình tờ giấy ấy, con xin một bản sao."
+        },
+        {
+          "sent_id": "id_148",
+          "smil_sid": "sid_148",
+          "p_id": "c4_p46",
+          "seq_id": "seq_46",
+          "source_text": "Con nghe rõ mẹ nói chứ?",
+          "tts_text": "Con nghe rõ mẹ nói chứ?"
+        },
+        {
+          "sent_id": "id_149",
+          "smil_sid": "sid_149",
+          "p_id": "c4_p46",
+          "seq_id": "seq_46",
+          "source_text": "Con có nhớ hết những gì mẹ nói với con không?",
+          "tts_text": "Con có nhớ hết những gì mẹ nói với con không?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p47_chunk_01",
+      "p_id": "c4_p47",
+      "start": 540.5,
+      "speech_end": 541.86,
+      "end": 542.03,
+      "pause_after_ms": 170,
+      "source_text": "- Thưa mẹ, có ạ.",
+      "tts_text": "- Thưa mẹ, có ạ.",
+      "sentences": [
+        {
+          "sent_id": "id_150",
+          "smil_sid": "sid_150",
+          "p_id": "c4_p47",
+          "seq_id": "seq_47",
+          "source_text": "- Thưa mẹ, có ạ.",
+          "tts_text": "- Thưa mẹ, có ạ."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p48_chunk_01",
+      "p_id": "c4_p48",
+      "start": 542.03,
+      "speech_end": 564.4,
+      "end": 564.57,
+      "pause_after_ms": 170,
+      "source_text": "- Con sẽ khổ, bị tê liệt, nhưng đừng nản lòng! Khi con chẳng còn gì để làm ở Paris, ở đây con sẽ trơ trọi, cô đơn! Con phải đến Marôcua! Nếu có đủ tiền để mua vé, con đi xe lửa. Nếu không có đủ tiền thì con đi bộ. Thà con nằm ngủ bên vệ đường, nhịn đói, còn hơn là ở lại Paris. Con hứa với mẹ chứ?",
+      "tts_text": "- Con sẽ khổ, bị tê liệt, nhưng đừng nản lòng! Khi con chẳng còn gì để làm ở Paris, ở đây con sẽ trơ trọi, cô đơn! Con phải đến Marôcua! Nếu có đủ tiền để mua vé, con đi xe lửa. Nếu không có đủ tiền thì con đi bộ. Thà con nằm ngủ bên vệ đường, nhịn đói, còn hơn là ở lại Paris. Con hứa với mẹ chứ?",
+      "sentences": [
+        {
+          "sent_id": "id_151",
+          "smil_sid": "sid_151",
+          "p_id": "c4_p48",
+          "seq_id": "seq_48",
+          "source_text": "- Con sẽ khổ, bị tê liệt, nhưng đừng nản lòng!",
+          "tts_text": "- Con sẽ khổ, bị tê liệt, nhưng đừng nản lòng!"
+        },
+        {
+          "sent_id": "id_152",
+          "smil_sid": "sid_152",
+          "p_id": "c4_p48",
+          "seq_id": "seq_48",
+          "source_text": "Khi con chẳng còn gì để làm ở Paris, ở đây con sẽ trơ trọi, cô đơn!",
+          "tts_text": "Khi con chẳng còn gì để làm ở Paris, ở đây con sẽ trơ trọi, cô đơn!"
+        },
+        {
+          "sent_id": "id_153",
+          "smil_sid": "sid_153",
+          "p_id": "c4_p48",
+          "seq_id": "seq_48",
+          "source_text": "Con phải đến Marôcua!",
+          "tts_text": "Con phải đến Marôcua!"
+        },
+        {
+          "sent_id": "id_154",
+          "smil_sid": "sid_154",
+          "p_id": "c4_p48",
+          "seq_id": "seq_48",
+          "source_text": "Nếu có đủ tiền để mua vé, con đi xe lửa.",
+          "tts_text": "Nếu có đủ tiền để mua vé, con đi xe lửa."
+        },
+        {
+          "sent_id": "id_155",
+          "smil_sid": "sid_155",
+          "p_id": "c4_p48",
+          "seq_id": "seq_48",
+          "source_text": "Nếu không có đủ tiền thì con đi bộ.",
+          "tts_text": "Nếu không có đủ tiền thì con đi bộ."
+        },
+        {
+          "sent_id": "id_156",
+          "smil_sid": "sid_156",
+          "p_id": "c4_p48",
+          "seq_id": "seq_48",
+          "source_text": "Thà con nằm ngủ bên vệ đường, nhịn đói, còn hơn là ở lại Paris.",
+          "tts_text": "Thà con nằm ngủ bên vệ đường, nhịn đói, còn hơn là ở lại Paris."
+        },
+        {
+          "sent_id": "id_157",
+          "smil_sid": "sid_157",
+          "p_id": "c4_p48",
+          "seq_id": "seq_48",
+          "source_text": "Con hứa với mẹ chứ?",
+          "tts_text": "Con hứa với mẹ chứ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p49_chunk_01",
+      "p_id": "c4_p49",
+      "start": 564.57,
+      "speech_end": 565.53,
+      "end": 565.7,
+      "pause_after_ms": 170,
+      "source_text": "- Con xin hứa!",
+      "tts_text": "- Con xin hứa!",
+      "sentences": [
+        {
+          "sent_id": "id_158",
+          "smil_sid": "sid_158",
+          "p_id": "c4_p49",
+          "seq_id": "seq_49",
+          "source_text": "- Con xin hứa!",
+          "tts_text": "- Con xin hứa!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p50_chunk_01",
+      "p_id": "c4_p50",
+      "start": 565.7,
+      "speech_end": 573.7,
+      "end": 573.87,
+      "pause_after_ms": 170,
+      "source_text": "- Tuy hoàn cảnh của chúng ta thật là khủng khiếp, nhưng đối với mẹ thật là nhẹ nhõm khi nghĩ mọi việc rồi sẽ xảy ra như thế!",
+      "tts_text": "- Tuy hoàn cảnh của chúng ta thật là khủng khiếp, nhưng đối với mẹ thật là nhẹ nhõm khi nghĩ mọi việc rồi sẽ xảy ra như thế!",
+      "sentences": [
+        {
+          "sent_id": "id_159",
+          "smil_sid": "sid_159",
+          "p_id": "c4_p50",
+          "seq_id": "seq_50",
+          "source_text": "- Tuy hoàn cảnh của chúng ta thật là khủng khiếp, nhưng đối với mẹ thật là nhẹ nhõm khi nghĩ mọi việc rồi sẽ xảy ra như thế!",
+          "tts_text": "- Tuy hoàn cảnh của chúng ta thật là khủng khiếp, nhưng đối với mẹ thật là nhẹ nhõm khi nghĩ mọi việc rồi sẽ xảy ra như thế!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p51_chunk_01",
+      "p_id": "c4_p51",
+      "start": 573.87,
+      "speech_end": 587.23,
+      "end": 587.4,
+      "pause_after_ms": 170,
+      "source_text": "Thế nhưng sự “nhẹ nhõm” ấy không đủ mạnh để lướt một cơn choáng mới! Trong một thời gian khá lâu, bà mẹ không thở, không nói, không cử động. Perin cúi xuống người mẹ, run rẩy lo lắng, luống cuống vì thất vọng.",
+      "tts_text": "Thế nhưng sự nhẹ nhõm ấy không đủ mạnh để lướt một cơn choáng mới! Trong một thời gian khá lâu, bà mẹ không thở, không nói, không cử động. Perin cúi xuống người mẹ, run rẩy lo lắng, luống cuống vì thất vọng.",
+      "sentences": [
+        {
+          "sent_id": "id_160",
+          "smil_sid": "sid_160",
+          "p_id": "c4_p51",
+          "seq_id": "seq_51",
+          "source_text": "Thế nhưng sự “nhẹ nhõm” ấy không đủ mạnh để lướt một cơn choáng mới!",
+          "tts_text": "Thế nhưng sự nhẹ nhõm ấy không đủ mạnh để lướt một cơn choáng mới!"
+        },
+        {
+          "sent_id": "id_161",
+          "smil_sid": "sid_161",
+          "p_id": "c4_p51",
+          "seq_id": "seq_51",
+          "source_text": "Trong một thời gian khá lâu, bà mẹ không thở, không nói, không cử động.",
+          "tts_text": "Trong một thời gian khá lâu, bà mẹ không thở, không nói, không cử động."
+        },
+        {
+          "sent_id": "id_162",
+          "smil_sid": "sid_162",
+          "p_id": "c4_p51",
+          "seq_id": "seq_51",
+          "source_text": "Perin cúi xuống người mẹ, run rẩy lo lắng, luống cuống vì thất vọng.",
+          "tts_text": "Perin cúi xuống người mẹ, run rẩy lo lắng, luống cuống vì thất vọng."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p52_chunk_01",
+      "p_id": "c4_p52",
+      "start": 587.4,
+      "speech_end": 589.0,
+      "end": 589.17,
+      "pause_after_ms": 170,
+      "source_text": "- Mẹ ơi! Mẹ ơi!",
+      "tts_text": "- Mẹ ơi! Mẹ ơi!",
+      "sentences": [
+        {
+          "sent_id": "id_163",
+          "smil_sid": "sid_163",
+          "p_id": "c4_p52",
+          "seq_id": "seq_52",
+          "source_text": "- Mẹ ơi!",
+          "tts_text": "- Mẹ ơi!"
+        },
+        {
+          "sent_id": "id_164",
+          "smil_sid": "sid_164",
+          "p_id": "c4_p52",
+          "seq_id": "seq_52",
+          "source_text": "Mẹ ơi!",
+          "tts_text": "Mẹ ơi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p53_chunk_01",
+      "p_id": "c4_p53",
+      "start": 589.17,
+      "speech_end": 591.41,
+      "end": 591.58,
+      "pause_after_ms": 170,
+      "source_text": "Tiếng gọi ấy làm bà mẹ hồi tỉnh:",
+      "tts_text": "Tiếng gọi ấy làm bà mẹ hồi tỉnh:",
+      "sentences": [
+        {
+          "sent_id": "id_165",
+          "smil_sid": "sid_165",
+          "p_id": "c4_p53",
+          "seq_id": "seq_53",
+          "source_text": "Tiếng gọi ấy làm bà mẹ hồi tỉnh:",
+          "tts_text": "Tiếng gọi ấy làm bà mẹ hồi tỉnh:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p54_chunk_01",
+      "p_id": "c4_p54",
+      "start": 591.58,
+      "speech_end": 601.26,
+      "end": 601.43,
+      "pause_after_ms": 170,
+      "source_text": "- Hồi nãy, bà thì thầm, đứt quãng – Mẹ còn phải dặn con vài điều nữa! Mẹ phải làm việc ấy, nhưng mẹ không nhớ đã nói gì với con rồi! Con đợi một lát nhé!",
+      "tts_text": "- Hồi nãy, bà thì thầm, đứt quãng – Mẹ còn phải dặn con vài điều nữa! Mẹ phải làm việc ấy, nhưng mẹ không nhớ đã nói gì với con rồi! Con đợi một lát nhé!",
+      "sentences": [
+        {
+          "sent_id": "id_166",
+          "smil_sid": "sid_166",
+          "p_id": "c4_p54",
+          "seq_id": "seq_54",
+          "source_text": "- Hồi nãy, bà thì thầm, đứt quãng – Mẹ còn phải dặn con vài điều nữa!",
+          "tts_text": "- Hồi nãy, bà thì thầm, đứt quãng – Mẹ còn phải dặn con vài điều nữa!"
+        },
+        {
+          "sent_id": "id_167",
+          "smil_sid": "sid_167",
+          "p_id": "c4_p54",
+          "seq_id": "seq_54",
+          "source_text": "Mẹ phải làm việc ấy, nhưng mẹ không nhớ đã nói gì với con rồi!",
+          "tts_text": "Mẹ phải làm việc ấy, nhưng mẹ không nhớ đã nói gì với con rồi!"
+        },
+        {
+          "sent_id": "id_168",
+          "smil_sid": "sid_168",
+          "p_id": "c4_p54",
+          "seq_id": "seq_54",
+          "source_text": "Con đợi một lát nhé!",
+          "tts_text": "Con đợi một lát nhé!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p55_chunk_01",
+      "p_id": "c4_p55",
+      "start": 601.43,
+      "speech_end": 603.35,
+      "end": 603.52,
+      "pause_after_ms": 170,
+      "source_text": "Một lát sau, bà lại nói:",
+      "tts_text": "Một lát sau, bà lại nói:",
+      "sentences": [
+        {
+          "sent_id": "id_169",
+          "smil_sid": "sid_169",
+          "p_id": "c4_p55",
+          "seq_id": "seq_55",
+          "source_text": "Một lát sau, bà lại nói:",
+          "tts_text": "Một lát sau, bà lại nói:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p56_chunk_01",
+      "p_id": "c4_p56",
+      "start": 603.52,
+      "speech_end": 621.51,
+      "end": 621.68,
+      "pause_after_ms": 170,
+      "source_text": "- Thế này nhé, ừ thế đấy… Con đến Marôcua. Đừng vội vàng, con không có quyền đòi hỏi gì hết! Con sẽ nhận được cái gì do tự con, tự ở con mà thôi! Con phải tốt bụng, làm sao cho người ta yêu con… Người ta không thể nào ghét con gái của mẹ! Thế là chấm dứt hoạn nạn.",
+      "tts_text": "- Thế này nhé, ừ thế đấy… Con đến Marôcua. Đừng vội vàng, con không có quyền đòi hỏi gì hết! Con sẽ nhận được cái gì do tự con, tự ở con mà thôi! Con phải tốt bụng, làm sao cho người ta yêu con… Người ta không thể nào ghét con gái của mẹ! Thế là chấm dứt hoạn nạn.",
+      "sentences": [
+        {
+          "sent_id": "id_170",
+          "smil_sid": "sid_170",
+          "p_id": "c4_p56",
+          "seq_id": "seq_56",
+          "source_text": "- Thế này nhé, ừ thế đấy…",
+          "tts_text": "- Thế này nhé, ừ thế đấy…"
+        },
+        {
+          "sent_id": "id_171",
+          "smil_sid": "sid_171",
+          "p_id": "c4_p56",
+          "seq_id": "seq_56",
+          "source_text": "Con đến Marôcua.",
+          "tts_text": "Con đến Marôcua."
+        },
+        {
+          "sent_id": "id_172",
+          "smil_sid": "sid_172",
+          "p_id": "c4_p56",
+          "seq_id": "seq_56",
+          "source_text": "Đừng vội vàng, con không có quyền đòi hỏi gì hết!",
+          "tts_text": "Đừng vội vàng, con không có quyền đòi hỏi gì hết!"
+        },
+        {
+          "sent_id": "id_173",
+          "smil_sid": "sid_173",
+          "p_id": "c4_p56",
+          "seq_id": "seq_56",
+          "source_text": "Con sẽ nhận được cái gì do tự con, tự ở con mà thôi!",
+          "tts_text": "Con sẽ nhận được cái gì do tự con, tự ở con mà thôi!"
+        },
+        {
+          "sent_id": "id_174",
+          "smil_sid": "sid_174",
+          "p_id": "c4_p56",
+          "seq_id": "seq_56",
+          "source_text": "Con phải tốt bụng, làm sao cho người ta yêu con…",
+          "tts_text": "Con phải tốt bụng, làm sao cho người ta yêu con…"
+        },
+        {
+          "sent_id": "id_175",
+          "smil_sid": "sid_175",
+          "p_id": "c4_p56",
+          "seq_id": "seq_56",
+          "source_text": "Người ta không thể nào ghét con gái của mẹ!",
+          "tts_text": "Người ta không thể nào ghét con gái của mẹ!"
+        },
+        {
+          "sent_id": "id_176",
+          "smil_sid": "sid_176",
+          "p_id": "c4_p56",
+          "seq_id": "seq_56",
+          "source_text": "Thế là chấm dứt hoạn nạn.",
+          "tts_text": "Thế là chấm dứt hoạn nạn."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p57_chunk_01",
+      "p_id": "c4_p57",
+      "start": 621.68,
+      "speech_end": 625.52,
+      "end": 625.69,
+      "pause_after_ms": 170,
+      "source_text": "Bà mẹ chắp tay lại và cái nhìn của bà có vẻ xuất thần.",
+      "tts_text": "Bà mẹ chắp tay lại và cái nhìn của bà có vẻ xuất thần.",
+      "sentences": [
+        {
+          "sent_id": "id_177",
+          "smil_sid": "sid_177",
+          "p_id": "c4_p57",
+          "seq_id": "seq_57",
+          "source_text": "Bà mẹ chắp tay lại và cái nhìn của bà có vẻ xuất thần.",
+          "tts_text": "Bà mẹ chắp tay lại và cái nhìn của bà có vẻ xuất thần."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p58_chunk_01",
+      "p_id": "c4_p58",
+      "start": 625.69,
+      "speech_end": 634.97,
+      "end": 635.14,
+      "pause_after_ms": 170,
+      "source_text": "- Mẹ thấy con… ư, thấy con sung sướng! Mẹ ước ao được chết với ý nghĩ ấy và hy vọng hình ảnh của mẹ sống mãi trong trái tim con!",
+      "tts_text": "- Mẹ thấy con… ư, thấy con sung sướng! Mẹ ước ao được chết với ý nghĩ ấy và hy vọng hình ảnh của mẹ sống mãi trong trái tim con!",
+      "sentences": [
+        {
+          "sent_id": "id_178",
+          "smil_sid": "sid_178",
+          "p_id": "c4_p58",
+          "seq_id": "seq_58",
+          "source_text": "- Mẹ thấy con… ư, thấy con sung sướng!",
+          "tts_text": "- Mẹ thấy con… ư, thấy con sung sướng!"
+        },
+        {
+          "sent_id": "id_179",
+          "smil_sid": "sid_179",
+          "p_id": "c4_p58",
+          "seq_id": "seq_58",
+          "source_text": "Mẹ ước ao được chết với ý nghĩ ấy và hy vọng hình ảnh của mẹ sống mãi trong trái tim con!",
+          "tts_text": "Mẹ ước ao được chết với ý nghĩ ấy và hy vọng hình ảnh của mẹ sống mãi trong trái tim con!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p59_chunk_01",
+      "p_id": "c4_p59",
+      "start": 635.14,
+      "speech_end": 646.02,
+      "end": 646.19,
+      "pause_after_ms": 170,
+      "source_text": "Bà thành khẩn nói những lời ấy như lời cầu nguyện. Rồi kiệt sức, vì đã cố gắng, bà lại rơi mình xuống tấm nệm, bất động. Nhưng bà không ngất vì còn thở thoi thóp.",
+      "tts_text": "Bà thành khẩn nói những lời ấy như lời cầu nguyện. Rồi kiệt sức, vì đã cố gắng, bà lại rơi mình xuống tấm nệm, bất động. Nhưng bà không ngất vì còn thở thoi thóp.",
+      "sentences": [
+        {
+          "sent_id": "id_180",
+          "smil_sid": "sid_180",
+          "p_id": "c4_p59",
+          "seq_id": "seq_59",
+          "source_text": "Bà thành khẩn nói những lời ấy như lời cầu nguyện.",
+          "tts_text": "Bà thành khẩn nói những lời ấy như lời cầu nguyện."
+        },
+        {
+          "sent_id": "id_181",
+          "smil_sid": "sid_181",
+          "p_id": "c4_p59",
+          "seq_id": "seq_59",
+          "source_text": "Rồi kiệt sức, vì đã cố gắng, bà lại rơi mình xuống tấm nệm, bất động.",
+          "tts_text": "Rồi kiệt sức, vì đã cố gắng, bà lại rơi mình xuống tấm nệm, bất động."
+        },
+        {
+          "sent_id": "id_182",
+          "smil_sid": "sid_182",
+          "p_id": "c4_p59",
+          "seq_id": "seq_59",
+          "source_text": "Nhưng bà không ngất vì còn thở thoi thóp.",
+          "tts_text": "Nhưng bà không ngất vì còn thở thoi thóp."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p60_chunk_01",
+      "p_id": "c4_p60",
+      "start": 646.19,
+      "speech_end": 705.6,
+      "end": 705.77,
+      "pause_after_ms": 170,
+      "source_text": "Perin đợi một lát, thấy mẹ vẫn ở trong trạng thái ấy, em rời khỏi buồng. vừa đến khoảng đất rào kín, em khóc nức nở và gieo mình trên cỏ. Hình như quả tim, cái đầu, đôi chân em đều bị tê liệt vì đã tự kiềm chế quá lâu! Trong vài phút, Perin đứng đó, kiệt quệ, nghẹn ngào! Mặc dù ở trạng thái vô tri vô giác, em vẫn ý thức được rằng em không nên để mẹ nằm một mình. Perin đứng dậy, cố gắng trấn tĩnh một chút, ít nhất là ngoài mặt. Em giữ cho nước mắt khỏi tuôn trào và nén những cơn nấc tuyệt vọng. Bóng tối trùm lên khu bãi. Perin đi mà chẳng biết em đi đâu, thẳng tiến về phía trước, hay cứ loanh quanh một chỗ! Em cố giữ mình để đừng khóc to nhưng lại càng nức nở! Perin đi ngang chiếc xe goòng, có lẽ lần này là lần thứ mười. Bác bán kẹo kéo vẫn theo dõi em từ trước, ra khỏi nhà, tay cầm hai cái kẹo, đến gần và nói với giọng thông cảm.",
+      "tts_text": "Perin đợi một lát, thấy mẹ vẫn ở trong trạng thái ấy, em rời khỏi buồng. vừa đến khoảng đất rào kín, em khóc nức nở và gieo mình trên cỏ. Hình như quả tim, cái đầu, đôi chân em đều bị tê liệt vì đã tự kiềm chế quá lâu! Trong vài phút, Perin đứng đó, kiệt quệ, nghẹn ngào! Mặc dù ở trạng thái vô tri vô giác, em vẫn ý thức được rằng em không nên để mẹ nằm một mình. Perin đứng dậy, cố gắng trấn tĩnh một chút, ít nhất là ngoài mặt. Em giữ cho nước mắt khỏi tuôn trào và nén những cơn nấc tuyệt vọng. Bóng tối trùm lên khu bãi. Perin đi mà chẳng biết em đi đâu, thẳng tiến về phía trước, hay cứ loanh quanh một chỗ! Em cố giữ mình để đừng khóc to nhưng lại càng nức nở! Perin đi ngang chiếc xe goòng, có lẽ lần này là lần thứ mười. Bác bán kẹo kéo vẫn theo dõi em từ trước, ra khỏi nhà, tay cầm hai cái kẹo, đến gần và nói với giọng thông cảm.",
+      "sentences": [
+        {
+          "sent_id": "id_183",
+          "smil_sid": "sid_183",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Perin đợi một lát, thấy mẹ vẫn ở trong trạng thái ấy, em rời khỏi buồng. vừa đến khoảng đất rào kín, em khóc nức nở và gieo mình trên cỏ.",
+          "tts_text": "Perin đợi một lát, thấy mẹ vẫn ở trong trạng thái ấy, em rời khỏi buồng. vừa đến khoảng đất rào kín, em khóc nức nở và gieo mình trên cỏ."
+        },
+        {
+          "sent_id": "id_184",
+          "smil_sid": "sid_184",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Hình như quả tim, cái đầu, đôi chân em đều bị tê liệt vì đã tự kiềm chế quá lâu!",
+          "tts_text": "Hình như quả tim, cái đầu, đôi chân em đều bị tê liệt vì đã tự kiềm chế quá lâu!"
+        },
+        {
+          "sent_id": "id_185",
+          "smil_sid": "sid_185",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Trong vài phút, Perin đứng đó, kiệt quệ, nghẹn ngào!",
+          "tts_text": "Trong vài phút, Perin đứng đó, kiệt quệ, nghẹn ngào!"
+        },
+        {
+          "sent_id": "id_186",
+          "smil_sid": "sid_186",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Mặc dù ở trạng thái vô tri vô giác, em vẫn ý thức được rằng em không nên để mẹ nằm một mình.",
+          "tts_text": "Mặc dù ở trạng thái vô tri vô giác, em vẫn ý thức được rằng em không nên để mẹ nằm một mình."
+        },
+        {
+          "sent_id": "id_187",
+          "smil_sid": "sid_187",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Perin đứng dậy, cố gắng trấn tĩnh một chút, ít nhất là ngoài mặt.",
+          "tts_text": "Perin đứng dậy, cố gắng trấn tĩnh một chút, ít nhất là ngoài mặt."
+        },
+        {
+          "sent_id": "id_188",
+          "smil_sid": "sid_188",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Em giữ cho nước mắt khỏi tuôn trào và nén những cơn nấc tuyệt vọng.",
+          "tts_text": "Em giữ cho nước mắt khỏi tuôn trào và nén những cơn nấc tuyệt vọng."
+        },
+        {
+          "sent_id": "id_189",
+          "smil_sid": "sid_189",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Bóng tối trùm lên khu bãi.",
+          "tts_text": "Bóng tối trùm lên khu bãi."
+        },
+        {
+          "sent_id": "id_190",
+          "smil_sid": "sid_190",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Perin đi mà chẳng biết em đi đâu, thẳng tiến về phía trước, hay cứ loanh quanh một chỗ!",
+          "tts_text": "Perin đi mà chẳng biết em đi đâu, thẳng tiến về phía trước, hay cứ loanh quanh một chỗ!"
+        },
+        {
+          "sent_id": "id_191",
+          "smil_sid": "sid_191",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Em cố giữ mình để đừng khóc to nhưng lại càng nức nở!",
+          "tts_text": "Em cố giữ mình để đừng khóc to nhưng lại càng nức nở!"
+        },
+        {
+          "sent_id": "id_192",
+          "smil_sid": "sid_192",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Perin đi ngang chiếc xe goòng, có lẽ lần này là lần thứ mười.",
+          "tts_text": "Perin đi ngang chiếc xe goòng, có lẽ lần này là lần thứ mười."
+        },
+        {
+          "sent_id": "id_193",
+          "smil_sid": "sid_193",
+          "p_id": "c4_p60",
+          "seq_id": "seq_60",
+          "source_text": "Bác bán kẹo kéo vẫn theo dõi em từ trước, ra khỏi nhà, tay cầm hai cái kẹo, đến gần và nói với giọng thông cảm.",
+          "tts_text": "Bác bán kẹo kéo vẫn theo dõi em từ trước, ra khỏi nhà, tay cầm hai cái kẹo, đến gần và nói với giọng thông cảm."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p61_chunk_01",
+      "p_id": "c4_p61",
+      "start": 705.77,
+      "speech_end": 706.97,
+      "end": 707.14,
+      "pause_after_ms": 170,
+      "source_text": "- Cháu có chuyện buồn.",
+      "tts_text": "- Cháu có chuyện buồn.",
+      "sentences": [
+        {
+          "sent_id": "id_194",
+          "smil_sid": "sid_194",
+          "p_id": "c4_p61",
+          "seq_id": "seq_61",
+          "source_text": "- Cháu có chuyện buồn.",
+          "tts_text": "- Cháu có chuyện buồn."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p62_chunk_01",
+      "p_id": "c4_p62",
+      "start": 707.14,
+      "speech_end": 708.18,
+      "end": 708.35,
+      "pause_after_ms": 170,
+      "source_text": "- Ối, bác ơi!",
+      "tts_text": "- Ối, bác ơi!",
+      "sentences": [
+        {
+          "sent_id": "id_195",
+          "smil_sid": "sid_195",
+          "p_id": "c4_p62",
+          "seq_id": "seq_62",
+          "source_text": "- Ối, bác ơi!",
+          "tts_text": "- Ối, bác ơi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c4_p63_chunk_01",
+      "p_id": "c4_p63",
+      "start": 708.35,
+      "speech_end": 715.39,
+      "end": 715.39,
+      "pause_after_ms": 0,
+      "source_text": "- Cháu cầm lấy! Ông ta đưa hai cái kẹo cho Perin. Những của ngọt này rất tốt khi người ta có chuyện buồn phiền.",
+      "tts_text": "- Cháu cầm lấy! Ông ta đưa hai cái kẹo cho Perin. Những của ngọt này rất tốt khi người ta có chuyện buồn phiền.",
+      "sentences": [
+        {
+          "sent_id": "id_196",
+          "smil_sid": "sid_196",
+          "p_id": "c4_p63",
+          "seq_id": "seq_63",
+          "source_text": "- Cháu cầm lấy!",
+          "tts_text": "- Cháu cầm lấy!"
+        },
+        {
+          "sent_id": "id_197",
+          "smil_sid": "sid_197",
+          "p_id": "c4_p63",
+          "seq_id": "seq_63",
+          "source_text": "Ông ta đưa hai cái kẹo cho Perin.",
+          "tts_text": "Ông ta đưa hai cái kẹo cho Perin."
+        },
+        {
+          "sent_id": "id_198",
+          "smil_sid": "sid_198",
+          "p_id": "c4_p63",
+          "seq_id": "seq_63",
+          "source_text": "Những của ngọt này rất tốt khi người ta có chuyện buồn phiền.",
+          "tts_text": "Những của ngọt này rất tốt khi người ta có chuyện buồn phiền."
+        }
+      ]
+    }
+  ]
+}

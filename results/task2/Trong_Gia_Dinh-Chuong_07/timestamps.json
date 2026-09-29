@@ -1,0 +1,4886 @@
+{
+  "metadata": {
+    "dtb:uid": "978-604-69-8175-6",
+    "dtb:generator": "DAISY 3 DTBook Python Pipeline (K35)",
+    "dc:Title": "Trong Gia Đình",
+    "dc:Creator": "Hector Malot",
+    "dc:Translator": "Huỳnh Lý & Mai Hương, Huỳnh Phan Thanh Yên",
+    "dc:Publisher": "NXB Văn Học",
+    "dc:Date": "2017",
+    "dc:Identifier": "978-604-69-8175-6",
+    "dc:Language": "vi-VN",
+    "dc:Subject": "Văn học & Tiểu thuyết",
+    "dc:Format": "ANSI/NISO Z39.86-2005",
+    "dc:Description": "Cuốn sách kể về cuộc đời cô bé Perrine (Perin), 12 tuổi, mồ côi cha mẹ và hành trình đầy khó khăn, thử thách với nghị lực phi thường để vươn lên và được ông nội đón nhận trở lại trong gia đình.",
+    "note": "Bản dịch của GS. Huỳnh Lý & Mai Hương, hiệu đính Huỳnh Phan Thanh Yên"
+  },
+  "chapter_idx": 7,
+  "chapter_title": "Chương 7",
+  "total_paragraphs": 153,
+  "total_sentences": 349,
+  "audio_file": "Chuong_07.mp3",
+  "audio_duration": 1262.33,
+  "headings": [
+    {
+      "kind": "heading",
+      "role": "book_title",
+      "sent_id": "id_1",
+      "smil_sid": "sid_1",
+      "container_id": "forsmil-1",
+      "source_text": "Trong Gia Đình",
+      "tts_text": "Trong Gia Đình",
+      "start": 0.0,
+      "speech_end": 0.96,
+      "end": 1.13,
+      "pause_after_ms": 170
+    },
+    {
+      "kind": "heading",
+      "role": "author",
+      "sent_id": "id_2",
+      "smil_sid": "sid_2",
+      "container_id": "forsmil-2",
+      "source_text": "Hector Malot",
+      "tts_text": "Hector Malot",
+      "start": 1.13,
+      "speech_end": 2.25,
+      "end": 2.42,
+      "pause_after_ms": 170
+    },
+    {
+      "kind": "heading",
+      "role": "chapter_title",
+      "sent_id": "id_3",
+      "smil_sid": "sid_3",
+      "container_id": "faux-heading",
+      "source_text": "Chương 7",
+      "tts_text": "Chương 7",
+      "start": 2.42,
+      "speech_end": 3.22,
+      "end": 3.39,
+      "pause_after_ms": 170
+    }
+  ],
+  "tts": {
+    "engine": "vieneu",
+    "voice": "Minh Đức",
+    "resolved_voice": "Minh Đức",
+    "backend": "onnx",
+    "max_sentences_per_context_chunk": 12,
+    "max_chars_per_context_chunk": 900,
+    "context_chunk_join_pause_ms": 155,
+    "paragraph_pause_ms": 170,
+    "section_pause_ms": 250,
+    "internal_punctuation": "native",
+    "bitrate": "128k"
+  },
+  "chunks": [
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p1_chunk_01",
+      "p_id": "c7_p1",
+      "start": 3.39,
+      "speech_end": 43.57,
+      "end": 43.74,
+      "pause_after_ms": 170,
+      "source_text": "Trong các ý nghĩ đi qua đầu óc trống rỗng của Perin, cái ý nghĩ ác nghiệt nhất là giá được chết với cha mẹ, thì em bớt khổ hơn! Còn bây giờ, thì em phải chết như một con vật khốn khổ ở trong hố này! Perin muốn làm một cố gắng cuối cùng, vào khu rừng, tìm một chỗ để nằm ngủ, giấc ngủ ngàn thu. Một còn đường mòn xuyên qua gần đó, em rẽ vào và cách năm chục mét, tìm được một khu rừng thưa, bé nhỏ, đầy cỏ mà bìa rừng có những hoa móng tay xinh đẹp, màu tím. Rồi Perin nằm dài, gối đầu trên cánh tay, dưới bóng những cành non của một cây lật. Buổi tối, em vẫn nằm như thế để ngủ.",
+      "tts_text": "Trong các ý nghĩ đi qua đầu óc trống rỗng của Perin, cái ý nghĩ ác nghiệt nhất là giá được chết với cha mẹ, thì em bớt khổ hơn! Còn bây giờ, thì em phải chết như một con vật khốn khổ ở trong hố này! Perin muốn làm một cố gắng cuối cùng, vào khu rừng, tìm một chỗ để nằm ngủ, giấc ngủ ngàn thu. Một còn đường mòn xuyên qua gần đó, em rẽ vào và cách năm chục mét, tìm được một khu rừng thưa, bé nhỏ, đầy cỏ mà bìa rừng có những hoa móng tay xinh đẹp, màu tím. Rồi Perin nằm dài, gối đầu trên cánh tay, dưới bóng những cành non của một cây lật. Buổi tối, em vẫn nằm như thế để ngủ.",
+      "sentences": [
+        {
+          "sent_id": "id_4",
+          "smil_sid": "sid_4",
+          "p_id": "c7_p1",
+          "seq_id": "seq_1",
+          "source_text": "Trong các ý nghĩ đi qua đầu óc trống rỗng của Perin, cái ý nghĩ ác nghiệt nhất là giá được chết với cha mẹ, thì em bớt khổ hơn!",
+          "tts_text": "Trong các ý nghĩ đi qua đầu óc trống rỗng của Perin, cái ý nghĩ ác nghiệt nhất là giá được chết với cha mẹ, thì em bớt khổ hơn!"
+        },
+        {
+          "sent_id": "id_5",
+          "smil_sid": "sid_5",
+          "p_id": "c7_p1",
+          "seq_id": "seq_1",
+          "source_text": "Còn bây giờ, thì em phải chết như một con vật khốn khổ ở trong hố này!",
+          "tts_text": "Còn bây giờ, thì em phải chết như một con vật khốn khổ ở trong hố này!"
+        },
+        {
+          "sent_id": "id_6",
+          "smil_sid": "sid_6",
+          "p_id": "c7_p1",
+          "seq_id": "seq_1",
+          "source_text": "Perin muốn làm một cố gắng cuối cùng, vào khu rừng, tìm một chỗ để nằm ngủ, giấc ngủ ngàn thu.",
+          "tts_text": "Perin muốn làm một cố gắng cuối cùng, vào khu rừng, tìm một chỗ để nằm ngủ, giấc ngủ ngàn thu."
+        },
+        {
+          "sent_id": "id_7",
+          "smil_sid": "sid_7",
+          "p_id": "c7_p1",
+          "seq_id": "seq_1",
+          "source_text": "Một còn đường mòn xuyên qua gần đó, em rẽ vào và cách năm chục mét, tìm được một khu rừng thưa, bé nhỏ, đầy cỏ mà bìa rừng có những hoa móng tay xinh đẹp, màu tím.",
+          "tts_text": "Một còn đường mòn xuyên qua gần đó, em rẽ vào và cách năm chục mét, tìm được một khu rừng thưa, bé nhỏ, đầy cỏ mà bìa rừng có những hoa móng tay xinh đẹp, màu tím."
+        },
+        {
+          "sent_id": "id_8",
+          "smil_sid": "sid_8",
+          "p_id": "c7_p1",
+          "seq_id": "seq_1",
+          "source_text": "Rồi Perin nằm dài, gối đầu trên cánh tay, dưới bóng những cành non của một cây lật.",
+          "tts_text": "Rồi Perin nằm dài, gối đầu trên cánh tay, dưới bóng những cành non của một cây lật."
+        },
+        {
+          "sent_id": "id_9",
+          "smil_sid": "sid_9",
+          "p_id": "c7_p1",
+          "seq_id": "seq_1",
+          "source_text": "Buổi tối, em vẫn nằm như thế để ngủ.",
+          "tts_text": "Buổi tối, em vẫn nằm như thế để ngủ."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p2_chunk_01",
+      "p_id": "c7_p2",
+      "start": 43.74,
+      "speech_end": 61.78,
+      "end": 61.95,
+      "pause_after_ms": 170,
+      "source_text": "Một cảm giác nóng hổi trên mặt, khiến em giật mình tỉnh dậy, Perin mở to mắt, sợ hãi khi nhìn thấy lờ mờ một cái đầu to lớn đầy lông lá, đang cúi xuống người em. Perin muốn lăn qua một bên để tránh. Một cái lưỡi to lớn, liếm trên mặt em và giữ em lại trên vạt cỏ.",
+      "tts_text": "Một cảm giác nóng hổi trên mặt, khiến em giật mình tỉnh dậy, Perin mở to mắt, sợ hãi khi nhìn thấy lờ mờ một cái đầu to lớn đầy lông lá, đang cúi xuống người em. Perin muốn lăn qua một bên để tránh. Một cái lưỡi to lớn, liếm trên mặt em và giữ em lại trên vạt cỏ.",
+      "sentences": [
+        {
+          "sent_id": "id_10",
+          "smil_sid": "sid_10",
+          "p_id": "c7_p2",
+          "seq_id": "seq_2",
+          "source_text": "Một cảm giác nóng hổi trên mặt, khiến em giật mình tỉnh dậy, Perin mở to mắt, sợ hãi khi nhìn thấy lờ mờ một cái đầu to lớn đầy lông lá, đang cúi xuống người em.",
+          "tts_text": "Một cảm giác nóng hổi trên mặt, khiến em giật mình tỉnh dậy, Perin mở to mắt, sợ hãi khi nhìn thấy lờ mờ một cái đầu to lớn đầy lông lá, đang cúi xuống người em."
+        },
+        {
+          "sent_id": "id_11",
+          "smil_sid": "sid_11",
+          "p_id": "c7_p2",
+          "seq_id": "seq_2",
+          "source_text": "Perin muốn lăn qua một bên để tránh.",
+          "tts_text": "Perin muốn lăn qua một bên để tránh."
+        },
+        {
+          "sent_id": "id_12",
+          "smil_sid": "sid_12",
+          "p_id": "c7_p2",
+          "seq_id": "seq_2",
+          "source_text": "Một cái lưỡi to lớn, liếm trên mặt em và giữ em lại trên vạt cỏ.",
+          "tts_text": "Một cái lưỡi to lớn, liếm trên mặt em và giữ em lại trên vạt cỏ."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p3_chunk_01",
+      "p_id": "c7_p3",
+      "start": 61.95,
+      "speech_end": 76.83,
+      "end": 77.0,
+      "pause_after_ms": 170,
+      "source_text": "Sự việc diễn ra rất nhanh chóng nhưng Perin vẫn đủ thời giờ để tìm hiểu: cái đầu to lớn, lông lá ấy là đầu một con lừa. Con vật ấy lấy lưỡi liếm trên mặt, trên đôi tay Perin chìa ra phía trước. Em đã nhìn rõ nó:",
+      "tts_text": "Sự việc diễn ra rất nhanh chóng nhưng Perin vẫn đủ thời giờ để tìm hiểu: cái đầu to lớn, lông lá ấy là đầu một con lừa. Con vật ấy lấy lưỡi liếm trên mặt, trên đôi tay Perin chìa ra phía trước. Em đã nhìn rõ nó:",
+      "sentences": [
+        {
+          "sent_id": "id_13",
+          "smil_sid": "sid_13",
+          "p_id": "c7_p3",
+          "seq_id": "seq_3",
+          "source_text": "Sự việc diễn ra rất nhanh chóng nhưng Perin vẫn đủ thời giờ để tìm hiểu: cái đầu to lớn, lông lá ấy là đầu một con lừa.",
+          "tts_text": "Sự việc diễn ra rất nhanh chóng nhưng Perin vẫn đủ thời giờ để tìm hiểu: cái đầu to lớn, lông lá ấy là đầu một con lừa."
+        },
+        {
+          "sent_id": "id_14",
+          "smil_sid": "sid_14",
+          "p_id": "c7_p3",
+          "seq_id": "seq_3",
+          "source_text": "Con vật ấy lấy lưỡi liếm trên mặt, trên đôi tay Perin chìa ra phía trước.",
+          "tts_text": "Con vật ấy lấy lưỡi liếm trên mặt, trên đôi tay Perin chìa ra phía trước."
+        },
+        {
+          "sent_id": "id_15",
+          "smil_sid": "sid_15",
+          "p_id": "c7_p3",
+          "seq_id": "seq_3",
+          "source_text": "Em đã nhìn rõ nó:",
+          "tts_text": "Em đã nhìn rõ nó:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p4_chunk_01",
+      "p_id": "c7_p4",
+      "start": 77.0,
+      "speech_end": 77.8,
+      "end": 77.97,
+      "pause_after_ms": 170,
+      "source_text": "- Palica!",
+      "tts_text": "- Palica!",
+      "sentences": [
+        {
+          "sent_id": "id_16",
+          "smil_sid": "sid_16",
+          "p_id": "c7_p4",
+          "seq_id": "seq_4",
+          "source_text": "- Palica!",
+          "tts_text": "- Palica!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p5_chunk_01",
+      "p_id": "c7_p5",
+      "start": 77.97,
+      "speech_end": 81.49,
+      "end": 81.66,
+      "pause_after_ms": 170,
+      "source_text": "Perin ứa nước mắt, lấy tay quàng cổ nó và hôn nó.",
+      "tts_text": "Perin ứa nước mắt, lấy tay quàng cổ nó và hôn nó.",
+      "sentences": [
+        {
+          "sent_id": "id_17",
+          "smil_sid": "sid_17",
+          "p_id": "c7_p5",
+          "seq_id": "seq_5",
+          "source_text": "Perin ứa nước mắt, lấy tay quàng cổ nó và hôn nó.",
+          "tts_text": "Perin ứa nước mắt, lấy tay quàng cổ nó và hôn nó."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p6_chunk_01",
+      "p_id": "c7_p6",
+      "start": 81.66,
+      "speech_end": 84.54,
+      "end": 84.71,
+      "pause_after_ms": 170,
+      "source_text": "- Ôi! Palica! Palica ngoan của chị!",
+      "tts_text": "- Ôi! Palica! Palica ngoan của chị!",
+      "sentences": [
+        {
+          "sent_id": "id_18",
+          "smil_sid": "sid_18",
+          "p_id": "c7_p6",
+          "seq_id": "seq_6",
+          "source_text": "- Ôi!",
+          "tts_text": "- Ôi!"
+        },
+        {
+          "sent_id": "id_19",
+          "smil_sid": "sid_19",
+          "p_id": "c7_p6",
+          "seq_id": "seq_6",
+          "source_text": "Palica!",
+          "tts_text": "Palica!"
+        },
+        {
+          "sent_id": "id_20",
+          "smil_sid": "sid_20",
+          "p_id": "c7_p6",
+          "seq_id": "seq_6",
+          "source_text": "Palica ngoan của chị!",
+          "tts_text": "Palica ngoan của chị!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p7_chunk_01",
+      "p_id": "c7_p7",
+      "start": 84.71,
+      "speech_end": 117.06,
+      "end": 117.23,
+      "pause_after_ms": 170,
+      "source_text": "Nghe gọi tên mình, nó dừng lại, không liếm cô bé và ngẩng đầu lên. Nó kêu năm hay sáu tiếng vui mừng, sung sướng. Những tiếng kêu ấy đâu có nói hết sự hài lòng của nó! Nó lại kêu năm, sáu tiếng khác cũng không kém phần dữ dội. Khi ấy, Perin đã nhìn thấy con lừa không có yên cương, chẳng có dây buộc cổ, chân bị trói. Perin chồm lên để lấy tay vuốt ve và níu cổ nó, đặt đầu nó bên cạnh đầu mình. Nó thì cụp đôi tai dài trên người cô chủ. Perin nghe một giọng khàn khàn đang hét.",
+      "tts_text": "Nghe gọi tên mình, nó dừng lại, không liếm cô bé và ngẩng đầu lên. Nó kêu năm hay sáu tiếng vui mừng, sung sướng. Những tiếng kêu ấy đâu có nói hết sự hài lòng của nó! Nó lại kêu năm, sáu tiếng khác cũng không kém phần dữ dội. Khi ấy, Perin đã nhìn thấy con lừa không có yên cương, chẳng có dây buộc cổ, chân bị trói. Perin chồm lên để lấy tay vuốt ve và níu cổ nó, đặt đầu nó bên cạnh đầu mình. Nó thì cụp đôi tai dài trên người cô chủ. Perin nghe một giọng khàn khàn đang hét.",
+      "sentences": [
+        {
+          "sent_id": "id_21",
+          "smil_sid": "sid_21",
+          "p_id": "c7_p7",
+          "seq_id": "seq_7",
+          "source_text": "Nghe gọi tên mình, nó dừng lại, không liếm cô bé và ngẩng đầu lên.",
+          "tts_text": "Nghe gọi tên mình, nó dừng lại, không liếm cô bé và ngẩng đầu lên."
+        },
+        {
+          "sent_id": "id_22",
+          "smil_sid": "sid_22",
+          "p_id": "c7_p7",
+          "seq_id": "seq_7",
+          "source_text": "Nó kêu năm hay sáu tiếng vui mừng, sung sướng.",
+          "tts_text": "Nó kêu năm hay sáu tiếng vui mừng, sung sướng."
+        },
+        {
+          "sent_id": "id_23",
+          "smil_sid": "sid_23",
+          "p_id": "c7_p7",
+          "seq_id": "seq_7",
+          "source_text": "Những tiếng kêu ấy đâu có nói hết sự hài lòng của nó!",
+          "tts_text": "Những tiếng kêu ấy đâu có nói hết sự hài lòng của nó!"
+        },
+        {
+          "sent_id": "id_24",
+          "smil_sid": "sid_24",
+          "p_id": "c7_p7",
+          "seq_id": "seq_7",
+          "source_text": "Nó lại kêu năm, sáu tiếng khác cũng không kém phần dữ dội.",
+          "tts_text": "Nó lại kêu năm, sáu tiếng khác cũng không kém phần dữ dội."
+        },
+        {
+          "sent_id": "id_25",
+          "smil_sid": "sid_25",
+          "p_id": "c7_p7",
+          "seq_id": "seq_7",
+          "source_text": "Khi ấy, Perin đã nhìn thấy con lừa không có yên cương, chẳng có dây buộc cổ, chân bị trói.",
+          "tts_text": "Khi ấy, Perin đã nhìn thấy con lừa không có yên cương, chẳng có dây buộc cổ, chân bị trói."
+        },
+        {
+          "sent_id": "id_26",
+          "smil_sid": "sid_26",
+          "p_id": "c7_p7",
+          "seq_id": "seq_7",
+          "source_text": "Perin chồm lên để lấy tay vuốt ve và níu cổ nó, đặt đầu nó bên cạnh đầu mình.",
+          "tts_text": "Perin chồm lên để lấy tay vuốt ve và níu cổ nó, đặt đầu nó bên cạnh đầu mình."
+        },
+        {
+          "sent_id": "id_27",
+          "smil_sid": "sid_27",
+          "p_id": "c7_p7",
+          "seq_id": "seq_7",
+          "source_text": "Nó thì cụp đôi tai dài trên người cô chủ.",
+          "tts_text": "Nó thì cụp đôi tai dài trên người cô chủ."
+        },
+        {
+          "sent_id": "id_28",
+          "smil_sid": "sid_28",
+          "p_id": "c7_p7",
+          "seq_id": "seq_7",
+          "source_text": "Perin nghe một giọng khàn khàn đang hét.",
+          "tts_text": "Perin nghe một giọng khàn khàn đang hét."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p8_chunk_01",
+      "p_id": "c7_p8",
+      "start": 117.23,
+      "speech_end": 122.03,
+      "end": 122.2,
+      "pause_after_ms": 170,
+      "source_text": "- Mày làm gì thế, ranh con! Đợi một lát, bà đến ngay đây! Con ạ!",
+      "tts_text": "- Mày làm gì thế, ranh con! Đợi một lát, bà đến ngay đây! Con ạ!",
+      "sentences": [
+        {
+          "sent_id": "id_29",
+          "smil_sid": "sid_29",
+          "p_id": "c7_p8",
+          "seq_id": "seq_8",
+          "source_text": "- Mày làm gì thế, ranh con!",
+          "tts_text": "- Mày làm gì thế, ranh con!"
+        },
+        {
+          "sent_id": "id_30",
+          "smil_sid": "sid_30",
+          "p_id": "c7_p8",
+          "seq_id": "seq_8",
+          "source_text": "Đợi một lát, bà đến ngay đây!",
+          "tts_text": "Đợi một lát, bà đến ngay đây!"
+        },
+        {
+          "sent_id": "id_31",
+          "smil_sid": "sid_31",
+          "p_id": "c7_p8",
+          "seq_id": "seq_8",
+          "source_text": "Con ạ!",
+          "tts_text": "Con ạ!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p9_chunk_01",
+      "p_id": "c7_p9",
+      "start": 122.2,
+      "speech_end": 132.92,
+      "end": 133.09,
+      "pause_after_ms": 170,
+      "source_text": "Thật thế, có những bước chân vội vã khua vang trên con đường đầy sỏi. Perin thấy xuất hiện một người đàn ông, mặc bờ lu, đội mũ dạ, miệng ngậm tẩu đang đi đến.",
+      "tts_text": "Thật thế, có những bước chân vội vã khua vang trên con đường đầy sỏi. Perin thấy xuất hiện một người đàn ông, mặc bờ lu, đội mũ dạ, miệng ngậm tẩu đang đi đến.",
+      "sentences": [
+        {
+          "sent_id": "id_32",
+          "smil_sid": "sid_32",
+          "p_id": "c7_p9",
+          "seq_id": "seq_9",
+          "source_text": "Thật thế, có những bước chân vội vã khua vang trên con đường đầy sỏi.",
+          "tts_text": "Thật thế, có những bước chân vội vã khua vang trên con đường đầy sỏi."
+        },
+        {
+          "sent_id": "id_33",
+          "smil_sid": "sid_33",
+          "p_id": "c7_p9",
+          "seq_id": "seq_9",
+          "source_text": "Perin thấy xuất hiện một người đàn ông, mặc bờ lu, đội mũ dạ, miệng ngậm tẩu đang đi đến.",
+          "tts_text": "Perin thấy xuất hiện một người đàn ông, mặc bờ lu, đội mũ dạ, miệng ngậm tẩu đang đi đến."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p10_chunk_01",
+      "p_id": "c7_p10",
+      "start": 133.09,
+      "speech_end": 139.01,
+      "end": 139.18,
+      "pause_after_ms": 170,
+      "source_text": "- Này, còn bé kia, mày làm gì con lừa của ta đấy? Lão hét lên, miệng vẫn ngậm tẩu.",
+      "tts_text": "- Này, còn bé kia, mày làm gì con lừa của ta đấy? Lão hét lên, miệng vẫn ngậm tẩu.",
+      "sentences": [
+        {
+          "sent_id": "id_34",
+          "smil_sid": "sid_34",
+          "p_id": "c7_p10",
+          "seq_id": "seq_10",
+          "source_text": "- Này, còn bé kia, mày làm gì con lừa của ta đấy?",
+          "tts_text": "- Này, còn bé kia, mày làm gì con lừa của ta đấy?"
+        },
+        {
+          "sent_id": "id_35",
+          "smil_sid": "sid_35",
+          "p_id": "c7_p10",
+          "seq_id": "seq_10",
+          "source_text": "Lão hét lên, miệng vẫn ngậm tẩu.",
+          "tts_text": "Lão hét lên, miệng vẫn ngậm tẩu."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p11_chunk_01",
+      "p_id": "c7_p11",
+      "start": 139.18,
+      "speech_end": 150.38,
+      "end": 150.55,
+      "pause_after_ms": 170,
+      "source_text": "Perin nhận ra ngay La Cucơri, bà bán giẻ rách, ăn mặc như đàn ông, đã mua con Palica trong phiên Chợ Ngựa. Bà ta chưa nhận ra Perin, ngạc nhiên nhìn em nói:",
+      "tts_text": "Perin nhận ra ngay La Cucơri, bà bán giẻ rách, ăn mặc như đàn ông, đã mua con Palica trong phiên Chợ Ngựa. Bà ta chưa nhận ra Perin, ngạc nhiên nhìn em nói:",
+      "sentences": [
+        {
+          "sent_id": "id_36",
+          "smil_sid": "sid_36",
+          "p_id": "c7_p11",
+          "seq_id": "seq_11",
+          "source_text": "Perin nhận ra ngay La Cucơri, bà bán giẻ rách, ăn mặc như đàn ông, đã mua con Palica trong phiên Chợ Ngựa.",
+          "tts_text": "Perin nhận ra ngay La Cucơri, bà bán giẻ rách, ăn mặc như đàn ông, đã mua con Palica trong phiên Chợ Ngựa."
+        },
+        {
+          "sent_id": "id_37",
+          "smil_sid": "sid_37",
+          "p_id": "c7_p11",
+          "seq_id": "seq_11",
+          "source_text": "Bà ta chưa nhận ra Perin, ngạc nhiên nhìn em nói:",
+          "tts_text": "Bà ta chưa nhận ra Perin, ngạc nhiên nhìn em nói:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p12_chunk_01",
+      "p_id": "c7_p12",
+      "start": 150.55,
+      "speech_end": 153.51,
+      "end": 153.68,
+      "pause_after_ms": 170,
+      "source_text": "- Hình như bà đã gặp mày ở đâu rồi phải?",
+      "tts_text": "- Hình như bà đã gặp mày ở đâu rồi phải?",
+      "sentences": [
+        {
+          "sent_id": "id_38",
+          "smil_sid": "sid_38",
+          "p_id": "c7_p12",
+          "seq_id": "seq_12",
+          "source_text": "- Hình như bà đã gặp mày ở đâu rồi phải?",
+          "tts_text": "- Hình như bà đã gặp mày ở đâu rồi phải?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p13_chunk_01",
+      "p_id": "c7_p13",
+      "start": 153.68,
+      "speech_end": 155.84,
+      "end": 156.01,
+      "pause_after_ms": 170,
+      "source_text": "- Khi cháu bán con Palica cho bà?",
+      "tts_text": "- Khi cháu bán con Palica cho bà?",
+      "sentences": [
+        {
+          "sent_id": "id_39",
+          "smil_sid": "sid_39",
+          "p_id": "c7_p13",
+          "seq_id": "seq_13",
+          "source_text": "- Khi cháu bán con Palica cho bà?",
+          "tts_text": "- Khi cháu bán con Palica cho bà?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p14_chunk_01",
+      "p_id": "c7_p14",
+      "start": 156.01,
+      "speech_end": 159.05,
+      "end": 159.22,
+      "pause_after_ms": 170,
+      "source_text": "- Sao, chính cháu đấy ư? Cháu làm gì ở đây?",
+      "tts_text": "- Sao, chính cháu đấy ư? Cháu làm gì ở đây?",
+      "sentences": [
+        {
+          "sent_id": "id_40",
+          "smil_sid": "sid_40",
+          "p_id": "c7_p14",
+          "seq_id": "seq_14",
+          "source_text": "- Sao, chính cháu đấy ư?",
+          "tts_text": "- Sao, chính cháu đấy ư?"
+        },
+        {
+          "sent_id": "id_41",
+          "smil_sid": "sid_41",
+          "p_id": "c7_p14",
+          "seq_id": "seq_14",
+          "source_text": "Cháu làm gì ở đây?",
+          "tts_text": "Cháu làm gì ở đây?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p15_chunk_01",
+      "p_id": "c7_p15",
+      "start": 159.22,
+      "speech_end": 166.34,
+      "end": 166.51,
+      "pause_after_ms": 170,
+      "source_text": "Perin ngồi xuống vì quá mệt, không trả lời được. Nước da tái xanh, đôi mắt đẫm lệ, đã nói hộ cho em.",
+      "tts_text": "Perin ngồi xuống vì quá mệt, không trả lời được. Nước da tái xanh, đôi mắt đẫm lệ, đã nói hộ cho em.",
+      "sentences": [
+        {
+          "sent_id": "id_42",
+          "smil_sid": "sid_42",
+          "p_id": "c7_p15",
+          "seq_id": "seq_15",
+          "source_text": "Perin ngồi xuống vì quá mệt, không trả lời được.",
+          "tts_text": "Perin ngồi xuống vì quá mệt, không trả lời được."
+        },
+        {
+          "sent_id": "id_43",
+          "smil_sid": "sid_43",
+          "p_id": "c7_p15",
+          "seq_id": "seq_15",
+          "source_text": "Nước da tái xanh, đôi mắt đẫm lệ, đã nói hộ cho em.",
+          "tts_text": "Nước da tái xanh, đôi mắt đẫm lệ, đã nói hộ cho em."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p16_chunk_01",
+      "p_id": "c7_p16",
+      "start": 166.51,
+      "speech_end": 169.79,
+      "end": 169.96,
+      "pause_after_ms": 170,
+      "source_text": "- Có thể con bé đói lả rồi! Bà ta thì thầm.",
+      "tts_text": "- Có thể con bé đói lả rồi! Bà ta thì thầm.",
+      "sentences": [
+        {
+          "sent_id": "id_44",
+          "smil_sid": "sid_44",
+          "p_id": "c7_p16",
+          "seq_id": "seq_16",
+          "source_text": "- Có thể con bé đói lả rồi!",
+          "tts_text": "- Có thể con bé đói lả rồi!"
+        },
+        {
+          "sent_id": "id_45",
+          "smil_sid": "sid_45",
+          "p_id": "c7_p16",
+          "seq_id": "seq_16",
+          "source_text": "Bà ta thì thầm.",
+          "tts_text": "Bà ta thì thầm."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p17_chunk_01",
+      "p_id": "c7_p17",
+      "start": 169.96,
+      "speech_end": 191.26,
+      "end": 191.43,
+      "pause_after_ms": 170,
+      "source_text": "Không chần chừ, bà nhanh chóng rời bìa rừng đi ra phía đường cái. Ở đó, có một chiếc xe nhỏ đã tháo dây. Trên các tấm màn, có treo những tấm da thỏ. Nhanh tay, bà mở hòm lấy một ổ bánh, một miếng phômát, một cái chai. Bà chạy đến, mang theo tất cả các thứ ấy. Perin vẫn ở trong tình trạng như trước.",
+      "tts_text": "Không chần chừ, bà nhanh chóng rời bìa rừng đi ra phía đường cái. Ở đó, có một chiếc xe nhỏ đã tháo dây. Trên các tấm màn, có treo những tấm da thỏ. Nhanh tay, bà mở hòm lấy một ổ bánh, một miếng phômát, một cái chai. Bà chạy đến, mang theo tất cả các thứ ấy. Perin vẫn ở trong tình trạng như trước.",
+      "sentences": [
+        {
+          "sent_id": "id_46",
+          "smil_sid": "sid_46",
+          "p_id": "c7_p17",
+          "seq_id": "seq_17",
+          "source_text": "Không chần chừ, bà nhanh chóng rời bìa rừng đi ra phía đường cái.",
+          "tts_text": "Không chần chừ, bà nhanh chóng rời bìa rừng đi ra phía đường cái."
+        },
+        {
+          "sent_id": "id_47",
+          "smil_sid": "sid_47",
+          "p_id": "c7_p17",
+          "seq_id": "seq_17",
+          "source_text": "Ở đó, có một chiếc xe nhỏ đã tháo dây.",
+          "tts_text": "Ở đó, có một chiếc xe nhỏ đã tháo dây."
+        },
+        {
+          "sent_id": "id_48",
+          "smil_sid": "sid_48",
+          "p_id": "c7_p17",
+          "seq_id": "seq_17",
+          "source_text": "Trên các tấm màn, có treo những tấm da thỏ.",
+          "tts_text": "Trên các tấm màn, có treo những tấm da thỏ."
+        },
+        {
+          "sent_id": "id_49",
+          "smil_sid": "sid_49",
+          "p_id": "c7_p17",
+          "seq_id": "seq_17",
+          "source_text": "Nhanh tay, bà mở hòm lấy một ổ bánh, một miếng phômát, một cái chai.",
+          "tts_text": "Nhanh tay, bà mở hòm lấy một ổ bánh, một miếng phômát, một cái chai."
+        },
+        {
+          "sent_id": "id_50",
+          "smil_sid": "sid_50",
+          "p_id": "c7_p17",
+          "seq_id": "seq_17",
+          "source_text": "Bà chạy đến, mang theo tất cả các thứ ấy.",
+          "tts_text": "Bà chạy đến, mang theo tất cả các thứ ấy."
+        },
+        {
+          "sent_id": "id_51",
+          "smil_sid": "sid_51",
+          "p_id": "c7_p17",
+          "seq_id": "seq_17",
+          "source_text": "Perin vẫn ở trong tình trạng như trước.",
+          "tts_text": "Perin vẫn ở trong tình trạng như trước."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p18_chunk_01",
+      "p_id": "c7_p18",
+      "start": 191.43,
+      "speech_end": 196.07,
+      "end": 196.24,
+      "pause_after_ms": 170,
+      "source_text": "- Hãy đợi một lát, con gái của mẹ! Hãy đợi! La Cucơri nói.",
+      "tts_text": "- Hãy đợi một lát, con gái của mẹ! Hãy đợi! La Cucơri nói.",
+      "sentences": [
+        {
+          "sent_id": "id_52",
+          "smil_sid": "sid_52",
+          "p_id": "c7_p18",
+          "seq_id": "seq_18",
+          "source_text": "- Hãy đợi một lát, con gái của mẹ!",
+          "tts_text": "- Hãy đợi một lát, con gái của mẹ!"
+        },
+        {
+          "sent_id": "id_53",
+          "smil_sid": "sid_53",
+          "p_id": "c7_p18",
+          "seq_id": "seq_18",
+          "source_text": "Hãy đợi!",
+          "tts_text": "Hãy đợi!"
+        },
+        {
+          "sent_id": "id_54",
+          "smil_sid": "sid_54",
+          "p_id": "c7_p18",
+          "seq_id": "seq_18",
+          "source_text": "La Cucơri nói.",
+          "tts_text": "La Cucơri nói."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p19_chunk_01",
+      "p_id": "c7_p19",
+      "start": 196.24,
+      "speech_end": 199.84,
+      "end": 200.01,
+      "pause_after_ms": 170,
+      "source_text": "Bà quỳ bên Perin, để đổ chai rượu vào giữa môi em.",
+      "tts_text": "Bà quỳ bên Perin, để đổ chai rượu vào giữa môi em.",
+      "sentences": [
+        {
+          "sent_id": "id_55",
+          "smil_sid": "sid_55",
+          "p_id": "c7_p19",
+          "seq_id": "seq_19",
+          "source_text": "Bà quỳ bên Perin, để đổ chai rượu vào giữa môi em.",
+          "tts_text": "Bà quỳ bên Perin, để đổ chai rượu vào giữa môi em."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p20_chunk_01",
+      "p_id": "c7_p20",
+      "start": 200.01,
+      "speech_end": 203.05,
+      "end": 203.22,
+      "pause_after_ms": 170,
+      "source_text": "- Hãy uống một ngụm cái này sẽ nâng đỡ cháu!",
+      "tts_text": "- Hãy uống một ngụm cái này sẽ nâng đỡ cháu!",
+      "sentences": [
+        {
+          "sent_id": "id_56",
+          "smil_sid": "sid_56",
+          "p_id": "c7_p20",
+          "seq_id": "seq_20",
+          "source_text": "- Hãy uống một ngụm cái này sẽ nâng đỡ cháu!",
+          "tts_text": "- Hãy uống một ngụm cái này sẽ nâng đỡ cháu!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p21_chunk_01",
+      "p_id": "c7_p21",
+      "start": 203.22,
+      "speech_end": 208.18,
+      "end": 208.35,
+      "pause_after_ms": 170,
+      "source_text": "Thật ra, rượu đã đưa máu lên khuôn mặt xanh xao của Perin và giúp em cử động.",
+      "tts_text": "Thật ra, rượu đã đưa máu lên khuôn mặt xanh xao của Perin và giúp em cử động.",
+      "sentences": [
+        {
+          "sent_id": "id_57",
+          "smil_sid": "sid_57",
+          "p_id": "c7_p21",
+          "seq_id": "seq_21",
+          "source_text": "Thật ra, rượu đã đưa máu lên khuôn mặt xanh xao của Perin và giúp em cử động.",
+          "tts_text": "Thật ra, rượu đã đưa máu lên khuôn mặt xanh xao của Perin và giúp em cử động."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p22_chunk_01",
+      "p_id": "c7_p22",
+      "start": 208.35,
+      "speech_end": 209.31,
+      "end": 209.48,
+      "pause_after_ms": 170,
+      "source_text": "- Cháu đói à?",
+      "tts_text": "- Cháu đói à?",
+      "sentences": [
+        {
+          "sent_id": "id_58",
+          "smil_sid": "sid_58",
+          "p_id": "c7_p22",
+          "seq_id": "seq_22",
+          "source_text": "- Cháu đói à?",
+          "tts_text": "- Cháu đói à?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p23_chunk_01",
+      "p_id": "c7_p23",
+      "start": 209.48,
+      "speech_end": 210.04,
+      "end": 210.21,
+      "pause_after_ms": 170,
+      "source_text": "- Vâng!",
+      "tts_text": "- Vâng!",
+      "sentences": [
+        {
+          "sent_id": "id_59",
+          "smil_sid": "sid_59",
+          "p_id": "c7_p23",
+          "seq_id": "seq_23",
+          "source_text": "- Vâng!",
+          "tts_text": "- Vâng!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p24_chunk_01",
+      "p_id": "c7_p24",
+      "start": 210.21,
+      "speech_end": 214.69,
+      "end": 214.86,
+      "pause_after_ms": 170,
+      "source_text": "- Thế thì bây giờ cháu phải ăn, nhưng đừng có vội vàng! Chờ một lát nhé!",
+      "tts_text": "- Thế thì bây giờ cháu phải ăn, nhưng đừng có vội vàng! Chờ một lát nhé!",
+      "sentences": [
+        {
+          "sent_id": "id_60",
+          "smil_sid": "sid_60",
+          "p_id": "c7_p24",
+          "seq_id": "seq_24",
+          "source_text": "- Thế thì bây giờ cháu phải ăn, nhưng đừng có vội vàng!",
+          "tts_text": "- Thế thì bây giờ cháu phải ăn, nhưng đừng có vội vàng!"
+        },
+        {
+          "sent_id": "id_61",
+          "smil_sid": "sid_61",
+          "p_id": "c7_p24",
+          "seq_id": "seq_24",
+          "source_text": "Chờ một lát nhé!",
+          "tts_text": "Chờ một lát nhé!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p25_chunk_01",
+      "p_id": "c7_p25",
+      "start": 214.86,
+      "speech_end": 218.7,
+      "end": 218.87,
+      "pause_after_ms": 170,
+      "source_text": "Bà cắt một miếng bánh và một miếng phômát đưa cho Perin.",
+      "tts_text": "Bà cắt một miếng bánh và một miếng phômát đưa cho Perin.",
+      "sentences": [
+        {
+          "sent_id": "id_62",
+          "smil_sid": "sid_62",
+          "p_id": "c7_p25",
+          "seq_id": "seq_25",
+          "source_text": "Bà cắt một miếng bánh và một miếng phômát đưa cho Perin.",
+          "tts_text": "Bà cắt một miếng bánh và một miếng phômát đưa cho Perin."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p26_chunk_01",
+      "p_id": "c7_p26",
+      "start": 218.87,
+      "speech_end": 224.07,
+      "end": 224.24,
+      "pause_after_ms": 170,
+      "source_text": "- Cứ ăn từ từ, cháu ạ! Hay là bác cùng ăn với cháu để cháu giữ được sự điều độ.",
+      "tts_text": "- Cứ ăn từ từ, cháu ạ! Hay là bác cùng ăn với cháu để cháu giữ được sự điều độ.",
+      "sentences": [
+        {
+          "sent_id": "id_63",
+          "smil_sid": "sid_63",
+          "p_id": "c7_p26",
+          "seq_id": "seq_26",
+          "source_text": "- Cứ ăn từ từ, cháu ạ!",
+          "tts_text": "- Cứ ăn từ từ, cháu ạ!"
+        },
+        {
+          "sent_id": "id_64",
+          "smil_sid": "sid_64",
+          "p_id": "c7_p26",
+          "seq_id": "seq_26",
+          "source_text": "Hay là bác cùng ăn với cháu để cháu giữ được sự điều độ.",
+          "tts_text": "Hay là bác cùng ăn với cháu để cháu giữ được sự điều độ."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p27_chunk_01",
+      "p_id": "c7_p27",
+      "start": 224.24,
+      "speech_end": 244.19,
+      "end": 244.36,
+      "pause_after_ms": 170,
+      "source_text": "Sự đề phòng ấy thật là khôn ngoan bởi vì Perin đã ngoạm ngay vào miếng bánh. Hình như em chẳng làm theo lời dặn của La Rucơri. Nãy giờ, Palica đứng yên nhìn mọi việc đang xảy ra với đôi mắt to, dịu dàng của nó. Khi thấy La Cucơri ngồi trên cỏ, bên cạnh Perin, nó quỳ xuống sát cô chủ cũ.",
+      "tts_text": "Sự đề phòng ấy thật là khôn ngoan bởi vì Perin đã ngoạm ngay vào miếng bánh. Hình như em chẳng làm theo lời dặn của La Rucơri. Nãy giờ, Palica đứng yên nhìn mọi việc đang xảy ra với đôi mắt to, dịu dàng của nó. Khi thấy La Cucơri ngồi trên cỏ, bên cạnh Perin, nó quỳ xuống sát cô chủ cũ.",
+      "sentences": [
+        {
+          "sent_id": "id_65",
+          "smil_sid": "sid_65",
+          "p_id": "c7_p27",
+          "seq_id": "seq_27",
+          "source_text": "Sự đề phòng ấy thật là khôn ngoan bởi vì Perin đã ngoạm ngay vào miếng bánh.",
+          "tts_text": "Sự đề phòng ấy thật là khôn ngoan bởi vì Perin đã ngoạm ngay vào miếng bánh."
+        },
+        {
+          "sent_id": "id_66",
+          "smil_sid": "sid_66",
+          "p_id": "c7_p27",
+          "seq_id": "seq_27",
+          "source_text": "Hình như em chẳng làm theo lời dặn của La Rucơri.",
+          "tts_text": "Hình như em chẳng làm theo lời dặn của La Rucơri."
+        },
+        {
+          "sent_id": "id_67",
+          "smil_sid": "sid_67",
+          "p_id": "c7_p27",
+          "seq_id": "seq_27",
+          "source_text": "Nãy giờ, Palica đứng yên nhìn mọi việc đang xảy ra với đôi mắt to, dịu dàng của nó.",
+          "tts_text": "Nãy giờ, Palica đứng yên nhìn mọi việc đang xảy ra với đôi mắt to, dịu dàng của nó."
+        },
+        {
+          "sent_id": "id_68",
+          "smil_sid": "sid_68",
+          "p_id": "c7_p27",
+          "seq_id": "seq_27",
+          "source_text": "Khi thấy La Cucơri ngồi trên cỏ, bên cạnh Perin, nó quỳ xuống sát cô chủ cũ.",
+          "tts_text": "Khi thấy La Cucơri ngồi trên cỏ, bên cạnh Perin, nó quỳ xuống sát cô chủ cũ."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p28_chunk_01",
+      "p_id": "c7_p28",
+      "start": 244.36,
+      "speech_end": 249.64,
+      "end": 249.81,
+      "pause_after_ms": 170,
+      "source_text": "- Ấy, chú ranh con này! La Cucơri nói. Nó muốn được chia một miếng bánh đấy!",
+      "tts_text": "- Ấy, chú ranh con này! La Cucơri nói. Nó muốn được chia một miếng bánh đấy!",
+      "sentences": [
+        {
+          "sent_id": "id_69",
+          "smil_sid": "sid_69",
+          "p_id": "c7_p28",
+          "seq_id": "seq_28",
+          "source_text": "- Ấy, chú ranh con này!",
+          "tts_text": "- Ấy, chú ranh con này!"
+        },
+        {
+          "sent_id": "id_70",
+          "smil_sid": "sid_70",
+          "p_id": "c7_p28",
+          "seq_id": "seq_28",
+          "source_text": "La Cucơri nói.",
+          "tts_text": "La Cucơri nói."
+        },
+        {
+          "sent_id": "id_71",
+          "smil_sid": "sid_71",
+          "p_id": "c7_p28",
+          "seq_id": "seq_28",
+          "source_text": "Nó muốn được chia một miếng bánh đấy!",
+          "tts_text": "Nó muốn được chia một miếng bánh đấy!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p29_chunk_01",
+      "p_id": "c7_p29",
+      "start": 249.81,
+      "speech_end": 252.13,
+      "end": 252.3,
+      "pause_after_ms": 170,
+      "source_text": "- Bác cho phép cháu cho nó một miếng chứ?",
+      "tts_text": "- Bác cho phép cháu cho nó một miếng chứ?",
+      "sentences": [
+        {
+          "sent_id": "id_72",
+          "smil_sid": "sid_72",
+          "p_id": "c7_p29",
+          "seq_id": "seq_29",
+          "source_text": "- Bác cho phép cháu cho nó một miếng chứ?",
+          "tts_text": "- Bác cho phép cháu cho nó một miếng chứ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p30_chunk_01",
+      "p_id": "c7_p30",
+      "start": 252.3,
+      "speech_end": 254.46,
+      "end": 254.63,
+      "pause_after_ms": 170,
+      "source_text": "- Một miếng hay hai miếng tùy cháu?",
+      "tts_text": "- Một miếng hay hai miếng tùy cháu?",
+      "sentences": [
+        {
+          "sent_id": "id_73",
+          "smil_sid": "sid_73",
+          "p_id": "c7_p30",
+          "seq_id": "seq_30",
+          "source_text": "- Một miếng hay hai miếng tùy cháu?",
+          "tts_text": "- Một miếng hay hai miếng tùy cháu?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p31_chunk_01",
+      "p_id": "c7_p31",
+      "start": 254.63,
+      "speech_end": 265.83,
+      "end": 266.0,
+      "pause_after_ms": 170,
+      "source_text": "- Khi hết rồi trong xe vẫn đang còn nữa! Cháu đừng ngại. Gặp được cháu nó thích thú biết bao, cái chàng trai tốt bụng ấy… vì cháu biết đấy. Nó thật là một chàng trai ngoan nết!",
+      "tts_text": "- Khi hết rồi trong xe vẫn đang còn nữa! Cháu đừng ngại. Gặp được cháu nó thích thú biết bao, cái chàng trai tốt bụng ấy… vì cháu biết đấy. Nó thật là một chàng trai ngoan nết!",
+      "sentences": [
+        {
+          "sent_id": "id_74",
+          "smil_sid": "sid_74",
+          "p_id": "c7_p31",
+          "seq_id": "seq_31",
+          "source_text": "- Khi hết rồi trong xe vẫn đang còn nữa!",
+          "tts_text": "- Khi hết rồi trong xe vẫn đang còn nữa!"
+        },
+        {
+          "sent_id": "id_75",
+          "smil_sid": "sid_75",
+          "p_id": "c7_p31",
+          "seq_id": "seq_31",
+          "source_text": "Cháu đừng ngại.",
+          "tts_text": "Cháu đừng ngại."
+        },
+        {
+          "sent_id": "id_76",
+          "smil_sid": "sid_76",
+          "p_id": "c7_p31",
+          "seq_id": "seq_31",
+          "source_text": "Gặp được cháu nó thích thú biết bao, cái chàng trai tốt bụng ấy… vì cháu biết đấy.",
+          "tts_text": "Gặp được cháu nó thích thú biết bao, cái chàng trai tốt bụng ấy… vì cháu biết đấy."
+        },
+        {
+          "sent_id": "id_77",
+          "smil_sid": "sid_77",
+          "p_id": "c7_p31",
+          "seq_id": "seq_31",
+          "source_text": "Nó thật là một chàng trai ngoan nết!",
+          "tts_text": "Nó thật là một chàng trai ngoan nết!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p32_chunk_01",
+      "p_id": "c7_p32",
+      "start": 266.0,
+      "speech_end": 267.12,
+      "end": 267.29,
+      "pause_after_ms": 170,
+      "source_text": "- Đúng thế chứ ạ!",
+      "tts_text": "- Đúng thế chứ ạ!",
+      "sentences": [
+        {
+          "sent_id": "id_78",
+          "smil_sid": "sid_78",
+          "p_id": "c7_p32",
+          "seq_id": "seq_32",
+          "source_text": "- Đúng thế chứ ạ!",
+          "tts_text": "- Đúng thế chứ ạ!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p33_chunk_01",
+      "p_id": "c7_p33",
+      "start": 267.29,
+      "speech_end": 277.77,
+      "end": 277.94,
+      "pause_after_ms": 170,
+      "source_text": "- Ừ! Ăn xong miếng bánh cháu nói cho bác hay tại sao cháu lại ở trong khu rừng này, đói lả và gần chết như vậy? Quả thật đáng thương nếu cháu chết!",
+      "tts_text": "- Ừ! Ăn xong miếng bánh cháu nói cho bác hay tại sao cháu lại ở trong khu rừng này, đói lả và gần chết như vậy? Quả thật đáng thương nếu cháu chết!",
+      "sentences": [
+        {
+          "sent_id": "id_79",
+          "smil_sid": "sid_79",
+          "p_id": "c7_p33",
+          "seq_id": "seq_33",
+          "source_text": "- Ừ!",
+          "tts_text": "- Ừ!"
+        },
+        {
+          "sent_id": "id_80",
+          "smil_sid": "sid_80",
+          "p_id": "c7_p33",
+          "seq_id": "seq_33",
+          "source_text": "Ăn xong miếng bánh cháu nói cho bác hay tại sao cháu lại ở trong khu rừng này, đói lả và gần chết như vậy?",
+          "tts_text": "Ăn xong miếng bánh cháu nói cho bác hay tại sao cháu lại ở trong khu rừng này, đói lả và gần chết như vậy?"
+        },
+        {
+          "sent_id": "id_81",
+          "smil_sid": "sid_81",
+          "p_id": "c7_p33",
+          "seq_id": "seq_33",
+          "source_text": "Quả thật đáng thương nếu cháu chết!",
+          "tts_text": "Quả thật đáng thương nếu cháu chết!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p34_chunk_01",
+      "p_id": "c7_p34",
+      "start": 277.94,
+      "speech_end": 282.66,
+      "end": 282.83,
+      "pause_after_ms": 170,
+      "source_text": "Mặc cho những căn dặn của La Cucơri, Perin ngốn miếng bánh rất nhanh.",
+      "tts_text": "Mặc cho những căn dặn của La Cucơri, Perin ngốn miếng bánh rất nhanh.",
+      "sentences": [
+        {
+          "sent_id": "id_82",
+          "smil_sid": "sid_82",
+          "p_id": "c7_p34",
+          "seq_id": "seq_34",
+          "source_text": "Mặc cho những căn dặn của La Cucơri, Perin ngốn miếng bánh rất nhanh.",
+          "tts_text": "Mặc cho những căn dặn của La Cucơri, Perin ngốn miếng bánh rất nhanh."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p35_chunk_01",
+      "p_id": "c7_p35",
+      "start": 282.83,
+      "speech_end": 287.31,
+      "end": 287.48,
+      "pause_after_ms": 170,
+      "source_text": "- Cháu muốn một miếng bánh nữa chứ? Bà ta hỏi khi thấy miếng bánh đã biến mất.",
+      "tts_text": "- Cháu muốn một miếng bánh nữa chứ? Bà ta hỏi khi thấy miếng bánh đã biến mất.",
+      "sentences": [
+        {
+          "sent_id": "id_83",
+          "smil_sid": "sid_83",
+          "p_id": "c7_p35",
+          "seq_id": "seq_35",
+          "source_text": "- Cháu muốn một miếng bánh nữa chứ?",
+          "tts_text": "- Cháu muốn một miếng bánh nữa chứ?"
+        },
+        {
+          "sent_id": "id_84",
+          "smil_sid": "sid_84",
+          "p_id": "c7_p35",
+          "seq_id": "seq_35",
+          "source_text": "Bà ta hỏi khi thấy miếng bánh đã biến mất.",
+          "tts_text": "Bà ta hỏi khi thấy miếng bánh đã biến mất."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p36_chunk_01",
+      "p_id": "c7_p36",
+      "start": 287.48,
+      "speech_end": 288.28,
+      "end": 288.45,
+      "pause_after_ms": 170,
+      "source_text": "- Đúng thế!",
+      "tts_text": "- Đúng thế!",
+      "sentences": [
+        {
+          "sent_id": "id_85",
+          "smil_sid": "sid_85",
+          "p_id": "c7_p36",
+          "seq_id": "seq_36",
+          "source_text": "- Đúng thế!",
+          "tts_text": "- Đúng thế!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p37_chunk_01",
+      "p_id": "c7_p37",
+      "start": 288.45,
+      "speech_end": 296.53,
+      "end": 296.7,
+      "pause_after_ms": 170,
+      "source_text": "- Này, cháu hãy kể chuyện của cháu rồi cháu sẽ có bánh! Trong thời gian kể chuyện, những gì cháu đã ăn, sẽ nén chặt lại.",
+      "tts_text": "- Này, cháu hãy kể chuyện của cháu rồi cháu sẽ có bánh! Trong thời gian kể chuyện, những gì cháu đã ăn, sẽ nén chặt lại.",
+      "sentences": [
+        {
+          "sent_id": "id_86",
+          "smil_sid": "sid_86",
+          "p_id": "c7_p37",
+          "seq_id": "seq_37",
+          "source_text": "- Này, cháu hãy kể chuyện của cháu rồi cháu sẽ có bánh!",
+          "tts_text": "- Này, cháu hãy kể chuyện của cháu rồi cháu sẽ có bánh!"
+        },
+        {
+          "sent_id": "id_87",
+          "smil_sid": "sid_87",
+          "p_id": "c7_p37",
+          "seq_id": "seq_37",
+          "source_text": "Trong thời gian kể chuyện, những gì cháu đã ăn, sẽ nén chặt lại.",
+          "tts_text": "Trong thời gian kể chuyện, những gì cháu đã ăn, sẽ nén chặt lại."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p38_chunk_01",
+      "p_id": "c7_p38",
+      "start": 296.7,
+      "speech_end": 312.46,
+      "end": 312.63,
+      "pause_after_ms": 170,
+      "source_text": "Perin kể câu chuyện mà bà La Cucơri yêu cầu, bắt đầu từ cái chết của bà mẹ. Khi kể đến đoạn mua bánh ở Xanh Đơni, La Cucơri kéo cái tẩu đã đốt ra khỏi miệng, ném một tràng nguyền rủa kịch liệt về hướng mụ bán bánh.",
+      "tts_text": "Perin kể câu chuyện mà bà La Cucơri yêu cầu, bắt đầu từ cái chết của bà mẹ. Khi kể đến đoạn mua bánh ở Xanh Đơni, La Cucơri kéo cái tẩu đã đốt ra khỏi miệng, ném một tràng nguyền rủa kịch liệt về hướng mụ bán bánh.",
+      "sentences": [
+        {
+          "sent_id": "id_88",
+          "smil_sid": "sid_88",
+          "p_id": "c7_p38",
+          "seq_id": "seq_38",
+          "source_text": "Perin kể câu chuyện mà bà La Cucơri yêu cầu, bắt đầu từ cái chết của bà mẹ.",
+          "tts_text": "Perin kể câu chuyện mà bà La Cucơri yêu cầu, bắt đầu từ cái chết của bà mẹ."
+        },
+        {
+          "sent_id": "id_89",
+          "smil_sid": "sid_89",
+          "p_id": "c7_p38",
+          "seq_id": "seq_38",
+          "source_text": "Khi kể đến đoạn mua bánh ở Xanh Đơni, La Cucơri kéo cái tẩu đã đốt ra khỏi miệng, ném một tràng nguyền rủa kịch liệt về hướng mụ bán bánh.",
+          "tts_text": "Khi kể đến đoạn mua bánh ở Xanh Đơni, La Cucơri kéo cái tẩu đã đốt ra khỏi miệng, ném một tràng nguyền rủa kịch liệt về hướng mụ bán bánh."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p39_chunk_01",
+      "p_id": "c7_p39",
+      "start": 312.63,
+      "speech_end": 332.97,
+      "end": 333.14,
+      "pause_after_ms": 170,
+      "source_text": "- Cháu biết không, đó là một mụ ăn cắp! Bà ta hét lên. Bác chẳng khi nào đưa tiền giả cho ai, bởi vì chẳng bao giờ bác để cho người ta nhét tiền giả cho bác! Hãy yên lòng, rồi mụ ta sẽ phải trả lại khi bác qua Xanh Đơni, bác có những người bạn. Bọn họ sẽ đem lửa đốt cửa hàng, nếu mụ ta lôi thôi!",
+      "tts_text": "- Cháu biết không, đó là một mụ ăn cắp! Bà ta hét lên. Bác chẳng khi nào đưa tiền giả cho ai, bởi vì chẳng bao giờ bác để cho người ta nhét tiền giả cho bác! Hãy yên lòng, rồi mụ ta sẽ phải trả lại khi bác qua Xanh Đơni, bác có những người bạn. Bọn họ sẽ đem lửa đốt cửa hàng, nếu mụ ta lôi thôi!",
+      "sentences": [
+        {
+          "sent_id": "id_90",
+          "smil_sid": "sid_90",
+          "p_id": "c7_p39",
+          "seq_id": "seq_39",
+          "source_text": "- Cháu biết không, đó là một mụ ăn cắp!",
+          "tts_text": "- Cháu biết không, đó là một mụ ăn cắp!"
+        },
+        {
+          "sent_id": "id_91",
+          "smil_sid": "sid_91",
+          "p_id": "c7_p39",
+          "seq_id": "seq_39",
+          "source_text": "Bà ta hét lên.",
+          "tts_text": "Bà ta hét lên."
+        },
+        {
+          "sent_id": "id_92",
+          "smil_sid": "sid_92",
+          "p_id": "c7_p39",
+          "seq_id": "seq_39",
+          "source_text": "Bác chẳng khi nào đưa tiền giả cho ai, bởi vì chẳng bao giờ bác để cho người ta nhét tiền giả cho bác!",
+          "tts_text": "Bác chẳng khi nào đưa tiền giả cho ai, bởi vì chẳng bao giờ bác để cho người ta nhét tiền giả cho bác!"
+        },
+        {
+          "sent_id": "id_93",
+          "smil_sid": "sid_93",
+          "p_id": "c7_p39",
+          "seq_id": "seq_39",
+          "source_text": "Hãy yên lòng, rồi mụ ta sẽ phải trả lại khi bác qua Xanh Đơni, bác có những người bạn.",
+          "tts_text": "Hãy yên lòng, rồi mụ ta sẽ phải trả lại khi bác qua Xanh Đơni, bác có những người bạn."
+        },
+        {
+          "sent_id": "id_94",
+          "smil_sid": "sid_94",
+          "p_id": "c7_p39",
+          "seq_id": "seq_39",
+          "source_text": "Bọn họ sẽ đem lửa đốt cửa hàng, nếu mụ ta lôi thôi!",
+          "tts_text": "Bọn họ sẽ đem lửa đốt cửa hàng, nếu mụ ta lôi thôi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p40_chunk_01",
+      "p_id": "c7_p40",
+      "start": 333.14,
+      "speech_end": 334.66,
+      "end": 334.83,
+      "pause_after_ms": 170,
+      "source_text": "Perin tiếp tục câu chuyện.",
+      "tts_text": "Perin tiếp tục câu chuyện.",
+      "sentences": [
+        {
+          "sent_id": "id_95",
+          "smil_sid": "sid_95",
+          "p_id": "c7_p40",
+          "seq_id": "seq_40",
+          "source_text": "Perin tiếp tục câu chuyện.",
+          "tts_text": "Perin tiếp tục câu chuyện."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p41_chunk_01",
+      "p_id": "c7_p41",
+      "start": 334.83,
+      "speech_end": 340.91,
+      "end": 341.08,
+      "pause_after_ms": 170,
+      "source_text": "- Như thế, thì cháu đang chết dần đấy! La Rucơri nói. Cháu có cảm giác như thế nào?",
+      "tts_text": "- Như thế, thì cháu đang chết dần đấy! La Rucơri nói. Cháu có cảm giác như thế nào?",
+      "sentences": [
+        {
+          "sent_id": "id_96",
+          "smil_sid": "sid_96",
+          "p_id": "c7_p41",
+          "seq_id": "seq_41",
+          "source_text": "- Như thế, thì cháu đang chết dần đấy!",
+          "tts_text": "- Như thế, thì cháu đang chết dần đấy!"
+        },
+        {
+          "sent_id": "id_97",
+          "smil_sid": "sid_97",
+          "p_id": "c7_p41",
+          "seq_id": "seq_41",
+          "source_text": "La Rucơri nói.",
+          "tts_text": "La Rucơri nói."
+        },
+        {
+          "sent_id": "id_98",
+          "smil_sid": "sid_98",
+          "p_id": "c7_p41",
+          "seq_id": "seq_41",
+          "source_text": "Cháu có cảm giác như thế nào?",
+          "tts_text": "Cháu có cảm giác như thế nào?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p42_chunk_01",
+      "p_id": "c7_p42",
+      "start": 341.08,
+      "speech_end": 359.64,
+      "end": 359.81,
+      "pause_after_ms": 170,
+      "source_text": "- Nó bắt đầu là rất đau đớn. Có lúc cháu phải hét lên như người ta hét trong đêm khi bị ngất. Rồi cháu mơ tưởng đến cõi Thiên đường và những thức ăn ngon mà cháu sẽ được ăn tại đó. Mẹ cháu đang đợi cháu và khuấy sữa sôcôla cho cháu. Cháu ngửi thấy thế.",
+      "tts_text": "- Nó bắt đầu là rất đau đớn. Có lúc cháu phải hét lên như người ta hét trong đêm khi bị ngất. Rồi cháu mơ tưởng đến cõi Thiên đường và những thức ăn ngon mà cháu sẽ được ăn tại đó. Mẹ cháu đang đợi cháu và khuấy sữa sôcôla cho cháu. Cháu ngửi thấy thế.",
+      "sentences": [
+        {
+          "sent_id": "id_99",
+          "smil_sid": "sid_99",
+          "p_id": "c7_p42",
+          "seq_id": "seq_42",
+          "source_text": "- Nó bắt đầu là rất đau đớn.",
+          "tts_text": "- Nó bắt đầu là rất đau đớn."
+        },
+        {
+          "sent_id": "id_100",
+          "smil_sid": "sid_100",
+          "p_id": "c7_p42",
+          "seq_id": "seq_42",
+          "source_text": "Có lúc cháu phải hét lên như người ta hét trong đêm khi bị ngất.",
+          "tts_text": "Có lúc cháu phải hét lên như người ta hét trong đêm khi bị ngất."
+        },
+        {
+          "sent_id": "id_101",
+          "smil_sid": "sid_101",
+          "p_id": "c7_p42",
+          "seq_id": "seq_42",
+          "source_text": "Rồi cháu mơ tưởng đến cõi Thiên đường và những thức ăn ngon mà cháu sẽ được ăn tại đó.",
+          "tts_text": "Rồi cháu mơ tưởng đến cõi Thiên đường và những thức ăn ngon mà cháu sẽ được ăn tại đó."
+        },
+        {
+          "sent_id": "id_102",
+          "smil_sid": "sid_102",
+          "p_id": "c7_p42",
+          "seq_id": "seq_42",
+          "source_text": "Mẹ cháu đang đợi cháu và khuấy sữa sôcôla cho cháu.",
+          "tts_text": "Mẹ cháu đang đợi cháu và khuấy sữa sôcôla cho cháu."
+        },
+        {
+          "sent_id": "id_103",
+          "smil_sid": "sid_103",
+          "p_id": "c7_p42",
+          "seq_id": "seq_42",
+          "source_text": "Cháu ngửi thấy thế.",
+          "tts_text": "Cháu ngửi thấy thế."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p43_chunk_01",
+      "p_id": "c7_p43",
+      "start": 359.81,
+      "speech_end": 373.97,
+      "end": 374.14,
+      "pause_after_ms": 170,
+      "source_text": "- Lạ thật, cái cơn nóng đáng lẽ giết cháu, lại cứu cháu sống lại. Nếu không có cơn nóng ấy, bác chẳng dừng lại trong khu rừng này, để cho Palica nghỉ ngơi và nó cũng chẳng nhìn thấy cháu. Bây giờ, cháu định làm gì?",
+      "tts_text": "- Lạ thật, cái cơn nóng đáng lẽ giết cháu, lại cứu cháu sống lại. Nếu không có cơn nóng ấy, bác chẳng dừng lại trong khu rừng này, để cho Palica nghỉ ngơi và nó cũng chẳng nhìn thấy cháu. Bây giờ, cháu định làm gì?",
+      "sentences": [
+        {
+          "sent_id": "id_104",
+          "smil_sid": "sid_104",
+          "p_id": "c7_p43",
+          "seq_id": "seq_43",
+          "source_text": "- Lạ thật, cái cơn nóng đáng lẽ giết cháu, lại cứu cháu sống lại.",
+          "tts_text": "- Lạ thật, cái cơn nóng đáng lẽ giết cháu, lại cứu cháu sống lại."
+        },
+        {
+          "sent_id": "id_105",
+          "smil_sid": "sid_105",
+          "p_id": "c7_p43",
+          "seq_id": "seq_43",
+          "source_text": "Nếu không có cơn nóng ấy, bác chẳng dừng lại trong khu rừng này, để cho Palica nghỉ ngơi và nó cũng chẳng nhìn thấy cháu.",
+          "tts_text": "Nếu không có cơn nóng ấy, bác chẳng dừng lại trong khu rừng này, để cho Palica nghỉ ngơi và nó cũng chẳng nhìn thấy cháu."
+        },
+        {
+          "sent_id": "id_106",
+          "smil_sid": "sid_106",
+          "p_id": "c7_p43",
+          "seq_id": "seq_43",
+          "source_text": "Bây giờ, cháu định làm gì?",
+          "tts_text": "Bây giờ, cháu định làm gì?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p44_chunk_01",
+      "p_id": "c7_p44",
+      "start": 374.14,
+      "speech_end": 375.9,
+      "end": 376.07,
+      "pause_after_ms": 170,
+      "source_text": "- Đi tiếp hành trình của cháu!",
+      "tts_text": "- Đi tiếp hành trình của cháu!",
+      "sentences": [
+        {
+          "sent_id": "id_107",
+          "smil_sid": "sid_107",
+          "p_id": "c7_p44",
+          "seq_id": "seq_44",
+          "source_text": "- Đi tiếp hành trình của cháu!",
+          "tts_text": "- Đi tiếp hành trình của cháu!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p45_chunk_01",
+      "p_id": "c7_p45",
+      "start": 376.07,
+      "speech_end": 384.39,
+      "end": 384.56,
+      "pause_after_ms": 170,
+      "source_text": "- Rồi ngày mai, cháu sẽ ăn uống như thế nào? Có phải ở tuổi cháu, người ta mới hay đi lông bông mại hiểm như thế này chăng?",
+      "tts_text": "- Rồi ngày mai, cháu sẽ ăn uống như thế nào? Có phải ở tuổi cháu, người ta mới hay đi lông bông mại hiểm như thế này chăng?",
+      "sentences": [
+        {
+          "sent_id": "id_108",
+          "smil_sid": "sid_108",
+          "p_id": "c7_p45",
+          "seq_id": "seq_45",
+          "source_text": "- Rồi ngày mai, cháu sẽ ăn uống như thế nào?",
+          "tts_text": "- Rồi ngày mai, cháu sẽ ăn uống như thế nào?"
+        },
+        {
+          "sent_id": "id_109",
+          "smil_sid": "sid_109",
+          "p_id": "c7_p45",
+          "seq_id": "seq_45",
+          "source_text": "Có phải ở tuổi cháu, người ta mới hay đi lông bông mại hiểm như thế này chăng?",
+          "tts_text": "Có phải ở tuổi cháu, người ta mới hay đi lông bông mại hiểm như thế này chăng?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p46_chunk_01",
+      "p_id": "c7_p46",
+      "start": 384.56,
+      "speech_end": 386.8,
+      "end": 386.97,
+      "pause_after_ms": 170,
+      "source_text": "- Bác nghĩ cháu còn làm được gì kia chứ?",
+      "tts_text": "- Bác nghĩ cháu còn làm được gì kia chứ?",
+      "sentences": [
+        {
+          "sent_id": "id_110",
+          "smil_sid": "sid_110",
+          "p_id": "c7_p46",
+          "seq_id": "seq_46",
+          "source_text": "- Bác nghĩ cháu còn làm được gì kia chứ?",
+          "tts_text": "- Bác nghĩ cháu còn làm được gì kia chứ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p47_chunk_01",
+      "p_id": "c7_p47",
+      "start": 386.97,
+      "speech_end": 392.73,
+      "end": 392.9,
+      "pause_after_ms": 170,
+      "source_text": "La Rucơri rít hai hay ba hơi thuốc, vừa suy nghĩ rồi nghiêm trang trả lời cô bé:",
+      "tts_text": "La Rucơri rít hai hay ba hơi thuốc, vừa suy nghĩ rồi nghiêm trang trả lời cô bé:",
+      "sentences": [
+        {
+          "sent_id": "id_111",
+          "smil_sid": "sid_111",
+          "p_id": "c7_p47",
+          "seq_id": "seq_47",
+          "source_text": "La Rucơri rít hai hay ba hơi thuốc, vừa suy nghĩ rồi nghiêm trang trả lời cô bé:",
+          "tts_text": "La Rucơri rít hai hay ba hơi thuốc, vừa suy nghĩ rồi nghiêm trang trả lời cô bé:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p48_chunk_01",
+      "p_id": "c7_p48",
+      "start": 392.9,
+      "speech_end": 407.22,
+      "end": 407.39,
+      "pause_after_ms": 170,
+      "source_text": "- Này,bác đi Cơrây để mua hàng trong các làng và thị trấn ở trên đường đi. Cháu cũng đi với bác, cháu hét một chút thử xem, nếu cháu có sức, hét rao: “Da thỏ, giẻ rách, đồ sắt cũ, có ai bán không?”.",
+      "tts_text": "- Này,bác đi Cơrây để mua hàng trong các làng và thị trấn ở trên đường đi. Cháu cũng đi với bác, cháu hét một chút thử xem, nếu cháu có sức, hét rao: Da thỏ, giẻ rách, đồ sắt cũ, có ai bán không?.",
+      "sentences": [
+        {
+          "sent_id": "id_112",
+          "smil_sid": "sid_112",
+          "p_id": "c7_p48",
+          "seq_id": "seq_48",
+          "source_text": "- Này,bác đi Cơrây để mua hàng trong các làng và thị trấn ở trên đường đi.",
+          "tts_text": "- Này,bác đi Cơrây để mua hàng trong các làng và thị trấn ở trên đường đi."
+        },
+        {
+          "sent_id": "id_113",
+          "smil_sid": "sid_113",
+          "p_id": "c7_p48",
+          "seq_id": "seq_48",
+          "source_text": "Cháu cũng đi với bác, cháu hét một chút thử xem, nếu cháu có sức, hét rao: “Da thỏ, giẻ rách, đồ sắt cũ, có ai bán không?”.",
+          "tts_text": "Cháu cũng đi với bác, cháu hét một chút thử xem, nếu cháu có sức, hét rao: Da thỏ, giẻ rách, đồ sắt cũ, có ai bán không?."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p49_chunk_01",
+      "p_id": "c7_p49",
+      "start": 407.39,
+      "speech_end": 410.27,
+      "end": 410.44,
+      "pause_after_ms": 170,
+      "source_text": "Perin làm cái việc mà bà ta yêu cầu:",
+      "tts_text": "Perin làm cái việc mà bà ta yêu cầu:",
+      "sentences": [
+        {
+          "sent_id": "id_114",
+          "smil_sid": "sid_114",
+          "p_id": "c7_p49",
+          "seq_id": "seq_49",
+          "source_text": "Perin làm cái việc mà bà ta yêu cầu:",
+          "tts_text": "Perin làm cái việc mà bà ta yêu cầu:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p50_chunk_01",
+      "p_id": "c7_p50",
+      "start": 410.44,
+      "speech_end": 431.11,
+      "end": 431.28,
+      "pause_after_ms": 170,
+      "source_text": "-Tốt! Giọng cháu trong thật! Bác đau họng, cháu rao hàng thay bác, như thế sẽ có cơm ăn. Đến Cơrây, bác quen một ông bán trứng thường đi quanh vùng Amiêng để thu nhặt trứng. Bác sẽ nhờ ông ấy đưa cháu đi trong chiếc xe của ông ta. Khi đến Amiêng, cháu lên tàu hỏa để đến xứ sở của những người bà con của cháu.",
+      "tts_text": "-Tốt! Giọng cháu trong thật! Bác đau họng, cháu rao hàng thay bác, như thế sẽ có cơm ăn. Đến Cơrây, bác quen một ông bán trứng thường đi quanh vùng Amiêng để thu nhặt trứng. Bác sẽ nhờ ông ấy đưa cháu đi trong chiếc xe của ông ta. Khi đến Amiêng, cháu lên tàu hỏa để đến xứ sở của những người bà con của cháu.",
+      "sentences": [
+        {
+          "sent_id": "id_115",
+          "smil_sid": "sid_115",
+          "p_id": "c7_p50",
+          "seq_id": "seq_50",
+          "source_text": "-Tốt!",
+          "tts_text": "-Tốt!"
+        },
+        {
+          "sent_id": "id_116",
+          "smil_sid": "sid_116",
+          "p_id": "c7_p50",
+          "seq_id": "seq_50",
+          "source_text": "Giọng cháu trong thật!",
+          "tts_text": "Giọng cháu trong thật!"
+        },
+        {
+          "sent_id": "id_117",
+          "smil_sid": "sid_117",
+          "p_id": "c7_p50",
+          "seq_id": "seq_50",
+          "source_text": "Bác đau họng, cháu rao hàng thay bác, như thế sẽ có cơm ăn.",
+          "tts_text": "Bác đau họng, cháu rao hàng thay bác, như thế sẽ có cơm ăn."
+        },
+        {
+          "sent_id": "id_118",
+          "smil_sid": "sid_118",
+          "p_id": "c7_p50",
+          "seq_id": "seq_50",
+          "source_text": "Đến Cơrây, bác quen một ông bán trứng thường đi quanh vùng Amiêng để thu nhặt trứng.",
+          "tts_text": "Đến Cơrây, bác quen một ông bán trứng thường đi quanh vùng Amiêng để thu nhặt trứng."
+        },
+        {
+          "sent_id": "id_119",
+          "smil_sid": "sid_119",
+          "p_id": "c7_p50",
+          "seq_id": "seq_50",
+          "source_text": "Bác sẽ nhờ ông ấy đưa cháu đi trong chiếc xe của ông ta.",
+          "tts_text": "Bác sẽ nhờ ông ấy đưa cháu đi trong chiếc xe của ông ta."
+        },
+        {
+          "sent_id": "id_120",
+          "smil_sid": "sid_120",
+          "p_id": "c7_p50",
+          "seq_id": "seq_50",
+          "source_text": "Khi đến Amiêng, cháu lên tàu hỏa để đến xứ sở của những người bà con của cháu.",
+          "tts_text": "Khi đến Amiêng, cháu lên tàu hỏa để đến xứ sở của những người bà con của cháu."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p51_chunk_01",
+      "p_id": "c7_p51",
+      "start": 431.28,
+      "speech_end": 433.36,
+      "end": 433.53,
+      "pause_after_ms": 170,
+      "source_text": "- Cháu biết lấy gì mà trả tiền vé?",
+      "tts_text": "- Cháu biết lấy gì mà trả tiền vé?",
+      "sentences": [
+        {
+          "sent_id": "id_121",
+          "smil_sid": "sid_121",
+          "p_id": "c7_p51",
+          "seq_id": "seq_51",
+          "source_text": "- Cháu biết lấy gì mà trả tiền vé?",
+          "tts_text": "- Cháu biết lấy gì mà trả tiền vé?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p52_chunk_01",
+      "p_id": "c7_p52",
+      "start": 433.53,
+      "speech_end": 444.09,
+      "end": 444.26,
+      "pause_after_ms": 170,
+      "source_text": "- Với một trăm xu mà bác sẽ ứng trước, thay đồng năm phờrăng mà mụ bán bánh đã ăn cắp của cháu! Rồi bác sẽ bắt mụ trả lại cho bác, cháu hãy tin như thế!",
+      "tts_text": "- Với một trăm xu mà bác sẽ ứng trước, thay đồng năm phờrăng mà mụ bán bánh đã ăn cắp của cháu! Rồi bác sẽ bắt mụ trả lại cho bác, cháu hãy tin như thế!",
+      "sentences": [
+        {
+          "sent_id": "id_122",
+          "smil_sid": "sid_122",
+          "p_id": "c7_p52",
+          "seq_id": "seq_52",
+          "source_text": "- Với một trăm xu mà bác sẽ ứng trước, thay đồng năm phờrăng mà mụ bán bánh đã ăn cắp của cháu!",
+          "tts_text": "- Với một trăm xu mà bác sẽ ứng trước, thay đồng năm phờrăng mà mụ bán bánh đã ăn cắp của cháu!"
+        },
+        {
+          "sent_id": "id_123",
+          "smil_sid": "sid_123",
+          "p_id": "c7_p52",
+          "seq_id": "seq_52",
+          "source_text": "Rồi bác sẽ bắt mụ trả lại cho bác, cháu hãy tin như thế!",
+          "tts_text": "Rồi bác sẽ bắt mụ trả lại cho bác, cháu hãy tin như thế!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p53_chunk_01",
+      "p_id": "c7_p53",
+      "start": 444.26,
+      "speech_end": 455.7,
+      "end": 455.87,
+      "pause_after_ms": 170,
+      "source_text": "Mọi việc được sắp đặt như La Cucơri đã dự định. Trong tám ngày liền, Perin đi khắp các làng ở hai bên khu rừng Xăngtidy. Khi đến Cơrây, La Cucơri muốn giữ em lại:",
+      "tts_text": "Mọi việc được sắp đặt như La Cucơri đã dự định. Trong tám ngày liền, Perin đi khắp các làng ở hai bên khu rừng Xăngtidy. Khi đến Cơrây, La Cucơri muốn giữ em lại:",
+      "sentences": [
+        {
+          "sent_id": "id_124",
+          "smil_sid": "sid_124",
+          "p_id": "c7_p53",
+          "seq_id": "seq_53",
+          "source_text": "Mọi việc được sắp đặt như La Cucơri đã dự định.",
+          "tts_text": "Mọi việc được sắp đặt như La Cucơri đã dự định."
+        },
+        {
+          "sent_id": "id_125",
+          "smil_sid": "sid_125",
+          "p_id": "c7_p53",
+          "seq_id": "seq_53",
+          "source_text": "Trong tám ngày liền, Perin đi khắp các làng ở hai bên khu rừng Xăngtidy.",
+          "tts_text": "Trong tám ngày liền, Perin đi khắp các làng ở hai bên khu rừng Xăngtidy."
+        },
+        {
+          "sent_id": "id_126",
+          "smil_sid": "sid_126",
+          "p_id": "c7_p53",
+          "seq_id": "seq_53",
+          "source_text": "Khi đến Cơrây, La Cucơri muốn giữ em lại:",
+          "tts_text": "Khi đến Cơrây, La Cucơri muốn giữ em lại:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p54_chunk_01",
+      "p_id": "c7_p54",
+      "start": 455.87,
+      "speech_end": 464.51,
+      "end": 464.68,
+      "pause_after_ms": 170,
+      "source_text": "- Cháu có cái giọng đặc biệt, hợp với nghề buôn bán của bác. Cháu giúp bác và cháu sẽ không cực khổ đâu; Chúng ta vẫn sống đàng hoàng mà!",
+      "tts_text": "- Cháu có cái giọng đặc biệt, hợp với nghề buôn bán của bác. Cháu giúp bác và cháu sẽ không cực khổ đâu; Chúng ta vẫn sống đàng hoàng mà!",
+      "sentences": [
+        {
+          "sent_id": "id_127",
+          "smil_sid": "sid_127",
+          "p_id": "c7_p54",
+          "seq_id": "seq_54",
+          "source_text": "- Cháu có cái giọng đặc biệt, hợp với nghề buôn bán của bác.",
+          "tts_text": "- Cháu có cái giọng đặc biệt, hợp với nghề buôn bán của bác."
+        },
+        {
+          "sent_id": "id_128",
+          "smil_sid": "sid_128",
+          "p_id": "c7_p54",
+          "seq_id": "seq_54",
+          "source_text": "Cháu giúp bác và cháu sẽ không cực khổ đâu; Chúng ta vẫn sống đàng hoàng mà!",
+          "tts_text": "Cháu giúp bác và cháu sẽ không cực khổ đâu; Chúng ta vẫn sống đàng hoàng mà!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p55_chunk_01",
+      "p_id": "c7_p55",
+      "start": 464.68,
+      "speech_end": 467.8,
+      "end": 467.97,
+      "pause_after_ms": 170,
+      "source_text": "- Xin cám ơn bác, nhưng cháu không thể làm thế được!",
+      "tts_text": "- Xin cám ơn bác, nhưng cháu không thể làm thế được!",
+      "sentences": [
+        {
+          "sent_id": "id_129",
+          "smil_sid": "sid_129",
+          "p_id": "c7_p55",
+          "seq_id": "seq_55",
+          "source_text": "- Xin cám ơn bác, nhưng cháu không thể làm thế được!",
+          "tts_text": "- Xin cám ơn bác, nhưng cháu không thể làm thế được!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p56_chunk_01",
+      "p_id": "c7_p56",
+      "start": 467.97,
+      "speech_end": 472.13,
+      "end": 472.3,
+      "pause_after_ms": 170,
+      "source_text": "Bà thấy lý lẽ ấy chưa đủ, liền đưa ra một cái khác, vững hơn:",
+      "tts_text": "Bà thấy lý lẽ ấy chưa đủ, liền đưa ra một cái khác, vững hơn:",
+      "sentences": [
+        {
+          "sent_id": "id_130",
+          "smil_sid": "sid_130",
+          "p_id": "c7_p56",
+          "seq_id": "seq_56",
+          "source_text": "Bà thấy lý lẽ ấy chưa đủ, liền đưa ra một cái khác, vững hơn:",
+          "tts_text": "Bà thấy lý lẽ ấy chưa đủ, liền đưa ra một cái khác, vững hơn:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p57_chunk_01",
+      "p_id": "c7_p57",
+      "start": 472.3,
+      "speech_end": 474.38,
+      "end": 474.55,
+      "pause_after_ms": 170,
+      "source_text": "- Cháu sẽ không phải xa Palica.",
+      "tts_text": "- Cháu sẽ không phải xa Palica.",
+      "sentences": [
+        {
+          "sent_id": "id_131",
+          "smil_sid": "sid_131",
+          "p_id": "c7_p57",
+          "seq_id": "seq_57",
+          "source_text": "- Cháu sẽ không phải xa Palica.",
+          "tts_text": "- Cháu sẽ không phải xa Palica."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p58_chunk_01",
+      "p_id": "c7_p58",
+      "start": 474.55,
+      "speech_end": 481.11,
+      "end": 481.28,
+      "pause_after_ms": 170,
+      "source_text": "Thật thế, câu nói ấy quả có làm cho Perin bối rối. Em cảm động, những vẫn giữ vững ý kiến:",
+      "tts_text": "Thật thế, câu nói ấy quả có làm cho Perin bối rối. Em cảm động, những vẫn giữ vững ý kiến:",
+      "sentences": [
+        {
+          "sent_id": "id_132",
+          "smil_sid": "sid_132",
+          "p_id": "c7_p58",
+          "seq_id": "seq_58",
+          "source_text": "Thật thế, câu nói ấy quả có làm cho Perin bối rối.",
+          "tts_text": "Thật thế, câu nói ấy quả có làm cho Perin bối rối."
+        },
+        {
+          "sent_id": "id_133",
+          "smil_sid": "sid_133",
+          "p_id": "c7_p58",
+          "seq_id": "seq_58",
+          "source_text": "Em cảm động, những vẫn giữ vững ý kiến:",
+          "tts_text": "Em cảm động, những vẫn giữ vững ý kiến:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p59_chunk_01",
+      "p_id": "c7_p59",
+      "start": 481.28,
+      "speech_end": 483.92,
+      "end": 484.09,
+      "pause_after_ms": 170,
+      "source_text": "- Cháu phải đến chỗ những người ruột thịt của cháu!",
+      "tts_text": "- Cháu phải đến chỗ những người ruột thịt của cháu!",
+      "sentences": [
+        {
+          "sent_id": "id_134",
+          "smil_sid": "sid_134",
+          "p_id": "c7_p59",
+          "seq_id": "seq_59",
+          "source_text": "- Cháu phải đến chỗ những người ruột thịt của cháu!",
+          "tts_text": "- Cháu phải đến chỗ những người ruột thịt của cháu!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p60_chunk_01",
+      "p_id": "c7_p60",
+      "start": 484.09,
+      "speech_end": 487.53,
+      "end": 487.7,
+      "pause_after_ms": 170,
+      "source_text": "- Những người ấy có cứu cháu khỏi chết như Palica không?",
+      "tts_text": "- Những người ấy có cứu cháu khỏi chết như Palica không?",
+      "sentences": [
+        {
+          "sent_id": "id_135",
+          "smil_sid": "sid_135",
+          "p_id": "c7_p60",
+          "seq_id": "seq_60",
+          "source_text": "- Những người ấy có cứu cháu khỏi chết như Palica không?",
+          "tts_text": "- Những người ấy có cứu cháu khỏi chết như Palica không?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p61_chunk_01",
+      "p_id": "c7_p61",
+      "start": 487.7,
+      "speech_end": 492.02,
+      "end": 492.19,
+      "pause_after_ms": 170,
+      "source_text": "- Bác ơi, cháu phải làm theo lời dặn của mẹ cháu! Cháu phải đến đó!",
+      "tts_text": "- Bác ơi, cháu phải làm theo lời dặn của mẹ cháu! Cháu phải đến đó!",
+      "sentences": [
+        {
+          "sent_id": "id_136",
+          "smil_sid": "sid_136",
+          "p_id": "c7_p61",
+          "seq_id": "seq_61",
+          "source_text": "- Bác ơi, cháu phải làm theo lời dặn của mẹ cháu!",
+          "tts_text": "- Bác ơi, cháu phải làm theo lời dặn của mẹ cháu!"
+        },
+        {
+          "sent_id": "id_137",
+          "smil_sid": "sid_137",
+          "p_id": "c7_p61",
+          "seq_id": "seq_61",
+          "source_text": "Cháu phải đến đó!",
+          "tts_text": "Cháu phải đến đó!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p62_chunk_01",
+      "p_id": "c7_p62",
+      "start": 492.19,
+      "speech_end": 499.71,
+      "end": 499.88,
+      "pause_after_ms": 170,
+      "source_text": "- Thế thì cháu đi đi! Nếu một ngày nào đó, cháu hối tiếc không nhận lời giúp bác, khi ấy cháu chỉ nên tự trách mình.",
+      "tts_text": "- Thế thì cháu đi đi! Nếu một ngày nào đó, cháu hối tiếc không nhận lời giúp bác, khi ấy cháu chỉ nên tự trách mình.",
+      "sentences": [
+        {
+          "sent_id": "id_138",
+          "smil_sid": "sid_138",
+          "p_id": "c7_p62",
+          "seq_id": "seq_62",
+          "source_text": "- Thế thì cháu đi đi!",
+          "tts_text": "- Thế thì cháu đi đi!"
+        },
+        {
+          "sent_id": "id_139",
+          "smil_sid": "sid_139",
+          "p_id": "c7_p62",
+          "seq_id": "seq_62",
+          "source_text": "Nếu một ngày nào đó, cháu hối tiếc không nhận lời giúp bác, khi ấy cháu chỉ nên tự trách mình.",
+          "tts_text": "Nếu một ngày nào đó, cháu hối tiếc không nhận lời giúp bác, khi ấy cháu chỉ nên tự trách mình."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p63_chunk_01",
+      "p_id": "c7_p63",
+      "start": 499.88,
+      "speech_end": 503.4,
+      "end": 503.57,
+      "pause_after_ms": 170,
+      "source_text": "-Bác ơi, bác hãy tin rằng cháu không bao giờ quên bác!",
+      "tts_text": "-Bác ơi, bác hãy tin rằng cháu không bao giờ quên bác!",
+      "sentences": [
+        {
+          "sent_id": "id_140",
+          "smil_sid": "sid_140",
+          "p_id": "c7_p63",
+          "seq_id": "seq_63",
+          "source_text": "-Bác ơi, bác hãy tin rằng cháu không bao giờ quên bác!",
+          "tts_text": "-Bác ơi, bác hãy tin rằng cháu không bao giờ quên bác!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p64_chunk_01",
+      "p_id": "c7_p64",
+      "start": 503.57,
+      "speech_end": 562.9,
+      "end": 563.055,
+      "pause_after_ms": 155,
+      "source_text": "La Cucơri không giận Perin. Bà vẫn điều đình với ông bạn bán trứng cho em quá giang trên chiếc xe của ông đến vùng Amiêng. Suốt một ngày, em sung sướng được hai con ngựa đi nước kiệu chở. Perin nằm trên rơm, dưới tấm bạt, trong khi suýt phải cuốc bộ mệt nhọc trên quãng đường dài này. Đem so sánh sự thoải mái hiện nay với những cực nhọc đã trãi qua, con đường dài trước kia hình như lại càng dài hơn nữa! Đến Éxăngđo em nằm ngủ trong một vựa thóc. Sáng hôm sau là một ngày chủ nhật, Perin đến quầy bán vé ở ga Aidy, đưa đồng một trăm xu mua vé. Lần này ngươi ta không từ chối, cũng không tịch thu. Người ta đưa cho em chiếc vé đi Píchkynhi và trả lại hai phờrăng bảy lăm. Perin đến lúc mười một giờ, một buổi sáng đẹp trời và nóng ấm. Nhưng cái nóng dịu dàng ở đây không giống cái nóng của khu rừng Xăngtidy. Em cũng chẳng còn giống cái con bé khốn khổ lúc ấy nữa!",
+      "tts_text": "La Cucơri không giận Perin. Bà vẫn điều đình với ông bạn bán trứng cho em quá giang trên chiếc xe của ông đến vùng Amiêng. Suốt một ngày, em sung sướng được hai con ngựa đi nước kiệu chở. Perin nằm trên rơm, dưới tấm bạt, trong khi suýt phải cuốc bộ mệt nhọc trên quãng đường dài này. Đem so sánh sự thoải mái hiện nay với những cực nhọc đã trãi qua, con đường dài trước kia hình như lại càng dài hơn nữa! Đến Éxăngđo em nằm ngủ trong một vựa thóc. Sáng hôm sau là một ngày chủ nhật, Perin đến quầy bán vé ở ga Aidy, đưa đồng một trăm xu mua vé. Lần này ngươi ta không từ chối, cũng không tịch thu. Người ta đưa cho em chiếc vé đi Píchkynhi và trả lại hai phờrăng bảy lăm. Perin đến lúc mười một giờ, một buổi sáng đẹp trời và nóng ấm. Nhưng cái nóng dịu dàng ở đây không giống cái nóng của khu rừng Xăngtidy. Em cũng chẳng còn giống cái con bé khốn khổ lúc ấy nữa!",
+      "sentences": [
+        {
+          "sent_id": "id_141",
+          "smil_sid": "sid_141",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "La Cucơri không giận Perin.",
+          "tts_text": "La Cucơri không giận Perin."
+        },
+        {
+          "sent_id": "id_142",
+          "smil_sid": "sid_142",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Bà vẫn điều đình với ông bạn bán trứng cho em quá giang trên chiếc xe của ông đến vùng Amiêng.",
+          "tts_text": "Bà vẫn điều đình với ông bạn bán trứng cho em quá giang trên chiếc xe của ông đến vùng Amiêng."
+        },
+        {
+          "sent_id": "id_143",
+          "smil_sid": "sid_143",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Suốt một ngày, em sung sướng được hai con ngựa đi nước kiệu chở.",
+          "tts_text": "Suốt một ngày, em sung sướng được hai con ngựa đi nước kiệu chở."
+        },
+        {
+          "sent_id": "id_144",
+          "smil_sid": "sid_144",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Perin nằm trên rơm, dưới tấm bạt, trong khi suýt phải cuốc bộ mệt nhọc trên quãng đường dài này.",
+          "tts_text": "Perin nằm trên rơm, dưới tấm bạt, trong khi suýt phải cuốc bộ mệt nhọc trên quãng đường dài này."
+        },
+        {
+          "sent_id": "id_145",
+          "smil_sid": "sid_145",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Đem so sánh sự thoải mái hiện nay với những cực nhọc đã trãi qua, con đường dài trước kia hình như lại càng dài hơn nữa!",
+          "tts_text": "Đem so sánh sự thoải mái hiện nay với những cực nhọc đã trãi qua, con đường dài trước kia hình như lại càng dài hơn nữa!"
+        },
+        {
+          "sent_id": "id_146",
+          "smil_sid": "sid_146",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Đến Éxăngđo em nằm ngủ trong một vựa thóc.",
+          "tts_text": "Đến Éxăngđo em nằm ngủ trong một vựa thóc."
+        },
+        {
+          "sent_id": "id_147",
+          "smil_sid": "sid_147",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Sáng hôm sau là một ngày chủ nhật, Perin đến quầy bán vé ở ga Aidy, đưa đồng một trăm xu mua vé.",
+          "tts_text": "Sáng hôm sau là một ngày chủ nhật, Perin đến quầy bán vé ở ga Aidy, đưa đồng một trăm xu mua vé."
+        },
+        {
+          "sent_id": "id_148",
+          "smil_sid": "sid_148",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Lần này ngươi ta không từ chối, cũng không tịch thu.",
+          "tts_text": "Lần này ngươi ta không từ chối, cũng không tịch thu."
+        },
+        {
+          "sent_id": "id_149",
+          "smil_sid": "sid_149",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Người ta đưa cho em chiếc vé đi Píchkynhi và trả lại hai phờrăng bảy lăm.",
+          "tts_text": "Người ta đưa cho em chiếc vé đi Píchkynhi và trả lại hai phờrăng bảy lăm."
+        },
+        {
+          "sent_id": "id_150",
+          "smil_sid": "sid_150",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Perin đến lúc mười một giờ, một buổi sáng đẹp trời và nóng ấm.",
+          "tts_text": "Perin đến lúc mười một giờ, một buổi sáng đẹp trời và nóng ấm."
+        },
+        {
+          "sent_id": "id_151",
+          "smil_sid": "sid_151",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Nhưng cái nóng dịu dàng ở đây không giống cái nóng của khu rừng Xăngtidy.",
+          "tts_text": "Nhưng cái nóng dịu dàng ở đây không giống cái nóng của khu rừng Xăngtidy."
+        },
+        {
+          "sent_id": "id_152",
+          "smil_sid": "sid_152",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Em cũng chẳng còn giống cái con bé khốn khổ lúc ấy nữa!",
+          "tts_text": "Em cũng chẳng còn giống cái con bé khốn khổ lúc ấy nữa!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p64_chunk_02",
+      "p_id": "c7_p64",
+      "start": 563.055,
+      "speech_end": 583.555,
+      "end": 583.725,
+      "pause_after_ms": 170,
+      "source_text": "Trong mấy ngày ở với La Cucơri, Perin đã mạng, vá áo vét và chiếc váy. Em cắt được một cái khăn vuông trong đống giẻ rách, giặt quần áo và đánh giày. Đến Aidy, trong lúc chờ tàu, Perin đã rửa mặt, chân tay cẩn thận trong dòng sông và bây giờ em xuống tàu sạch sẽ, vui tươi, nhanh nhẹn.",
+      "tts_text": "Trong mấy ngày ở với La Cucơri, Perin đã mạng, vá áo vét và chiếc váy. Em cắt được một cái khăn vuông trong đống giẻ rách, giặt quần áo và đánh giày. Đến Aidy, trong lúc chờ tàu, Perin đã rửa mặt, chân tay cẩn thận trong dòng sông và bây giờ em xuống tàu sạch sẽ, vui tươi, nhanh nhẹn.",
+      "sentences": [
+        {
+          "sent_id": "id_153",
+          "smil_sid": "sid_153",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Trong mấy ngày ở với La Cucơri, Perin đã mạng, vá áo vét và chiếc váy.",
+          "tts_text": "Trong mấy ngày ở với La Cucơri, Perin đã mạng, vá áo vét và chiếc váy."
+        },
+        {
+          "sent_id": "id_154",
+          "smil_sid": "sid_154",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Em cắt được một cái khăn vuông trong đống giẻ rách, giặt quần áo và đánh giày.",
+          "tts_text": "Em cắt được một cái khăn vuông trong đống giẻ rách, giặt quần áo và đánh giày."
+        },
+        {
+          "sent_id": "id_155",
+          "smil_sid": "sid_155",
+          "p_id": "c7_p64",
+          "seq_id": "seq_64",
+          "source_text": "Đến Aidy, trong lúc chờ tàu, Perin đã rửa mặt, chân tay cẩn thận trong dòng sông và bây giờ em xuống tàu sạch sẽ, vui tươi, nhanh nhẹn.",
+          "tts_text": "Đến Aidy, trong lúc chờ tàu, Perin đã rửa mặt, chân tay cẩn thận trong dòng sông và bây giờ em xuống tàu sạch sẽ, vui tươi, nhanh nhẹn."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p65_chunk_01",
+      "p_id": "c7_p65",
+      "start": 583.725,
+      "speech_end": 612.655,
+      "end": 612.825,
+      "pause_after_ms": 170,
+      "source_text": "Nhưng cái gì còn hơn sự sạch sẽ, hơn cả số tiền năm lăm xu đang kêu rủng rẻng trong túi áo, đã nâng đỡ em? Đó là niềm tin đã trở lại với Perin, sau những thử thách vừa qua. Em đã thắng vì em đã nhẫn nại đến cùng, không chịu bỏ cuộc. Chẳng lẽ em không có quyền hy vọng: tin tưởng mình sẽ thắng những khó khăn còn lại? nếu cái khó khăn lớn nhất chưa hoàn thành được, thì ít nhất Perin cũng đã làm được cái gì đó gian khổ, nguy hiểm nhất rồi.",
+      "tts_text": "Nhưng cái gì còn hơn sự sạch sẽ, hơn cả số tiền năm lăm xu đang kêu rủng rẻng trong túi áo, đã nâng đỡ em? Đó là niềm tin đã trở lại với Perin, sau những thử thách vừa qua. Em đã thắng vì em đã nhẫn nại đến cùng, không chịu bỏ cuộc. Chẳng lẽ em không có quyền hy vọng: tin tưởng mình sẽ thắng những khó khăn còn lại? nếu cái khó khăn lớn nhất chưa hoàn thành được, thì ít nhất Perin cũng đã làm được cái gì đó gian khổ, nguy hiểm nhất rồi.",
+      "sentences": [
+        {
+          "sent_id": "id_156",
+          "smil_sid": "sid_156",
+          "p_id": "c7_p65",
+          "seq_id": "seq_65",
+          "source_text": "Nhưng cái gì còn hơn sự sạch sẽ, hơn cả số tiền năm lăm xu đang kêu rủng rẻng trong túi áo, đã nâng đỡ em?",
+          "tts_text": "Nhưng cái gì còn hơn sự sạch sẽ, hơn cả số tiền năm lăm xu đang kêu rủng rẻng trong túi áo, đã nâng đỡ em?"
+        },
+        {
+          "sent_id": "id_157",
+          "smil_sid": "sid_157",
+          "p_id": "c7_p65",
+          "seq_id": "seq_65",
+          "source_text": "Đó là niềm tin đã trở lại với Perin, sau những thử thách vừa qua.",
+          "tts_text": "Đó là niềm tin đã trở lại với Perin, sau những thử thách vừa qua."
+        },
+        {
+          "sent_id": "id_158",
+          "smil_sid": "sid_158",
+          "p_id": "c7_p65",
+          "seq_id": "seq_65",
+          "source_text": "Em đã thắng vì em đã nhẫn nại đến cùng, không chịu bỏ cuộc.",
+          "tts_text": "Em đã thắng vì em đã nhẫn nại đến cùng, không chịu bỏ cuộc."
+        },
+        {
+          "sent_id": "id_159",
+          "smil_sid": "sid_159",
+          "p_id": "c7_p65",
+          "seq_id": "seq_65",
+          "source_text": "Chẳng lẽ em không có quyền hy vọng: tin tưởng mình sẽ thắng những khó khăn còn lại? nếu cái khó khăn lớn nhất chưa hoàn thành được, thì ít nhất Perin cũng đã làm được cái gì đó gian khổ, nguy hiểm nhất rồi.",
+          "tts_text": "Chẳng lẽ em không có quyền hy vọng: tin tưởng mình sẽ thắng những khó khăn còn lại? nếu cái khó khăn lớn nhất chưa hoàn thành được, thì ít nhất Perin cũng đã làm được cái gì đó gian khổ, nguy hiểm nhất rồi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p66_chunk_01",
+      "p_id": "c7_p66",
+      "start": 612.825,
+      "speech_end": 670.745,
+      "end": 670.9,
+      "pause_after_ms": 155,
+      "source_text": "Ra khỏi nhà ga, Perin đi qua một cái cầu bắc trên cống ngầm. Bây giờ em bước thoăn thoắt qua cánh đồng cỏ xanh tươi có trồng những cây dương và cây liễu. Trên cánh đồng rải rác có đầm lầy. Trên đường đi, em gặp mấy người câu cá với một mớ dụng cụ. Họ buông cần, cúi mình theo dõi chiếc phao. Perin nhận ra ngay đó là những người câu cá không chuyên nghiệp, diện quần áo lễ hội từ các thị xã đến đây. Những mỏ than bùn nối tiếp những đống nhỏ đen thui, chất theo hình dọc và được đánh dấu bằng chữ trắng hay con số. Đây là những than bùn xếp để phơi nắng. Biết bao lần, bố em đã nói với em về những mỏ than ấy và những vết thương của nó: những cái ao, hồ lớn mà khi người ta lấy hết than bùn thì lại đầy nước. Đó là nét đặc biệt của thung lũng sông Xôm. Em còn biết những người câu cá say mê ấy, dù nóng, dù rét, họ cũng không nản chí. Đâu không phải là một xứ mới đối với em.",
+      "tts_text": "Ra khỏi nhà ga, Perin đi qua một cái cầu bắc trên cống ngầm. Bây giờ em bước thoăn thoắt qua cánh đồng cỏ xanh tươi có trồng những cây dương và cây liễu. Trên cánh đồng rải rác có đầm lầy. Trên đường đi, em gặp mấy người câu cá với một mớ dụng cụ. Họ buông cần, cúi mình theo dõi chiếc phao. Perin nhận ra ngay đó là những người câu cá không chuyên nghiệp, diện quần áo lễ hội từ các thị xã đến đây. Những mỏ than bùn nối tiếp những đống nhỏ đen thui, chất theo hình dọc và được đánh dấu bằng chữ trắng hay con số. Đây là những than bùn xếp để phơi nắng. Biết bao lần, bố em đã nói với em về những mỏ than ấy và những vết thương của nó: những cái ao, hồ lớn mà khi người ta lấy hết than bùn thì lại đầy nước. Đó là nét đặc biệt của thung lũng sông Xôm. Em còn biết những người câu cá say mê ấy, dù nóng, dù rét, họ cũng không nản chí. Đâu không phải là một xứ mới đối với em.",
+      "sentences": [
+        {
+          "sent_id": "id_160",
+          "smil_sid": "sid_160",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Ra khỏi nhà ga, Perin đi qua một cái cầu bắc trên cống ngầm.",
+          "tts_text": "Ra khỏi nhà ga, Perin đi qua một cái cầu bắc trên cống ngầm."
+        },
+        {
+          "sent_id": "id_161",
+          "smil_sid": "sid_161",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Bây giờ em bước thoăn thoắt qua cánh đồng cỏ xanh tươi có trồng những cây dương và cây liễu.",
+          "tts_text": "Bây giờ em bước thoăn thoắt qua cánh đồng cỏ xanh tươi có trồng những cây dương và cây liễu."
+        },
+        {
+          "sent_id": "id_162",
+          "smil_sid": "sid_162",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Trên cánh đồng rải rác có đầm lầy.",
+          "tts_text": "Trên cánh đồng rải rác có đầm lầy."
+        },
+        {
+          "sent_id": "id_163",
+          "smil_sid": "sid_163",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Trên đường đi, em gặp mấy người câu cá với một mớ dụng cụ.",
+          "tts_text": "Trên đường đi, em gặp mấy người câu cá với một mớ dụng cụ."
+        },
+        {
+          "sent_id": "id_164",
+          "smil_sid": "sid_164",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Họ buông cần, cúi mình theo dõi chiếc phao.",
+          "tts_text": "Họ buông cần, cúi mình theo dõi chiếc phao."
+        },
+        {
+          "sent_id": "id_165",
+          "smil_sid": "sid_165",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Perin nhận ra ngay đó là những người câu cá không chuyên nghiệp, diện quần áo lễ hội từ các thị xã đến đây.",
+          "tts_text": "Perin nhận ra ngay đó là những người câu cá không chuyên nghiệp, diện quần áo lễ hội từ các thị xã đến đây."
+        },
+        {
+          "sent_id": "id_166",
+          "smil_sid": "sid_166",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Những mỏ than bùn nối tiếp những đống nhỏ đen thui, chất theo hình dọc và được đánh dấu bằng chữ trắng hay con số.",
+          "tts_text": "Những mỏ than bùn nối tiếp những đống nhỏ đen thui, chất theo hình dọc và được đánh dấu bằng chữ trắng hay con số."
+        },
+        {
+          "sent_id": "id_167",
+          "smil_sid": "sid_167",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Đây là những than bùn xếp để phơi nắng.",
+          "tts_text": "Đây là những than bùn xếp để phơi nắng."
+        },
+        {
+          "sent_id": "id_168",
+          "smil_sid": "sid_168",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Biết bao lần, bố em đã nói với em về những mỏ than ấy và những vết thương của nó: những cái ao, hồ lớn mà khi người ta lấy hết than bùn thì lại đầy nước.",
+          "tts_text": "Biết bao lần, bố em đã nói với em về những mỏ than ấy và những vết thương của nó: những cái ao, hồ lớn mà khi người ta lấy hết than bùn thì lại đầy nước."
+        },
+        {
+          "sent_id": "id_169",
+          "smil_sid": "sid_169",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Đó là nét đặc biệt của thung lũng sông Xôm.",
+          "tts_text": "Đó là nét đặc biệt của thung lũng sông Xôm."
+        },
+        {
+          "sent_id": "id_170",
+          "smil_sid": "sid_170",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Em còn biết những người câu cá say mê ấy, dù nóng, dù rét, họ cũng không nản chí.",
+          "tts_text": "Em còn biết những người câu cá say mê ấy, dù nóng, dù rét, họ cũng không nản chí."
+        },
+        {
+          "sent_id": "id_171",
+          "smil_sid": "sid_171",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Đâu không phải là một xứ mới đối với em.",
+          "tts_text": "Đâu không phải là một xứ mới đối với em."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p66_chunk_02",
+      "p_id": "c7_p66",
+      "start": 670.9,
+      "speech_end": 687.7,
+      "end": 687.87,
+      "pause_after_ms": 170,
+      "source_text": "Trái lại em đã hiểu biết và yêu mến nơi này, tuy mắt em chưa bao giờ nhìn thấy. Em đã biết những thành phố trần trụi, thấp lè tè, đang bao quanh thành thung lũng. Em cũng biết nhờ ngọn gió biển những cối xay lúa đang quay, ngay cả những hôm thời tiết yên tĩnh.",
+      "tts_text": "Trái lại em đã hiểu biết và yêu mến nơi này, tuy mắt em chưa bao giờ nhìn thấy. Em đã biết những thành phố trần trụi, thấp lè tè, đang bao quanh thành thung lũng. Em cũng biết nhờ ngọn gió biển những cối xay lúa đang quay, ngay cả những hôm thời tiết yên tĩnh.",
+      "sentences": [
+        {
+          "sent_id": "id_172",
+          "smil_sid": "sid_172",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Trái lại em đã hiểu biết và yêu mến nơi này, tuy mắt em chưa bao giờ nhìn thấy.",
+          "tts_text": "Trái lại em đã hiểu biết và yêu mến nơi này, tuy mắt em chưa bao giờ nhìn thấy."
+        },
+        {
+          "sent_id": "id_173",
+          "smil_sid": "sid_173",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Em đã biết những thành phố trần trụi, thấp lè tè, đang bao quanh thành thung lũng.",
+          "tts_text": "Em đã biết những thành phố trần trụi, thấp lè tè, đang bao quanh thành thung lũng."
+        },
+        {
+          "sent_id": "id_174",
+          "smil_sid": "sid_174",
+          "p_id": "c7_p66",
+          "seq_id": "seq_66",
+          "source_text": "Em cũng biết nhờ ngọn gió biển những cối xay lúa đang quay, ngay cả những hôm thời tiết yên tĩnh.",
+          "tts_text": "Em cũng biết nhờ ngọn gió biển những cối xay lúa đang quay, ngay cả những hôm thời tiết yên tĩnh."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p67_chunk_01",
+      "p_id": "c7_p67",
+      "start": 687.87,
+      "speech_end": 711.78,
+      "end": 711.95,
+      "pause_after_ms": 170,
+      "source_text": "Cái làng đầu tiên mà Perin đến, em cũng nhận ra đó là Xanh Pipô. Ở đây, có xưởng dệt, xưởng làm đay, phụ thuộc vào những nhà máy ở Marôcua. Trước khi đến đó, em vượt qua một cổng xe lửa. Con đường sắt nối liền nhiều làn. Những làng ấy đều là những trung tâm chế tạo của hãng Vunphran Panhđavoan, rồi đến sát nhập vào con đường sắt lớn của Bulônhô.",
+      "tts_text": "Cái làng đầu tiên mà Perin đến, em cũng nhận ra đó là Xanh Pipô. Ở đây, có xưởng dệt, xưởng làm đay, phụ thuộc vào những nhà máy ở Marôcua. Trước khi đến đó, em vượt qua một cổng xe lửa. Con đường sắt nối liền nhiều làn. Những làng ấy đều là những trung tâm chế tạo của hãng Vunphran Panhđavoan, rồi đến sát nhập vào con đường sắt lớn của Bulônhô.",
+      "sentences": [
+        {
+          "sent_id": "id_175",
+          "smil_sid": "sid_175",
+          "p_id": "c7_p67",
+          "seq_id": "seq_67",
+          "source_text": "Cái làng đầu tiên mà Perin đến, em cũng nhận ra đó là Xanh Pipô.",
+          "tts_text": "Cái làng đầu tiên mà Perin đến, em cũng nhận ra đó là Xanh Pipô."
+        },
+        {
+          "sent_id": "id_176",
+          "smil_sid": "sid_176",
+          "p_id": "c7_p67",
+          "seq_id": "seq_67",
+          "source_text": "Ở đây, có xưởng dệt, xưởng làm đay, phụ thuộc vào những nhà máy ở Marôcua.",
+          "tts_text": "Ở đây, có xưởng dệt, xưởng làm đay, phụ thuộc vào những nhà máy ở Marôcua."
+        },
+        {
+          "sent_id": "id_177",
+          "smil_sid": "sid_177",
+          "p_id": "c7_p67",
+          "seq_id": "seq_67",
+          "source_text": "Trước khi đến đó, em vượt qua một cổng xe lửa.",
+          "tts_text": "Trước khi đến đó, em vượt qua một cổng xe lửa."
+        },
+        {
+          "sent_id": "id_178",
+          "smil_sid": "sid_178",
+          "p_id": "c7_p67",
+          "seq_id": "seq_67",
+          "source_text": "Con đường sắt nối liền nhiều làn.",
+          "tts_text": "Con đường sắt nối liền nhiều làn."
+        },
+        {
+          "sent_id": "id_179",
+          "smil_sid": "sid_179",
+          "p_id": "c7_p67",
+          "seq_id": "seq_67",
+          "source_text": "Những làng ấy đều là những trung tâm chế tạo của hãng Vunphran Panhđavoan, rồi đến sát nhập vào con đường sắt lớn của Bulônhô.",
+          "tts_text": "Những làng ấy đều là những trung tâm chế tạo của hãng Vunphran Panhđavoan, rồi đến sát nhập vào con đường sắt lớn của Bulônhô."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p68_chunk_01",
+      "p_id": "c7_p68",
+      "start": 711.95,
+      "speech_end": 739.45,
+      "end": 739.62,
+      "pause_after_ms": 170,
+      "source_text": "Tuy những cây dương trong thung lũng che khuất hay phơi bày cảnh vật, Perin nhìn thấy những gác chuông bằng đá đen của các làng ấy và những ống khói cao bằng gạch của các xưởng máy. Hôm nay là ngày chủ nhật nên chúng không tỏa khói. Perin đi qua nhà thờ, vào lúc những người đi lễ vừa rời khỏi đó. Nghe họ trao đổi, em nhận ra cái giọng địa phương có tiếng kéo dài như hát mà bố em thường nhại. Khi đùa với em.",
+      "tts_text": "Tuy những cây dương trong thung lũng che khuất hay phơi bày cảnh vật, Perin nhìn thấy những gác chuông bằng đá đen của các làng ấy và những ống khói cao bằng gạch của các xưởng máy. Hôm nay là ngày chủ nhật nên chúng không tỏa khói. Perin đi qua nhà thờ, vào lúc những người đi lễ vừa rời khỏi đó. Nghe họ trao đổi, em nhận ra cái giọng địa phương có tiếng kéo dài như hát mà bố em thường nhại. Khi đùa với em.",
+      "sentences": [
+        {
+          "sent_id": "id_180",
+          "smil_sid": "sid_180",
+          "p_id": "c7_p68",
+          "seq_id": "seq_68",
+          "source_text": "Tuy những cây dương trong thung lũng che khuất hay phơi bày cảnh vật, Perin nhìn thấy những gác chuông bằng đá đen của các làng ấy và những ống khói cao bằng gạch của các xưởng máy.",
+          "tts_text": "Tuy những cây dương trong thung lũng che khuất hay phơi bày cảnh vật, Perin nhìn thấy những gác chuông bằng đá đen của các làng ấy và những ống khói cao bằng gạch của các xưởng máy."
+        },
+        {
+          "sent_id": "id_181",
+          "smil_sid": "sid_181",
+          "p_id": "c7_p68",
+          "seq_id": "seq_68",
+          "source_text": "Hôm nay là ngày chủ nhật nên chúng không tỏa khói.",
+          "tts_text": "Hôm nay là ngày chủ nhật nên chúng không tỏa khói."
+        },
+        {
+          "sent_id": "id_182",
+          "smil_sid": "sid_182",
+          "p_id": "c7_p68",
+          "seq_id": "seq_68",
+          "source_text": "Perin đi qua nhà thờ, vào lúc những người đi lễ vừa rời khỏi đó.",
+          "tts_text": "Perin đi qua nhà thờ, vào lúc những người đi lễ vừa rời khỏi đó."
+        },
+        {
+          "sent_id": "id_183",
+          "smil_sid": "sid_183",
+          "p_id": "c7_p68",
+          "seq_id": "seq_68",
+          "source_text": "Nghe họ trao đổi, em nhận ra cái giọng địa phương có tiếng kéo dài như hát mà bố em thường nhại.",
+          "tts_text": "Nghe họ trao đổi, em nhận ra cái giọng địa phương có tiếng kéo dài như hát mà bố em thường nhại."
+        },
+        {
+          "sent_id": "id_184",
+          "smil_sid": "sid_184",
+          "p_id": "c7_p68",
+          "seq_id": "seq_68",
+          "source_text": "Khi đùa với em.",
+          "tts_text": "Khi đùa với em."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p69_chunk_01",
+      "p_id": "c7_p69",
+      "start": 739.62,
+      "speech_end": 764.71,
+      "end": 764.88,
+      "pause_after_ms": 170,
+      "source_text": "Từ Xanh Pipô đến Marôcua hai bên đường có trồng liễu. Con đường ấy đi vòng giữa những đống than bùn, đang vượt một nền đất ít di động hơn là hướng theo đường thẳng. những người đi theo con đường ấy, chỉ trông thấy được mấy bước phía trước, cũng như phía sau. Bởi thế Perin suýt đụng đầu một thiếu nữ chậm chạp vì phải xách một cái giỏ nặng. Niềm tin đã trở lại, nên Perin mạnh dạn hỏi:",
+      "tts_text": "Từ Xanh Pipô đến Marôcua hai bên đường có trồng liễu. Con đường ấy đi vòng giữa những đống than bùn, đang vượt một nền đất ít di động hơn là hướng theo đường thẳng. những người đi theo con đường ấy, chỉ trông thấy được mấy bước phía trước, cũng như phía sau. Bởi thế Perin suýt đụng đầu một thiếu nữ chậm chạp vì phải xách một cái giỏ nặng. Niềm tin đã trở lại, nên Perin mạnh dạn hỏi:",
+      "sentences": [
+        {
+          "sent_id": "id_185",
+          "smil_sid": "sid_185",
+          "p_id": "c7_p69",
+          "seq_id": "seq_69",
+          "source_text": "Từ Xanh Pipô đến Marôcua hai bên đường có trồng liễu.",
+          "tts_text": "Từ Xanh Pipô đến Marôcua hai bên đường có trồng liễu."
+        },
+        {
+          "sent_id": "id_186",
+          "smil_sid": "sid_186",
+          "p_id": "c7_p69",
+          "seq_id": "seq_69",
+          "source_text": "Con đường ấy đi vòng giữa những đống than bùn, đang vượt một nền đất ít di động hơn là hướng theo đường thẳng. những người đi theo con đường ấy, chỉ trông thấy được mấy bước phía trước, cũng như phía sau.",
+          "tts_text": "Con đường ấy đi vòng giữa những đống than bùn, đang vượt một nền đất ít di động hơn là hướng theo đường thẳng. những người đi theo con đường ấy, chỉ trông thấy được mấy bước phía trước, cũng như phía sau."
+        },
+        {
+          "sent_id": "id_187",
+          "smil_sid": "sid_187",
+          "p_id": "c7_p69",
+          "seq_id": "seq_69",
+          "source_text": "Bởi thế Perin suýt đụng đầu một thiếu nữ chậm chạp vì phải xách một cái giỏ nặng.",
+          "tts_text": "Bởi thế Perin suýt đụng đầu một thiếu nữ chậm chạp vì phải xách một cái giỏ nặng."
+        },
+        {
+          "sent_id": "id_188",
+          "smil_sid": "sid_188",
+          "p_id": "c7_p69",
+          "seq_id": "seq_69",
+          "source_text": "Niềm tin đã trở lại, nên Perin mạnh dạn hỏi:",
+          "tts_text": "Niềm tin đã trở lại, nên Perin mạnh dạn hỏi:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p70_chunk_01",
+      "p_id": "c7_p70",
+      "start": 764.88,
+      "speech_end": 767.52,
+      "end": 767.69,
+      "pause_after_ms": 170,
+      "source_text": "- Đây là đường đi Marôcua, phải không chị?",
+      "tts_text": "- Đây là đường đi Marôcua, phải không chị?",
+      "sentences": [
+        {
+          "sent_id": "id_189",
+          "smil_sid": "sid_189",
+          "p_id": "c7_p70",
+          "seq_id": "seq_70",
+          "source_text": "- Đây là đường đi Marôcua, phải không chị?",
+          "tts_text": "- Đây là đường đi Marôcua, phải không chị?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p71_chunk_01",
+      "p_id": "c7_p71",
+      "start": 767.69,
+      "speech_end": 768.97,
+      "end": 769.14,
+      "pause_after_ms": 170,
+      "source_text": "- Phải, thẳng băng!",
+      "tts_text": "- Phải, thẳng băng!",
+      "sentences": [
+        {
+          "sent_id": "id_190",
+          "smil_sid": "sid_190",
+          "p_id": "c7_p71",
+          "seq_id": "seq_71",
+          "source_text": "- Phải, thẳng băng!",
+          "tts_text": "- Phải, thẳng băng!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p72_chunk_01",
+      "p_id": "c7_p72",
+      "start": 769.14,
+      "speech_end": 773.86,
+      "end": 774.03,
+      "pause_after_ms": 170,
+      "source_text": "- Ôi, thẳng băng! – Perin vừa cười, vừa nói. – Nó không thẳng như thế đâu!",
+      "tts_text": "- Ôi, thẳng băng! – Perin vừa cười, vừa nói. – Nó không thẳng như thế đâu!",
+      "sentences": [
+        {
+          "sent_id": "id_191",
+          "smil_sid": "sid_191",
+          "p_id": "c7_p72",
+          "seq_id": "seq_72",
+          "source_text": "- Ôi, thẳng băng!",
+          "tts_text": "- Ôi, thẳng băng!"
+        },
+        {
+          "sent_id": "id_192",
+          "smil_sid": "sid_192",
+          "p_id": "c7_p72",
+          "seq_id": "seq_72",
+          "source_text": "– Perin vừa cười, vừa nói.",
+          "tts_text": "– Perin vừa cười, vừa nói."
+        },
+        {
+          "sent_id": "id_193",
+          "smil_sid": "sid_193",
+          "p_id": "c7_p72",
+          "seq_id": "seq_72",
+          "source_text": "– Nó không thẳng như thế đâu!",
+          "tts_text": "– Nó không thẳng như thế đâu!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p73_chunk_01",
+      "p_id": "c7_p73",
+      "start": 774.03,
+      "speech_end": 778.43,
+      "end": 778.6,
+      "pause_after_ms": 170,
+      "source_text": "- Nếu có rắc rối, thì tôi cũng đi Marôcua. Chúng ta hãy cùng đi!",
+      "tts_text": "- Nếu có rắc rối, thì tôi cũng đi Marôcua. Chúng ta hãy cùng đi!",
+      "sentences": [
+        {
+          "sent_id": "id_194",
+          "smil_sid": "sid_194",
+          "p_id": "c7_p73",
+          "seq_id": "seq_73",
+          "source_text": "- Nếu có rắc rối, thì tôi cũng đi Marôcua.",
+          "tts_text": "- Nếu có rắc rối, thì tôi cũng đi Marôcua."
+        },
+        {
+          "sent_id": "id_195",
+          "smil_sid": "sid_195",
+          "p_id": "c7_p73",
+          "seq_id": "seq_73",
+          "source_text": "Chúng ta hãy cùng đi!",
+          "tts_text": "Chúng ta hãy cùng đi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p74_chunk_01",
+      "p_id": "c7_p74",
+      "start": 778.6,
+      "speech_end": 782.76,
+      "end": 782.93,
+      "pause_after_ms": 170,
+      "source_text": "- Thế thì may cho tôi quá! Chị cho tôi giúp chị mang cái giỏ nhé?",
+      "tts_text": "- Thế thì may cho tôi quá! Chị cho tôi giúp chị mang cái giỏ nhé?",
+      "sentences": [
+        {
+          "sent_id": "id_196",
+          "smil_sid": "sid_196",
+          "p_id": "c7_p74",
+          "seq_id": "seq_74",
+          "source_text": "- Thế thì may cho tôi quá!",
+          "tts_text": "- Thế thì may cho tôi quá!"
+        },
+        {
+          "sent_id": "id_197",
+          "smil_sid": "sid_197",
+          "p_id": "c7_p74",
+          "seq_id": "seq_74",
+          "source_text": "Chị cho tôi giúp chị mang cái giỏ nhé?",
+          "tts_text": "Chị cho tôi giúp chị mang cái giỏ nhé?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p75_chunk_01",
+      "p_id": "c7_p75",
+      "start": 782.93,
+      "speech_end": 785.25,
+      "end": 785.42,
+      "pause_after_ms": 170,
+      "source_text": "- Cảm ơn chị. Nó nặng lắm đấy!",
+      "tts_text": "- Cảm ơn chị. Nó nặng lắm đấy!",
+      "sentences": [
+        {
+          "sent_id": "id_198",
+          "smil_sid": "sid_198",
+          "p_id": "c7_p75",
+          "seq_id": "seq_75",
+          "source_text": "- Cảm ơn chị.",
+          "tts_text": "- Cảm ơn chị."
+        },
+        {
+          "sent_id": "id_199",
+          "smil_sid": "sid_199",
+          "p_id": "c7_p75",
+          "seq_id": "seq_75",
+          "source_text": "Nó nặng lắm đấy!",
+          "tts_text": "Nó nặng lắm đấy!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p76_chunk_01",
+      "p_id": "c7_p76",
+      "start": 785.42,
+      "speech_end": 789.42,
+      "end": 789.59,
+      "pause_after_ms": 170,
+      "source_text": "Vừa nói, cô ta vừa để cái giỏ xuống đất, thở phào khoan khoái!",
+      "tts_text": "Vừa nói, cô ta vừa để cái giỏ xuống đất, thở phào khoan khoái!",
+      "sentences": [
+        {
+          "sent_id": "id_200",
+          "smil_sid": "sid_200",
+          "p_id": "c7_p76",
+          "seq_id": "seq_76",
+          "source_text": "Vừa nói, cô ta vừa để cái giỏ xuống đất, thở phào khoan khoái!",
+          "tts_text": "Vừa nói, cô ta vừa để cái giỏ xuống đất, thở phào khoan khoái!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p77_chunk_01",
+      "p_id": "c7_p77",
+      "start": 789.59,
+      "speech_end": 792.47,
+      "end": 792.64,
+      "pause_after_ms": 170,
+      "source_text": "- Chị cũng ở Marôcua? – Cô thiếu nữ hỏi.",
+      "tts_text": "- Chị cũng ở Marôcua? – Cô thiếu nữ hỏi.",
+      "sentences": [
+        {
+          "sent_id": "id_201",
+          "smil_sid": "sid_201",
+          "p_id": "c7_p77",
+          "seq_id": "seq_77",
+          "source_text": "- Chị cũng ở Marôcua?",
+          "tts_text": "- Chị cũng ở Marôcua?"
+        },
+        {
+          "sent_id": "id_202",
+          "smil_sid": "sid_202",
+          "p_id": "c7_p77",
+          "seq_id": "seq_77",
+          "source_text": "– Cô thiếu nữ hỏi.",
+          "tts_text": "– Cô thiếu nữ hỏi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p78_chunk_01",
+      "p_id": "c7_p78",
+      "start": 792.64,
+      "speech_end": 793.92,
+      "end": 794.09,
+      "pause_after_ms": 170,
+      "source_text": "- Không, còn chị?",
+      "tts_text": "- Không, còn chị?",
+      "sentences": [
+        {
+          "sent_id": "id_203",
+          "smil_sid": "sid_203",
+          "p_id": "c7_p78",
+          "seq_id": "seq_78",
+          "source_text": "- Không, còn chị?",
+          "tts_text": "- Không, còn chị?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p79_chunk_01",
+      "p_id": "c7_p79",
+      "start": 794.09,
+      "speech_end": 796.41,
+      "end": 796.58,
+      "pause_after_ms": 170,
+      "source_text": "- Tôi thì ở đấy là chắc chắn rồi!",
+      "tts_text": "- Tôi thì ở đấy là chắc chắn rồi!",
+      "sentences": [
+        {
+          "sent_id": "id_204",
+          "smil_sid": "sid_204",
+          "p_id": "c7_p79",
+          "seq_id": "seq_79",
+          "source_text": "- Tôi thì ở đấy là chắc chắn rồi!",
+          "tts_text": "- Tôi thì ở đấy là chắc chắn rồi!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p80_chunk_01",
+      "p_id": "c7_p80",
+      "start": 796.58,
+      "speech_end": 798.42,
+      "end": 798.59,
+      "pause_after_ms": 170,
+      "source_text": "- Chị có làm ở nhà máy không?",
+      "tts_text": "- Chị có làm ở nhà máy không?",
+      "sentences": [
+        {
+          "sent_id": "id_205",
+          "smil_sid": "sid_205",
+          "p_id": "c7_p80",
+          "seq_id": "seq_80",
+          "source_text": "- Chị có làm ở nhà máy không?",
+          "tts_text": "- Chị có làm ở nhà máy không?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p81_chunk_01",
+      "p_id": "c7_p81",
+      "start": 798.59,
+      "speech_end": 802.19,
+      "end": 802.36,
+      "pause_after_ms": 170,
+      "source_text": "- Có chứ, cũng như mọi người ở đây. Tôi làm ở xưởng suốt.",
+      "tts_text": "- Có chứ, cũng như mọi người ở đây. Tôi làm ở xưởng suốt.",
+      "sentences": [
+        {
+          "sent_id": "id_206",
+          "smil_sid": "sid_206",
+          "p_id": "c7_p81",
+          "seq_id": "seq_81",
+          "source_text": "- Có chứ, cũng như mọi người ở đây.",
+          "tts_text": "- Có chứ, cũng như mọi người ở đây."
+        },
+        {
+          "sent_id": "id_207",
+          "smil_sid": "sid_207",
+          "p_id": "c7_p81",
+          "seq_id": "seq_81",
+          "source_text": "Tôi làm ở xưởng suốt.",
+          "tts_text": "Tôi làm ở xưởng suốt."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p82_chunk_01",
+      "p_id": "c7_p82",
+      "start": 802.36,
+      "speech_end": 803.4,
+      "end": 803.57,
+      "pause_after_ms": 170,
+      "source_text": "- Là cái gì vậy?",
+      "tts_text": "- Là cái gì vậy?",
+      "sentences": [
+        {
+          "sent_id": "id_208",
+          "smil_sid": "sid_208",
+          "p_id": "c7_p82",
+          "seq_id": "seq_82",
+          "source_text": "- Là cái gì vậy?",
+          "tts_text": "- Là cái gì vậy?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p83_chunk_01",
+      "p_id": "c7_p83",
+      "start": 803.57,
+      "speech_end": 807.73,
+      "end": 807.9,
+      "pause_after_ms": 170,
+      "source_text": "- Này, chị không biết xưởng suốt à? Thế thì chị ở đâu đến đây?",
+      "tts_text": "- Này, chị không biết xưởng suốt à? Thế thì chị ở đâu đến đây?",
+      "sentences": [
+        {
+          "sent_id": "id_209",
+          "smil_sid": "sid_209",
+          "p_id": "c7_p83",
+          "seq_id": "seq_83",
+          "source_text": "- Này, chị không biết xưởng suốt à?",
+          "tts_text": "- Này, chị không biết xưởng suốt à?"
+        },
+        {
+          "sent_id": "id_210",
+          "smil_sid": "sid_210",
+          "p_id": "c7_p83",
+          "seq_id": "seq_83",
+          "source_text": "Thế thì chị ở đâu đến đây?",
+          "tts_text": "Thế thì chị ở đâu đến đây?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p84_chunk_01",
+      "p_id": "c7_p84",
+      "start": 807.9,
+      "speech_end": 808.7,
+      "end": 808.87,
+      "pause_after_ms": 170,
+      "source_text": "- Ở Paris.",
+      "tts_text": "- Ở Paris.",
+      "sentences": [
+        {
+          "sent_id": "id_211",
+          "smil_sid": "sid_211",
+          "p_id": "c7_p84",
+          "seq_id": "seq_84",
+          "source_text": "- Ở Paris.",
+          "tts_text": "- Ở Paris."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p85_chunk_01",
+      "p_id": "c7_p85",
+      "start": 808.87,
+      "speech_end": 816.39,
+      "end": 816.56,
+      "pause_after_ms": 170,
+      "source_text": "- Ở Paris, người ta không biết xưởng suốt thì lạ thật! Nó là những cái máy đánh chỉ để quấn vào suốt cho thoi chạy.",
+      "tts_text": "- Ở Paris, người ta không biết xưởng suốt thì lạ thật! Nó là những cái máy đánh chỉ để quấn vào suốt cho thoi chạy.",
+      "sentences": [
+        {
+          "sent_id": "id_212",
+          "smil_sid": "sid_212",
+          "p_id": "c7_p85",
+          "seq_id": "seq_85",
+          "source_text": "- Ở Paris, người ta không biết xưởng suốt thì lạ thật!",
+          "tts_text": "- Ở Paris, người ta không biết xưởng suốt thì lạ thật!"
+        },
+        {
+          "sent_id": "id_213",
+          "smil_sid": "sid_213",
+          "p_id": "c7_p85",
+          "seq_id": "seq_85",
+          "source_text": "Nó là những cái máy đánh chỉ để quấn vào suốt cho thoi chạy.",
+          "tts_text": "Nó là những cái máy đánh chỉ để quấn vào suốt cho thoi chạy."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p86_chunk_01",
+      "p_id": "c7_p86",
+      "start": 816.56,
+      "speech_end": 818.48,
+      "end": 818.65,
+      "pause_after_ms": 170,
+      "source_text": "- Mỗi ngày người ta lĩnh được khá chứ?",
+      "tts_text": "- Mỗi ngày người ta lĩnh được khá chứ?",
+      "sentences": [
+        {
+          "sent_id": "id_214",
+          "smil_sid": "sid_214",
+          "p_id": "c7_p86",
+          "seq_id": "seq_86",
+          "source_text": "- Mỗi ngày người ta lĩnh được khá chứ?",
+          "tts_text": "- Mỗi ngày người ta lĩnh được khá chứ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p87_chunk_01",
+      "p_id": "c7_p87",
+      "start": 818.65,
+      "speech_end": 819.45,
+      "end": 819.62,
+      "pause_after_ms": 170,
+      "source_text": "- Mười xu.",
+      "tts_text": "- Mười xu.",
+      "sentences": [
+        {
+          "sent_id": "id_215",
+          "smil_sid": "sid_215",
+          "p_id": "c7_p87",
+          "seq_id": "seq_87",
+          "source_text": "- Mười xu.",
+          "tts_text": "- Mười xu."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p88_chunk_01",
+      "p_id": "c7_p88",
+      "start": 819.62,
+      "speech_end": 820.98,
+      "end": 821.15,
+      "pause_after_ms": 170,
+      "source_text": "- Có khó lắm không?",
+      "tts_text": "- Có khó lắm không?",
+      "sentences": [
+        {
+          "sent_id": "id_216",
+          "smil_sid": "sid_216",
+          "p_id": "c7_p88",
+          "seq_id": "seq_88",
+          "source_text": "- Có khó lắm không?",
+          "tts_text": "- Có khó lắm không?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p89_chunk_01",
+      "p_id": "c7_p89",
+      "start": 821.15,
+      "speech_end": 827.15,
+      "end": 827.32,
+      "pause_after_ms": 170,
+      "source_text": "- Không khó lắm! Cần phải tinh mắt và không để phí thời giờ. Chị có muốn làm việc ở đấy không?",
+      "tts_text": "- Không khó lắm! Cần phải tinh mắt và không để phí thời giờ. Chị có muốn làm việc ở đấy không?",
+      "sentences": [
+        {
+          "sent_id": "id_217",
+          "smil_sid": "sid_217",
+          "p_id": "c7_p89",
+          "seq_id": "seq_89",
+          "source_text": "- Không khó lắm!",
+          "tts_text": "- Không khó lắm!"
+        },
+        {
+          "sent_id": "id_218",
+          "smil_sid": "sid_218",
+          "p_id": "c7_p89",
+          "seq_id": "seq_89",
+          "source_text": "Cần phải tinh mắt và không để phí thời giờ.",
+          "tts_text": "Cần phải tinh mắt và không để phí thời giờ."
+        },
+        {
+          "sent_id": "id_219",
+          "smil_sid": "sid_219",
+          "p_id": "c7_p89",
+          "seq_id": "seq_89",
+          "source_text": "Chị có muốn làm việc ở đấy không?",
+          "tts_text": "Chị có muốn làm việc ở đấy không?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p90_chunk_01",
+      "p_id": "c7_p90",
+      "start": 827.32,
+      "speech_end": 830.04,
+      "end": 830.21,
+      "pause_after_ms": 170,
+      "source_text": "- Có lắm chứ! Họ có nhận tôi không chị?",
+      "tts_text": "- Có lắm chứ! Họ có nhận tôi không chị?",
+      "sentences": [
+        {
+          "sent_id": "id_220",
+          "smil_sid": "sid_220",
+          "p_id": "c7_p90",
+          "seq_id": "seq_90",
+          "source_text": "- Có lắm chứ!",
+          "tts_text": "- Có lắm chứ!"
+        },
+        {
+          "sent_id": "id_221",
+          "smil_sid": "sid_221",
+          "p_id": "c7_p90",
+          "seq_id": "seq_90",
+          "source_text": "Họ có nhận tôi không chị?",
+          "tts_text": "Họ có nhận tôi không chị?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p91_chunk_01",
+      "p_id": "c7_p91",
+      "start": 830.21,
+      "speech_end": 848.26,
+      "end": 848.43,
+      "pause_after_ms": 170,
+      "source_text": "- Người ta nhận chị là cái chắc. Người ta nhận tất cả mọi người nếu không thì tìm đâu ra bảy nghìn thợ làm việc trong các xưởng. Sáng mai, lúc sáu giờ, mời chị đến chỗ cửa có song sắt của nhà kho. Nhưng chúng mình nói chuyện nhiều rồi, mà tôi thì không được phép đến trễ!",
+      "tts_text": "- Người ta nhận chị là cái chắc. Người ta nhận tất cả mọi người nếu không thì tìm đâu ra bảy nghìn thợ làm việc trong các xưởng. Sáng mai, lúc sáu giờ, mời chị đến chỗ cửa có song sắt của nhà kho. Nhưng chúng mình nói chuyện nhiều rồi, mà tôi thì không được phép đến trễ!",
+      "sentences": [
+        {
+          "sent_id": "id_222",
+          "smil_sid": "sid_222",
+          "p_id": "c7_p91",
+          "seq_id": "seq_91",
+          "source_text": "- Người ta nhận chị là cái chắc.",
+          "tts_text": "- Người ta nhận chị là cái chắc."
+        },
+        {
+          "sent_id": "id_223",
+          "smil_sid": "sid_223",
+          "p_id": "c7_p91",
+          "seq_id": "seq_91",
+          "source_text": "Người ta nhận tất cả mọi người nếu không thì tìm đâu ra bảy nghìn thợ làm việc trong các xưởng.",
+          "tts_text": "Người ta nhận tất cả mọi người nếu không thì tìm đâu ra bảy nghìn thợ làm việc trong các xưởng."
+        },
+        {
+          "sent_id": "id_224",
+          "smil_sid": "sid_224",
+          "p_id": "c7_p91",
+          "seq_id": "seq_91",
+          "source_text": "Sáng mai, lúc sáu giờ, mời chị đến chỗ cửa có song sắt của nhà kho.",
+          "tts_text": "Sáng mai, lúc sáu giờ, mời chị đến chỗ cửa có song sắt của nhà kho."
+        },
+        {
+          "sent_id": "id_225",
+          "smil_sid": "sid_225",
+          "p_id": "c7_p91",
+          "seq_id": "seq_91",
+          "source_text": "Nhưng chúng mình nói chuyện nhiều rồi, mà tôi thì không được phép đến trễ!",
+          "tts_text": "Nhưng chúng mình nói chuyện nhiều rồi, mà tôi thì không được phép đến trễ!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p92_chunk_01",
+      "p_id": "c7_p92",
+      "start": 848.43,
+      "speech_end": 853.71,
+      "end": 853.88,
+      "pause_after_ms": 170,
+      "source_text": "- Cô ta cầm một quai giỏ Perin cầm bên kia. Hai cô bé đều bước, ở giữa đường.",
+      "tts_text": "- Cô ta cầm một quai giỏ Perin cầm bên kia. Hai cô bé đều bước, ở giữa đường.",
+      "sentences": [
+        {
+          "sent_id": "id_226",
+          "smil_sid": "sid_226",
+          "p_id": "c7_p92",
+          "seq_id": "seq_92",
+          "source_text": "- Cô ta cầm một quai giỏ Perin cầm bên kia.",
+          "tts_text": "- Cô ta cầm một quai giỏ Perin cầm bên kia."
+        },
+        {
+          "sent_id": "id_227",
+          "smil_sid": "sid_227",
+          "p_id": "c7_p92",
+          "seq_id": "seq_92",
+          "source_text": "Hai cô bé đều bước, ở giữa đường.",
+          "tts_text": "Hai cô bé đều bước, ở giữa đường."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p93_chunk_01",
+      "p_id": "c7_p93",
+      "start": 853.88,
+      "speech_end": 868.2,
+      "end": 868.37,
+      "pause_after_ms": 170,
+      "source_text": "Thời cơ thật thuận lợi để giúp Perin biết những điều có ích. Em chộp lấy. Tuy nhiên, các câu hỏi của em phải rất khôn khéo như là nói chuyện bâng quơ. Em phải khéo che đậy để người ta không thể đoán được ý muốn của em.",
+      "tts_text": "Thời cơ thật thuận lợi để giúp Perin biết những điều có ích. Em chộp lấy. Tuy nhiên, các câu hỏi của em phải rất khôn khéo như là nói chuyện bâng quơ. Em phải khéo che đậy để người ta không thể đoán được ý muốn của em.",
+      "sentences": [
+        {
+          "sent_id": "id_228",
+          "smil_sid": "sid_228",
+          "p_id": "c7_p93",
+          "seq_id": "seq_93",
+          "source_text": "Thời cơ thật thuận lợi để giúp Perin biết những điều có ích.",
+          "tts_text": "Thời cơ thật thuận lợi để giúp Perin biết những điều có ích."
+        },
+        {
+          "sent_id": "id_229",
+          "smil_sid": "sid_229",
+          "p_id": "c7_p93",
+          "seq_id": "seq_93",
+          "source_text": "Em chộp lấy.",
+          "tts_text": "Em chộp lấy."
+        },
+        {
+          "sent_id": "id_230",
+          "smil_sid": "sid_230",
+          "p_id": "c7_p93",
+          "seq_id": "seq_93",
+          "source_text": "Tuy nhiên, các câu hỏi của em phải rất khôn khéo như là nói chuyện bâng quơ.",
+          "tts_text": "Tuy nhiên, các câu hỏi của em phải rất khôn khéo như là nói chuyện bâng quơ."
+        },
+        {
+          "sent_id": "id_231",
+          "smil_sid": "sid_231",
+          "p_id": "c7_p93",
+          "seq_id": "seq_93",
+          "source_text": "Em phải khéo che đậy để người ta không thể đoán được ý muốn của em.",
+          "tts_text": "Em phải khéo che đậy để người ta không thể đoán được ý muốn của em."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p94_chunk_01",
+      "p_id": "c7_p94",
+      "start": 868.37,
+      "speech_end": 870.13,
+      "end": 870.3,
+      "pause_after_ms": 170,
+      "source_text": "- Chị sinh ra ở Marôcua?",
+      "tts_text": "- Chị sinh ra ở Marôcua?",
+      "sentences": [
+        {
+          "sent_id": "id_232",
+          "smil_sid": "sid_232",
+          "p_id": "c7_p94",
+          "seq_id": "seq_94",
+          "source_text": "- Chị sinh ra ở Marôcua?",
+          "tts_text": "- Chị sinh ra ở Marôcua?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p95_chunk_01",
+      "p_id": "c7_p95",
+      "start": 870.3,
+      "speech_end": 875.5,
+      "end": 875.67,
+      "pause_after_ms": 170,
+      "source_text": "- Tôi sinh ra ở đây, đúng thế! Mẹ tôi cũng thế. Bố tôi là người Píchkynhi.",
+      "tts_text": "- Tôi sinh ra ở đây, đúng thế! Mẹ tôi cũng thế. Bố tôi là người Píchkynhi.",
+      "sentences": [
+        {
+          "sent_id": "id_233",
+          "smil_sid": "sid_233",
+          "p_id": "c7_p95",
+          "seq_id": "seq_95",
+          "source_text": "- Tôi sinh ra ở đây, đúng thế!",
+          "tts_text": "- Tôi sinh ra ở đây, đúng thế!"
+        },
+        {
+          "sent_id": "id_234",
+          "smil_sid": "sid_234",
+          "p_id": "c7_p95",
+          "seq_id": "seq_95",
+          "source_text": "Mẹ tôi cũng thế.",
+          "tts_text": "Mẹ tôi cũng thế."
+        },
+        {
+          "sent_id": "id_235",
+          "smil_sid": "sid_235",
+          "p_id": "c7_p95",
+          "seq_id": "seq_95",
+          "source_text": "Bố tôi là người Píchkynhi.",
+          "tts_text": "Bố tôi là người Píchkynhi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p96_chunk_01",
+      "p_id": "c7_p96",
+      "start": 875.67,
+      "speech_end": 877.51,
+      "end": 877.68,
+      "pause_after_ms": 170,
+      "source_text": "- Bố mẹ chị không còn nữa sao?",
+      "tts_text": "- Bố mẹ chị không còn nữa sao?",
+      "sentences": [
+        {
+          "sent_id": "id_236",
+          "smil_sid": "sid_236",
+          "p_id": "c7_p96",
+          "seq_id": "seq_96",
+          "source_text": "- Bố mẹ chị không còn nữa sao?",
+          "tts_text": "- Bố mẹ chị không còn nữa sao?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p97_chunk_01",
+      "p_id": "c7_p97",
+      "start": 877.68,
+      "speech_end": 881.36,
+      "end": 881.53,
+      "pause_after_ms": 170,
+      "source_text": "- Ừ, tôi sống với bà. Bà tôi có một tiệm tạp hóa!",
+      "tts_text": "- Ừ, tôi sống với bà. Bà tôi có một tiệm tạp hóa!",
+      "sentences": [
+        {
+          "sent_id": "id_237",
+          "smil_sid": "sid_237",
+          "p_id": "c7_p97",
+          "seq_id": "seq_97",
+          "source_text": "- Ừ, tôi sống với bà.",
+          "tts_text": "- Ừ, tôi sống với bà."
+        },
+        {
+          "sent_id": "id_238",
+          "smil_sid": "sid_238",
+          "p_id": "c7_p97",
+          "seq_id": "seq_97",
+          "source_text": "Bà tôi có một tiệm tạp hóa!",
+          "tts_text": "Bà tôi có một tiệm tạp hóa!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p98_chunk_01",
+      "p_id": "c7_p98",
+      "start": 881.53,
+      "speech_end": 883.05,
+      "end": 883.22,
+      "pause_after_ms": 170,
+      "source_text": "- Bà Prăngxoadơ?",
+      "tts_text": "- Bà Prăngxoadơ?",
+      "sentences": [
+        {
+          "sent_id": "id_239",
+          "smil_sid": "sid_239",
+          "p_id": "c7_p98",
+          "seq_id": "seq_98",
+          "source_text": "- Bà Prăngxoadơ?",
+          "tts_text": "- Bà Prăngxoadơ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p99_chunk_01",
+      "p_id": "c7_p99",
+      "start": 883.22,
+      "speech_end": 884.34,
+      "end": 884.51,
+      "pause_after_ms": 170,
+      "source_text": "- Chị biết bà tôi?",
+      "tts_text": "- Chị biết bà tôi?",
+      "sentences": [
+        {
+          "sent_id": "id_240",
+          "smil_sid": "sid_240",
+          "p_id": "c7_p99",
+          "seq_id": "seq_99",
+          "source_text": "- Chị biết bà tôi?",
+          "tts_text": "- Chị biết bà tôi?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p100_chunk_01",
+      "p_id": "c7_p100",
+      "start": 884.51,
+      "speech_end": 887.95,
+      "end": 888.12,
+      "pause_after_ms": 170,
+      "source_text": "- Không… tôi chỉ nói – A, bà Prăngxoadơ thôi mà.",
+      "tts_text": "- Không… tôi chỉ nói – A, bà Prăngxoadơ thôi mà.",
+      "sentences": [
+        {
+          "sent_id": "id_241",
+          "smil_sid": "sid_241",
+          "p_id": "c7_p100",
+          "seq_id": "seq_100",
+          "source_text": "- Không… tôi chỉ nói – A, bà Prăngxoadơ thôi mà.",
+          "tts_text": "- Không… tôi chỉ nói – A, bà Prăngxoadơ thôi mà."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p101_chunk_01",
+      "p_id": "c7_p101",
+      "start": 888.12,
+      "speech_end": 901.48,
+      "end": 901.65,
+      "pause_after_ms": 170,
+      "source_text": "- Cả xứ này ai cũng biết bà tôi bởi vì bà tôi có cửa hiệu mà cũng vì bà là nhũ mẫu của ông Étmông Panhđavoan. Khi người ta muốn yêu cầu ông Vunphran cái gì, người ta thường đến nói với bà tôi.",
+      "tts_text": "- Cả xứ này ai cũng biết bà tôi bởi vì bà tôi có cửa hiệu mà cũng vì bà là nhũ mẫu của ông Étmông Panhđavoan. Khi người ta muốn yêu cầu ông Vunphran cái gì, người ta thường đến nói với bà tôi.",
+      "sentences": [
+        {
+          "sent_id": "id_242",
+          "smil_sid": "sid_242",
+          "p_id": "c7_p101",
+          "seq_id": "seq_101",
+          "source_text": "- Cả xứ này ai cũng biết bà tôi bởi vì bà tôi có cửa hiệu mà cũng vì bà là nhũ mẫu của ông Étmông Panhđavoan.",
+          "tts_text": "- Cả xứ này ai cũng biết bà tôi bởi vì bà tôi có cửa hiệu mà cũng vì bà là nhũ mẫu của ông Étmông Panhđavoan."
+        },
+        {
+          "sent_id": "id_243",
+          "smil_sid": "sid_243",
+          "p_id": "c7_p101",
+          "seq_id": "seq_101",
+          "source_text": "Khi người ta muốn yêu cầu ông Vunphran cái gì, người ta thường đến nói với bà tôi.",
+          "tts_text": "Khi người ta muốn yêu cầu ông Vunphran cái gì, người ta thường đến nói với bà tôi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p102_chunk_01",
+      "p_id": "c7_p102",
+      "start": 901.65,
+      "speech_end": 903.17,
+      "end": 903.34,
+      "pause_after_ms": 170,
+      "source_text": "- Bà giúp được người ta chứ?",
+      "tts_text": "- Bà giúp được người ta chứ?",
+      "sentences": [
+        {
+          "sent_id": "id_244",
+          "smil_sid": "sid_244",
+          "p_id": "c7_p102",
+          "seq_id": "seq_102",
+          "source_text": "- Bà giúp được người ta chứ?",
+          "tts_text": "- Bà giúp được người ta chứ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p103_chunk_01",
+      "p_id": "c7_p103",
+      "start": 903.34,
+      "speech_end": 908.86,
+      "end": 909.03,
+      "pause_after_ms": 170,
+      "source_text": "- Cũng có khi được, có khi không. Ông Vunphran không phải lúc nào cũng dễ tính!",
+      "tts_text": "- Cũng có khi được, có khi không. Ông Vunphran không phải lúc nào cũng dễ tính!",
+      "sentences": [
+        {
+          "sent_id": "id_245",
+          "smil_sid": "sid_245",
+          "p_id": "c7_p103",
+          "seq_id": "seq_103",
+          "source_text": "- Cũng có khi được, có khi không.",
+          "tts_text": "- Cũng có khi được, có khi không."
+        },
+        {
+          "sent_id": "id_246",
+          "smil_sid": "sid_246",
+          "p_id": "c7_p103",
+          "seq_id": "seq_103",
+          "source_text": "Ông Vunphran không phải lúc nào cũng dễ tính!",
+          "tts_text": "Ông Vunphran không phải lúc nào cũng dễ tính!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p104_chunk_01",
+      "p_id": "c7_p104",
+      "start": 909.03,
+      "speech_end": 913.51,
+      "end": 913.68,
+      "pause_after_ms": 170,
+      "source_text": "- Bà là nhũ mẫu của ông Étmông, tại sao bà không nói thẳng với ông ta?",
+      "tts_text": "- Bà là nhũ mẫu của ông Étmông, tại sao bà không nói thẳng với ông ta?",
+      "sentences": [
+        {
+          "sent_id": "id_247",
+          "smil_sid": "sid_247",
+          "p_id": "c7_p104",
+          "seq_id": "seq_104",
+          "source_text": "- Bà là nhũ mẫu của ông Étmông, tại sao bà không nói thẳng với ông ta?",
+          "tts_text": "- Bà là nhũ mẫu của ông Étmông, tại sao bà không nói thẳng với ông ta?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p105_chunk_01",
+      "p_id": "c7_p105",
+      "start": 913.68,
+      "speech_end": 933.25,
+      "end": 933.42,
+      "pause_after_ms": 170,
+      "source_text": "- Nói với ông Étmông Panhđavoan ư! Ông ấy đã đi khỏi xứ này trước khi tôi ra đời! Người ta không hề gặp ông ấy. Ông bố, ông con giận nhau về công việc kinh doanh. Ông con được phái qua Ấn Độ để mua đay. À! Nhưng chị chưa biết xưởng suốt, chắc chị cũng chưa biết cây đay.",
+      "tts_text": "- Nói với ông Étmông Panhđavoan ư! Ông ấy đã đi khỏi xứ này trước khi tôi ra đời! Người ta không hề gặp ông ấy. Ông bố, ông con giận nhau về công việc kinh doanh. Ông con được phái qua Ấn Độ để mua đay. À! Nhưng chị chưa biết xưởng suốt, chắc chị cũng chưa biết cây đay.",
+      "sentences": [
+        {
+          "sent_id": "id_248",
+          "smil_sid": "sid_248",
+          "p_id": "c7_p105",
+          "seq_id": "seq_105",
+          "source_text": "- Nói với ông Étmông Panhđavoan ư!",
+          "tts_text": "- Nói với ông Étmông Panhđavoan ư!"
+        },
+        {
+          "sent_id": "id_249",
+          "smil_sid": "sid_249",
+          "p_id": "c7_p105",
+          "seq_id": "seq_105",
+          "source_text": "Ông ấy đã đi khỏi xứ này trước khi tôi ra đời!",
+          "tts_text": "Ông ấy đã đi khỏi xứ này trước khi tôi ra đời!"
+        },
+        {
+          "sent_id": "id_250",
+          "smil_sid": "sid_250",
+          "p_id": "c7_p105",
+          "seq_id": "seq_105",
+          "source_text": "Người ta không hề gặp ông ấy.",
+          "tts_text": "Người ta không hề gặp ông ấy."
+        },
+        {
+          "sent_id": "id_251",
+          "smil_sid": "sid_251",
+          "p_id": "c7_p105",
+          "seq_id": "seq_105",
+          "source_text": "Ông bố, ông con giận nhau về công việc kinh doanh.",
+          "tts_text": "Ông bố, ông con giận nhau về công việc kinh doanh."
+        },
+        {
+          "sent_id": "id_252",
+          "smil_sid": "sid_252",
+          "p_id": "c7_p105",
+          "seq_id": "seq_105",
+          "source_text": "Ông con được phái qua Ấn Độ để mua đay.",
+          "tts_text": "Ông con được phái qua Ấn Độ để mua đay."
+        },
+        {
+          "sent_id": "id_253",
+          "smil_sid": "sid_253",
+          "p_id": "c7_p105",
+          "seq_id": "seq_105",
+          "source_text": "À!",
+          "tts_text": "À!"
+        },
+        {
+          "sent_id": "id_254",
+          "smil_sid": "sid_254",
+          "p_id": "c7_p105",
+          "seq_id": "seq_105",
+          "source_text": "Nhưng chị chưa biết xưởng suốt, chắc chị cũng chưa biết cây đay.",
+          "tts_text": "Nhưng chị chưa biết xưởng suốt, chắc chị cũng chưa biết cây đay."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p106_chunk_01",
+      "p_id": "c7_p106",
+      "start": 933.42,
+      "speech_end": 934.38,
+      "end": 934.55,
+      "pause_after_ms": 170,
+      "source_text": "- Một loại cỏ?",
+      "tts_text": "- Một loại cỏ?",
+      "sentences": [
+        {
+          "sent_id": "id_255",
+          "smil_sid": "sid_255",
+          "p_id": "c7_p106",
+          "seq_id": "seq_106",
+          "source_text": "- Một loại cỏ?",
+          "tts_text": "- Một loại cỏ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p107_chunk_01",
+      "p_id": "c7_p107",
+      "start": 934.55,
+      "speech_end": 954.98,
+      "end": 955.15,
+      "pause_after_ms": 170,
+      "source_text": "- Một loại cây gai, thứ lớn người ta thu hoạch ở Ấn Độ, rồi người ta kéo sợi, dệt, nhuộm trong các xưởng ở Marôcua. Chính là cây đay đã cho ông Vunphran cả một gia tài. Chị biết không, trước kia, ông cũng chẳng giàu có gì đâu! Ông ta cũng phải đánh xe chở chỉ và những tấm vải của dân địa phương dệt ở gia đình!",
+      "tts_text": "- Một loại cây gai, thứ lớn người ta thu hoạch ở Ấn Độ, rồi người ta kéo sợi, dệt, nhuộm trong các xưởng ở Marôcua. Chính là cây đay đã cho ông Vunphran cả một gia tài. Chị biết không, trước kia, ông cũng chẳng giàu có gì đâu! Ông ta cũng phải đánh xe chở chỉ và những tấm vải của dân địa phương dệt ở gia đình!",
+      "sentences": [
+        {
+          "sent_id": "id_256",
+          "smil_sid": "sid_256",
+          "p_id": "c7_p107",
+          "seq_id": "seq_107",
+          "source_text": "- Một loại cây gai, thứ lớn người ta thu hoạch ở Ấn Độ, rồi người ta kéo sợi, dệt, nhuộm trong các xưởng ở Marôcua.",
+          "tts_text": "- Một loại cây gai, thứ lớn người ta thu hoạch ở Ấn Độ, rồi người ta kéo sợi, dệt, nhuộm trong các xưởng ở Marôcua."
+        },
+        {
+          "sent_id": "id_257",
+          "smil_sid": "sid_257",
+          "p_id": "c7_p107",
+          "seq_id": "seq_107",
+          "source_text": "Chính là cây đay đã cho ông Vunphran cả một gia tài.",
+          "tts_text": "Chính là cây đay đã cho ông Vunphran cả một gia tài."
+        },
+        {
+          "sent_id": "id_258",
+          "smil_sid": "sid_258",
+          "p_id": "c7_p107",
+          "seq_id": "seq_107",
+          "source_text": "Chị biết không, trước kia, ông cũng chẳng giàu có gì đâu!",
+          "tts_text": "Chị biết không, trước kia, ông cũng chẳng giàu có gì đâu!"
+        },
+        {
+          "sent_id": "id_259",
+          "smil_sid": "sid_259",
+          "p_id": "c7_p107",
+          "seq_id": "seq_107",
+          "source_text": "Ông ta cũng phải đánh xe chở chỉ và những tấm vải của dân địa phương dệt ở gia đình!",
+          "tts_text": "Ông ta cũng phải đánh xe chở chỉ và những tấm vải của dân địa phương dệt ở gia đình!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p108_chunk_01",
+      "p_id": "c7_p108",
+      "start": 955.15,
+      "speech_end": 959.31,
+      "end": 959.48,
+      "pause_after_ms": 170,
+      "source_text": "- Tôi nói với chị điều này bởi vì ông ta không hề giấu giếm chuyện ấy.",
+      "tts_text": "- Tôi nói với chị điều này bởi vì ông ta không hề giấu giếm chuyện ấy.",
+      "sentences": [
+        {
+          "sent_id": "id_260",
+          "smil_sid": "sid_260",
+          "p_id": "c7_p108",
+          "seq_id": "seq_108",
+          "source_text": "- Tôi nói với chị điều này bởi vì ông ta không hề giấu giếm chuyện ấy.",
+          "tts_text": "- Tôi nói với chị điều này bởi vì ông ta không hề giấu giếm chuyện ấy."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p109_chunk_01",
+      "p_id": "c7_p109",
+      "start": 959.48,
+      "speech_end": 960.6,
+      "end": 960.77,
+      "pause_after_ms": 170,
+      "source_text": "Cô gái dừng lại:",
+      "tts_text": "Cô gái dừng lại:",
+      "sentences": [
+        {
+          "sent_id": "id_261",
+          "smil_sid": "sid_261",
+          "p_id": "c7_p109",
+          "seq_id": "seq_109",
+          "source_text": "Cô gái dừng lại:",
+          "tts_text": "Cô gái dừng lại:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p110_chunk_01",
+      "p_id": "c7_p110",
+      "start": 960.77,
+      "speech_end": 962.05,
+      "end": 962.22,
+      "pause_after_ms": 170,
+      "source_text": "- Chúng ta đổi tay nhé?",
+      "tts_text": "- Chúng ta đổi tay nhé?",
+      "sentences": [
+        {
+          "sent_id": "id_262",
+          "smil_sid": "sid_262",
+          "p_id": "c7_p110",
+          "seq_id": "seq_110",
+          "source_text": "- Chúng ta đổi tay nhé?",
+          "tts_text": "- Chúng ta đổi tay nhé?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p111_chunk_01",
+      "p_id": "c7_p111",
+      "start": 962.22,
+      "speech_end": 964.06,
+      "end": 964.23,
+      "pause_after_ms": 170,
+      "source_text": "- Tùy ý chị, chị… tên gì?",
+      "tts_text": "- Tùy ý chị, chị… tên gì?",
+      "sentences": [
+        {
+          "sent_id": "id_263",
+          "smil_sid": "sid_263",
+          "p_id": "c7_p111",
+          "seq_id": "seq_111",
+          "source_text": "- Tùy ý chị, chị… tên gì?",
+          "tts_text": "- Tùy ý chị, chị… tên gì?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p112_chunk_01",
+      "p_id": "c7_p112",
+      "start": 964.23,
+      "speech_end": 965.03,
+      "end": 965.2,
+      "pause_after_ms": 170,
+      "source_text": "- Rôdali.",
+      "tts_text": "- Rôdali.",
+      "sentences": [
+        {
+          "sent_id": "id_264",
+          "smil_sid": "sid_264",
+          "p_id": "c7_p112",
+          "seq_id": "seq_112",
+          "source_text": "- Rôdali.",
+          "tts_text": "- Rôdali."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p113_chunk_01",
+      "p_id": "c7_p113",
+      "start": 965.2,
+      "speech_end": 967.28,
+      "end": 967.45,
+      "pause_after_ms": 170,
+      "source_text": "- Tùy ý chị, chị Rôdali ạ.",
+      "tts_text": "- Tùy ý chị, chị Rôdali ạ.",
+      "sentences": [
+        {
+          "sent_id": "id_265",
+          "smil_sid": "sid_265",
+          "p_id": "c7_p113",
+          "seq_id": "seq_113",
+          "source_text": "- Tùy ý chị, chị Rôdali ạ.",
+          "tts_text": "- Tùy ý chị, chị Rôdali ạ."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p114_chunk_01",
+      "p_id": "c7_p114",
+      "start": 967.45,
+      "speech_end": 968.49,
+      "end": 968.66,
+      "pause_after_ms": 170,
+      "source_text": "- Còn tên chị?",
+      "tts_text": "- Còn tên chị?",
+      "sentences": [
+        {
+          "sent_id": "id_266",
+          "smil_sid": "sid_266",
+          "p_id": "c7_p114",
+          "seq_id": "seq_114",
+          "source_text": "- Còn tên chị?",
+          "tts_text": "- Còn tên chị?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p115_chunk_01",
+      "p_id": "c7_p115",
+      "start": 968.66,
+      "speech_end": 971.3,
+      "end": 971.47,
+      "pause_after_ms": 170,
+      "source_text": "Perin không muốn nói tên thật, bèn đáp:",
+      "tts_text": "Perin không muốn nói tên thật, bèn đáp:",
+      "sentences": [
+        {
+          "sent_id": "id_267",
+          "smil_sid": "sid_267",
+          "p_id": "c7_p115",
+          "seq_id": "seq_115",
+          "source_text": "Perin không muốn nói tên thật, bèn đáp:",
+          "tts_text": "Perin không muốn nói tên thật, bèn đáp:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p116_chunk_01",
+      "p_id": "c7_p116",
+      "start": 971.47,
+      "speech_end": 972.27,
+      "end": 972.44,
+      "pause_after_ms": 170,
+      "source_text": "- Ôrêli.",
+      "tts_text": "- Ôrêli.",
+      "sentences": [
+        {
+          "sent_id": "id_268",
+          "smil_sid": "sid_268",
+          "p_id": "c7_p116",
+          "seq_id": "seq_116",
+          "source_text": "- Ôrêli.",
+          "tts_text": "- Ôrêli."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p117_chunk_01",
+      "p_id": "c7_p117",
+      "start": 972.44,
+      "speech_end": 974.92,
+      "end": 975.09,
+      "pause_after_ms": 170,
+      "source_text": "- Chúng ta đổi tay, chị Ôrêli nhé.",
+      "tts_text": "- Chúng ta đổi tay, chị Ôrêli nhé.",
+      "sentences": [
+        {
+          "sent_id": "id_269",
+          "smil_sid": "sid_269",
+          "p_id": "c7_p117",
+          "seq_id": "seq_117",
+          "source_text": "- Chúng ta đổi tay, chị Ôrêli nhé.",
+          "tts_text": "- Chúng ta đổi tay, chị Ôrêli nhé."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p118_chunk_01",
+      "p_id": "c7_p118",
+      "start": 975.09,
+      "speech_end": 982.29,
+      "end": 982.46,
+      "pause_after_ms": 170,
+      "source_text": "Nghỉ ngơi một lát, họ lại đi, với nhịp bước đều đều. Perin trở lại ngay câu chuyện mà em đang quan tâm.",
+      "tts_text": "Nghỉ ngơi một lát, họ lại đi, với nhịp bước đều đều. Perin trở lại ngay câu chuyện mà em đang quan tâm.",
+      "sentences": [
+        {
+          "sent_id": "id_270",
+          "smil_sid": "sid_270",
+          "p_id": "c7_p118",
+          "seq_id": "seq_118",
+          "source_text": "Nghỉ ngơi một lát, họ lại đi, với nhịp bước đều đều.",
+          "tts_text": "Nghỉ ngơi một lát, họ lại đi, với nhịp bước đều đều."
+        },
+        {
+          "sent_id": "id_271",
+          "smil_sid": "sid_271",
+          "p_id": "c7_p118",
+          "seq_id": "seq_118",
+          "source_text": "Perin trở lại ngay câu chuyện mà em đang quan tâm.",
+          "tts_text": "Perin trở lại ngay câu chuyện mà em đang quan tâm."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p119_chunk_01",
+      "p_id": "c7_p119",
+      "start": 982.46,
+      "speech_end": 986.38,
+      "end": 986.55,
+      "pause_after_ms": 170,
+      "source_text": "- Chị vừa nói ông Étmông giận ông bố nên đã ra đi…",
+      "tts_text": "- Chị vừa nói ông Étmông giận ông bố nên đã ra đi…",
+      "sentences": [
+        {
+          "sent_id": "id_272",
+          "smil_sid": "sid_272",
+          "p_id": "c7_p119",
+          "seq_id": "seq_119",
+          "source_text": "- Chị vừa nói ông Étmông giận ông bố nên đã ra đi…",
+          "tts_text": "- Chị vừa nói ông Étmông giận ông bố nên đã ra đi…"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p120_chunk_01",
+      "p_id": "c7_p120",
+      "start": 986.55,
+      "speech_end": 1037.49,
+      "end": 1037.66,
+      "pause_after_ms": 170,
+      "source_text": "- Và đi đến Ấn Độ thì cha con họ lại giận nhau ghê lắm! Ông Étmông lấy một cô gái địa phương. Cuộc hôn nhân ấy không được ông bố thừa nhận. Trong lúc đó, ở đây ông Vunphran muốn con trai cưới một cô tiểu thư gia đình danh giá nhất xứ Picácđi này. Ông đã chuẩn bị cho cái đám cưới ấy, xây dựng tòa lâu đài cho con trai và con dâu ở, tốn hàng triệu, hàng triệu. Bất chấp tất cả, ông Étmông không muốn bỏ bà vợ bên ấy để lấy cô tiểu thư bên này! Bố con họ giận nhau kịch liệt đến nỗi ngày nay, người ta không biết ông Étmông còn sống hay đã chết. Có người nói thế này, kẻ nói thế nọ. Đã bao nhiêu năm người ta không biết gì hết vì không nhận được tin tức… theo như họ kể. ông Vunphran không nói chuyện với ai. Những người cháu của ông cũng không nói gì cả!",
+      "tts_text": "- Và đi đến Ấn Độ thì cha con họ lại giận nhau ghê lắm! Ông Étmông lấy một cô gái địa phương. Cuộc hôn nhân ấy không được ông bố thừa nhận. Trong lúc đó, ở đây ông Vunphran muốn con trai cưới một cô tiểu thư gia đình danh giá nhất xứ Picácđi này. Ông đã chuẩn bị cho cái đám cưới ấy, xây dựng tòa lâu đài cho con trai và con dâu ở, tốn hàng triệu, hàng triệu. Bất chấp tất cả, ông Étmông không muốn bỏ bà vợ bên ấy để lấy cô tiểu thư bên này! Bố con họ giận nhau kịch liệt đến nỗi ngày nay, người ta không biết ông Étmông còn sống hay đã chết. Có người nói thế này, kẻ nói thế nọ. Đã bao nhiêu năm người ta không biết gì hết vì không nhận được tin tức… theo như họ kể. ông Vunphran không nói chuyện với ai. Những người cháu của ông cũng không nói gì cả!",
+      "sentences": [
+        {
+          "sent_id": "id_273",
+          "smil_sid": "sid_273",
+          "p_id": "c7_p120",
+          "seq_id": "seq_120",
+          "source_text": "- Và đi đến Ấn Độ thì cha con họ lại giận nhau ghê lắm!",
+          "tts_text": "- Và đi đến Ấn Độ thì cha con họ lại giận nhau ghê lắm!"
+        },
+        {
+          "sent_id": "id_274",
+          "smil_sid": "sid_274",
+          "p_id": "c7_p120",
+          "seq_id": "seq_120",
+          "source_text": "Ông Étmông lấy một cô gái địa phương.",
+          "tts_text": "Ông Étmông lấy một cô gái địa phương."
+        },
+        {
+          "sent_id": "id_275",
+          "smil_sid": "sid_275",
+          "p_id": "c7_p120",
+          "seq_id": "seq_120",
+          "source_text": "Cuộc hôn nhân ấy không được ông bố thừa nhận.",
+          "tts_text": "Cuộc hôn nhân ấy không được ông bố thừa nhận."
+        },
+        {
+          "sent_id": "id_276",
+          "smil_sid": "sid_276",
+          "p_id": "c7_p120",
+          "seq_id": "seq_120",
+          "source_text": "Trong lúc đó, ở đây ông Vunphran muốn con trai cưới một cô tiểu thư gia đình danh giá nhất xứ Picácđi này.",
+          "tts_text": "Trong lúc đó, ở đây ông Vunphran muốn con trai cưới một cô tiểu thư gia đình danh giá nhất xứ Picácđi này."
+        },
+        {
+          "sent_id": "id_277",
+          "smil_sid": "sid_277",
+          "p_id": "c7_p120",
+          "seq_id": "seq_120",
+          "source_text": "Ông đã chuẩn bị cho cái đám cưới ấy, xây dựng tòa lâu đài cho con trai và con dâu ở, tốn hàng triệu, hàng triệu.",
+          "tts_text": "Ông đã chuẩn bị cho cái đám cưới ấy, xây dựng tòa lâu đài cho con trai và con dâu ở, tốn hàng triệu, hàng triệu."
+        },
+        {
+          "sent_id": "id_278",
+          "smil_sid": "sid_278",
+          "p_id": "c7_p120",
+          "seq_id": "seq_120",
+          "source_text": "Bất chấp tất cả, ông Étmông không muốn bỏ bà vợ bên ấy để lấy cô tiểu thư bên này!",
+          "tts_text": "Bất chấp tất cả, ông Étmông không muốn bỏ bà vợ bên ấy để lấy cô tiểu thư bên này!"
+        },
+        {
+          "sent_id": "id_279",
+          "smil_sid": "sid_279",
+          "p_id": "c7_p120",
+          "seq_id": "seq_120",
+          "source_text": "Bố con họ giận nhau kịch liệt đến nỗi ngày nay, người ta không biết ông Étmông còn sống hay đã chết.",
+          "tts_text": "Bố con họ giận nhau kịch liệt đến nỗi ngày nay, người ta không biết ông Étmông còn sống hay đã chết."
+        },
+        {
+          "sent_id": "id_280",
+          "smil_sid": "sid_280",
+          "p_id": "c7_p120",
+          "seq_id": "seq_120",
+          "source_text": "Có người nói thế này, kẻ nói thế nọ.",
+          "tts_text": "Có người nói thế này, kẻ nói thế nọ."
+        },
+        {
+          "sent_id": "id_281",
+          "smil_sid": "sid_281",
+          "p_id": "c7_p120",
+          "seq_id": "seq_120",
+          "source_text": "Đã bao nhiêu năm người ta không biết gì hết vì không nhận được tin tức… theo như họ kể. ông Vunphran không nói chuyện với ai.",
+          "tts_text": "Đã bao nhiêu năm người ta không biết gì hết vì không nhận được tin tức… theo như họ kể. ông Vunphran không nói chuyện với ai."
+        },
+        {
+          "sent_id": "id_282",
+          "smil_sid": "sid_282",
+          "p_id": "c7_p120",
+          "seq_id": "seq_120",
+          "source_text": "Những người cháu của ông cũng không nói gì cả!",
+          "tts_text": "Những người cháu của ông cũng không nói gì cả!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p121_chunk_01",
+      "p_id": "c7_p121",
+      "start": 1037.66,
+      "speech_end": 1039.34,
+      "end": 1039.51,
+      "pause_after_ms": 170,
+      "source_text": "- Ông Vunphran có cháu?",
+      "tts_text": "- Ông Vunphran có cháu?",
+      "sentences": [
+        {
+          "sent_id": "id_283",
+          "smil_sid": "sid_283",
+          "p_id": "c7_p121",
+          "seq_id": "seq_121",
+          "source_text": "- Ông Vunphran có cháu?",
+          "tts_text": "- Ông Vunphran có cháu?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p122_chunk_01",
+      "p_id": "c7_p122",
+      "start": 1039.51,
+      "speech_end": 1054.23,
+      "end": 1054.4,
+      "pause_after_ms": 170,
+      "source_text": "- Ông Têôđo Panhđavoan con ông anh và ông Casimia Brơtônơ, con bà chị. Ông Vunphran nhận họ để giúp ông. Cái gia tài và tất cả các nhà máy sẽ là của họ, nếu ông Étmông không trở về!",
+      "tts_text": "- Ông Têôđo Panhđavoan con ông anh và ông Casimia Brơtônơ, con bà chị. Ông Vunphran nhận họ để giúp ông. Cái gia tài và tất cả các nhà máy sẽ là của họ, nếu ông Étmông không trở về!",
+      "sentences": [
+        {
+          "sent_id": "id_284",
+          "smil_sid": "sid_284",
+          "p_id": "c7_p122",
+          "seq_id": "seq_122",
+          "source_text": "- Ông Têôđo Panhđavoan con ông anh và ông Casimia Brơtônơ, con bà chị.",
+          "tts_text": "- Ông Têôđo Panhđavoan con ông anh và ông Casimia Brơtônơ, con bà chị."
+        },
+        {
+          "sent_id": "id_285",
+          "smil_sid": "sid_285",
+          "p_id": "c7_p122",
+          "seq_id": "seq_122",
+          "source_text": "Ông Vunphran nhận họ để giúp ông.",
+          "tts_text": "Ông Vunphran nhận họ để giúp ông."
+        },
+        {
+          "sent_id": "id_286",
+          "smil_sid": "sid_286",
+          "p_id": "c7_p122",
+          "seq_id": "seq_122",
+          "source_text": "Cái gia tài và tất cả các nhà máy sẽ là của họ, nếu ông Étmông không trở về!",
+          "tts_text": "Cái gia tài và tất cả các nhà máy sẽ là của họ, nếu ông Étmông không trở về!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p123_chunk_01",
+      "p_id": "c7_p123",
+      "start": 1054.4,
+      "speech_end": 1055.44,
+      "end": 1055.61,
+      "pause_after_ms": 170,
+      "source_text": "- Câu chuyện lạ thật!",
+      "tts_text": "- Câu chuyện lạ thật!",
+      "sentences": [
+        {
+          "sent_id": "id_287",
+          "smil_sid": "sid_287",
+          "p_id": "c7_p123",
+          "seq_id": "seq_123",
+          "source_text": "- Câu chuyện lạ thật!",
+          "tts_text": "- Câu chuyện lạ thật!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p124_chunk_01",
+      "p_id": "c7_p124",
+      "start": 1055.61,
+      "speech_end": 1058.65,
+      "end": 1058.82,
+      "pause_after_ms": 170,
+      "source_text": "- Nếu ông Étmông không trở về thì thật là buồn!",
+      "tts_text": "- Nếu ông Étmông không trở về thì thật là buồn!",
+      "sentences": [
+        {
+          "sent_id": "id_288",
+          "smil_sid": "sid_288",
+          "p_id": "c7_p124",
+          "seq_id": "seq_124",
+          "source_text": "- Nếu ông Étmông không trở về thì thật là buồn!",
+          "tts_text": "- Nếu ông Étmông không trở về thì thật là buồn!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p125_chunk_01",
+      "p_id": "c7_p125",
+      "start": 1058.82,
+      "speech_end": 1059.86,
+      "end": 1060.03,
+      "pause_after_ms": 170,
+      "source_text": "- Cho bố ông ấy?",
+      "tts_text": "- Cho bố ông ấy?",
+      "sentences": [
+        {
+          "sent_id": "id_289",
+          "smil_sid": "sid_289",
+          "p_id": "c7_p125",
+          "seq_id": "seq_125",
+          "source_text": "- Cho bố ông ấy?",
+          "tts_text": "- Cho bố ông ấy?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p126_chunk_01",
+      "p_id": "c7_p126",
+      "start": 1060.03,
+      "speech_end": 1078.86,
+      "end": 1079.03,
+      "pause_after_ms": 170,
+      "source_text": "- Và cũng rất buồn cho tất cả xứ này nữa chứ! Bởi vì người ta không hiểu các nhà máy sẽ hoạt động như thế nào để nuôi sống mọi người khi vào tay các ông cháu? Người ta đã nói nhiều về chuyện ấy. Hôm chủ nhật khi tôi đứng bán hàng ở cửa hiệu cho bà tôi, tôi nghe người ta nói đủ thứ chuyện!",
+      "tts_text": "- Và cũng rất buồn cho tất cả xứ này nữa chứ! Bởi vì người ta không hiểu các nhà máy sẽ hoạt động như thế nào để nuôi sống mọi người khi vào tay các ông cháu? Người ta đã nói nhiều về chuyện ấy. Hôm chủ nhật khi tôi đứng bán hàng ở cửa hiệu cho bà tôi, tôi nghe người ta nói đủ thứ chuyện!",
+      "sentences": [
+        {
+          "sent_id": "id_290",
+          "smil_sid": "sid_290",
+          "p_id": "c7_p126",
+          "seq_id": "seq_126",
+          "source_text": "- Và cũng rất buồn cho tất cả xứ này nữa chứ!",
+          "tts_text": "- Và cũng rất buồn cho tất cả xứ này nữa chứ!"
+        },
+        {
+          "sent_id": "id_291",
+          "smil_sid": "sid_291",
+          "p_id": "c7_p126",
+          "seq_id": "seq_126",
+          "source_text": "Bởi vì người ta không hiểu các nhà máy sẽ hoạt động như thế nào để nuôi sống mọi người khi vào tay các ông cháu?",
+          "tts_text": "Bởi vì người ta không hiểu các nhà máy sẽ hoạt động như thế nào để nuôi sống mọi người khi vào tay các ông cháu?"
+        },
+        {
+          "sent_id": "id_292",
+          "smil_sid": "sid_292",
+          "p_id": "c7_p126",
+          "seq_id": "seq_126",
+          "source_text": "Người ta đã nói nhiều về chuyện ấy.",
+          "tts_text": "Người ta đã nói nhiều về chuyện ấy."
+        },
+        {
+          "sent_id": "id_293",
+          "smil_sid": "sid_293",
+          "p_id": "c7_p126",
+          "seq_id": "seq_126",
+          "source_text": "Hôm chủ nhật khi tôi đứng bán hàng ở cửa hiệu cho bà tôi, tôi nghe người ta nói đủ thứ chuyện!",
+          "tts_text": "Hôm chủ nhật khi tôi đứng bán hàng ở cửa hiệu cho bà tôi, tôi nghe người ta nói đủ thứ chuyện!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p127_chunk_01",
+      "p_id": "c7_p127",
+      "start": 1079.03,
+      "speech_end": 1080.23,
+      "end": 1080.4,
+      "pause_after_ms": 170,
+      "source_text": "- Về những người cháu?",
+      "tts_text": "- Về những người cháu?",
+      "sentences": [
+        {
+          "sent_id": "id_294",
+          "smil_sid": "sid_294",
+          "p_id": "c7_p127",
+          "seq_id": "seq_127",
+          "source_text": "- Về những người cháu?",
+          "tts_text": "- Về những người cháu?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p128_chunk_01",
+      "p_id": "c7_p128",
+      "start": 1080.4,
+      "speech_end": 1086.48,
+      "end": 1086.65,
+      "pause_after_ms": 170,
+      "source_text": "- Ừ, về những người cháu và còn những người khác nữa! Nhưng đó chẳng phải là chuyện của chúng ta.",
+      "tts_text": "- Ừ, về những người cháu và còn những người khác nữa! Nhưng đó chẳng phải là chuyện của chúng ta.",
+      "sentences": [
+        {
+          "sent_id": "id_295",
+          "smil_sid": "sid_295",
+          "p_id": "c7_p128",
+          "seq_id": "seq_128",
+          "source_text": "- Ừ, về những người cháu và còn những người khác nữa!",
+          "tts_text": "- Ừ, về những người cháu và còn những người khác nữa!"
+        },
+        {
+          "sent_id": "id_296",
+          "smil_sid": "sid_296",
+          "p_id": "c7_p128",
+          "seq_id": "seq_128",
+          "source_text": "Nhưng đó chẳng phải là chuyện của chúng ta.",
+          "tts_text": "Nhưng đó chẳng phải là chuyện của chúng ta."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p129_chunk_01",
+      "p_id": "c7_p129",
+      "start": 1086.65,
+      "speech_end": 1087.45,
+      "end": 1087.62,
+      "pause_after_ms": 170,
+      "source_text": "- Đúng thế!",
+      "tts_text": "- Đúng thế!",
+      "sentences": [
+        {
+          "sent_id": "id_297",
+          "smil_sid": "sid_297",
+          "p_id": "c7_p129",
+          "seq_id": "seq_129",
+          "source_text": "- Đúng thế!",
+          "tts_text": "- Đúng thế!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p130_chunk_01",
+      "p_id": "c7_p130",
+      "start": 1087.62,
+      "speech_end": 1097.62,
+      "end": 1097.79,
+      "pause_after_ms": 170,
+      "source_text": "Perin không muốn năn nỉ. Em lặng lẽ đi trong vài phút vì nghĩ rằng Rôdali nhạy miệng sẽ không chần chừ trở lại câu chuyện bỏ dở. Đúng như thế.",
+      "tts_text": "Perin không muốn năn nỉ. Em lặng lẽ đi trong vài phút vì nghĩ rằng Rôdali nhạy miệng sẽ không chần chừ trở lại câu chuyện bỏ dở. Đúng như thế.",
+      "sentences": [
+        {
+          "sent_id": "id_298",
+          "smil_sid": "sid_298",
+          "p_id": "c7_p130",
+          "seq_id": "seq_130",
+          "source_text": "Perin không muốn năn nỉ.",
+          "tts_text": "Perin không muốn năn nỉ."
+        },
+        {
+          "sent_id": "id_299",
+          "smil_sid": "sid_299",
+          "p_id": "c7_p130",
+          "seq_id": "seq_130",
+          "source_text": "Em lặng lẽ đi trong vài phút vì nghĩ rằng Rôdali nhạy miệng sẽ không chần chừ trở lại câu chuyện bỏ dở.",
+          "tts_text": "Em lặng lẽ đi trong vài phút vì nghĩ rằng Rôdali nhạy miệng sẽ không chần chừ trở lại câu chuyện bỏ dở."
+        },
+        {
+          "sent_id": "id_300",
+          "smil_sid": "sid_300",
+          "p_id": "c7_p130",
+          "seq_id": "seq_130",
+          "source_text": "Đúng như thế.",
+          "tts_text": "Đúng như thế."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p131_chunk_01",
+      "p_id": "c7_p131",
+      "start": 1097.79,
+      "speech_end": 1101.31,
+      "end": 1101.48,
+      "pause_after_ms": 170,
+      "source_text": "- Bố mẹ chị cũng sẽ ở Marôcua chứ? – Cô bé hỏi.",
+      "tts_text": "- Bố mẹ chị cũng sẽ ở Marôcua chứ? – Cô bé hỏi.",
+      "sentences": [
+        {
+          "sent_id": "id_301",
+          "smil_sid": "sid_301",
+          "p_id": "c7_p131",
+          "seq_id": "seq_131",
+          "source_text": "- Bố mẹ chị cũng sẽ ở Marôcua chứ?",
+          "tts_text": "- Bố mẹ chị cũng sẽ ở Marôcua chứ?"
+        },
+        {
+          "sent_id": "id_302",
+          "smil_sid": "sid_302",
+          "p_id": "c7_p131",
+          "seq_id": "seq_131",
+          "source_text": "– Cô bé hỏi.",
+          "tts_text": "– Cô bé hỏi."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p132_chunk_01",
+      "p_id": "c7_p132",
+      "start": 1101.48,
+      "speech_end": 1102.84,
+      "end": 1103.01,
+      "pause_after_ms": 170,
+      "source_text": "- Tôi không còn bố mẹ!",
+      "tts_text": "- Tôi không còn bố mẹ!",
+      "sentences": [
+        {
+          "sent_id": "id_303",
+          "smil_sid": "sid_303",
+          "p_id": "c7_p132",
+          "seq_id": "seq_132",
+          "source_text": "- Tôi không còn bố mẹ!",
+          "tts_text": "- Tôi không còn bố mẹ!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p133_chunk_01",
+      "p_id": "c7_p133",
+      "start": 1103.01,
+      "speech_end": 1105.09,
+      "end": 1105.26,
+      "pause_after_ms": 170,
+      "source_text": "- Không còn bố, cũng không có mẹ?",
+      "tts_text": "- Không còn bố, cũng không có mẹ?",
+      "sentences": [
+        {
+          "sent_id": "id_304",
+          "smil_sid": "sid_304",
+          "p_id": "c7_p133",
+          "seq_id": "seq_133",
+          "source_text": "- Không còn bố, cũng không có mẹ?",
+          "tts_text": "- Không còn bố, cũng không có mẹ?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p134_chunk_01",
+      "p_id": "c7_p134",
+      "start": 1105.26,
+      "speech_end": 1107.34,
+      "end": 1107.51,
+      "pause_after_ms": 170,
+      "source_text": "- Không còn bố, cũng không còn mẹ!",
+      "tts_text": "- Không còn bố, cũng không còn mẹ!",
+      "sentences": [
+        {
+          "sent_id": "id_305",
+          "smil_sid": "sid_305",
+          "p_id": "c7_p134",
+          "seq_id": "seq_134",
+          "source_text": "- Không còn bố, cũng không còn mẹ!",
+          "tts_text": "- Không còn bố, cũng không còn mẹ!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p135_chunk_01",
+      "p_id": "c7_p135",
+      "start": 1107.51,
+      "speech_end": 1129.55,
+      "end": 1129.72,
+      "pause_after_ms": 170,
+      "source_text": "- Chị cũng như tôi, nhưng tôi còn có bà ngoại. Bà tôi rất tốt. Bà tôi không muốn trái ý mấy ông cậu, bà dì, nếu không bà tôi còn tuyệt vời hơn nữa! Không có họ, tôi chẳng phải đến xưởng làm việc đâu! Tôi ở lại tiệm tạp hóa. Nhưng bà tôi không làm được cái điều mà bà mong muốn! Còn chị! Chị chỉ có một thân, một mính sao?",
+      "tts_text": "- Chị cũng như tôi, nhưng tôi còn có bà ngoại. Bà tôi rất tốt. Bà tôi không muốn trái ý mấy ông cậu, bà dì, nếu không bà tôi còn tuyệt vời hơn nữa! Không có họ, tôi chẳng phải đến xưởng làm việc đâu! Tôi ở lại tiệm tạp hóa. Nhưng bà tôi không làm được cái điều mà bà mong muốn! Còn chị! Chị chỉ có một thân, một mính sao?",
+      "sentences": [
+        {
+          "sent_id": "id_306",
+          "smil_sid": "sid_306",
+          "p_id": "c7_p135",
+          "seq_id": "seq_135",
+          "source_text": "- Chị cũng như tôi, nhưng tôi còn có bà ngoại.",
+          "tts_text": "- Chị cũng như tôi, nhưng tôi còn có bà ngoại."
+        },
+        {
+          "sent_id": "id_307",
+          "smil_sid": "sid_307",
+          "p_id": "c7_p135",
+          "seq_id": "seq_135",
+          "source_text": "Bà tôi rất tốt.",
+          "tts_text": "Bà tôi rất tốt."
+        },
+        {
+          "sent_id": "id_308",
+          "smil_sid": "sid_308",
+          "p_id": "c7_p135",
+          "seq_id": "seq_135",
+          "source_text": "Bà tôi không muốn trái ý mấy ông cậu, bà dì, nếu không bà tôi còn tuyệt vời hơn nữa!",
+          "tts_text": "Bà tôi không muốn trái ý mấy ông cậu, bà dì, nếu không bà tôi còn tuyệt vời hơn nữa!"
+        },
+        {
+          "sent_id": "id_309",
+          "smil_sid": "sid_309",
+          "p_id": "c7_p135",
+          "seq_id": "seq_135",
+          "source_text": "Không có họ, tôi chẳng phải đến xưởng làm việc đâu!",
+          "tts_text": "Không có họ, tôi chẳng phải đến xưởng làm việc đâu!"
+        },
+        {
+          "sent_id": "id_310",
+          "smil_sid": "sid_310",
+          "p_id": "c7_p135",
+          "seq_id": "seq_135",
+          "source_text": "Tôi ở lại tiệm tạp hóa.",
+          "tts_text": "Tôi ở lại tiệm tạp hóa."
+        },
+        {
+          "sent_id": "id_311",
+          "smil_sid": "sid_311",
+          "p_id": "c7_p135",
+          "seq_id": "seq_135",
+          "source_text": "Nhưng bà tôi không làm được cái điều mà bà mong muốn!",
+          "tts_text": "Nhưng bà tôi không làm được cái điều mà bà mong muốn!"
+        },
+        {
+          "sent_id": "id_312",
+          "smil_sid": "sid_312",
+          "p_id": "c7_p135",
+          "seq_id": "seq_135",
+          "source_text": "Còn chị!",
+          "tts_text": "Còn chị!"
+        },
+        {
+          "sent_id": "id_313",
+          "smil_sid": "sid_313",
+          "p_id": "c7_p135",
+          "seq_id": "seq_135",
+          "source_text": "Chị chỉ có một thân, một mính sao?",
+          "tts_text": "Chị chỉ có một thân, một mính sao?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p136_chunk_01",
+      "p_id": "c7_p136",
+      "start": 1129.72,
+      "speech_end": 1132.92,
+      "end": 1133.09,
+      "pause_after_ms": 170,
+      "source_text": "- Và chị có ý nghĩ rời Paris đến Marôcua?",
+      "tts_text": "- Và chị có ý nghĩ rời Paris đến Marôcua?",
+      "sentences": [
+        {
+          "sent_id": "id_314",
+          "smil_sid": "sid_314",
+          "p_id": "c7_p136",
+          "seq_id": "seq_136",
+          "source_text": "- Và chị có ý nghĩ rời Paris đến Marôcua?",
+          "tts_text": "- Và chị có ý nghĩ rời Paris đến Marôcua?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p137_chunk_01",
+      "p_id": "c7_p137",
+      "start": 1133.09,
+      "speech_end": 1148.61,
+      "end": 1148.78,
+      "pause_after_ms": 170,
+      "source_text": "- Người ta nói tôi sẽ kiếm được việc làm ở Marôcua. Đáng lẽ tôi đi thẳng đến chổ những người thân, nhưng tôi muốn biết Marôcua. Những người bà con, khi mình không biết họ, thì mình cũng chẳng hiểu họ sẽ đón tiếp mình như thế nào?",
+      "tts_text": "- Người ta nói tôi sẽ kiếm được việc làm ở Marôcua. Đáng lẽ tôi đi thẳng đến chổ những người thân, nhưng tôi muốn biết Marôcua. Những người bà con, khi mình không biết họ, thì mình cũng chẳng hiểu họ sẽ đón tiếp mình như thế nào?",
+      "sentences": [
+        {
+          "sent_id": "id_315",
+          "smil_sid": "sid_315",
+          "p_id": "c7_p137",
+          "seq_id": "seq_137",
+          "source_text": "- Người ta nói tôi sẽ kiếm được việc làm ở Marôcua.",
+          "tts_text": "- Người ta nói tôi sẽ kiếm được việc làm ở Marôcua."
+        },
+        {
+          "sent_id": "id_316",
+          "smil_sid": "sid_316",
+          "p_id": "c7_p137",
+          "seq_id": "seq_137",
+          "source_text": "Đáng lẽ tôi đi thẳng đến chổ những người thân, nhưng tôi muốn biết Marôcua.",
+          "tts_text": "Đáng lẽ tôi đi thẳng đến chổ những người thân, nhưng tôi muốn biết Marôcua."
+        },
+        {
+          "sent_id": "id_317",
+          "smil_sid": "sid_317",
+          "p_id": "c7_p137",
+          "seq_id": "seq_137",
+          "source_text": "Những người bà con, khi mình không biết họ, thì mình cũng chẳng hiểu họ sẽ đón tiếp mình như thế nào?",
+          "tts_text": "Những người bà con, khi mình không biết họ, thì mình cũng chẳng hiểu họ sẽ đón tiếp mình như thế nào?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p138_chunk_01",
+      "p_id": "c7_p138",
+      "start": 1148.78,
+      "speech_end": 1151.42,
+      "end": 1151.59,
+      "pause_after_ms": 170,
+      "source_text": "- Đúng thế, cũng có người tốt, người xấu.",
+      "tts_text": "- Đúng thế, cũng có người tốt, người xấu.",
+      "sentences": [
+        {
+          "sent_id": "id_318",
+          "smil_sid": "sid_318",
+          "p_id": "c7_p138",
+          "seq_id": "seq_138",
+          "source_text": "- Đúng thế, cũng có người tốt, người xấu.",
+          "tts_text": "- Đúng thế, cũng có người tốt, người xấu."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p139_chunk_01",
+      "p_id": "c7_p139",
+      "start": 1151.59,
+      "speech_end": 1152.39,
+      "end": 1152.56,
+      "pause_after_ms": 170,
+      "source_text": "- Thật thế!",
+      "tts_text": "- Thật thế!",
+      "sentences": [
+        {
+          "sent_id": "id_319",
+          "smil_sid": "sid_319",
+          "p_id": "c7_p139",
+          "seq_id": "seq_139",
+          "source_text": "- Thật thế!",
+          "tts_text": "- Thật thế!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p140_chunk_01",
+      "p_id": "c7_p140",
+      "start": 1152.56,
+      "speech_end": 1169.12,
+      "end": 1169.29,
+      "pause_after_ms": 170,
+      "source_text": "- Này, đừng đi đâu cả! Chị sẽ tìm được việc ở nhà máy. Không kiếm được nhiều đâu, mỗi ngày mười xu. Nhưng đó cũng là một món tiền. Rồi chị sẽ có thể nhận được hai mươi hai xu. Tôi nói điều này. Trả lời hay không là tùy ý chị. Chị có tiền không?",
+      "tts_text": "- Này, đừng đi đâu cả! Chị sẽ tìm được việc ở nhà máy. Không kiếm được nhiều đâu, mỗi ngày mười xu. Nhưng đó cũng là một món tiền. Rồi chị sẽ có thể nhận được hai mươi hai xu. Tôi nói điều này. Trả lời hay không là tùy ý chị. Chị có tiền không?",
+      "sentences": [
+        {
+          "sent_id": "id_320",
+          "smil_sid": "sid_320",
+          "p_id": "c7_p140",
+          "seq_id": "seq_140",
+          "source_text": "- Này, đừng đi đâu cả!",
+          "tts_text": "- Này, đừng đi đâu cả!"
+        },
+        {
+          "sent_id": "id_321",
+          "smil_sid": "sid_321",
+          "p_id": "c7_p140",
+          "seq_id": "seq_140",
+          "source_text": "Chị sẽ tìm được việc ở nhà máy.",
+          "tts_text": "Chị sẽ tìm được việc ở nhà máy."
+        },
+        {
+          "sent_id": "id_322",
+          "smil_sid": "sid_322",
+          "p_id": "c7_p140",
+          "seq_id": "seq_140",
+          "source_text": "Không kiếm được nhiều đâu, mỗi ngày mười xu.",
+          "tts_text": "Không kiếm được nhiều đâu, mỗi ngày mười xu."
+        },
+        {
+          "sent_id": "id_323",
+          "smil_sid": "sid_323",
+          "p_id": "c7_p140",
+          "seq_id": "seq_140",
+          "source_text": "Nhưng đó cũng là một món tiền.",
+          "tts_text": "Nhưng đó cũng là một món tiền."
+        },
+        {
+          "sent_id": "id_324",
+          "smil_sid": "sid_324",
+          "p_id": "c7_p140",
+          "seq_id": "seq_140",
+          "source_text": "Rồi chị sẽ có thể nhận được hai mươi hai xu.",
+          "tts_text": "Rồi chị sẽ có thể nhận được hai mươi hai xu."
+        },
+        {
+          "sent_id": "id_325",
+          "smil_sid": "sid_325",
+          "p_id": "c7_p140",
+          "seq_id": "seq_140",
+          "source_text": "Tôi nói điều này.",
+          "tts_text": "Tôi nói điều này."
+        },
+        {
+          "sent_id": "id_326",
+          "smil_sid": "sid_326",
+          "p_id": "c7_p140",
+          "seq_id": "seq_140",
+          "source_text": "Trả lời hay không là tùy ý chị.",
+          "tts_text": "Trả lời hay không là tùy ý chị."
+        },
+        {
+          "sent_id": "id_327",
+          "smil_sid": "sid_327",
+          "p_id": "c7_p140",
+          "seq_id": "seq_140",
+          "source_text": "Chị có tiền không?",
+          "tts_text": "Chị có tiền không?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p141_chunk_01",
+      "p_id": "c7_p141",
+      "start": 1169.29,
+      "speech_end": 1170.17,
+      "end": 1170.34,
+      "pause_after_ms": 170,
+      "source_text": "- Có chút ít.",
+      "tts_text": "- Có chút ít.",
+      "sentences": [
+        {
+          "sent_id": "id_328",
+          "smil_sid": "sid_328",
+          "p_id": "c7_p141",
+          "seq_id": "seq_141",
+          "source_text": "- Có chút ít.",
+          "tts_text": "- Có chút ít."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p142_chunk_01",
+      "p_id": "c7_p142",
+      "start": 1170.34,
+      "speech_end": 1177.46,
+      "end": 1177.63,
+      "pause_after_ms": 170,
+      "source_text": "- Này nhé, nếu chị muốn đến ở nhà mẹ Prăngxoadơ, chỉ phải trả mỗi tuần hai tám xu và trả tiền trước.",
+      "tts_text": "- Này nhé, nếu chị muốn đến ở nhà mẹ Prăngxoadơ, chỉ phải trả mỗi tuần hai tám xu và trả tiền trước.",
+      "sentences": [
+        {
+          "sent_id": "id_329",
+          "smil_sid": "sid_329",
+          "p_id": "c7_p142",
+          "seq_id": "seq_142",
+          "source_text": "- Này nhé, nếu chị muốn đến ở nhà mẹ Prăngxoadơ, chỉ phải trả mỗi tuần hai tám xu và trả tiền trước.",
+          "tts_text": "- Này nhé, nếu chị muốn đến ở nhà mẹ Prăngxoadơ, chỉ phải trả mỗi tuần hai tám xu và trả tiền trước."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p143_chunk_01",
+      "p_id": "c7_p143",
+      "start": 1177.63,
+      "speech_end": 1179.79,
+      "end": 1179.96,
+      "pause_after_ms": 170,
+      "source_text": "- Tôi có thể trả hai tám xu.",
+      "tts_text": "- Tôi có thể trả hai tám xu.",
+      "sentences": [
+        {
+          "sent_id": "id_330",
+          "smil_sid": "sid_330",
+          "p_id": "c7_p143",
+          "seq_id": "seq_143",
+          "source_text": "- Tôi có thể trả hai tám xu.",
+          "tts_text": "- Tôi có thể trả hai tám xu."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p144_chunk_01",
+      "p_id": "c7_p144",
+      "start": 1179.96,
+      "speech_end": 1191.48,
+      "end": 1191.65,
+      "pause_after_ms": 170,
+      "source_text": "- Chị biết đấy, tôi không hứa với chị một phòng đẹp, dành riêng cho chị với giá ấy. Phòng chỉ có sáu người, nhưng chị có giường nệm và chăn. Không phải tất cả mọi người đều được như thế!",
+      "tts_text": "- Chị biết đấy, tôi không hứa với chị một phòng đẹp, dành riêng cho chị với giá ấy. Phòng chỉ có sáu người, nhưng chị có giường nệm và chăn. Không phải tất cả mọi người đều được như thế!",
+      "sentences": [
+        {
+          "sent_id": "id_331",
+          "smil_sid": "sid_331",
+          "p_id": "c7_p144",
+          "seq_id": "seq_144",
+          "source_text": "- Chị biết đấy, tôi không hứa với chị một phòng đẹp, dành riêng cho chị với giá ấy.",
+          "tts_text": "- Chị biết đấy, tôi không hứa với chị một phòng đẹp, dành riêng cho chị với giá ấy."
+        },
+        {
+          "sent_id": "id_332",
+          "smil_sid": "sid_332",
+          "p_id": "c7_p144",
+          "seq_id": "seq_144",
+          "source_text": "Phòng chỉ có sáu người, nhưng chị có giường nệm và chăn.",
+          "tts_text": "Phòng chỉ có sáu người, nhưng chị có giường nệm và chăn."
+        },
+        {
+          "sent_id": "id_333",
+          "smil_sid": "sid_333",
+          "p_id": "c7_p144",
+          "seq_id": "seq_144",
+          "source_text": "Không phải tất cả mọi người đều được như thế!",
+          "tts_text": "Không phải tất cả mọi người đều được như thế!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p145_chunk_01",
+      "p_id": "c7_p145",
+      "start": 1191.65,
+      "speech_end": 1194.05,
+      "end": 1194.22,
+      "pause_after_ms": 170,
+      "source_text": "- Tôi nhận lời và xin cám ơn chị.",
+      "tts_text": "- Tôi nhận lời và xin cám ơn chị.",
+      "sentences": [
+        {
+          "sent_id": "id_334",
+          "smil_sid": "sid_334",
+          "p_id": "c7_p145",
+          "seq_id": "seq_145",
+          "source_text": "- Tôi nhận lời và xin cám ơn chị.",
+          "tts_text": "- Tôi nhận lời và xin cám ơn chị."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p146_chunk_01",
+      "p_id": "c7_p146",
+      "start": 1194.22,
+      "speech_end": 1222.84,
+      "end": 1223.01,
+      "pause_after_ms": 170,
+      "source_text": "- Ở nhà bà tôi, không chỉ có những người trả mỗi tuần hai tám xu. Trong ngôi nhà mới, chúng tôi cũng có những phòng đẹp cho nhân viên nhà máy thuê: ông Phary, kỹ sư công trình, ông Môngclơ, kế toán trưởng, ông Bendi, người được ủy nhiệm giao dịch với nước ngoài. Nếu chị có nói chuyện với ông ấy, chị nhớ gọi ông Benđitơ. Ông là người Anh, nên nghe gọi Benđi, ông tưởng là người ta chửi mình, cũng như ngươi ta goi mình là “tên trộm” và nổi giận.",
+      "tts_text": "- Ở nhà bà tôi, không chỉ có những người trả mỗi tuần hai tám xu. Trong ngôi nhà mới, chúng tôi cũng có những phòng đẹp cho nhân viên nhà máy thuê: ông Phary, kỹ sư công trình, ông Môngclơ, kế toán trưởng, ông Bendi, người được ủy nhiệm giao dịch với nước ngoài. Nếu chị có nói chuyện với ông ấy, chị nhớ gọi ông Benđitơ. Ông là người Anh, nên nghe gọi Benđi, ông tưởng là người ta chửi mình, cũng như ngươi ta goi mình là tên trộm và nổi giận.",
+      "sentences": [
+        {
+          "sent_id": "id_335",
+          "smil_sid": "sid_335",
+          "p_id": "c7_p146",
+          "seq_id": "seq_146",
+          "source_text": "- Ở nhà bà tôi, không chỉ có những người trả mỗi tuần hai tám xu.",
+          "tts_text": "- Ở nhà bà tôi, không chỉ có những người trả mỗi tuần hai tám xu."
+        },
+        {
+          "sent_id": "id_336",
+          "smil_sid": "sid_336",
+          "p_id": "c7_p146",
+          "seq_id": "seq_146",
+          "source_text": "Trong ngôi nhà mới, chúng tôi cũng có những phòng đẹp cho nhân viên nhà máy thuê: ông Phary, kỹ sư công trình, ông Môngclơ, kế toán trưởng, ông Bendi, người được ủy nhiệm giao dịch với nước ngoài.",
+          "tts_text": "Trong ngôi nhà mới, chúng tôi cũng có những phòng đẹp cho nhân viên nhà máy thuê: ông Phary, kỹ sư công trình, ông Môngclơ, kế toán trưởng, ông Bendi, người được ủy nhiệm giao dịch với nước ngoài."
+        },
+        {
+          "sent_id": "id_337",
+          "smil_sid": "sid_337",
+          "p_id": "c7_p146",
+          "seq_id": "seq_146",
+          "source_text": "Nếu chị có nói chuyện với ông ấy, chị nhớ gọi ông Benđitơ.",
+          "tts_text": "Nếu chị có nói chuyện với ông ấy, chị nhớ gọi ông Benđitơ."
+        },
+        {
+          "sent_id": "id_338",
+          "smil_sid": "sid_338",
+          "p_id": "c7_p146",
+          "seq_id": "seq_146",
+          "source_text": "Ông là người Anh, nên nghe gọi Benđi, ông tưởng là người ta chửi mình, cũng như ngươi ta goi mình là “tên trộm” và nổi giận.",
+          "tts_text": "Ông là người Anh, nên nghe gọi Benđi, ông tưởng là người ta chửi mình, cũng như ngươi ta goi mình là tên trộm và nổi giận."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p147_chunk_01",
+      "p_id": "c7_p147",
+      "start": 1223.01,
+      "speech_end": 1225.73,
+      "end": 1225.9,
+      "pause_after_ms": 170,
+      "source_text": "- Tôi sẽ nhớ, vả lại tôi biết tiếng Anh mà!",
+      "tts_text": "- Tôi sẽ nhớ, vả lại tôi biết tiếng Anh mà!",
+      "sentences": [
+        {
+          "sent_id": "id_339",
+          "smil_sid": "sid_339",
+          "p_id": "c7_p147",
+          "seq_id": "seq_147",
+          "source_text": "- Tôi sẽ nhớ, vả lại tôi biết tiếng Anh mà!",
+          "tts_text": "- Tôi sẽ nhớ, vả lại tôi biết tiếng Anh mà!"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p148_chunk_01",
+      "p_id": "c7_p148",
+      "start": 1225.9,
+      "speech_end": 1227.1,
+      "end": 1227.27,
+      "pause_after_ms": 170,
+      "source_text": "- Chị biết tiếng Anh?",
+      "tts_text": "- Chị biết tiếng Anh?",
+      "sentences": [
+        {
+          "sent_id": "id_340",
+          "smil_sid": "sid_340",
+          "p_id": "c7_p148",
+          "seq_id": "seq_148",
+          "source_text": "- Chị biết tiếng Anh?",
+          "tts_text": "- Chị biết tiếng Anh?"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p149_chunk_01",
+      "p_id": "c7_p149",
+      "start": 1227.27,
+      "speech_end": 1229.03,
+      "end": 1229.2,
+      "pause_after_ms": 170,
+      "source_text": "- Mẹ tôi là người Anh.",
+      "tts_text": "- Mẹ tôi là người Anh.",
+      "sentences": [
+        {
+          "sent_id": "id_341",
+          "smil_sid": "sid_341",
+          "p_id": "c7_p149",
+          "seq_id": "seq_149",
+          "source_text": "- Mẹ tôi là người Anh.",
+          "tts_text": "- Mẹ tôi là người Anh."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p150_chunk_01",
+      "p_id": "c7_p150",
+      "start": 1229.2,
+      "speech_end": 1253.74,
+      "end": 1253.91,
+      "pause_after_ms": 170,
+      "source_text": "- À, ra thế! Ông Benđi sẽ rất hài lòng được nói chuyện với chị! Nếu chị biết tất cả các thứ tiếng thì ông lại càng thích chị! Chủ nhật, ông ta nghỉ ngơi bằng cách đọc các bài Kinh Chủ nhật trong một cuốn sách có in hai lăm thứ tiếng. Ông đọc xong, ông đọc lại rồi lại đọc lại nữa. Chủ nhật nào cũng thế. Thật ra, ông ta là một người trung hậu.",
+      "tts_text": "- À, ra thế! Ông Benđi sẽ rất hài lòng được nói chuyện với chị! Nếu chị biết tất cả các thứ tiếng thì ông lại càng thích chị! Chủ nhật, ông ta nghỉ ngơi bằng cách đọc các bài Kinh Chủ nhật trong một cuốn sách có in hai lăm thứ tiếng. Ông đọc xong, ông đọc lại rồi lại đọc lại nữa. Chủ nhật nào cũng thế. Thật ra, ông ta là một người trung hậu.",
+      "sentences": [
+        {
+          "sent_id": "id_342",
+          "smil_sid": "sid_342",
+          "p_id": "c7_p150",
+          "seq_id": "seq_150",
+          "source_text": "- À, ra thế!",
+          "tts_text": "- À, ra thế!"
+        },
+        {
+          "sent_id": "id_343",
+          "smil_sid": "sid_343",
+          "p_id": "c7_p150",
+          "seq_id": "seq_150",
+          "source_text": "Ông Benđi sẽ rất hài lòng được nói chuyện với chị!",
+          "tts_text": "Ông Benđi sẽ rất hài lòng được nói chuyện với chị!"
+        },
+        {
+          "sent_id": "id_344",
+          "smil_sid": "sid_344",
+          "p_id": "c7_p150",
+          "seq_id": "seq_150",
+          "source_text": "Nếu chị biết tất cả các thứ tiếng thì ông lại càng thích chị!",
+          "tts_text": "Nếu chị biết tất cả các thứ tiếng thì ông lại càng thích chị!"
+        },
+        {
+          "sent_id": "id_345",
+          "smil_sid": "sid_345",
+          "p_id": "c7_p150",
+          "seq_id": "seq_150",
+          "source_text": "Chủ nhật, ông ta nghỉ ngơi bằng cách đọc các bài Kinh Chủ nhật trong một cuốn sách có in hai lăm thứ tiếng.",
+          "tts_text": "Chủ nhật, ông ta nghỉ ngơi bằng cách đọc các bài Kinh Chủ nhật trong một cuốn sách có in hai lăm thứ tiếng."
+        },
+        {
+          "sent_id": "id_346",
+          "smil_sid": "sid_346",
+          "p_id": "c7_p150",
+          "seq_id": "seq_150",
+          "source_text": "Ông đọc xong, ông đọc lại rồi lại đọc lại nữa.",
+          "tts_text": "Ông đọc xong, ông đọc lại rồi lại đọc lại nữa."
+        },
+        {
+          "sent_id": "id_347",
+          "smil_sid": "sid_347",
+          "p_id": "c7_p150",
+          "seq_id": "seq_150",
+          "source_text": "Chủ nhật nào cũng thế.",
+          "tts_text": "Chủ nhật nào cũng thế."
+        },
+        {
+          "sent_id": "id_348",
+          "smil_sid": "sid_348",
+          "p_id": "c7_p150",
+          "seq_id": "seq_150",
+          "source_text": "Thật ra, ông ta là một người trung hậu.",
+          "tts_text": "Thật ra, ông ta là một người trung hậu."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p151_chunk_01",
+      "p_id": "c7_p151",
+      "start": 1253.91,
+      "speech_end": 1254.47,
+      "end": 1254.64,
+      "pause_after_ms": 170,
+      "source_text": "Chú thích:",
+      "tts_text": "Chú thích:",
+      "sentences": [
+        {
+          "sent_id": "id_349",
+          "smil_sid": "sid_349",
+          "p_id": "c7_p151",
+          "seq_id": "seq_151",
+          "source_text": "Chú thích:",
+          "tts_text": "Chú thích:"
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p152_chunk_01",
+      "p_id": "c7_p152",
+      "start": 1254.64,
+      "speech_end": 1256.56,
+      "end": 1256.73,
+      "pause_after_ms": 170,
+      "source_text": "(1) Bằng tiếng Anh trong nguyên văn.",
+      "tts_text": "Bằng tiếng Anh trong nguyên văn.",
+      "sentences": [
+        {
+          "sent_id": "id_350",
+          "smil_sid": "sid_350",
+          "p_id": "c7_p152",
+          "seq_id": "seq_152",
+          "source_text": "(1) Bằng tiếng Anh trong nguyên văn.",
+          "tts_text": "Bằng tiếng Anh trong nguyên văn."
+        }
+      ]
+    },
+    {
+      "kind": "speech",
+      "chunk_id": "c7_p153_chunk_01",
+      "p_id": "c7_p153",
+      "start": 1256.73,
+      "speech_end": 1262.33,
+      "end": 1262.33,
+      "pause_after_ms": 0,
+      "source_text": "(2) Cũng bằng tiếng Anh. Mẹ Perin là người Ấn Độ, lúc này còn là thuộc địa của Anh.",
+      "tts_text": "Cũng bằng tiếng Anh. Mẹ Perin là người Ấn Độ, lúc này còn là thuộc địa của Anh.",
+      "sentences": [
+        {
+          "sent_id": "id_351",
+          "smil_sid": "sid_351",
+          "p_id": "c7_p153",
+          "seq_id": "seq_153",
+          "source_text": "(2) Cũng bằng tiếng Anh.",
+          "tts_text": "Cũng bằng tiếng Anh."
+        },
+        {
+          "sent_id": "id_352",
+          "smil_sid": "sid_352",
+          "p_id": "c7_p153",
+          "seq_id": "seq_153",
+          "source_text": "Mẹ Perin là người Ấn Độ, lúc này còn là thuộc địa của Anh.",
+          "tts_text": "Mẹ Perin là người Ấn Độ, lúc này còn là thuộc địa của Anh."
+        }
+      ]
+    }
+  ]
+}
