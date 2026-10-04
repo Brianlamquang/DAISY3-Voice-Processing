@@ -1,4 +1,4 @@
-# Task 2 — TTS & Audio Lead
+﻿# Task 2 â€” TTS & Audio Lead
 
 Pipeline:
 
@@ -12,7 +12,7 @@ Production defaults:
 
 ```text
 Engine              : VieNeu
-Voice               : Minh Đức
+Voice               : Minh Äá»©c
 Backend              : ONNX
 Max sentences/chunk : 12
 Max chars/chunk     : 900
@@ -59,8 +59,8 @@ python src/tts/validate_task2.py --all
 
 ```text
 results/task2/Trong_Gia_Dinh-Chuong_XX/
-├── Chuong_XX.mp3
-└── timestamps.json
+â”œâ”€â”€ Chuong_XX.mp3
+â””â”€â”€ timestamps.json
 ```
 
 The Introduction uses `Gioi_Thieu.mp3`.
@@ -70,3 +70,4 @@ The Introduction uses `Gioi_Thieu.mp3`.
 ## Task-1 safety
 
 Task 2 reads Task-1 `segments.json` only. It never writes into `results/task1/`. The runner also verifies the SHA-256 of each source `segments.json` before and after synthesis.
+
